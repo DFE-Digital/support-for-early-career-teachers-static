@@ -11,7 +11,7 @@ View the course materials:
 * [Teach First](/teach-first)
 * [UCL](/ucl)
 
-Each set of materials cover five core areas:
+Each set of materials covers five core areas:
 
 * behaviour management
 * pedagogy
