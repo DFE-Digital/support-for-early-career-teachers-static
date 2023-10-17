@@ -31,19 +31,3 @@ In this module you'll hear a variety of educational specialists talk about ways 
 ### [Second half-term: how to design a coherent curriculum](/teach-first/year-1-how-to-design-a-coherent-curriculum)
 
 In this module you'll learn how to design a carefully sequenced and coherent scheme of work, and how this will improve learning for your pupils.
-
-## Year 2: Autumn term
-
-### [First half term: developing pupils’ intrinsic motivation](/teach-first/year-2-first-half-term-developing-pupils-intrinsic-motivation)
-
-There are no new materials.
-
-### [Second half term](/teach-first/year-2-second-half-term)
-
-There are no new materials.
-
-## Year 2: Spring term
-
-### [First half term](/teach-first/year-2-first-half-term)
-
-There are no new materials.
