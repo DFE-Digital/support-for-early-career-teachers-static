@@ -24,6 +24,12 @@ end
   end
 end
 
+%w(png).each do |ext|
+  compile("/**/*.#{ext}") do
+    write '/assets/images/' + File.basename(item.identifier.to_s)
+  end
+end
+
 # only compile application.scss, everything we need will
 # be @included from there
 compile '/assets/css/application.scss' do
