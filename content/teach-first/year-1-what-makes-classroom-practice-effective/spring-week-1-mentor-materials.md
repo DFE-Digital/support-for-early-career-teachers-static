@@ -34,22 +34,17 @@ The following practise should be focused around the outcomes of the probe and pr
 
 Work with your teacher to support them in developing area(s) of effective explanations.
 
-<p>1. If focusing on breaking down complex ideas or tasks into smaller steps using ‘Name the Steps’, you should ask your teacher to consider the following questions:</p>
-
-- What knowledge am I assuming the pupils have?
-- Why have I chosen the steps that I have? Would it be beneficial to break them down further?
-- Even after breaking down the concept, am I introducing too much in one go and risking overloading my pupils? If so, what can I do?
-
-<p>2. If focusing on combining a verbal explanation with a relevant graphical representation, you should ask your teacher to consider the following points:</p>
-
-- Which part of their explanation would benefit from a verbal explanation and relevant graphical representation?
-- Which image would be best to use and why?
-
-<p>3. If focusing on using worked or partially completed examples, you could ask your teacher to consider the following points:
-</p>
-- Is the strategy that they identified the most effective?
-- Has the strategy been broken down into explicit steps that will help to reduce working memory load?
-- Can you teacher explain why they have chosen that strategy and those steps?
+1. If focusing on breaking down complex ideas or tasks into smaller steps using ‘Name the Steps’, you should ask your teacher to consider the following questions:
+  - What knowledge am I assuming the pupils have?
+  - Why have I chosen the steps that I have? Would it be beneficial to break them down further?
+  - Even after breaking down the concept, am I introducing too much in one go and risking overloading my pupils? If so, what can I do?
+2. If focusing on combining a verbal explanation with a relevant graphical representation, you should ask your teacher to consider the following points:
+  - Which part of their explanation would benefit from a verbal explanation and relevant graphical representation?
+  - Which image would be best to use and why?
+3. If focusing on using worked or partially completed examples, you could ask your teacher to consider the following points:
+  - Is the strategy that they identified the most effective?
+  - Has the strategy been broken down into explicit steps that will help to reduce working memory load?
+  - Can you teacher explain why they have chosen that strategy and those steps?
 
 ### Key questions and talking points
 

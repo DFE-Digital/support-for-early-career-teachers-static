@@ -34,20 +34,12 @@ The following practise should be focused around the outcomes of the probe and pr
 
 Work with your teacher to plan and practise the chosen routine by ensuring they:
 
-1. Are clear on what they want pupils to do
-
-Ensure their instructions are:
-
-- Specific and observable
-- Sequential
-- Manageable
-<p>
-
+1. Are clear on what they want pupils to do. Ensure their instructions are:
+  - Specific and observable
+  - Sequential
+  - Manageable
 2. Plan to teach and model their routine in small steps
-</p>
-<p>
 3. Plan to practise their routine
-</p>
 
 ### Key questions and talking points
 
