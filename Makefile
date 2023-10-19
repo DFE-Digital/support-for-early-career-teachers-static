@@ -9,3 +9,6 @@ npm_install:
 
 bundle_install:
 	bundle install
+
+start:
+	nanoc view
