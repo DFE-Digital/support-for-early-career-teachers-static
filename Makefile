@@ -12,3 +12,9 @@ bundle_install:
 
 start:
 	bundle exec nanoc view
+
+watch:
+  bundle exec nanoc live
+
+check:
+	bundle exec nanoc check
