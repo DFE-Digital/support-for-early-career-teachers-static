@@ -61,69 +61,59 @@ EEF. (2019). Improving Social and Emotional Learning in Primary Schools. [bit.ly
 {details}
 References.
 
-<span style="font-weight: 400;">
-  Black, P., &amp; Wiliam, D. (2009). Developing the theory of formative
-  assessment.
-</span>
-<i>
-  <span style="font-weight: 400;">
-    Educational Assessment, Evaluation and Accountability, 21
-  </span>
-</i>
-<span style="font-weight: 400;">(1), 5–31.</span>
+Black, P., &amp; Wiliam, D. (2009). Developing the theory of formative
+assessment.
 
-<span style="font-weight: 400;">
-  Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). What makes great
-  teaching. Review of the underpinning research. Durham University.
-</span>
+<i>
+Educational Assessment, Evaluation and Accountability, 21
+</i>
+(1), 5–31.
+
+Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). What makes great
+teaching. Review of the underpinning research. Durham University.
+
 <a href="http://bit.ly/ecf-coe" target="_blank" rel="noopener">
-  <span style="font-weight: 400;">bit.ly/ecf-coe</span>
+  bit.ly/ecf-coe
 </a>
 
-<span style="font-weight: 400;">
-  EEF. (2018). Teaching and learning toolkit.
-  <a href="http://bit.ly/ecf-eef14" target="_blank" rel="noopener">
-    bit.ly/ecf-eef14 
-  </a>
-</span>
+EEF. (2018). Teaching and learning toolkit.
+<a href="http://bit.ly/ecf-eef14" target="_blank" rel="noopener">
+bit.ly/ecf-eef14 
+</a>
 
-<span style="font-weight: 400;">
-  Johnson, S., Buckingham, M., Morris, S., Suzuki, S., Weiner, M., Hershberg, R.
-  &amp; Lerner, R. (2016). Adolescents’ Character Role Models: Exploring Who
-  Young People Look Up to as Examples of How to Be a Good Person.
-</span>
+Johnson, S., Buckingham, M., Morris, S., Suzuki, S., Weiner, M., Hershberg, R.
+&amp; Lerner, R. (2016). Adolescents’ Character Role Models: Exploring Who
+Young People Look Up to as Examples of How to Be a Good Person.
+
 <i>
-  <span style="font-weight: 400;">Research in Human Development, 13</span>
+  Research in Human Development, 13
 </i>
-<span style="font-weight: 400;">(2), 126–141.</span>
+(2), 126–141.
 
-<span style="font-weight: 400;">
-  Kluger, A. N., &amp; DeNisi, A. (1996). The effects of feedback interventions
-  on performance: A historical review, a meta-analysis, and a preliminary
-  feedback intervention theory.
-</span>
+Kluger, A. N., &amp; DeNisi, A. (1996). The effects of feedback interventions
+on performance: A historical review, a meta-analysis, and a preliminary
+feedback intervention theory.
+
 <i>
-  <span style="font-weight: 400;">Psychological Bulletin, 119</span>
+  Psychological Bulletin, 119
 </i>
-<span style="font-weight: 400;">(2), 254–284.</span>
+(2), 254–284.
 
-<span style="font-weight: 400;">
-  Speckesser, S., Runge, J., Foliano, F., Bursnall, M., Hudson-Sharp, N., Rolfe,
-  H. &amp; Anders, J. (2018). Embedding Formative Assessment: Evaluation Report.
-</span>
+Speckesser, S., Runge, J., Foliano, F., Bursnall, M., Hudson-Sharp, N., Rolfe,
+H. &amp; Anders, J. (2018). Embedding Formative Assessment: Evaluation Report.
+
 <a href="http://bit.ly/ecf-eef9" target="_blank" rel="noopener">
-  <span style="font-weight: 400;"> bit.ly/ecf-eef9</span>
+   bit.ly/ecf-eef9
 </a>
 
-<span style="font-weight: 400;">
-  Tsiplakides, I. &amp; Keramida, A. (2010). The relationship between teacher
-  expectations and student achievement in the teaching of English as a foreign
-  language.
-</span>
+Tsiplakides, I. &amp; Keramida, A. (2010). The relationship between teacher
+expectations and student achievement in the teaching of English as a foreign
+language.
+
 <i>
-  <span style="font-weight: 400;">English Language Teaching, 3(2). </span>
+  English Language Teaching, 3(2). 
 </i>
 <a href="http://bit.ly/ecf-tsi" target="_blank" rel="noopener">
-  <span style="font-weight: 400;">bit.ly/ecf-tsi</span>
+  bit.ly/ecf-tsi
 </a>
  {/details}

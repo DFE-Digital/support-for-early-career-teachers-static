@@ -136,36 +136,31 @@ Watch this video to hear a SENCO talk about their role.
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
-  I am a SENCO of a mainstream primary school with 250 children on roll from
-  nursery through to Year 6. I am a class teacher for three days a week and have
-  two days a week non-contact time to concentrate on my SENCO leadership and
-  management role. There are 62 children on the SEN Register, and many more who
-  we are monitoring closely. We follow government and local authority guidance,
-  using documents like the SEND Code of Practice to plan our approaches to
-  supporting pupils. 
-</span>
+I am a SENCO of a mainstream primary school with 250 children on roll from
+nursery through to Year 6. I am a class teacher for three days a week and have
+two days a week non-contact time to concentrate on my SENCO leadership and
+management role. There are 62 children on the SEN Register, and many more who
+we are monitoring closely. We follow government and local authority guidance,
+using documents like the SEND Code of Practice to plan our approaches to
+supporting pupils. 
 
-<span style="font-weight: 400;">
-  My role is to lead on developing our policies and make sure that teachers are
-  supported effectively to follow them. People think that my role is largely to
-  do with paperwork: submitting referrals to outside agencies such as Speech and
-  Language Therapists, Education Psychology, Autism Outreach, and completing
-  applications for Education Health Care Plans, and it is true: this takes up a
-  great deal of time. However, I am also here to monitor the quality of
-  classroom provision for all children with SEND and advise teachers on how to
-  make classrooms, and teaching and learning, more inclusive. I can signpost
-  staff to other specialist help on specific needs, e.g. dyslexia and dyspraxia,
-  and can also link teachers into CPD activities to support them to develop. 
-</span>
+My role is to lead on developing our policies and make sure that teachers are
+supported effectively to follow them. People think that my role is largely to
+do with paperwork: submitting referrals to outside agencies such as Speech and
+Language Therapists, Education Psychology, Autism Outreach, and completing
+applications for Education Health Care Plans, and it is true: this takes up a
+great deal of time. However, I am also here to monitor the quality of
+classroom provision for all children with SEND and advise teachers on how to
+make classrooms, and teaching and learning, more inclusive. I can signpost
+staff to other specialist help on specific needs, e.g. dyslexia and dyspraxia,
+and can also link teachers into CPD activities to support them to develop. 
 
-<span style="font-weight: 400;">
-  One of the things that is part of my role is to team teach or observe in class
-  to look at a specific child or group of children and work with the teacher to
-  develop provision for them. This can be helpful if children don’t have a
-  diagnosis or any extra hours allocated to them as it is something the teacher
-  can do themselves.
-</span>
+One of the things that is part of my role is to team teach or observe in class
+to look at a specific child or group of children and work with the teacher to
+develop provision for them. This can be helpful if children don’t have a
+diagnosis or any extra hours allocated to them as it is something the teacher
+can do themselves.
+
  {/details}
 
 ### In your notepad
@@ -175,9 +170,8 @@ Video transcript.
 
 ### In your notepad
 
-<span style="font-weight: 400;">
-  How have you engaged with the SENCO in your school up to now?
-</span>
+How have you engaged with the SENCO in your school up to now?
+
 1. Which pupils whom you have identified as having potential difficulties could you discuss with your SENCO? 
 2. Choose one or two of these pupils and arrange a time to talk to the SENCO about them. Discuss the following:&nbsp; - how does the SENCO use the SEND Code of Practice to plan support for pupils? - what are the potential barriers to learning of these pupils?&nbsp; - what suggestions can the SENCO give on how you can support and help the pupils overcome these barriers (e.g. types of tasks that support them, pupil groupings that help them etc.)?&nbsp; - what out-of-class interventions do your pupils engage in?&nbsp; - how can you draw on these to support your teaching of these pupils? 
 3. Note any advice they provide about how best to support the pupils you identified.&nbsp; 

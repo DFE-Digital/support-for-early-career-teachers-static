@@ -64,90 +64,81 @@ Coe, R., Aloisi, C., Higgins, S., & Major, L. E. (2014). _What makes great teach
 {details}
 References.
 
-<span style="font-weight: 400;">
-  Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014).
-</span>
-<i>
-  <span style="font-weight: 400;">
-    What makes great teaching. Review of the underpinning research.
-  </span>
-</i>
-<span style="font-weight: 400;">Durham University. bit.ly/ecf-coe.</span>
+Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014).
 
-<span style="font-weight: 400;">Deans for Impact (2015).</span>
 <i>
-<span style="font-weight: 400;">The Science of Learning.</span>
+What makes great teaching. Review of the underpinning research.
 </i>
-<span style="font-weight: 400;"> </span>
+Durham University. bit.ly/ecf-coe.
+
+Deans for Impact (2015).
+<i>
+The Science of Learning.
+</i>
+ 
 <a
 href="https://deansforimpact.org/resources/the-science-of-learning/"
 target="\_blank"
 rel="noopener"
 
-> <span style="font-weight: 400;">bit.ly/ecf-dea</span>
+> bit.ly/ecf-dea
 > </a>
 
-<span style="font-weight: 400;">Education Endowment Foundation (2017). </span>
+Education Endowment Foundation (2017). 
 <i>
-<span style="font-weight: 400;">
+
 Metacognition and Self-regulated learning Guidance Report.
-</span>
+
 </i>
-<span style="font-weight: 400;">
+
 <a href="http://bit.ly/ecf-eef" target="_blank" rel="noopener">
 bit.ly/ecf-eef
 </a>
-</span>
 
-<span style="font-weight: 400;">Gutman, L. &amp; Schoon, L. (2013). </span>
+Gutman, L. &amp; Schoon, L. (2013). 
 <i>
-<span style="font-weight: 400;">
+
 The impact of non-cognitive skills on the outcomes of young people.
-</span>
+
 </i>
-<span style="font-weight: 400;">
+
 <a href="http://bit.ly/ecf-eef2" target="_blank" rel="noopener">
 bit.ly/ecf-eef2
 </a>
-</span>
 
-<span style="font-weight: 400;">Institute of Education Sciences (2008).</span>
+Institute of Education Sciences (2008).
 <i>
-<span style="font-weight: 400;">
+
 Reducing Behavior Problems in the Elementary School Classroom.
-</span>
+
 </i>
-<span style="font-weight: 400;">
 
 <a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">
 bit.ly/ecf-ies
 </a>
-</span>
 
-<span style="font-weight: 400;">
-  Lazowski, R. A., &amp; Hulleman, C. S. (2016). Motivation Interventions in
-  Education: A Meta-Analytic Review. 
-</span>
-<i>
-  <span style="font-weight: 400;">Review of Educational Research</span>
-</i>
-<span style="font-weight: 400;">, </span>
-<i>
-  <span style="font-weight: 400;">86</span>
-</i>
-<span style="font-weight: 400;">(2), 602–640.</span>
+Lazowski, R. A., &amp; Hulleman, C. S. (2016). Motivation Interventions in
+Education: A Meta-Analytic Review. 
 
-<span style="font-weight: 400;">
-  Rosenshine, B. (2012) Principles of Instruction: Research-based strategies
-  that all teachers should know. 
-</span>
 <i>
-  <span style="font-weight: 400;">American Educator</span>
+  Review of Educational Research
 </i>
-<span style="font-weight: 400;">
-  , 12–20. 
-  <a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">
-    bit.ly/ecf-ros
-  </a>
-</span>
+, 
+<i>
+  86
+</i>
+(2), 602–640.
+
+Rosenshine, B. (2012) Principles of Instruction: Research-based strategies
+that all teachers should know. 
+
+<i>
+  American Educator
+</i>
+
+, 12–20. 
+<a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">
+bit.ly/ecf-ros
+</a>
+
  {/details}

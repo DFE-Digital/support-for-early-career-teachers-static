@@ -74,41 +74,33 @@ A teacher explaining what systematic synthetic phonics is and why it is effectiv
 {details}
 Video script.
 
-<span style="font-weight: 400;">
-  [Pupils on the mat with their classroom teacher who has a whiteboard with a
-  picture of a sheep and the word spelled out]
-</span>
+[Pupils on the mat with their classroom teacher who has a whiteboard with a
+picture of a sheep and the word spelled out]
 
-<span style="font-weight: 400;">
-  Teacher: OK, we’re going to sound out this word, sh…eee...p...sheep. Now you
-  say it.
-</span>
+Teacher: OK, we’re going to sound out this word, sh…eee...p...sheep. Now you
+say it.
 
-<span style="font-weight: 400;">Pupils: sh...eee...p...sheep.</span>
+Pupils: sh...eee...p...sheep.
 
-<span style="font-weight: 400;">[Cut to talking head of teacher]</span>
+[Cut to talking head of teacher]
 
-<span style="font-weight: 400;">
-  Teacher: I use synthetic phonics to teach my pupils how to decode words
-</span>
-<span style="font-weight: 400;">–</span>
-<span style="font-weight: 400;">
-  
-  it basically means helping them learn how to blend sounds. With synthetic
-  phonics, we are teaching spelling too. We teach spelling as the reverse of
-  reading. For reading, children see the word first and then say the sounds. For
-  spelling, children hear the word first and then say the sounds. So, to spell,
-  “dog”, children are not asked to look at the letters and remember them. They
-  listen to the word, repeat it and say the sounds, d...o...g…dog. Then they
-  write the letters for the sounds. Repeat the sounds slowly, as you write the
-  letters on the board, d…o…g. Then point to the letters, say the sounds and
-  blend them, to read the word and check all the sounds, d…o...g...dog. 
-</span>
+Teacher: I use synthetic phonics to teach my pupils how to decode words
 
-<span style="font-weight: 400;">
-  [Cut back to video of classroom practice and the teacher teaching the word
-  “goat” using this method]
-</span>
+–
+
+it basically means helping them learn how to blend sounds. With synthetic
+phonics, we are teaching spelling too. We teach spelling as the reverse of
+reading. For reading, children see the word first and then say the sounds. For
+spelling, children hear the word first and then say the sounds. So, to spell,
+“dog”, children are not asked to look at the letters and remember them. They
+listen to the word, repeat it and say the sounds, d...o...g…dog. Then they
+write the letters for the sounds. Repeat the sounds slowly, as you write the
+letters on the board, d…o…g. Then point to the letters, say the sounds and
+blend them, to read the word and check all the sounds, d…o...g...dog. 
+
+[Cut back to video of classroom practice and the teacher teaching the word
+“goat” using this method]
+
  {/details}
 
 #### Systematic synthetic phonics
@@ -122,54 +114,39 @@ Watch this video of a literacy expert explaining systematic synthetic phonics pr
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">Literacy expert:</span>
+Literacy expert:
 
-<span style="font-weight: 400;">
-  To teach synthetic phonics, schools must follow a
-</span>
+To teach synthetic phonics, schools must follow a
+
 <i>
-  <span style="font-weight: 400;">systematic programme</span>
+  systematic programme
 </i>
-<span style="font-weight: 400;">
-  . There are several different programmes that can be chosen from. All
-  systematic synthetic phonics programmes begin with letters that make lots of
-  words. Here’s how one programme starts:
-</span>
 
-<span style="font-weight: 400;">[Cut to screen]</span>
+. There are several different programmes that can be chosen from. All
+systematic synthetic phonics programmes begin with letters that make lots of
+words. Here’s how one programme starts:
+
+[Cut to screen]
 
 <b>s a t i p n</b>
 
-<span style="font-weight: 400;">
-  There are many different words that can be made from these letters.
-</span>
+There are many different words that can be made from these letters.
 
-<span style="font-weight: 400;">[Cut to screen with these words]</span>
+[Cut to screen with these words]
 
-<span style="font-weight: 400;">
-  at sat tat it its sit sits pit pat pits pats sip
-</span>
+at sat tat it its sit sits pit pat pits pats sip
 
-<span style="font-weight: 400;">
-  sips sap saps pap pip pips tap taps tip tips spat
-</span>
+sips sap saps pap pip pips tap taps tip tips spat
 
-<span style="font-weight: 400;">
-  spit spits an tan pan in sin tin pin nit nits
-</span>
+spit spits an tan pan in sin tin pin nit nits
 
-<span style="font-weight: 400;">
-  nap naps nip nips nan ant ants pant pants tint
-</span>
+nap naps nip nips nan ant ants pant pants tint
 
-<span style="font-weight: 400;">
-  tints stint snap snaps snip snips spin span satin
-</span>
+tints stint snap snaps snip snips spin span satin
 
-<span style="font-weight: 400;">
-  Doing it in this systematic way gives children the building blocks they need
-  to learn how to decode words.
-</span>
+Doing it in this systematic way gives children the building blocks they need
+to learn how to decode words.
+
  {/details}
 
 Literacy really is the responsibility of every teacher. The evidence suggests that pupils benefit from a balanced approach to literacy that includes a range of approaches (EEF, 2018) and within this every teacher should make efforts to explicitly teach reading, writing and oral language skills, whatever their phase or subject. The table below provides some examples of approaches you could try in your classroom. You should familiarise yourself with these approaches in advance of your first training session for this Block. After the training session, you should choose one or more of these approaches to trial in your classroom.
@@ -328,34 +305,26 @@ call these tier 2 and tier 3 words.
 - Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil's language ability.
 - Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.&nbsp;
   <b>Examples</b>
-  <span style="font-weight: 400;"> </span>
+   
 
-<span style="font-weight: 400;">
-  Examples of tier 1 words are: book, hill, talk, cat, yellow. 
-</span>
+Examples of tier 1 words are: book, hill, talk, cat, yellow. 
 
-<span style="font-weight: 400;">
-  Examples of tier 2 words are: evaluate, report, beneficial, hilarious,
-  pollution, impression. 
-</span>
+Examples of tier 2 words are: evaluate, report, beneficial, hilarious,
+pollution, impression. 
 
-<span style="font-weight: 400;">
-  Examples of tier 3 words are: ion, metamorphic, tectonic, omniscient,
-  continent. 
-</span>
+Examples of tier 3 words are: ion, metamorphic, tectonic, omniscient,
+continent. 
 
-<span style="font-weight: 400;">
-  The EEF report for secondary school teachers recommends that they should
-  prioritise teaching tier 2 and 3 vocabulary, which students are unlikely to
-  encounter in everyday speech.
-</span>
-<span style="font-weight: 400;"> </span>
+The EEF report for secondary school teachers recommends that they should
+prioritise teaching tier 2 and 3 vocabulary, which students are unlikely to
+encounter in everyday speech.
+
+ 
 - Choose which words you will explicitly teach in your subject or phase. 
 - Remember that these are most likely to be tier 2 and tier 3 words because they are more complex or subject specific and therefore less likely to be acquired through oral language.&nbsp; 
 - You should select these words when planning a lesson or sequence of lessons so that you have time to plan how you will teach them.
-<span style="font-weight: 400;">
-  To do this you can use the robust vocabulary instruction in the table above.
-</span>
+
+To do this you can use the robust vocabulary instruction in the table above.
 
 ### Video
 
@@ -372,101 +341,71 @@ Video script.
 
 ### A Year 3 reading group, four students and one adult reading _The Tiger Who Came to Tea._
 
-<span style="font-weight: 400;">
-  Teacher: “Before we start reading this book, Joe would you like to predict
-  what the text is about? Remember to explain why you are making your
-  prediction.”
-</span>
+Teacher: “Before we start reading this book, Joe would you like to predict
+what the text is about? Remember to explain why you are making your
+prediction.”
 
-<span style="font-weight: 400;">
-  Joe: “I predict this is going to be a story about a girl who has a pet tiger
-  and they are best friends and have a birthday party for the tiger because the
-  picture on the front shows the girl sitting with the tiger and there is a cake
-  on the table.”
-</span>
+Joe: “I predict this is going to be a story about a girl who has a pet tiger
+and they are best friends and have a birthday party for the tiger because the
+picture on the front shows the girl sitting with the tiger and there is a cake
+on the table.”
 
-<span style="font-weight: 400;">
-  Teacher: “Oh interesting… OK, well let’s find out… Anna, can you begin reading
-  please? As Anna reads, don’t forget to underline words or phrases that you
-  might want to clarify.”
-</span>
+Teacher: “Oh interesting… OK, well let’s find out… Anna, can you begin reading
+please? As Anna reads, don’t forget to underline words or phrases that you
+might want to clarify.”
 
-<span style="font-weight: 400;">
-  Anna: reads aloud as other pupils follow in their own text.
-</span>
+Anna: reads aloud as other pupils follow in their own text.
 
-<span style="font-weight: 400;">
-  Teacher: “Thank you, Anna. Let’s stop there and check some things. Firstly,
-  are there any words we need to clarify?”
-</span>
+Teacher: “Thank you, Anna. Let’s stop there and check some things. Firstly,
+are there any words we need to clarify?”
 
-<span style="font-weight: 400;">Joe: “What does ‘grocer’ mean?”</span>
+Joe: “What does ‘grocer’ mean?”
 
-<span style="font-weight: 400;">
-  Anna: “That’s the question I was going to ask
-</span>
-<span style="font-weight: 400;">–</span>
-<span style="font-weight: 400;">
-  
-  what is a grocer? And who is a grocer boy?”
-</span>
+Anna: “That’s the question I was going to ask
 
-<span style="font-weight: 400;">
-  Teacher: “Good question – Mohammed, can you clarify the word grocer for us
-  please?”
-</span>
+–
 
-<span style="font-weight: 400;">
-  Mohammed: “I will try sounding the word out loud – ‘grocer’. Hmmm. That hasn’t
-  really helped. Next, I’ll read the sentences and think about what would make
-  sense: ‘And it can’t be the boy from the grocer because this isn’t the day he
-  comes.’ Oh, maybe the grocer is a place? Because it says, ‘from the grocer’. I
-  think I’ll ask a friend
-</span>
-<span style="font-weight: 400;">–</span>
-<span style="font-weight: 400;"> does anyone else know what a grocer is?”</span>
+what is a grocer? And who is a grocer boy?”
 
-<span style="font-weight: 400;">No one is sure.</span>
+Teacher: “Good question – Mohammed, can you clarify the word grocer for us
+please?”
 
-<span style="font-weight: 400;">
-  Teacher: “Well done Mohammed, a grocer is a place – a grocer is short for
-  greengrocer. Nowadays you might get your vegetables from the supermarket but
-  there are also shops dedicated to just vegetables called greengrocers. In
-  fact, there is one on the main street outside – do you know it?”
-</span>
+Mohammed: “I will try sounding the word out loud – ‘grocer’. Hmmm. That hasn’t
+really helped. Next, I’ll read the sentences and think about what would make
+sense: ‘And it can’t be the boy from the grocer because this isn’t the day he
+comes.’ Oh, maybe the grocer is a place? Because it says, ‘from the grocer’. I
+think I’ll ask a friend
 
-<span style="font-weight: 400;">Pupils: “Yes!”</span>
+–
+ does anyone else know what a grocer is?”
 
-<span style="font-weight: 400;">
-  Teacher: “A grocer-boy is like the shop-boy, the boy who works at the
-  greengrocers. Grocer-boys used to deliver the vegetables to people’s houses so
-  they didn’t have to go to the shops. OK, Harry, can you summarise what has
-  happened so far?”
-</span>
+No one is sure.
 
-<span style="font-weight: 400;">
-  Harry: “First there was a little girl called Sophie and then the doorbell rang
-  and it was the grocer and the milkman and the Daddy.”
-</span>
+Teacher: “Well done Mohammed, a grocer is a place – a grocer is short for
+greengrocer. Nowadays you might get your vegetables from the supermarket but
+there are also shops dedicated to just vegetables called greengrocers. In
+fact, there is one on the main street outside – do you know it?”
 
-<span style="font-weight: 400;">
-  Teacher: “Are you sure? Mohammed, can you clarify what happened when the
-  doorbell rang?”
-</span>
+Pupils: “Yes!”
 
-<span style="font-weight: 400;">
-  Mohammed: “The mummy didn’t know who it was because she asked if it was the
-  milkman or the grocer or daddy, so we don’t know who was at the door.”
-</span>
+Teacher: “A grocer-boy is like the shop-boy, the boy who works at the
+greengrocers. Grocer-boys used to deliver the vegetables to people’s houses so
+they didn’t have to go to the shops. OK, Harry, can you summarise what has
+happened so far?”
 
-<span style="font-weight: 400;">
-  Teacher: “That’s right – do you see, Harry? The Mummy says ‘I wonder who that
-  can be?' Which means she doesn’t know who is at the door yet.”
-</span>
+Harry: “First there was a little girl called Sophie and then the doorbell rang
+and it was the grocer and the milkman and the Daddy.”
 
-<span style="font-weight: 400;">
-  Teacher: “Anna do you have any other questions for us before we read on?”
-</span>
+Teacher: “Are you sure? Mohammed, can you clarify what happened when the
+doorbell rang?”
+
+Mohammed: “The mummy didn’t know who it was because she asked if it was the
+milkman or the grocer or daddy, so we don’t know who was at the door.”
+
+Teacher: “That’s right – do you see, Harry? The Mummy says ‘I wonder who that
+can be?' Which means she doesn’t know who is at the door yet.”
+
+Teacher: “Anna do you have any other questions for us before we read on?”
 
 <span style="font-weight: 400;">Anna: “Who do you think is at the door?”</span>
 

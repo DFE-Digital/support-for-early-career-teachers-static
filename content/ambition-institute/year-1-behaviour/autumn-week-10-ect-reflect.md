@@ -6,10 +6,8 @@ previous_path: "/ambition-institute/year-1-behaviour/autumn-week-10-ect-teaching
 
 ### Reminder of key takeaways
 
-<span style="font-weight: 400;">
-  Ms Silva can promote behaviours that support independent practice if she
-  understands that:
-</span>
+Ms Silva can promote behaviours that support independent practice if she understands that:
+
 - pupils need to understand the long-term benefits of practice, even if it feels hard 
 - to practise independently, pupils need enough support and clear behavioural expectations. Teachers also need to check pupil understanding of support and expectations 
 - pupils need to be held to account to practise independently

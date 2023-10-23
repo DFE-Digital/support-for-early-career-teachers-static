@@ -87,18 +87,13 @@ Answer the following questions:
 
 Care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
 
-"Effective small group work is not something that just happens when we put
-pupils into groups. For small group work to be effective, a number of
-elements need to be taken into account in the structuring of the task.
-The teacher needs to make clear that cooperation between pupils in the group
-is desired."
-
-<p style="text-align: right;">
-  <span style="font-weight: 400;">
-                                                                      (Muijs
-    &amp; Reynolds, 2017)
-  </span>
-</p>
+> "Effective small group work is not something that just happens when we put
+> pupils into groups. For small group work to be effective, a number of
+> elements need to be taken into account in the structuring of the task.
+> The teacher needs to make clear that cooperation between pupils in the group
+> is desired."
+>
+> (Muijs & Reynolds, 2017)
 
 There are many different ways in which pupils can be grouped, for example:
 
@@ -147,77 +142,55 @@ A teacher explains how she would like the groups to be set up for an activity.
 {details}
 Video script.
 
-<span style="font-weight: 400;">
-  Teacher: As you know, this term our topic is ‘The Restless Earth’ and you have
-  been learning about the causes and impacts of volcanic eruptions. In the last
-  lesson, we learned about how volcanic eruptions can be predicted. Today we are
-  going to be learning about what happened during the Montserrat earthquake. You
-  will be applying the knowledge you have built up to a real-life situation. It
-  would be helpful to have your knowledge organiser to hand so you can refer to
-  the key terms where needed. 
-</span>
+Teacher: As you know, this term our topic is ‘The Restless Earth’ and you have
+been learning about the causes and impacts of volcanic eruptions. In the last
+lesson, we learned about how volcanic eruptions can be predicted. Today we are
+going to be learning about what happened during the Montserrat earthquake. You
+will be applying the knowledge you have built up to a real-life situation. It
+would be helpful to have your knowledge organiser to hand so you can refer to
+the key terms where needed. 
 
-<span style="font-weight: 400;">
-  For this lesson, we are going to be working in teams. You are part of a team
-  of volcano experts invited to the Montserrat Volcano Observatory to help the
-  geologists manage a serious situation developing on the island. There have
-  been a number of earthquakes and pyroclastic flows around the Soufriere Hills
-  volcano. Now a dome is growing on the side of the main volcano. If it
-  collapses, huge pyroclastic flows with potential to cause major loss of life
-  will result. A helicopter pilot is in the air sending back reports. It is up
-  to your team to collect the reports, map the volcanic activity and make the
-  crucial decisions required to manage the situation.
-</span>
+For this lesson, we are going to be working in teams. You are part of a team
+of volcano experts invited to the Montserrat Volcano Observatory to help the
+geologists manage a serious situation developing on the island. There have
+been a number of earthquakes and pyroclastic flows around the Soufriere Hills
+volcano. Now a dome is growing on the side of the main volcano. If it
+collapses, huge pyroclastic flows with potential to cause major loss of life
+will result. A helicopter pilot is in the air sending back reports. It is up
+to your team to collect the reports, map the volcanic activity and make the
+crucial decisions required to manage the situation.
 
-<span style="font-weight: 400;">Right, so let’s discuss roles.</span>
+Right, so let’s discuss roles.
 
-<span style="font-weight: 400;">
-  I am His Excellency, Frank Savage the Governor of the island. 
-</span>
+I am His Excellency, Frank Savage the Governor of the island. 
 
-<span style="font-weight: 400;">Each team requires the following members:</span>
+Each team requires the following members:
 
-<span style="text-decoration: underline;">
-  <span style="font-weight: 400;">Information coordinator</span>
-</span>
+### Information coordinator
 
-<span style="font-weight: 400;">
-  Your role is to monitor the reports coming in from the helicopter and take
-  them to the rest of the team. You also need to take the decisions made by the
-  crisis manager to the governor for checking.
-</span>
+Your role is to monitor the reports coming in from the helicopter and take
+them to the rest of the team. You also need to take the decisions made by the
+crisis manager to the governor for checking.
 
-<span style="font-weight: 400;">
-  <span style="text-decoration: underline;">Geologist</span> 
-</span>
+### Geologist 
 
-<span style="font-weight: 400;">
-  Your role is to make a map of the volcanic hazard, and work with the crisis
-  manager on a plan for ensuring the safety of the islanders.
-</span>
+Your role is to make a map of the volcanic hazard, and work with the crisis
+manager on a plan for ensuring the safety of the islanders.
 
-<span style="text-decoration: underline;">
-  <span style="font-weight: 400;">Crisis manager</span>
-</span>
+### Crisis manager
 
-<span style="font-weight: 400;">
-  Your role is to make important decisions to manage the crisis. You have the
-  reports from the helicopter and the advice of the geologist. After you make a
-  decision, send your advice to the governor immediately. You will get instant
-  feedback on your decision. 
-</span>
+Your role is to make important decisions to manage the crisis. You have the
+reports from the helicopter and the advice of the geologist. After you make a
+decision, send your advice to the governor immediately. You will get instant
+feedback on your decision. 
 
-<span style="font-weight: 400;">
-  You will now have one minute in your groups to decide who is going to do what
-  role. 
-</span>
+You will now have one minute in your groups to decide who is going to do what
+role. 
 
-<span style="font-weight: 400;">
-  3, 2, 1… Hands up if you are the information coordinator… hands up if you are
-  the geologist... hands up if you are the crisis manager.
-</span>
+3, 2, 1… Hands up if you are the information coordinator… hands up if you are
+the geologist... hands up if you are the crisis manager.
 
-<span style="font-weight: 400;">Each group needs the following resources:</span>
+Each group needs the following resources:
 
 1. A3 map of the island for annotation by the Geologist
 2. Decision-making sheet (Crisis manager)

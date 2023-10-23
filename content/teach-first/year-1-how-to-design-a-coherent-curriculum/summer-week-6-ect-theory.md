@@ -30,48 +30,39 @@ Developing pupils' mental models across a scheme of work – Emily Maule
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
-  Building up pupils’ mental models is of paramount importance as this is what
-  allows for pupils to be able to remember over time and draw upon the concepts,
-  knowledge and skills they’ll need for successful learning both now and in the
-  future.
-</span>
+Building up pupils’ mental models is of paramount importance as this is what
+allows for pupils to be able to remember over time and draw upon the concepts,
+knowledge and skills they’ll need for successful learning both now and in the
+future.
 
-<span style="font-weight: 400;">
-  To support this, the first strategy I use in this scheme (and all schemes) is
-  retrieval and spaced practice, such as questioning and quizzing pupils on
-  their knowledge each lesson and then cumulatively quizzing them throughout the
-  scheme. And then for subsequent schemes in year 7, I quiz them on previous
-  material to keep that knowledge alive. Referring back to prior learning also
-  reminds pupils of its importance.
-</span>
+To support this, the first strategy I use in this scheme (and all schemes) is
+retrieval and spaced practice, such as questioning and quizzing pupils on
+their knowledge each lesson and then cumulatively quizzing them throughout the
+scheme. And then for subsequent schemes in year 7, I quiz them on previous
+material to keep that knowledge alive. Referring back to prior learning also
+reminds pupils of its importance.
 
-<span style="font-weight: 400;">
-  The second strategy I use in all schemes is the use of concrete examples and
-  illustrations to help pupils engage with abstract concepts. For example, in
-  this scheme when teaching about volcanic hazards, I support the teaching of
-  abstract concepts such as lava flows with concrete examples and images so that
-  pupils can engage with the material and draw on anything relevant they might
-  have stored in their long-term memory – even from films or books they have
-  read or seen. 
-</span>
+The second strategy I use in all schemes is the use of concrete examples and
+illustrations to help pupils engage with abstract concepts. For example, in
+this scheme when teaching about volcanic hazards, I support the teaching of
+abstract concepts such as lava flows with concrete examples and images so that
+pupils can engage with the material and draw on anything relevant they might
+have stored in their long-term memory – even from films or books they have
+read or seen. 
 
-<span style="font-weight: 400;">
-  A third strategy is the intentional teaching and revisiting of tier 2 and 3
-  vocabulary. I repeatedly revisit the vocabulary so that pupils are continually
-  exposed to it. For example, starting off using technical language such as
-  tectonic hazards, tectonic plates, mantle, pressure and friction means that we
-  can use the correct terminology from the beginning and build up pupils’
-  familiarity with it throughout the scheme. 
-</span>
+A third strategy is the intentional teaching and revisiting of tier 2 and 3
+vocabulary. I repeatedly revisit the vocabulary so that pupils are continually
+exposed to it. For example, starting off using technical language such as
+tectonic hazards, tectonic plates, mantle, pressure and friction means that we
+can use the correct terminology from the beginning and build up pupils’
+familiarity with it throughout the scheme. 
 
-<span style="font-weight: 400;">
-  Finally, in this scheme, as with all schemes, I have sought to balance the use
-  of exposition with pupils practising skills and knowledge, whilst always
-  narrating the links between new content and the core concepts. These features
-  of classroom practice help pupils to learn and build confidence, instead of
-  new content causing them to panic and then retreat.
-</span>
+Finally, in this scheme, as with all schemes, I have sought to balance the use
+of exposition with pupils practising skills and knowledge, whilst always
+narrating the links between new content and the core concepts. These features
+of classroom practice help pupils to learn and build confidence, instead of
+new content causing them to panic and then retreat.
+
  {/details}
 
 ### Video script - How have you planned to develop your pupils’ mental models across a scheme of work?

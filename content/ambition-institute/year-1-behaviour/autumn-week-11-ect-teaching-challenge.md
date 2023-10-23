@@ -59,10 +59,9 @@ Ability grouping shows limited evidence of impact on pupil outcomes (Coe et al.,
 
 ### Key takeaways
 
-<span style="font-weight: 400;">
-  Ms Silva can support talk that enables effective pair and group work by
-  understanding that:
-</span>
+Ms Silva can support talk that enables effective pair and group work by
+understanding that:
+
 - there are behavioural challenges particular to group and paired work. Teachers can pre-empt them by pre-planning groupings, and sharing and checking behavioural expectations and practice 
 - effective talk tasks support pupils to talk successfully if they avoid overloading pupil working memory so pupils can articulate key ideas, consolidate understanding and extend their vocabulary 
 - teachers can support pupils to manage their behaviour and learning during collaboration
@@ -73,43 +72,35 @@ Ability grouping shows limited evidence of impact on pupil outcomes (Coe et al.,
 {details}
 References.
 
-<span style="font-weight: 400;">Alexander, R. (2017), Towards dialogic teaching: rethinking classroom talk (York: Dialogos). </span>
+Alexander, R. (2017), Towards dialogic teaching: rethinking classroom talk (York: Dialogos). 
 
-<span style="font-weight: 400;">Coe, R., Aloisi, C., Higgins, S., and Major, L. E. (2014), [What makes great teaching: review of the underpinning research](https://www.suttontrust.com/wp-content/uploads/2014/10/What-Makes-Great-Teaching-REPORT.pdf) (Durham University).
-</span>
+Coe, R., Aloisi, C., Higgins, S., and Major, L. E. (2014), [What makes great teaching: review of the underpinning research](https://www.suttontrust.com/wp-content/uploads/2014/10/What-Makes-Great-Teaching-REPORT.pdf) (Durham University).
 
-<span style="font-weight: 400;">Deans for Impact (2015), [The science of learning](https://deansforimpact.org/resources/the-science-of-learning/).
-</span>
+Deans for Impact (2015), [The science of learning](https://deansforimpact.org/resources/the-science-of-learning/).
 
-<span style="font-weight: 400;">Education Endowment Foundation (2017), [Metacognition and self-regulated learning guidance report](https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/).
-</span>
+Education Endowment Foundation (2017), [Metacognition and self-regulated learning guidance report](https://educationendowmentfoundation.org.uk/tools/guidance-reports/metacognition-and-self-regulated-learning/).
 
-<span style="font-weight: 400;">Education Endowment Foundation (2018), [Sutton Trust-Education Endowment Foundation teaching and learning toolkit](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/).
-</span>
+Education Endowment Foundation (2018), [Sutton Trust-Education Endowment Foundation teaching and learning toolkit](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/).
 
-<span style="font-weight: 400;">Gathercole, S., Lamont, E., and Alloway, T. (2006), Working memory in the
+Gathercole, S., Lamont, E., and Alloway, T. (2006), Working memory in the
 classroom (page 219 to page 240).
-</span>
 
-<span style="font-weight: 400;">Kern, L., and Clemens, N. H. (2007), Antecedent strategies to promote
+Kern, L., and Clemens, N. H. (2007), Antecedent strategies to promote
 appropriate classroom behaviour (Psychology in the schools). 
-</span>
 
-<span style="font-weight: 400;">Kirschner, P., Sweller, J., Kirschner, F., and Zambrano, J. (2018), From
+Kirschner, P., Sweller, J., Kirschner, F., and Zambrano, J. (2018), From
 cognitive load theory to collaborative cognitive load theory (International Journal of Computer-Supported Collaborative Learning).
-</span>
 
-<span style="font-weight: 400;">Rosenshine, B. (2012), [Principles of Instruction: research-based strategies
+Rosenshine, B. (2012), [Principles of Instruction: research-based strategies
 that all teachers should know (American Educator)](https://www.aft.org/sites/default/files/periodicals/Rosenshine.pdf). 
-</span>
 
-<span style="font-weight: 400;">Tereshchenko, A., Francis, B., Archer, L., Hodgen, J., Mazenod, A., Taylor,
+Tereshchenko, A., Francis, B., Archer, L., Hodgen, J., Mazenod, A., Taylor,
 B., and Travers, M. C. (2018), [Learners’ attitudes to mixed-attainment
-grouping: examining the views of students of high, middle and low attainment (Research papers in education)](https://www.tandfonline.com/doi/full/10.1080/02671522.2018.1452962).</span>
+grouping: examining the views of students of high, middle and low attainment (Research papers in education)](https://www.tandfonline.com/doi/full/10.1080/02671522.2018.1452962).
 
-<span style="font-weight: 400;">Van de Pol, J., Volman, M., Oort, F., and Beishuizen, J. (2015), The effects
+Van de Pol, J., Volman, M., Oort, F., and Beishuizen, J. (2015), The effects
 of scaffolding in the classroom: support contingency and student independent
 working time in relation to student achievement, task effort and appreciation
 of support (Instructional Science)
-</span>
+
 {/details}

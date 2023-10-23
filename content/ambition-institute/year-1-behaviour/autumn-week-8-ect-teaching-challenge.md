@@ -62,81 +62,68 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 {details}
 References.
 
-<span style="font-weight: 400;">
-  Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). What makes great
-  teaching. Review of the underpinning research. Durham University.
-  <a href="http://bit.ly/ecf-coe" target="_blank" rel="noopener">
-    bit.ly/ecf-coe
-  </a>
-</span>
+Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). What makes great
+teaching. Review of the underpinning research. Durham University.
+<a href="http://bit.ly/ecf-coe" target="_blank" rel="noopener">
+bit.ly/ecf-coe
+</a>
 
-<span style="font-weight: 400;">
-  Deans for Impact (2015). The Science of Learning.
-  <a href="http://bit.ly/ecf-dea" target="_blank" rel="noopener">
-    bit.ly/ecf-dea
-  </a>
-</span>
+Deans for Impact (2015). The Science of Learning.
+<a href="http://bit.ly/ecf-dea" target="_blank" rel="noopener">
+bit.ly/ecf-dea
+</a>
 
-<span style="font-weight: 400;">
-  EEF (2017). Improving Mathematics in Key Stages Two and Three Guidance Report.
-  <a href="http://bit.ly/ecf-eef4" target="_blank" rel="noopener">
-    bit.ly/ecf-eef4 
-  </a>
-</span>
+EEF (2017). Improving Mathematics in Key Stages Two and Three Guidance Report.
+<a href="http://bit.ly/ecf-eef4" target="_blank" rel="noopener">
+bit.ly/ecf-eef4 
+</a>
 
-<span style="font-weight: 400;">
-  Gathercole, S., Lamont, E., &amp; Alloway, T. (2006) Working memory in the
-  classroom.
-</span>
+Gathercole, S., Lamont, E., &amp; Alloway, T. (2006) Working memory in the
+classroom.
+
 <i>
-  <span style="font-weight: 400;">Working memory and education,</span>
+  Working memory and education,
 </i>
-<span style="font-weight: 400;"> 219-240.</span>
+ 219-240.
 
-<span style="font-weight: 400;">
-  IES (2008). Reducing Behavior Problems in the Elementary School Classroom.
-  <a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">
-    bit.ly/ecf-ies
-  </a>
-</span>
+IES (2008). Reducing Behavior Problems in the Elementary School Classroom.
+<a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">
+bit.ly/ecf-ies
+</a>
 
-<span style="font-weight: 400;">
-  Kluger, A. N., &amp; DeNisi, A. (1996). The effects of feedback interventions
-  on performance: A historical review, a meta-analysis, and a preliminary
-  feedback intervention theory.
-</span>
+Kluger, A. N., &amp; DeNisi, A. (1996). The effects of feedback interventions
+on performance: A historical review, a meta-analysis, and a preliminary
+feedback intervention theory.
+
 <i>
-  <span style="font-weight: 400;">Psychological Bulletin, 119</span>
+  Psychological Bulletin, 119
 </i>
-<span style="font-weight: 400;">(2), 254–284.</span>
+(2), 254–284.
 
-<span style="font-weight: 400;">
-  Rosenshine, B. (2012). Principles of Instruction: Research-based strategies
-  that all teachers should know.
-</span>
-<i>
-  <span style="font-weight: 400;">American Educator</span>
-</i>
-<span style="font-weight: 400;">
-  .
-  <a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">
-    bit.ly/ecf-ros
-  </a>
-</span>
+Rosenshine, B. (2012). Principles of Instruction: Research-based strategies
+that all teachers should know.
 
-<span style="font-weight: 400;">
-  Van de Pol, J., Volman, M., Oort, F., &amp; Beishuizen, J. (2015). The effects
-  of scaffolding in the classroom: support contingency and student independent
-  working time in relation to student achievement, task effort and appreciation
-  of support.
-</span>
 <i>
-  <span style="font-weight: 400;">Instructional Science, 43</span>
+  American Educator
 </i>
-<span style="font-weight: 400;">
-  (5), 615-641.
-  <a href="http://bit.ly/ecf-van" target="_blank" rel="noopener">
-    bit.ly/ecf-van
-  </a>
-</span>
+
+.
+<a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">
+bit.ly/ecf-ros
+</a>
+
+Van de Pol, J., Volman, M., Oort, F., &amp; Beishuizen, J. (2015). The effects
+of scaffolding in the classroom: support contingency and student independent
+working time in relation to student achievement, task effort and appreciation
+of support.
+
+<i>
+  Instructional Science, 43
+</i>
+
+(5), 615-641.
+<a href="http://bit.ly/ecf-van" target="_blank" rel="noopener">
+bit.ly/ecf-van
+</a>
+
  {/details}

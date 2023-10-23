@@ -27,53 +27,48 @@ Developing pupils' knowledge throughout a scheme of work – Emily Maule
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
-  Scaffolding builds pupils’ skills and confidence and helps them to realise
-  that they can use their prior knowledge to move forwards. I always like to
-  provide some form of scaffold, but as we go through a scheme, the guidance
-  becomes less as pupils build confidence. 
-</span>
+Scaffolding builds pupils’ skills and confidence and helps them to realise
+that they can use their prior knowledge to move forwards. I always like to
+provide some form of scaffold, but as we go through a scheme, the guidance
+becomes less as pupils build confidence. 
 
-<span style="font-weight: 400;">
-  When introducing a new or abstract idea in a scheme of work, I always ensure
-  that these are supported with clear and concrete examples, to support pupils’
-  understanding. For example, when teaching pupils about a collision plate
-  margin, they learn that two tectonic plates of comparable density collide and
-  buckle. As an abstract concept it makes little sense to pupils learning this
-  for the first time. However, when presented with the cartoon of two cars of
-  similar sizes in a head-on collision, showing both car bonnets crumpling,
-  pupils are then immediately able to understand what is happening with the
-  collision plate margin. And then, knowing that tectonic plates can be imagined
-  as cars in collisions, they then have an understanding of the concept which
-  they can use to predict what might happen at the margin between other tectonic
-  plates.
-</span> <span style="font-weight: 400;">
-   And I think that sometimes, the more creative you can be with the
-  illustrations, the more likely it is that pupils will remember the
-  illustration. 
-</span>
+When introducing a new or abstract idea in a scheme of work, I always ensure
+that these are supported with clear and concrete examples, to support pupils’
+understanding. For example, when teaching pupils about a collision plate
+margin, they learn that two tectonic plates of comparable density collide and
+buckle. As an abstract concept it makes little sense to pupils learning this
+for the first time. However, when presented with the cartoon of two cars of
+similar sizes in a head-on collision, showing both car bonnets crumpling,
+pupils are then immediately able to understand what is happening with the
+collision plate margin. And then, knowing that tectonic plates can be imagined
+as cars in collisions, they then have an understanding of the concept which
+they can use to predict what might happen at the margin between other tectonic
+plates.
 
-<span style="font-weight: 400;">
-  Another favourite example from a different scheme is used when teaching about
-  air pressure. Pupils (and teachers!) often find the global atmospheric
-  circulation system difficult to get their head around, with the behaviour of
-  air pressure and the resulting weather particularly challenging. To help
-  illustrate how air pressure affects weather I use an example that always makes
-  pupils laugh and so helps them remember. I’ve even seen pupils discretely
-  re-enacting the illustration in exams! I ask them to imagine they have a puppy
-  on the table in front of them and I ask them to visualise themselves with
-  their hands above the puppy, moving their hands in an upwards direction away
-  from the puppy, as I tell them that their hands represent the air. Following
-  some questioning they can tell me that upwards moving air and the resulting
-  low pressure that is applied to the puppy, makes for unstable weather, as
-  demonstrated by the wriggling and moving puppy. I then ask them to imagine
-  they are applying downward pressure to the puppy and ask them how high
-  pressure will affect the puppy – and usually they are able to say that the
-  puppy will stop moving as much, and so see how high pressure creates stable
-  weather conditions that are not moving or changing. It is a bit of a silly
-  illustration but definitely helps pupils visualise how air pressure affects
-  the weather conditions.
-</span>
+ And I think that sometimes, the more creative you can be with the
+illustrations, the more likely it is that pupils will remember the
+illustration. 
+
+Another favourite example from a different scheme is used when teaching about
+air pressure. Pupils (and teachers!) often find the global atmospheric
+circulation system difficult to get their head around, with the behaviour of
+air pressure and the resulting weather particularly challenging. To help
+illustrate how air pressure affects weather I use an example that always makes
+pupils laugh and so helps them remember. I’ve even seen pupils discretely
+re-enacting the illustration in exams! I ask them to imagine they have a puppy
+on the table in front of them and I ask them to visualise themselves with
+their hands above the puppy, moving their hands in an upwards direction away
+from the puppy, as I tell them that their hands represent the air. Following
+some questioning they can tell me that upwards moving air and the resulting
+low pressure that is applied to the puppy, makes for unstable weather, as
+demonstrated by the wriggling and moving puppy. I then ask them to imagine
+they are applying downward pressure to the puppy and ask them how high
+pressure will affect the puppy – and usually they are able to say that the
+puppy will stop moving as much, and so see how high pressure creates stable
+weather conditions that are not moving or changing. It is a bit of a silly
+illustration but definitely helps pupils visualise how air pressure affects
+the weather conditions.
+
  {/details}
 
 ### Video script - How have you developed pupils’ knowledge over the course of the scheme of work?

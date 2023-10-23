@@ -6,10 +6,8 @@ previous_path: "/ambition-institute/year-1-behaviour/autumn-week-11-ect-teaching
 
 ### Reminder of key takeaways
 
-<span style="font-weight: 400;">
-  Ms Silva can support talk that enables effective pair and group work by
-  understanding that:
-</span>
+Ms Silva can support talk that enables effective pair and group work by understanding that:
+
 - there are behavioural challenges particular to group and paired work. Teachers can pre-empt them by pre-planning groupings, and sharing and checking behavioural expectations and practice 
 - effective talk tasks support pupils to talk successfully if they avoid overloading pupil working memory so pupils can articulate key ideas, consolidate understanding and extend their vocabulary 
 - teachers can support pupils to manage their behaviour and learning during collaboration

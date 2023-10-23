@@ -39,7 +39,7 @@ It is important to remember that you can take steps to contribute positively to 
 
 ### In your notepad
 
-<span style="font-weight: 400;">Consider the following colleagues:</span>
+Consider the following colleagues:
 
 - librarian
 - pastoral leaders&nbsp;

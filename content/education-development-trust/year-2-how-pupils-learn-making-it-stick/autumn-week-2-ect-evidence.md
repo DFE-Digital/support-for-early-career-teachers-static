@@ -95,11 +95,9 @@ It is recommended that pupils encounter new material on at least two separate oc
 
 ### Definition
 
-<span style="font-weight: 400;">
-  Spaced practice is when opportunities to review and practise the material are
-  distributed over time. Instead of just seeing it once, pupils will be exposed
-  to the content at spaced gaps.
-</span>
+Spaced practice is when opportunities to review and practise the material are
+distributed over time. Instead of just seeing it once, pupils will be exposed
+to the content at spaced gaps.
 
 ### Spaced practice
 
@@ -114,29 +112,24 @@ Watch this video of a teacher talking about how they used spaced practice.
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
-  In my class, I know that pupils are going to forget previously taught material
-  if I don’t revisit it. When I introduce an important new idea or concept, I
-  always plan when I will teach review lessons on it or re-introduce the
-  material after a few days or weeks. 
-</span>
+In my class, I know that pupils are going to forget previously taught material
+if I don’t revisit it. When I introduce an important new idea or concept, I
+always plan when I will teach review lessons on it or re-introduce the
+material after a few days or weeks. 
 
-<span style="font-weight: 400;">
-  For example, for our half termly topics, after I teach pupils the key
-  vocabulary I might review it every day for the first week using short recall
-  quizzes to match the definitions up. Then, the following week I will only get
-  pupils to explicitly practise it on three days, maybe getting pupils to
-  practise using the vocabulary in writing or in a talk task. I will slowly
-  extend the gap between practice activities on the vocabulary and pupils should
-  start to use it in their writing without me prompting.
-</span>
+For example, for our half termly topics, after I teach pupils the key
+vocabulary I might review it every day for the first week using short recall
+quizzes to match the definitions up. Then, the following week I will only get
+pupils to explicitly practise it on three days, maybe getting pupils to
+practise using the vocabulary in writing or in a talk task. I will slowly
+extend the gap between practice activities on the vocabulary and pupils should
+start to use it in their writing without me prompting.
 
-<span style="font-weight: 400;">
-  We also do a weekly spelling test so I will include a few of the vocab words
-  in that and rotate them out and back in again. I always include some spelling
-  words from the last term’s topic as well so they don’t forget those while
-  learning new ones!
-</span>
+We also do a weekly spelling test so I will include a few of the vocab words
+in that and rotate them out and back in again. I always include some spelling
+words from the last term’s topic as well so they don’t forget those while
+learning new ones!
+
  {/details}
 
 What makes practice purposeful? We know from lots of fields that _quality_ of practice is just as important as _quantity_ of practice. If you want to learn to play tennis, you will get better simply by playing a couple of times a week. However, if you really want to improve you will need to identify the key skills of the game and your weaknesses as a player, break the skills down so you understand them and commit to regular, focused practice of the component parts, building the level of difficulty, until they are second nature. You might need to pay a coach to give you feedback and you probably won’t stick to this plan unless you have clear goals for improvement either.
@@ -182,64 +175,47 @@ A teacher giving feedback to their pupils
 {details}
 Video script.
 
-<span style="font-weight: 400;">
-  [Pupils are practicing running and catching the ball, pivoting and passing it
-  on. 
-</span>
+[Pupils are practicing running and catching the ball, pivoting and passing it
+on. 
 
-<span style="font-weight: 400;">
-  The teacher notices one pair who are forgetting to stop and pivot.]
-</span>
+The teacher notices one pair who are forgetting to stop and pivot.]
 
-<span style="font-weight: 400;">
-  Teacher: OK girls, stop for a moment and watch me. Remember the rule in
-  netball is that you can’t run when you are holding the ball, so when you pass
-  me the ball… go on pass it…
-</span>
+Teacher: OK girls, stop for a moment and watch me. Remember the rule in
+netball is that you can’t run when you are holding the ball, so when you pass
+me the ball… go on pass it…
 
-<span style="font-weight: 400;">[Pupil passes ball.]</span>
+[Pupil passes ball.]
 
-<span style="font-weight: 400;">
-  Teacher: … I need to stop still. The only way I can move is to plant one foot
-  and pivot on the other. See. 
-</span>
+Teacher: … I need to stop still. The only way I can move is to plant one foot
+and pivot on the other. See. 
 
-<span style="font-weight: 400;">[Teacher demonstrates.]</span>
+[Teacher demonstrates.]
 
-<span style="font-weight: 400;">
-  Teacher: At the moment, you are catching the ball and continuing to run for
-  two or three steps, like this.
-</span>
+Teacher: At the moment, you are catching the ball and continuing to run for
+two or three steps, like this.
 
-<span style="font-weight: 400;">[Teacher demonstrates]</span>
+[Teacher demonstrates]
 
-<span style="font-weight: 400;">Teacher: Can you see the difference?</span>
+Teacher: Can you see the difference?
 
-<span style="font-weight: 400;">
-  [Pupils agree they can see the difference.]
-</span>
+[Pupils agree they can see the difference.]
 
-<span style="font-weight: 400;">
-  Teacher: OK, so what are the things you need to remember?
-</span>
+Teacher: OK, so what are the things you need to remember?
 
-<span style="font-weight: 400;">
-  Pupil: When you catch it you have to stop straight away so don’t keep running.
-  Then you can pivot.
-</span>
+Pupil: When you catch it you have to stop straight away so don’t keep running.
+Then you can pivot.
 
-<span style="font-weight: 400;">Teacher: Great –</span> <span style="font-weight: 400;">
+Teacher: Great – 
 why don’t you try again?
-</span>
+
 {/details}
 
 ## Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall
 
 ### In your notepad
 
-<span style="font-weight: 400;">
-  Read the summary from the EEF (2018) on retrieval practice and answer the
-  following questions:
+Read the summary from the EEF (2018) on retrieval practice and answer the
+following questions:
 
 - what is retrieval practice?
 - why do you think that retrieval practice is more effective than re-reading a text?
