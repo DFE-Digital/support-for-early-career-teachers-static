@@ -61,7 +61,7 @@ Theory to Practice: 35 mins
    As you work through this activity, you could:
    - check that your mentee is clear about whether they are focusing on a single pupil, a group of pupils or a whole class
    - connect the strategies they select to their understanding of the relative strengths and areas for development of the pupil(s) selected
-   - relate planning back to the research and practice summary in this week's ECT materials, and the strategies identified that help to develop pupils as independent learners
+   - relate planning back to the research and practice summary in this week’s ECT materials, and the strategies identified that help to develop pupils as independent learners
    - encourage your mentee to be specific in detailing the actions they will take, including scripting any key interactions with pupils that would benefit from this level of detailed preparation
 3. Rehearsal
    As appropriate, support your mentee to rehearse key interactions that will be part of their teaching as they put their planned strategies into practice.

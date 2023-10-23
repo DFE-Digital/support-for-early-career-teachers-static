@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-## Strengthening pupils' subject knowledge
+## Strengthening pupils’ subject knowledge
 
 ### Intended outcomes
 

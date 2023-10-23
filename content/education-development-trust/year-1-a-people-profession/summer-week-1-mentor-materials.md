@@ -56,12 +56,12 @@ The mentor should give their answers to the following questions and the ECT shou
 
 - What advice would you give your NQT self about building relationships with staff when you first started in your first school?
 - Who was the first person you went to for advice when you began teaching?
-- What do you wish you'd known about working with parents when you started teaching?
+- What do you wish you’d known about working with parents when you started teaching?
 - How do you work with colleagues to both contribute to the wider life of the school and to better understand and meet pupils’ individual needs?
 
 Together, answer the following questions:
 
-- How would you define 'School Community'? Who makes up that community?
+- How would you define ’school Community’? Who makes up that community?
 - When has support from colleagues made a positive impact on your well-being?
 
 Pose the following questions:

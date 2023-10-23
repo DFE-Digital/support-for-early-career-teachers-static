@@ -22,7 +22,7 @@ By making learning manageable, teachers affect how pupils behave, as well as how
 
 ### Introducing new material in steps and using examples makes it more manageable
 
-Checking pupil prior knowledge and explicitly linking new ideas to what has previously been learned makes it less likely pupils' working memory will be overloaded (Deans for Impact, 2015). Ms Sterling could use several instructional principles to support pupils in this way (Rosenshine, 2012):
+Checking pupil prior knowledge and explicitly linking new ideas to what has previously been learned makes it less likely pupils’ working memory will be overloaded (Deans for Impact, 2015). Ms Sterling could use several instructional principles to support pupils in this way (Rosenshine, 2012):
 
 - Briefly reviewing what pupils have already learned.
 - Introducing new material in small steps.

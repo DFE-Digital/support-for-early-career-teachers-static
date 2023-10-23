@@ -49,7 +49,7 @@ Sometimes, a pupil can produce a ‘correct’ response to a question or task wi
 
 To prompt pupils to elaborate further, you could say:
 
-- 'say it again in your own words’
+- ’say it again in your own words’
 - ‘show me the steps you took to achieve that answer’
 - ‘prove to me that X is the wrong answer’
 - ‘give me two reasons why you think this is correct’
@@ -65,7 +65,7 @@ This would have given him more detailed data on pupils’ understanding, and he 
 
 Hinge questions are a type of question that teachers use to learn more about pupils’ understanding. They are a useful way for teachers to formatively assess their pupils and pinpoint gaps in their knowledge. These are used at pivotal ‘hinge’ points in a lesson or sequence of lessons – often at the end of a phase of learning, when a teacher wants to check pupils’ conceptual understanding to determine whether, and in which direction, they are ready to move on. The teacher asks a hinge question to all pupils and uses their responses (perhaps on mini-whiteboards or using traffic-light cards) to determine the extent to which pupils have understood key concepts and whether any misconceptions are still present. Hinge questions often use a multiple-choice format - the teacher can structure the multiple-choice options to reflect different levels of understanding, including common misunderstandings.
 
-The pupils’ responses to the hinge question should provide the teacher with valuable evidence about what their pupils know, don't know and need to do next. The teacher should be able to collect (view) and interpret responses from all pupils in less than 30 seconds - e.g. by glancing at each mini-whiteboard or traffic-light card. Teachers will then make adjustments to their teaching to respond to any misconceptions.
+The pupils’ responses to the hinge question should provide the teacher with valuable evidence about what their pupils know, don’t know and need to do next. The teacher should be able to collect (view) and interpret responses from all pupils in less than 30 seconds - e.g. by glancing at each mini-whiteboard or traffic-light card. Teachers will then make adjustments to their teaching to respond to any misconceptions.
 
 ### Case study: part 4
 

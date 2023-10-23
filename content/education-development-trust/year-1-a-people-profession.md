@@ -4,7 +4,7 @@ heading: "Second half-term: a people profession"
 caption: "Year 1"
 ---
 
-In this module you'll focus on developing strong professional relationships to build the best outcomes for your pupils.
+In this module you’ll focus on developing strong professional relationships to build the best outcomes for your pupils.
 
 ## Module introduction
 
@@ -137,7 +137,7 @@ Use the materials below for an end of module review with the ECT.
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
 
 Duration: 10 minutes.
 

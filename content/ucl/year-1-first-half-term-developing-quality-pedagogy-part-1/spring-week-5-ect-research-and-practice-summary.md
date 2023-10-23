@@ -67,14 +67,14 @@ because they have to explain their thinking to their peers.
 
 In A-Level history, pupils are required to make judgements
 about the validity of general statements and the claims of other historians. My Year
-12s were preparing for an essay answering the question 'Was Henry VIII’s foreign
-policy from 1509-1527 a success?'
+12s were preparing for an essay answering the question ‘Was Henry VIII’s foreign
+policy from 1509-1527 a success?’
 
 #### How he grouped them
 
 I put pupils into groups of mixed ability based on how they had tackled their previous essay. Person 1 in each group had the weakest skills in this area, Person 4 had the strongest.
 
-We used the following scaffold to structure discussion. 'What would success look like for Henry VIII in terms of his foreign policy 1509–1527?’
+We used the following scaffold to structure discussion. ‘What would success look like for Henry VIII in terms of his foreign policy 1509–1527?’
 
 1. Suggest a definition for success.
 2. Ask a question about the definition. Person 1 should respond to your

@@ -4,7 +4,7 @@ heading: "First half-term: deepening assessment, feedback and questioning"
 caption: "Year 2"
 ---
 
-In this module you'll build on your existing knowledge to develop further practical ways to hone your assessment, feedback and questioning techniques.
+In this module you’ll build on your existing knowledge to develop further practical ways to hone your assessment, feedback and questioning techniques.
 
 ## Module introduction
 
@@ -127,7 +127,7 @@ Use the materials below to help you plan a discussion with the ECT about what th
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
 
 Duration: 5 minutes.
 

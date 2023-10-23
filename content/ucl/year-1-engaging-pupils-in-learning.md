@@ -4,7 +4,7 @@ heading: "Second half-term: engaging pupils in learning"
 caption: "Year 1"
 ---
 
-In this module you'll look at the impact of pupils’ prior knowledge on their learning and how knowledge changes through the cooperation of working and long-term memory.
+In this module you’ll look at the impact of pupils’ prior knowledge on their learning and how knowledge changes through the cooperation of working and long-term memory.
 
 ## Week 1: module audit
 

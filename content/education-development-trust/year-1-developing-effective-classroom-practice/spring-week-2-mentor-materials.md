@@ -59,7 +59,7 @@ Suggested dialogue for mentors: We can support the development of schema – and
 
 Read the following together:
 
-'Students need cognitive support to help them learn to solve problems. The teacher modelling and
+’students need cognitive support to help them learn to solve problems. The teacher modelling and
 thinking aloud while demonstrating how to solve a problem are examples of effective cognitive
 support. Worked examples allow students to focus on the specific steps to solve problems and thus
 reduce the cognitive load on their working memory. Modelling and worked examples have been used

@@ -60,7 +60,7 @@ Review and Plan 5 mins
 Theory to Practice 40 mins
 
 1. Discuss with Mentor
-   Based on their reading of the research and practice summary in this week's ECT materials, discuss with your mentee their understanding of:
+   Based on their reading of the research and practice summary in this week’s ECT materials, discuss with your mentee their understanding of:
    - how consolidation of memory takes place through repeated experiences of events such as related problem-solving exercises
    - how this process is supported by regular review/retrieval, external coding, and spaced practice
    They may also want to discuss with you other questions that arose from their reading.

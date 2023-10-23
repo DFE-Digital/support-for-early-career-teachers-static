@@ -18,12 +18,12 @@ Consider the development areas for this topic (below). Then make a note of the a
 - Teacher ensures pupils know what to do as they enter the classroom.
 - Teacher manages the flow of pupils into the classroom and restates the instructions so pupils are clear what they need to do.
 - Teacher ensures pupils know they are accountable for following instructions as they enter the classroom.
-- Teacher diagnoses pupils' emotions as they enter the room and responds appropriately, e.g. by privately addressing a pupil if necessary.
+- Teacher diagnoses pupils’ emotions as they enter the room and responds appropriately, e.g. by privately addressing a pupil if necessary.
 
 {details}
 Example precise target: Teacher greets pupils as they enter the classroom.
 
-- **Not doing it at all:** When pupils are entering the classroom, deliver a greeting either individually or to the class and in line with your school's policy.
+- **Not doing it at all:** When pupils are entering the classroom, deliver a greeting either individually or to the class and in line with your school’s policy.
 - **Doing it but needs some improvement:** When greeting pupils, use open body language to match your warm tone and language.
 - **Doing it well and needs some stretch:** When appropriate, add personalised greeting tailored to individual pupils to help them feel welcome and motivated to learn.
 

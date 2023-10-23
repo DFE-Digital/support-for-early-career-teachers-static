@@ -41,14 +41,14 @@ Receptive language helps pupils _understand_ spoken language by enabling them to
 - retrieving appropriate vocabulary from their memory stores
 - recalling speech sounds and patterns
 - and then mentally constructing the sentence according to grammatical rules.
-  To support pupils' receptive language in the classroom, you should give instructions:
+  To support pupils’ receptive language in the classroom, you should give instructions:
 - in small chunks
 - in the order you want them completed
 - And use prompts such as first, then and lastly.
   To ensure pupils have understood, you can encourage pupils to repeat back instructions
   that you have given, whilst listening out for any misunderstanding.
 
-To support pupils' expressive language in the classroom you should:
+To support pupils’ expressive language in the classroom you should:
 
 - Model and teach high-utility vocabulary
 - Model the correct response if the learner has made a grammatical error - pay attention to errors with plurals or tenses
@@ -59,7 +59,7 @@ To support pupils' expressive language in the classroom you should:
   terms before reading or writing them and use these terms in a context that the pupils
   will be familiar with to help them better understand.
 
-Make discussion part of your classroom activity and use as a precursor to written work. During discussion, ensure you model good listening skills as well as oral language. Set the parameters for the discussion before it takes place and scaffold pupils' responses by provide sentence starters such as,  ‘I would like to raise the point about…’ and the response to that which could be ‘I hear your point but I would like to say…’. By providing stock responses you support pupils to construct a good answer.
+Make discussion part of your classroom activity and use as a precursor to written work. During discussion, ensure you model good listening skills as well as oral language. Set the parameters for the discussion before it takes place and scaffold pupils’ responses by provide sentence starters such as,  ‘I would like to raise the point about…’ and the response to that which could be ‘I hear your point but I would like to say…’. By providing stock responses you support pupils to construct a good answer.
 
 When asking pupils to share their ideas, ensure you give pupils time to think and work through a response. I always use the analogy of dropping a feather, rather than a stone, in a puddle, to increase the thinking time I give pupils. To further support pupils who struggle to speak with clarity, consider recording their response for them to listen to. This will help them understand their current use of language which may help to identify where they can improve.
 
@@ -120,7 +120,7 @@ Tier 2 words are words which add richness to communication, whether that is verb
 
 An example of the difference between tier 1 and 2 words would be ‘nice’ to ‘wonderful’ or ‘silly’ to ‘absurd’.
 
-If you are working on a piece of text, it's the Tier 2 words that should be drawn out of that text before you teach it or read it as a class. This can be done by looking at meanings, finding synonyms of that word, putting it into a context that the pupils are familiar with, before giving examples of when that word is being used in a sentence. During reading, highlight the words which have been pre-taught to draw pupils' attention to them in context.  You should limit the new vocabulary you teach to 5 words or so a week and revisit them throughout the term to strengthen pupils' long-term memory of them.
+If you are working on a piece of text, it’s the Tier 2 words that should be drawn out of that text before you teach it or read it as a class. This can be done by looking at meanings, finding synonyms of that word, putting it into a context that the pupils are familiar with, before giving examples of when that word is being used in a sentence. During reading, highlight the words which have been pre-taught to draw pupils’ attention to them in context.  You should limit the new vocabulary you teach to 5 words or so a week and revisit them throughout the term to strengthen pupils’ long-term memory of them.
 
 Tier 2 words can also be instruction or command words and these, for older children, are useful to be taught explicitly and identify the differences between them. For example, you should teach pupils what it means to write analytically as opposed to writing a discussion.
 
@@ -214,7 +214,7 @@ What could Saima have said to:
 - ask open questions
 - encourage the pupil to respond in full sentences. Although not included in Sustained Shared Thinking, this is a good way to develop pupils’ language
 
-Extend or amend Saima's comments and record them in your notebook.
+Extend or amend Saima’s comments and record them in your notebook.
 
 {details}
 Feedback.
@@ -262,7 +262,7 @@ Sustained Shared Thinking is a powerful framework to use to develop pupils’ ea
 
 ## Developing language in Primary and Secondary settings
 
-Vocabulary in the English language is extremely complex; one word can carry many meanings which are context and subject specific. For example, the word ‘prime’ in Maths has a different meaning to the word ‘prime’ in English, which is why developing pupils’ disciplinary literacy is incredibly important. Pupils need to be explicitly taught the meaning of words in different contexts and subject disciplines. Therefore, _every_ teacher is responsible for developing pupils' literacy, including the teaching of vocabulary. This can be done by ensuring pupils have the opportunity to learn new words and explore ways to use familiar words in new contexts.
+Vocabulary in the English language is extremely complex; one word can carry many meanings which are context and subject specific. For example, the word ‘prime’ in Maths has a different meaning to the word ‘prime’ in English, which is why developing pupils’ disciplinary literacy is incredibly important. Pupils need to be explicitly taught the meaning of words in different contexts and subject disciplines. Therefore, _every_ teacher is responsible for developing pupils’ literacy, including the teaching of vocabulary. This can be done by ensuring pupils have the opportunity to learn new words and explore ways to use familiar words in new contexts.
 
 Vocabulary should be taught to pupils both implicitly, through modelling high-quality oral language, and explicitly, via the direct teaching of new words.
 
@@ -295,7 +295,7 @@ Etymology is the study of the origin of words. Many academic, subject-specific w
 To help pupils understand what _photosynthesis_ means, you might teach them the morphology (photo-syn-thesis) and etymology (light-with-setting) of the word:
 
 <figure>
-  <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-Etymology-4.jpg" alt="Diagram illustrates etymology of the work photosynthesis: 'photo' means light, 'syn' means with or together and 'thesis' means setting, putting or placing." />
+  <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-Etymology-4.jpg" alt="Diagram illustrates etymology of the work photosynthesis: ‘photo’ means light, ‘syn’ means with or together and ‘thesis’ means setting, putting or placing." />
   <figcaption>
     Figure 2: ‘The morphology of Photosynthesis’, taken from
   </figcaption>

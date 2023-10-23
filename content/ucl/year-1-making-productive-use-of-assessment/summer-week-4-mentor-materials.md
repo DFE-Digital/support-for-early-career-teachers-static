@@ -69,7 +69,7 @@ You might consider factors such as:
 
 Collaborative planning
 
-Using the characteristics of good self- and peer-assessment outlined in the the research and practice summary in this week's ECT materials, work with your mentee on one of the two options below to plan how they could build effective self-assessment into a forthcoming lesson that they will be teaching.
+Using the characteristics of good self- and peer-assessment outlined in the the research and practice summary in this week’s ECT materials, work with your mentee on one of the two options below to plan how they could build effective self-assessment into a forthcoming lesson that they will be teaching.
 
 If the group has not engaged in self-assessment with your mentee previously, focus planning on:
 

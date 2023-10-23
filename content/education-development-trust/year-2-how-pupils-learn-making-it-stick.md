@@ -4,7 +4,7 @@ heading: "Second half-term: how pupils learn - making it stick"
 caption: "Year 2"
 ---
 
-In this module you'll consider how you can make new learning stick over time so that pupils remember what they've been taught.
+In this module you’ll consider how you can make new learning stick over time so that pupils remember what they’ve been taught.
 
 ## Module introduction
 
@@ -17,7 +17,7 @@ Duration: 5 minutes.
 
 ### Mentors
 
-There's no catch-up with the ECT this week. You just need to watch the brief video introduction to the module.
+There’s no catch-up with the ECT this week. You just need to watch the brief video introduction to the module.
 
 [View mentor materials](/education-development-trust/year-2-how-pupils-learn-making-it-stick/autumn-week-0-mentor-materials)
 
@@ -110,13 +110,13 @@ Duration: 30 minutes.
 
 ### Mentors
 
-Use the materials below to help you plan a discussion with the ECT about what they've learnt during this module.
+Use the materials below to help you plan a discussion with the ECT about what they’ve learnt during this module.
 
 [View mentor materials](/education-development-trust/year-2-how-pupils-learn-making-it-stick/autumn-week-6-mentor-materials)
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
 
 Duration: 5 minutes.
 

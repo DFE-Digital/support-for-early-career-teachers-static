@@ -46,4 +46,4 @@ N.B. Teachers were asked to reflect on any need for subject knowledge developmen
 
 ### Additional resources:
 
-[Deans for Impact's report on the science of learning](https://deansforimpact.org/resources/the-science-of-learning/)
+[Deans for Impact’s report on the science of learning](https://deansforimpact.org/resources/the-science-of-learning/)

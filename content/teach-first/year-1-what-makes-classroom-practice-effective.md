@@ -4,11 +4,11 @@ heading: "First half-term: what makes classroom practice effective?"
 caption: "Year 1"
 ---
 
-In this module you'll hear an education expert talking about the features of effective classroom practice and why they are so important. You'll then explore the features in detail and have time to plan them into your sequences of lessons.
+In this module you’ll hear an education expert talking about the features of effective classroom practice and why they are so important. you’ll then explore the features in detail and have time to plan them into your sequences of lessons.
 
 ## Introduction to the module
 
-Go through the module introduction to see what you'll be learning.
+Go through the module introduction to see what you’ll be learning.
 
 Duration: 10 minutes.
 
@@ -25,7 +25,7 @@ Go through the module introduction to see what the ECT will be learning.
 During the first topic of the module you need to:
 
 - work through the self-study materials below
-- meet your mentor to discuss what you'll be doing in the weeks ahead
+- meet your mentor to discuss what you’ll be doing in the weeks ahead
 
 Duration: 15 minutes.
 
@@ -37,7 +37,7 @@ Duration: 15 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-1-mentor-materials)
 
@@ -59,7 +59,7 @@ Duration: 65 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-2-mentor-materials)
 
@@ -81,7 +81,7 @@ Duration: 60 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-3-mentor-materials)
 
@@ -103,7 +103,7 @@ Duration: 60 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-4-mentor-materials)
 

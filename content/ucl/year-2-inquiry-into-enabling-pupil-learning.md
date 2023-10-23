@@ -4,7 +4,7 @@ heading: "First half-term: inquiry into enabling pupil learning"
 caption: "Year 2"
 ---
 
-In this module you'll focus on one particular part of your teaching to evaluate the impact your practices have on your pupils.
+In this module you’ll focus on one particular part of your teaching to evaluate the impact your practices have on your pupils.
 
 ## Week 1: module audit
 

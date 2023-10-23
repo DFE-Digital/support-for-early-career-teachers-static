@@ -218,9 +218,9 @@ Building positive relationships with the classes and individual pupils you teach
 
 To make a positive start, teachers need to get to know the pupils they teach, for example by using their names and modelling the respectful attitude they expect in return (Muijs & Reynolds, 2017).
 
-#### Learning everyone's name
+#### Learning everyone’s name
 
-Watch this video of a teacher explaining techniques they use to quickly remember pupils' names.
+Watch this video of a teacher explaining techniques they use to quickly remember pupils’ names.
 
 Listen to the strategies the teacher uses to learn names quickly and consider what the impact of each one would be.
 
@@ -363,7 +363,7 @@ Murdock-Perriera, L. A. &amp; Sedlacek, Q. C. (2018) Questioning Pygmalion in th
 
 PISA (2015) PISA in Focus: Do teacher-student relations affect students’ well-being at school? Accessible from: <a href="https://doi.org/10.1787/22260919">https://doi.org/10.1787/22260919</a>.
 
-Rathmann K., Herke M., Hurrelmann K. &amp; Richter M. (2018) Perceived class climate and school-aged children's life satisfaction: The role of the learning environment in classrooms. PLoS ONE 13(2): e0189335. <a href="https://doi.org/10.1371/journal.pone.0189335">https://doi.org/10.1371/journal.pone.0189335</a>.
+Rathmann K., Herke M., Hurrelmann K. &amp; Richter M. (2018) Perceived class climate and school-aged children’s life satisfaction: The role of the learning environment in classrooms. PLoS ONE 13(2): e0189335. <a href="https://doi.org/10.1371/journal.pone.0189335">https://doi.org/10.1371/journal.pone.0189335</a>.
 
 Rosenshine, B. (2012) Principles of Instruction: Research-based strategies that all teachers should know. American Educator, 12–20. <a href="https://doi.org/10.1111/j.1467-8535.2005.00507.x">https://doi.org/10.1111/j.1467-8535.2005.00507.x</a>.
 

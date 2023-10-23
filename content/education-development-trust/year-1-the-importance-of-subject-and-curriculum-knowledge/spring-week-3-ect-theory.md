@@ -93,7 +93,7 @@ Video script.
 </span>
 <span style="font-weight: 400;">–</span>
 <span style="font-weight: 400;">
-  
+
   it basically means helping them learn how to blend sounds. With synthetic
   phonics, we are teaching spelling too. We teach spelling as the reverse of
   reading. For reading, children see the word first and then say the sounds. For
@@ -264,7 +264,7 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 - Model the use of sentence stems.
 - Prepare a bank of common sentence stems for display.
 - Sentence stems help pupils speak in full sentences.
-- Use this approach regularly so pupils' talk improves over time.
+- Use this approach regularly so pupils’ talk improves over time.
 
 #### Approach: Think, pair, share
 
@@ -325,7 +325,7 @@ call these tier 2 and tier 3 words.
 </span>
 
 - Tier 1: Words of everyday speech, familiar to most children.&nbsp;
-- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil's language ability.
+- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil’s language ability.
 - Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.&nbsp;
   <b>Examples</b>
   <span style="font-weight: 400;"> </span>
@@ -350,8 +350,8 @@ call these tier 2 and tier 3 words.
   encounter in everyday speech.
 </span>
 <span style="font-weight: 400;"> </span>
-- Choose which words you will explicitly teach in your subject or phase. 
-- Remember that these are most likely to be tier 2 and tier 3 words because they are more complex or subject specific and therefore less likely to be acquired through oral language.&nbsp; 
+- Choose which words you will explicitly teach in your subject or phase.
+- Remember that these are most likely to be tier 2 and tier 3 words because they are more complex or subject specific and therefore less likely to be acquired through oral language.&nbsp;
 - You should select these words when planning a lesson or sequence of lessons so that you have time to plan how you will teach them.
 <span style="font-weight: 400;">
   To do this you can use the robust vocabulary instruction in the table above.
@@ -407,7 +407,7 @@ Video script.
 </span>
 <span style="font-weight: 400;">–</span>
 <span style="font-weight: 400;">
-  
+
   what is a grocer? And who is a grocer boy?”
 </span>
 
@@ -461,7 +461,7 @@ Video script.
 
 <span style="font-weight: 400;">
   Teacher: “That’s right – do you see, Harry? The Mummy says ‘I wonder who that
-  can be?' Which means she doesn’t know who is at the door yet.”
+  can be’ Which means she doesn’t know who is at the door yet.”
 </span>
 
 <span style="font-weight: 400;">

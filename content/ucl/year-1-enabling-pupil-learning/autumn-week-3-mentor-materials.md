@@ -31,7 +31,7 @@ Develop a positive, predictable and safe environment for pupils by:
 
 In their self-directed study this week, your mentee learned about strategies for establishing and maintaining the learning environment. This session builds on week 2 content and draws on the ‘_learn that…_’ statements addressed there (1.1–1.5, 7.1–7.2).
 
-In this session, you will support your ECT to observe a colleague’s teaching and see, in action, some of the strategies discussed in the research and practice summary in this week's ECT materials. You will reflect together on this observation and you will work with your ECT to script and rehearse a strategy of their own.
+In this session, you will support your ECT to observe a colleague’s teaching and see, in action, some of the strategies discussed in the research and practice summary in this week’s ECT materials. You will reflect together on this observation and you will work with your ECT to script and rehearse a strategy of their own.
 
 You might find it practical to split this session across a number of shorter meetings in this week. For example, the lesson observation (‘Plan’) may take place before you and your ECT meet (when you would begin with the ‘Review’ activity and then move on to ‘Theory to Practice’.
 
@@ -49,7 +49,7 @@ Review: 5 mins
 
 Plan: 10 mins
 
-Observe a colleague– arrange for your mentee to observe a colleague for 10 minutes as they demonstrate some of the strategies covered in the research and practice summary in this week's ECT materials. Ask your mentee to make brief notes against the following prompts during the observation:
+Observe a colleague– arrange for your mentee to observe a colleague for 10 minutes as they demonstrate some of the strategies covered in the research and practice summary in this week’s ECT materials. Ask your mentee to make brief notes against the following prompts during the observation:
 
 - What strategies does the teacher use to communicate and maintain their high expectations of pupils’ behaviour? (e.g. for contributions, volume level and concentration)
 - How do pupils respond to the teacher? Which strategies appear to be most effective in this classroom?
@@ -59,21 +59,21 @@ Observe a colleague– arrange for your mentee to observe a colleague for 10 min
 To support the impact of this activity you should:
 
 - if possible, accompany your mentee for this observation, so that you can help them to make sense of what is observed
-- consider carefully which colleague will offer the most fruitful learning experience for your mentee by modelling some of the strategies covered in the research and practice summary in this week's ECT materials. (this could be you if you feel you are best placed to do this)
+- consider carefully which colleague will offer the most fruitful learning experience for your mentee by modelling some of the strategies covered in the research and practice summary in this week’s ECT materials. (this could be you if you feel you are best placed to do this)
 - wherever possible, brief the colleague who is being observed about the focus of the observation, so that they can tell your mentee which would be the most useful part of the lesson to see
 
 Theory to Practice: 35 mins
 
 1. Discussion with mentor
-   Discuss with your mentee what they saw in their observation and how this helps them to make sense of the research and practice summary in this week's ECT materials.
+   Discuss with your mentee what they saw in their observation and how this helps them to make sense of the research and practice summary in this week’s ECT materials.
    You could address the following questions:
-   - how do the strategies in use reflect the good practice outlined in the research and practice summary in this week's ECT materials?
+   - how do the strategies in use reflect the good practice outlined in the research and practice summary in this week’s ECT materials?
    - how do the strategies in use reflect the characteristics of the pupils, the context of the class and the content being taught?
    - which strategies does your mentee already use in their own practice?
    - what would your mentee like to add to or change in their own practice, having completed this observation?
    - how do the strategies, sanctions and rewards observed reflect your school’s behaviour policy?
 2. Scripting
-   Drawing on your discussion in activity 1, work with your mentee to script the details of a strategy that your mentee would like to add to their practice. This should draw on the content of the research and practice summary in this week's ECT materials.
+   Drawing on your discussion in activity 1, work with your mentee to script the details of a strategy that your mentee would like to add to their practice. This should draw on the content of the research and practice summary in this week’s ECT materials.
    To make this as useful as possible, address these points as you complete this activity:
    - clarify explicitly the purpose of the strategy (e.g. gaining pupils’ attention, giving clear instructions for a common routine in the classroom)
    - be specific about whether this script is for use with all pupils, a specific pupil or group of pupils

@@ -80,7 +80,7 @@ Hinge question during the lesson.
 ##### Decision this will support:
 I want to know whether pupils have grasped the concept so I can move on or whether I need to reteach it.
 
-The ECT should select one misconception from their list and decide how they are going to check pupils' understanding of this. Together with the mentor they should plan the assessment.
+The ECT should select one misconception from their list and decide how they are going to check pupils’ understanding of this. Together with the mentor they should plan the assessment.
 
 ### In class tasks and questioning to enable identification of knowledge gaps and misconceptions (15 minutes)
 
@@ -205,7 +205,7 @@ Pose the question: can you come up with some more stems that are relevant to you
 
 ### Monitoring pupil work during lessons (25 minutes)
 
-One way that you can check prior knowledge and understanding during lessons is to monitor pupils' work. This can be done using ‘live marking’ as a strategy. Together, watch the video from the self-directed study materials.
+One way that you can check prior knowledge and understanding during lessons is to monitor pupils’ work. This can be done using ‘live marking’ as a strategy. Together, watch the video from the self-directed study materials.
 
 Questions for discussion:
 

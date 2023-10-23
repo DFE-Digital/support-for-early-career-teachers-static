@@ -94,9 +94,9 @@ consider:
 
 ### Engaging parents and carers
 
-Engaging parents or carers in their child's education by sharing successes or achievements with them is another way to extrinsically motivate pupils.
+Engaging parents or carers in their child’s education by sharing successes or achievements with them is another way to extrinsically motivate pupils.
 
-It can also help to build relationships with carers and families which can further improve pupil's motivation, behaviour and academic success.
+It can also help to build relationships with carers and families which can further improve pupil’s motivation, behaviour and academic success.
 
 There are many ways of doing this and often schools have their own policies on engaging with parents and carers, so speak with your mentor to explore the approaches you could take.
 
@@ -120,7 +120,7 @@ Building effective relationships is easier when pupils believe that their feelin
 Video transcript.
 
 <span style="font-weight: 400;">
-  It's a grey Wednesday morning in November. You have left the house in a hurry,
+  it’s a grey Wednesday morning in November. You have left the house in a hurry,
   forgetting your keys, and snapped at your mum on the phone on the way in to
   work. You arrive at school later than you had wanted to, with less time to
   prepare for the day ahead than you had hoped for. In a short time, your class
@@ -218,7 +218,7 @@ can be maintained through a finely tuned balance of
   behaviour you want to see and also as a reminder to young people when they
   aren’t displaying the behaviour that is helpful to them or others. Remind them
   gently ‘do you remember we said we all wanted to feel safe’, 'I wonder if this
-  is helping others feel safe, or listened to?', 'What do we need to do to help
+  is helping others feel safe, or listened to?’, ‘What do we need to do to help
   everyone feel this way?’ This will support their own ability to recognise what
   they need in order to learn, through an understanding of their own feelings
   and drivers of their behaviour and therefore support them to self-regulate

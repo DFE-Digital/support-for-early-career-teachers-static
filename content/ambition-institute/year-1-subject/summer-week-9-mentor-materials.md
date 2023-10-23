@@ -20,9 +20,9 @@ Consider the development areas for this topic (below). Then make a note of the a
 {details}
 Example precise target: Teacher plans an assessment task that checks pupils have understood the key learning from the lesson and enables the identification of common misconceptions.
 
-- **Not doing it at all:** Plan how you will assess pupils in a way that enables you to check pupils' understanding of the key learning.
-- **Doing it but needs some improvement:** Plan how you will assess pupils in a way that enables you to check pupils' understanding of the key learning and deliberately targets a common misconception that pupils may hold related to the key learning
-- **Doing it well and needs some stretch:** Plan how you will assess pupils in a way that enables you to check pupils' understanding of the key learning and deliberately targets multiple common misconceptions pupils may hold related to the key learning.
+- **Not doing it at all:** Plan how you will assess pupils in a way that enables you to check pupils’ understanding of the key learning.
+- **Doing it but needs some improvement:** Plan how you will assess pupils in a way that enables you to check pupils’ understanding of the key learning and deliberately targets a common misconception that pupils may hold related to the key learning
+- **Doing it well and needs some stretch:** Plan how you will assess pupils in a way that enables you to check pupils’ understanding of the key learning and deliberately targets multiple common misconceptions pupils may hold related to the key learning.
 
 {/details}
 

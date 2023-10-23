@@ -60,7 +60,7 @@ You completed activity 4.2 of the self-directed study materials ‘Understanding
   - When you teach better, pupils are more likely to be successful. Success is a motivating factor for pupils.
   - It means you understand the structure and the rules of the subject.
   - It helps you better sequence learning.
-  - It helps you better understand what pupils' misconceptions might be and therefore prepare for them.
+  - It helps you better understand what pupils’ misconceptions might be and therefore prepare for them.
   - It helps you to make links to previously learned material in the curriculum, thereby strengthening schema and improving long-term memory for pupils.
 - What is explicit teaching and when should you use it? Why is it particularly important when addressing misconceptions?
   - Explicit teaching is direct instruction or exposition from the teacher.

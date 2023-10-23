@@ -16,7 +16,7 @@ Regular, purposeful practice is vital for pupil learning, so teachers need to de
 
 ### The benefits and challenges of getting pupils to practise
 
-Independent practice is vital to pupil learning and success. To learn, pupils need to think hard about the content they have been taught (Coe, 2013). Effective teachers give plenty of class time for independent practice (Rosenshine, 2012). It has clear benefits for pupils' learning in terms of:
+Independent practice is vital to pupil learning and success. To learn, pupils need to think hard about the content they have been taught (Coe, 2013). Effective teachers give plenty of class time for independent practice (Rosenshine, 2012). It has clear benefits for pupils’ learning in terms of:
 
 - Developing pupil fluency: When pupils practise, their understanding becomes more fluent and automatic, making it easier for pupils to apply their knowledge and learn new material (Rosenshine, 2012).
 - Helping pupils remember: For example, retrieval practice (getting pupils to recall what they have learned) is one of the best ways to ensure pupils remember learning at a later date (Pashler et al., 2008).

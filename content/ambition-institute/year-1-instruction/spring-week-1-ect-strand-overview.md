@@ -13,7 +13,7 @@ Welcome to the Instruction module of the programme. This module is composed of 1
 By the end of this module you will have an evidence-informed understanding of:
 
 - the link between effective instruction and pupil learning
-- the elements of explicit instruction and the ‘I-We-You' model as a useful way of approaching this
+- the elements of explicit instruction and the ‘I-We-You’ model as a useful way of approaching this
 - how instruction can support more effective pupil thinking
 
 This programme has been designed to ensure that teachers develop a holistic understanding of effective teaching so, while the Instruction module is mostly about instruction, it also incorporates insights from Behaviour and Subject, as these are also important to support pupil learning. When we say ‘instruction’ we mean the combination of teaching and learning, rather than just teacher input. We therefore define instruction as “any activity that is intended to create learning” (Wiliam & Black, 2009).
@@ -206,7 +206,7 @@ Ms Brophy can make better instructional decision by understanding that:
 - learning is a lasting change in pupil capabilities and understanding - if nothing is remembered, nothing has been learned
 - effective instruction takes pupil working and long-term memory into account
 - effective instruction involves explicitly teaching the knowledge and skills pupils need in small steps, ensuring a high success rate. Retrieval and practice help them remember what they have learnt
-- the ‘I-We-You' model is a useful rule of thumb for instructional decisions
+- the ‘I-We-You’ model is a useful rule of thumb for instructional decisions
 - pupils learn at different rates and have different levels of prior knowledge, so effective teachers guide practice and adapt instruction and pupil grouping to provide further support for these pupils
 - once explicit teaching has been mastered, instruction can be further refined through developing questioning, talk and feedback
 

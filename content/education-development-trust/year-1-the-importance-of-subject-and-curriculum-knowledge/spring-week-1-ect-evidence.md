@@ -185,7 +185,7 @@ Guzzetti, Barbara J. (2000) Learning counterintuitive science concepts: what hav
 
 Hattie, J. (2012) _Visible Learning for Teachers_. Oxford: Routledge.
 
-Jerrim, J., &amp; Vignoles, A. (2016) The link between East Asian "mastery" teaching methods and English children's mathematics skills. _Economics of Education Review_, 50, 29‒44.<a href="about:blank"> https://doi.org/10.1016/j.econedurev.2015.11.003</a>.
+Jerrim, J., &amp; Vignoles, A. (2016) The link between East Asian "mastery" teaching methods and English children’s mathematics skills. _Economics of Education Review_, 50, 29‒44.<a href="about:blank"> https://doi.org/10.1016/j.econedurev.2015.11.003</a>.
 
 Muijs, D., &amp; Reynolds, D. (2017) _Effective teaching: Evidence and practice_. Thousand Oaks, CA: Sage.
 

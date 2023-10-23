@@ -74,7 +74,7 @@ Only ask the questions that you need the answers to for your inquiry.
 Make sure your pupils understand the questions and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…
 
 ##### Is it manageable?
-Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them. When can you collect pupil voice data? Can you do it in your lesson by a show of hands, or by speaking to a small group for 3 minutes while their classmates get on with independent learning? Do you need 5 minutes of a break time? Don't use up more of your – or their – time than is strictly necessary.
+Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them. When can you collect pupil voice data? Can you do it in your lesson by a show of hands, or by speaking to a small group for 3 minutes while their classmates get on with independent learning? Do you need 5 minutes of a break time? don’t use up more of your – or their – time than is strictly necessary.
 
 Sam decided to give his class a short, hand-up survey. Because he wanted to be sure he understood those findings and could rely on them, he then interviewed a small, representative sample of pupils in focus groups over three morning breaks.
 

@@ -15,7 +15,7 @@ Therefore, you should support pupils to develop their reading ability regardless
 The Simple View of Reading identifies two main elements that are required when reading:
 
 - Word recognition – pupils being able to read or accurately decode words
-- Language comprehension – pupils' level of understanding of the text
+- Language comprehension – pupils’ level of understanding of the text
 
 <figure>
   <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-12-The-Simple-View-of-Reading-Updated.jpg" alt="Diagram showing the relationship between decoding and language comprehension. Being at the bottom end of both scales results in poor word recognition and poor comprehension whilst being at the top end of each scale results in good word recognition and good comprehension." />
@@ -56,7 +56,7 @@ Word recognition is comprised of three main elements. When reading, pupils will 
 
 Language comprehension involves the integration of multiple sources of knowledge and skills. In order to comprehend a text, pupils need to have literacy knowledge, such as knowing to read text from left to right. They also need to understand the meaning of the vocabulary their reading, and the syntax, so they can make sense of words and sentences. Background knowledge of a topic is also important as this enables the reader or listener to verbally reason and to make inferences. All these components weave together to comprise effective language comprehension. A pupil with poor language comprehension may struggle to understand what a task is asking them to do or misinterpret key points in a text.
 
-How can you develop pupils' reading?
+How can you develop pupils’ reading?
 
 The Simple View of Reading highlights the need for a balanced approach to supporting pupils to become fluent readers. Both word recognition and language comprehension need to be addressed. When supporting pupils to read, it is important that you are aware of the individual reading challenges your pupils face and what their next individual steps are to improve.
 
@@ -173,7 +173,7 @@ The more that you learn
 
 the more places you will go’.
 
-Parents and carers should be informed that reading with their children can broaden their child's vocabulary and increase their knowledge which supports both word recognition and language comprehension. By helping to develop their child's literacy skills, parents and carers have the potential to improve outcomes for their children.
+Parents and carers should be informed that reading with their children can broaden their child’s vocabulary and increase their knowledge which supports both word recognition and language comprehension. By helping to develop their child’s literacy skills, parents and carers have the potential to improve outcomes for their children.
 
 The Education Endowment Foundation – also known as the EEF – state that overall, there is consistent evidence that the level and quality of parental involvement in learning is linked to a child’s communication, language, and literacy capabilities, and supporting parents to help their children learn has the potential to improve outcomes.
 

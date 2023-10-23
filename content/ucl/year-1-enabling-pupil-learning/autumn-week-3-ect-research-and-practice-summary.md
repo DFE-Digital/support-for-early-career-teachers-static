@@ -1,7 +1,7 @@
 ---
 title: "Research and practice summary"
-previous_title: "What you'll learn in this topic"
-previous_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-what-you'll-learn-in-this-topic"
+previous_title: "What you’ll learn in this topic"
+previous_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-what-you’ll-learn-in-this-topic"
 next_title: "Self-study activities"
 next_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-self-study-activities"
 ---

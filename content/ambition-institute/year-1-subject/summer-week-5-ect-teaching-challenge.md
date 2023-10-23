@@ -33,7 +33,7 @@ Concrete examples are much easier to understand (Willingham, 2009): in each case
 
 ### Checking pupil understanding and offering opportunities for practice
 
-Ms Smith needs to check pupil understanding before beginning tasks which ask pupils to apply their new learning. She could use diagnostic questions, presenting pupils with several options, working with colleagues to identify answers which are either correct or common misconceptions. Pupils' responses allow her to identify pupils who hold misconceptions and ensure they have grasped key ideas before continuing (Christodoulou, 2017). Ms Smith needs to ask herself, “how would I know pupils have acquired enough knowledge to practise successfully?”
+Ms Smith needs to check pupil understanding before beginning tasks which ask pupils to apply their new learning. She could use diagnostic questions, presenting pupils with several options, working with colleagues to identify answers which are either correct or common misconceptions. pupils’ responses allow her to identify pupils who hold misconceptions and ensure they have grasped key ideas before continuing (Christodoulou, 2017). Ms Smith needs to ask herself, “how would I know pupils have acquired enough knowledge to practise successfully?”
 
 Once pupils have enough knowledge, Ms Smith can ensure pupils practise applying it through meaningful tasks which promote their learning of new ideas (Willingham, 2009). Although pupils will initially have inflexible knowledge – knowledge which they struggle to apply to new contexts – through continued thinking and processing of new ideas, they will come to use this knowledge increasingly flexibly (Willingham, 2002).
 

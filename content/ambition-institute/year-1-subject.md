@@ -4,7 +4,7 @@ heading: "Subject"
 caption: "Year 1"
 ---
 
-In this module you'll cover:
+In this module you’ll cover:
 
 - the curriculum
 - your mental model of the subject or phase you teach and its implications for your planning
@@ -170,7 +170,7 @@ Looks at drawing inferences, identifying misconceptions and getting pupils to el
 
 [View mentor materials](/ambition-institute/year-1-subject/summer-week-10-mentor-materials)
 
-## Week 11: adapting lessons to meet pupils' needs
+## Week 11: adapting lessons to meet pupils’ needs
 
 Explores the ways formative assessments can provide inferences to adapt teaching to meet the needs of their pupils.
 

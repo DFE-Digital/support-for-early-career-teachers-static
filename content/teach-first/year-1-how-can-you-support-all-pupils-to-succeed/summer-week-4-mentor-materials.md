@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Summer week 4"
 ---
 
-## Observation discussion - adaptive teaching to respond to pupils' needs
+## Observation discussion - adaptive teaching to respond to pupils’ needs
 
 ### Practice focus
 

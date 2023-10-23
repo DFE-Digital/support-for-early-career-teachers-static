@@ -63,7 +63,7 @@ To help you use questioning to check your pupils’ prior learning and to assess
 - use multiple-choice questions to identify knowledge gaps and misconceptions during lessons (e.g. a good source of well-constructed multiple-choice questions can be past examination papers, if these are available in your phase and specialism)
 - prompt pupils to elaborate when responding to questioning to check that a correct answer stems from secure understanding (e.g. ‘tell me how you reached that answer’, ‘what tells you that this is the correct answer?’)
 - use ‘hands-down’ questioning – when you pose a question to the whole class, give them thinking time, then you select the pupils to speak
-- combine ‘hands-down’ with ‘think-pair-share', where everyone thinks alone, then discusses with a partner, before the teacher selects the pupils to answer
+- combine ‘hands-down’ with ‘think-pair-share’, where everyone thinks alone, then discusses with a partner, before the teacher selects the pupils to answer
 - allow thinking time – often a little longer than feels naturally comfortable
 
 Recording key questions in schemes of work also encourages teachers to identify what they want pupils to know and understand, to communicate this to pupils (sharing learning goals) and to find ways of checking that these have been achieved in lessons. This in turn enables teachers to tailor their teaching to what pupils need to know next.

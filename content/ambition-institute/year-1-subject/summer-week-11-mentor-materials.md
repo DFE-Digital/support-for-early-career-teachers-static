@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Summer week 11"
 ---
 
-## Adapting lessons to meet pupils' needs
+## Adapting lessons to meet pupils’ needs
 
 ### Select a development area
 
@@ -56,7 +56,7 @@ Reminder: Your model should help your teacher develop their ability in some of t
 
 - Be aware of common misconceptions and discuss with experienced colleagues how to help pupils master important concepts.
 - Adapt lessons, whilst maintaining high expectations for all.
-- Plan to connect new content with pupils' existing knowledge or provide additional pre-teaching if pupils lack critical knowledge.
+- Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge.
 - Build in additional practice for pupils that need it.
 - Reframe questions to provide greater scaffolding or greater stretch.
 - Consider carefully whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils.

@@ -185,7 +185,7 @@ Reflect on your practice:
 
 For a lesson you have coming up, develop a multiple-choice quiz that you could use at the beginning of the lesson to check for prior knowledge – this can include the security of that knowledge.
 
-For example, the teacher has taught one lesson in a sequence of lessons on the Battle of Hastings. He uses the following multiple-choice questions to test pupils' knowledge as they go into lesson 2.
+For example, the teacher has taught one lesson in a sequence of lessons on the Battle of Hastings. He uses the following multiple-choice questions to test pupils’ knowledge as they go into lesson 2.
 
 1. Why might Harold’s army have been tired before the Battle of Hastings?
  - They had recently fought Harald Hadrada.
@@ -202,7 +202,7 @@ For example, the teacher has taught one lesson in a sequence of lessons on the B
 
 #### 5 quick questions/If this is the answer, what’s the question?
 
-For a lesson you have coming up, develop a series of 5 quick questions you could ask to check for pupils' prior knowledge.
+For a lesson you have coming up, develop a series of 5 quick questions you could ask to check for pupils’ prior knowledge.
 
 For example, taking the same history lesson as above:
 

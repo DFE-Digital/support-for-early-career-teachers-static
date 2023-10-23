@@ -72,7 +72,7 @@ to check simple understanding. They can be asked at pace and keep pupils focused
 on the lesson.
 
 Open questions allow for more developed responses and can be used
-to check that pupils' correct answers stem from a secure understanding. They enable
+to check that pupils’ correct answers stem from a secure understanding. They enable
 pupils to explain their thinking and explore what they know and understand.
 
 Consider these questions:
@@ -169,7 +169,7 @@ Can you write five open questions for an upcoming lesson?
 
 We often want to assess whether pupils understand a key idea before we move on. When this is the case, we can use a hinge question. These are questions that reliably check pupils’ knowledge or understanding and quickly give teachers information to decide whether and how to move on with the topic being taught.
 
-Hinge questions often take the form of multiple-choice questions. Multiple-choice questions are a great way to check pupils' knowledge and understanding and identify misconceptions. However, they need careful planning, so that they:
+Hinge questions often take the form of multiple-choice questions. Multiple-choice questions are a great way to check pupils’ knowledge and understanding and identify misconceptions. However, they need careful planning, so that they:
 
 - Do not allow pupils to get the right answers for the wrong reason; i.e. pupils should not be able to guess or work out the correct answers because of the way the question is written, they should only be able to get the correct answers based on their understanding of the concept.
 - Ensure every option in the question provides the teacher with valuable evidence of pupils’ thinking – if pupils get the wrong answer, it tells the teacher something very important.
@@ -271,7 +271,7 @@ You will have further opportunities to practise hinge questions with your mentor
 
 ### 3. Follow-on questions
 
-We can scaffold, extend or challenge pupils’ thinking by reframing questions. One way to do this is to use follow-on questions. The type of follow-on question, and how much guidance it offers to pupils, will depend on pupils' knowledge and understanding.
+We can scaffold, extend or challenge pupils’ thinking by reframing questions. One way to do this is to use follow-on questions. The type of follow-on question, and how much guidance it offers to pupils, will depend on pupils’ knowledge and understanding.
 
 For pupils who need more support, more scaffolding is appropriate and the form is more likely to be a closed question; for those who need further stretch, we can ask open questions that encourage them to explore their answers further or respond to each other’s answers.
 
@@ -281,7 +281,7 @@ unbalanced forces affect an object. This learning will then be built on to devel
 an understanding about Newton’s laws of motion, with quantitative approaches to calculating
 answers taught last.
 
-The teacher has planned a series of questions to use: some are to scaffold the necessary knowledge needed; other questions are to stretch the pupils' thinking by getting them to explain, analyse, apply and link ideas.
+The teacher has planned a series of questions to use: some are to scaffold the necessary knowledge needed; other questions are to stretch the pupils’ thinking by getting them to explain, analyse, apply and link ideas.
 
 Questions that scaffold knowledge:
 
@@ -352,7 +352,7 @@ Robin Alexander, a well-known proponent of dialogic teaching (2004), distinguish
 ##### What does it look like in the classroom?
 
 - Pupils must listen to each other so they can respond.
-- Pupils might react to each other's ideas with their own viewpoint or a different suggestion.
+- Pupils might react to each other’s ideas with their own viewpoint or a different suggestion.
 - Answers should be justified and built upon by other pupils.
 
 #### Element of classroom talk: Supportive

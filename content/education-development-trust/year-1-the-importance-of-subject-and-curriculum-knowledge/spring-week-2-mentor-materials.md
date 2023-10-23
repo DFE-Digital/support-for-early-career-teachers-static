@@ -22,7 +22,7 @@ Learn how to deliver a carefully sequenced and coherent curriculum by:
 
 Explain to the ECT that the focus of the mentor topic is to learn how to identify essential concepts, knowledge, skills and principles within their subject. As a first step, the focus will be on doing this for a particular scheme of learning or sequence of lessons that the ECT has already taught so that this activity can be related directly to their practice.
 
-Pose the question: what do you think is meant by the term ‘essential’ in the intended outcome statement 'Identifying essential concepts, knowledge, skills and principles of the subject and providing opportunity for all pupils to learn and master these critical components'?
+Pose the question: what do you think is meant by the term ‘essential’ in the intended outcome statement ‘Identifying essential concepts, knowledge, skills and principles of the subject and providing opportunity for all pupils to learn and master these critical components’?
 
 Answer: the most important aspects that will ensure the pupils successfully master the content of the curriculum.
 

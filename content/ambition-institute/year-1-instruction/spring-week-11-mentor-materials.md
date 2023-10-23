@@ -22,7 +22,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 Example precise target: Teacher explains and models the habits of an effective whole-class discussion.
 
 - **Not doing it at all:** Plan and deliver an explanation for pupils that states what they should do during a whole-class discussion e.g. watch the person speaking, listen and think about what their response will be.
-- **Doing it but needs some improvement:** Plan and deliver a model to pupils that shows them what they should be doing during a whole-class discussion e.g. modelling the level of attentiveness to the person speaking and thinking aloud the thought process pupils might have in deciding if they want to agree, challenge or build on another pupil's response.
+- **Doing it but needs some improvement:** Plan and deliver a model to pupils that shows them what they should be doing during a whole-class discussion e.g. modelling the level of attentiveness to the person speaking and thinking aloud the thought process pupils might have in deciding if they want to agree, challenge or build on another pupil’s response.
 - **Doing it well and needs some stretch:** Plan and deliver an explanation of a memorable framework for whole-class discussions that captures the habits of effective whole-class discussion and model how it should be used.
 
 {/details}

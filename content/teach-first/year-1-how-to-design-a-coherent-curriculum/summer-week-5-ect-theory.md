@@ -22,7 +22,7 @@ Watch the video of either Emily (Primary and Secondary) or Maria (Early Years) t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2JV2Oh2ORQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Developing pupils' knowledge throughout a scheme of work – Emily Maule
+Developing pupils’ knowledge throughout a scheme of work – Emily Maule
 
 {details}
 Video transcript.

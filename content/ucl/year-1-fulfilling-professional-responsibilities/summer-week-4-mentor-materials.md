@@ -97,7 +97,7 @@ As James’ first parents’ evening approached for his Year 9 classes, he spoke
 
 ▪ follow up – use the relationships developed at parents’ evening and follow up with things, especially if you see improvements. For instance, ‘Hello, Ms Morrison, I’m just calling to tell you what a difference I’ve seen in Adil’s work recently. Thank you for your support’
 
-James used these approaches to make the most of parents’ evening. He was helped by the work he had recently been doing about working more effectively and efficiently. Initially, he was very nervous and tended to do most of the talking, but found he got a lot more from parents' evenings when he asked questions of parents, rather than just telling them about how their children were doing in class.
+James used these approaches to make the most of parents’ evening. He was helped by the work he had recently been doing about working more effectively and efficiently. Initially, he was very nervous and tended to do most of the talking, but found he got a lot more from parents’ evenings when he asked questions of parents, rather than just telling them about how their children were doing in class.
 
 ### Meeting activities
 

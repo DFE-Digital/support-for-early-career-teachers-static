@@ -99,7 +99,7 @@ Teacher: Khadejah, look at the picture and tell me one adaptation that a camel h
 
 Questions for discussion:
 
-- How does the teacher respond to the pupil's response?
+- How does the teacher respond to the pupil’s response?
 - What sort of questions does the teacher ask?
 - How do the follow-on questions support pupil understanding?
 - What does it reveal to the teacher?

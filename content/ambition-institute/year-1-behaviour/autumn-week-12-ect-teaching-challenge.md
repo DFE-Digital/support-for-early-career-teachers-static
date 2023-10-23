@@ -84,7 +84,7 @@ Muijs, D. &amp; Reynolds, D. (2010). Effective Teaching. London: SAGE Publicatio
 
 Murdock-Perriera, L. A., &amp; Sedlacek, Q. C. (2018). Questioning Pygmalion in the twenty-first century: the formation, transmission, and attributional influence of teacher expectancies. Social Psychology of Education, 21(3), 691–707.
 
-Rathmann K., Herke M., Hurrelmann K., &amp; Richter M. (2018). Perceived class climate and school-aged children's life satisfaction: The role of the learning environment in classrooms. PLoS ONE 13(2): e0189335. <a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener">bit.ly/ecf-rat</a>
+Rathmann K., Herke M., Hurrelmann K., &amp; Richter M. (2018). Perceived class climate and school-aged children’s life satisfaction: The role of the learning environment in classrooms. PLoS ONE 13(2): e0189335. <a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener">bit.ly/ecf-rat</a>
 
 Rosenshine, B. (2012). Principles of Instruction: Research-Based Strategies That All Teachers Should Know. American Educator, 36(1), 12–20. <a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">bit.ly/ecf-ros</a>
 

@@ -9,7 +9,7 @@ previous_path: "/ambition-institute/year-1-instruction/spring-week-2-ect-teachin
 Ms Stones can deliver more effective instruction by identifying the learning content
 if she understands that:
 
-- learning is a process leading to changes in pupils' capabilities or understanding that happens when pupils think hard
+- learning is a process leading to changes in pupils’ capabilities or understanding that happens when pupils think hard
 - breaking learning down should make thinking manageable enough for pupils to experience a high success rate
 - identifying manageable steps is tricky, so teachers should check all pupils’ key learning, and provide further support to ensure a high success rate
 

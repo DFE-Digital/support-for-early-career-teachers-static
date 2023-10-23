@@ -34,7 +34,7 @@ Video transcript.
 <span style="font-weight: 400;">
   This Block aims to enhance your understanding of ‘effectiveness’ by moving
   beyond this repertoire of techniques, where you were mainly focused on your
-  own actions as teacher and how they correspond with your pupils' learning. 
+  own actions as teacher and how they correspond with your pupils’ learning. 
 </span>
 
 <span style="font-weight: 400;">

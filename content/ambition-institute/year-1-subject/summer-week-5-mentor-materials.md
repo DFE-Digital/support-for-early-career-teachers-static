@@ -14,7 +14,7 @@ Consider the development areas for this topic(below). Then make a note of the ar
 
 #### Focused development area
 
-- Teacher links new material to pupils' existing prior knowledge.
+- Teacher links new material to pupils’ existing prior knowledge.
 - Teacher plans to secure critical knowledge, skills and concepts before they are applied or more complex content is encountered.
 - Teacher, with the support of a colleague, plans to use powerful ways to convey knowledge, skills and concepts to pupils.
 - Teacher introduces abstract concepts in the form of concrete examples and explains the link between them.

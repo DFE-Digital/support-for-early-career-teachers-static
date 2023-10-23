@@ -144,7 +144,7 @@ to focus my attention on in the next lesson and helps me quickly identify which 
 need extra support from me.
 
 **Teacher 2:** After I have taught a key skill, I ask specific questions
-in the lesson, which I will have prepared in advance, to check pupils' understanding.
+in the lesson, which I will have prepared in advance, to check pupils’ understanding.
 I word my questions to help me identify specific misconceptions which I can then
 pre-empt in the planning process. This is a quick way of assessing pupils’ understanding
 and misconceptions in all lessons and means that I don’t have to spend hours and
@@ -221,7 +221,7 @@ and examples in each of their books, which took a really long time. Sometimes I 
 take so long to mark the full set of books that we had moved on in the curriculum
 and the motivation for pupils to respond to the feedback was gone.
 
-I now use a much more efficient approach which means pupils get feedback a lot quicker so they can act on it and it still feels relevant to the learning we are doing. I first saw this approach at a subject network meeting and I’ve used it ever since – I mark pupils' work but I just put a code (like a square or a star) next to the questions they got wrong based on an error. I then prepare one slide or print out which has the code and a worked example/explanation of the mistake. For example, the star shows that pupils have made an error with their units in the problem. Pupils are all given a copy of the class feedback and they have time to correct their work. An unintended outcome, which I didn’t expect, was pupils have started to help each other and ask others in their group who didn’t get that code to help them if they are stuck! It’s led to some really meaningful responses to feedback and pupils take it really seriously.
+I now use a much more efficient approach which means pupils get feedback a lot quicker so they can act on it and it still feels relevant to the learning we are doing. I first saw this approach at a subject network meeting and I’ve used it ever since – I mark pupils’ work but I just put a code (like a square or a star) next to the questions they got wrong based on an error. I then prepare one slide or print out which has the code and a worked example/explanation of the mistake. For example, the star shows that pupils have made an error with their units in the problem. Pupils are all given a copy of the class feedback and they have time to correct their work. An unintended outcome, which I didn’t expect, was pupils have started to help each other and ask others in their group who didn’t get that code to help them if they are stuck! It’s led to some really meaningful responses to feedback and pupils take it really seriously.
 
 {/details}
 
@@ -353,7 +353,7 @@ Things to avoid:
 
 As well as focusing on specific actions for pupils, it is important that you provide adequate time for pupils to respond to feedback.
 
-According to 'A marked improvement? A review of the evidence on written marking, EEF (2016)':
+According to ‘A marked improvement? A review of the evidence on written marking, EEF (2016)’:
 
 "Often students don’t want to go back and look at something they’ve finished, they want to move on to the next thing – it’s a cultural thing.
 

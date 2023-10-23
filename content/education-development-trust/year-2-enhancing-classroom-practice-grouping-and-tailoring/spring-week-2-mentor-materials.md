@@ -34,7 +34,7 @@ Some questions for discussion:
 
 - You’ve had a whole year since you learned about what it means to be an effective teacher in module 3. We looked at things such as modelling, scaffolding, effective expositions, breaking materials down into steps and practice. How do you think you have developed in these areas in the last year?
 - Being an effective teacher means being able to influence pupils’ beliefs about learning as well as their grade/outcomes. Have you got any examples where you think that has happened?
-- What areas do you feel you still need to work on?  
+- What areas do you feel you still need to work on?
 
 
 ### Understanding the evidence (20 minutes)
@@ -45,7 +45,7 @@ The ECT should have read the ‘Understanding the evidence’ section of the sel
 
 Suggested dialogue for mentors:
 
-You completed Activity 9.2 of the self-directed study materials ‘Understanding the evidence' in relation to pupil grouping and homework ahead of this topic. Let’s discuss your response to the questions to check your understanding of that material.
+You completed Activity 9.2 of the self-directed study materials ‘Understanding the evidence’ in relation to pupil grouping and homework ahead of this topic. Let’s discuss your response to the questions to check your understanding of that material.
 
 In what different ways could you group pupils?
 

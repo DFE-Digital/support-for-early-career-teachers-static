@@ -34,7 +34,7 @@ In the early stages of learning, teachers need to give pupils plenty of opportun
 
 The next step in the journey from acquisition to application is to check pupil understanding. Before teachers ask pupils to apply their knowledge in a different context, they need to check the acquisition is secure. Of course, teachers will be checking for understanding as they go, but it is still important to carry out a check before setting a task that gets pupils to use this knowledge in a different way.
 
-Ultimately, we want pupils to apply what they learn in many different contexts; this enables them to solve problems and to think critically. In order to do this, pupils need to have a secure understanding of knowledge within the subject area they've been asked to think critically about.
+Ultimately, we want pupils to apply what they learn in many different contexts; this enables them to solve problems and to think critically. In order to do this, pupils need to have a secure understanding of knowledge within the subject area they’ve been asked to think critically about.
 
 ### Presenter exemplification framing
 
@@ -47,7 +47,7 @@ some content. As you watch, pay particular attention to how the coach does the f
 ### Exemplification: Ambition Institute coach
 
 Imagine that I am teaching a year 5 science lesson. The topic is adaptations and
-we're looking at how plants and animals have adapted to extreme environments.
+we’re looking at how plants and animals have adapted to extreme environments.
 Now in the first lesson, I introduced the concept of the food chain, the key
 vocabulary and the flow of energy through that food chain. And at the end of the
 lesson last week, the class showed a good level of understanding. However, I
@@ -55,30 +55,30 @@ want to revisit some of those key concepts through doing some retrieval practice
 and checking for understanding as this is core knowledge which will be built
 upon later in the unit. I want to ensure that every pupil has a solid
 understanding of the content and embeds the ideas into their long-term memory.
-I'm going to ask questions and pupils will show me their answers on whiteboards
+I’m going to ask questions and pupils will show me their answers on whiteboards
 and this is a routine that is now really well-established. And I want to check
 that pupils know the following:
 
 - To know that a producer is a living thing that produces its own food from sunlight
 - To know that a consumer is a living thing that doesn’t make its own food and gets its energy from eating either plants or animals
 - To know that a primary consumer eats the producer
-  _"Okay, so the last time we did some work on this, we did some thinking about food chains. Now food chains are an energy transfer from one species to another and all living things need energy for growth and for health. Now we're just going to check some of your knowledge on that before we build on it with new content and so we're going to do a retrieval quiz._
+  _"Okay, so the last time we did some work on this, we did some thinking about food chains. Now food chains are an energy transfer from one species to another and all living things need energy for growth and for health. Now we’re just going to check some of your knowledge on that before we build on it with new content and so we’re going to do a retrieval quiz._
 
-_In a moment, you're going to see some questions on the board. There'll be three options to choose from, one of those will be correct. So you're going to have A, B and C and only one will be correct. To show me what you're thinking, I want you to write down the letter on the whiteboard of the response that you think is the correct answer. And then I will count down as usual from three, two, one, and then say, show me._
+_In a moment, you’re going to see some questions on the board. There’ll be three options to choose from, one of those will be correct. So you’re going to have A, B and C and only one will be correct. To show me what you’re thinking, I want you to write down the letter on the whiteboard of the response that you think is the correct answer. And then I will count down as usual from three, two, one, and then say, show me._
 
-_So if you get your whiteboard and pen and you'll have 20 seconds to do that and then show me you're ready by folding your arms and facing this way. Okay. Go._
+_So if you get your whiteboard and pen and you’ll have 20 seconds to do that and then show me you’re ready by folding your arms and facing this way. Okay. Go._
 
 _[Pupils get whiteboards ready]_
 
-_&nbsp;Right, so we've got question one here, and we're thinking about what is the definition of a producer? Option A is: A living thing that does not produce its own food. Is it B: A living thing that produce its own food from sunlight, nutrients and water? Or is it option C: A living or non-living thing that produces its own food from sunlight, nutrients, and water. You've got five seconds to write your answer on your whiteboard. Three, two, one, show me._
+_&nbsp;Right, so we’ve got question one here, and we’re thinking about what is the definition of a producer? Option A is: A living thing that does not produce its own food. Is it B: A living thing that produce its own food from sunlight, nutrients and water? Or is it option C: A living or non-living thing that produces its own food from sunlight, nutrients, and water. you’ve got five seconds to write your answer on your whiteboard. Three, two, one, show me._
 
 _[Pupils hold their white boards up and teacher scans the class]_
 
-_Okay. Demi, now you've chosen option B, just talk me through why you didn't choose option C._
+_Okay. Demi, now you’ve chosen option B, just talk me through why you didn’t choose option C._
 
 _[Pupil gives response]_
 
-_Okay. Great, I'm really pleased that you pulled out the fact that a producer is a living thing that produces its own food. Great. Alright everyone, so here's our next question. Which animal in this food chain is the secondary consumer?_
+_Okay. Great, I’m really pleased that you pulled out the fact that a producer is a living thing that produces its own food. Great. Alright everyone, so here’s our next question. Which animal in this food chain is the secondary consumer?_
 
 _(A) Grass&nbsp;&nbsp;&nbsp;&nbsp; (B) Caterpillar&nbsp;&nbsp; (C) Black Widow Spider&nbsp;_
 
@@ -86,27 +86,27 @@ _Write down your answers. Three, two, one, show me._
 
 _[Pupils hold their white boards up and teacher scans the class]_
 
-_Okay. So it looks like a lot of us here have selected option B. It's not actually the correct response but I need to understand why we've chosen it. Is there anybody willing to share their thinking? Mohammed thanks, what do you think?_
+_Okay. So it looks like a lot of us here have selected option B. It’s not actually the correct response but I need to understand why we’ve chosen it. Is there anybody willing to share their thinking? Mohammed thanks, what do you think?_
 
 _[Pupil gives response]_
 
-_Right, okay, I can see what you're thinking. B is a consumer but is it the primary consumer? It's the first one in the chain to eat the producer. What we've got here is the next one in the chain and this would be the secondary consumer. What's confusing though, is here it's number two in our list. What might help is if I pop some headings above._
+_Right, okay, I can see what you’re thinking. B is a consumer but is it the primary consumer? it’s the first one in the chain to eat the producer. What we’ve got here is the next one in the chain and this would be the secondary consumer. What’s confusing though, is here it’s number two in our list. What might help is if I pop some headings above._
 
-_[Teacher annotates example on whiteboard] So here, we've got our producer. Our first consumer, it's eating the producer so we call this one, our primary and then the answer to our question that we were looking for is the black widow spider, is our secondary consumer._
+_[Teacher annotates example on whiteboard] So here, we’ve got our producer. Our first consumer, it’s eating the producer so we call this one, our primary and then the answer to our question that we were looking for is the black widow spider, is our secondary consumer._
 
-_Okay, so let's look at another one. Which animal in this food chain is the secondary consumer? Is it A: grass, B: grasshopper or C: frog?_
+_Okay, so let’s look at another one. Which animal in this food chain is the secondary consumer? Is it A: grass, B: grasshopper or C: frog?_
 
 _Grass – (B) Grasshopper – (c) Frog – Python – Eagle_
 
 _Write your answers down. Three, two, one, show me.”_
 
-So I'd like to draw your attention to some key points in this model. So first, before designing my check for understanding questions I thought about the essential knowledge of this unit which the pupils need to acquire. In this case, I identified that it's essential that pupils know what a producer and a consumer is, and that they can explain the difference between a primary and a secondary consumer. I prioritized my questions on this because I need to be sure that my pupils are secure about this particular content.
+So I’d like to draw your attention to some key points in this model. So first, before designing my check for understanding questions I thought about the essential knowledge of this unit which the pupils need to acquire. In this case, I identified that it’s essential that pupils know what a producer and a consumer is, and that they can explain the difference between a primary and a secondary consumer. I prioritized my questions on this because I need to be sure that my pupils are secure about this particular content.
 
-Second, I sequenced this lesson to check that pupils were secure about this foundational knowledge right from the beginning. So any gaps or misconceptions at this stage could cause problems later in the topic. And also if pupils are under-confident with the knowledge itself, they would not be successful at the independent practice later in this lesson. It's crucial that I check the most important content before moving on and getting them to apply it.
+Second, I sequenced this lesson to check that pupils were secure about this foundational knowledge right from the beginning. So any gaps or misconceptions at this stage could cause problems later in the topic. And also if pupils are under-confident with the knowledge itself, they would not be successful at the independent practice later in this lesson. It’s crucial that I check the most important content before moving on and getting them to apply it.
 
 When designing the questions I considered some of the misconceptions that were common and rational and included these to check that pupils had a really secure understanding of the foundational knowledge. I was conscious that if I included false statements that were obviously false, the pupils may guess the answers and that could really get in the way of understanding how pupil learning is going.
 
-By checking for gaps in knowledge or misconceptions, and then addressing them, I can increase the chance of pupils' success in future learning.
+By checking for gaps in knowledge or misconceptions, and then addressing them, I can increase the chance of pupils’ success in future learning.
 
 ### Presenter key ideas
 

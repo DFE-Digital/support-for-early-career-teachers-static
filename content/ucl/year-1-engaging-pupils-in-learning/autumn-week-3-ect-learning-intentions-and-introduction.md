@@ -17,7 +17,7 @@ next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-3-ect-research-a
 - To access the curriculum, early literacy provides fundamental knowledge; reading comprises two elements: word reading and language comprehension; systematic synthetic phonics is the most effective approach for teaching pupils to decode.
 - Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
 
-#### You will learn how to develop pupils' literacy, by:
+#### You will learn how to develop pupils’ literacy, by:
 
 - Demonstrating a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling.
 - Supporting younger pupils to become fluent readers and to write fluently and legibly. - Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.

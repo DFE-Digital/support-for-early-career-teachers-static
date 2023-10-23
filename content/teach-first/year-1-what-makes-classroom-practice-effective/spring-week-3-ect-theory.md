@@ -28,11 +28,11 @@ Video transcript.
 
 This is the element of the lesson or sequence of lessons where the pupils are applying their knowledge and practising. Practising is a crucial part of learning and at any phase of schooling we need to build in opportunities for practice. Mark Enser invites us to consider the difference between practice and performance and says that in the classroom we need to consider what our pupils’ final performance will involve and then add in small steps of practice that will build towards the successful outcome.
 
-The successful outcome might be: a piece of music performed on a recorder; a pupil using mathematical language to describe the characteristics of everyday objects; an essay about the Norman Conquest. But it's important that practice is built-in to ensure the outcome is successful.
+The successful outcome might be: a piece of music performed on a recorder; a pupil using mathematical language to describe the characteristics of everyday objects; an essay about the Norman Conquest. But it’s important that practice is built-in to ensure the outcome is successful.
 
 When you build in opportunities for practice think about chunking the practice in small steps so as not to overload the working memory. Sherrington reminds us that while the children are practising you will want to ensure that practice must be guided so that the chance of forming misconceptions is minimized. Sherrington also explains the importance of obtaining a high success rate while practising. He says _‘guidance is key to generating the high success rates that in turn fuels motivation and engagement during more independent work’_. So while the pupils are practising, scaffolds and models and worked examples are all really useful in fuelling motivation as well, contributing to high success rate. There will be a point we will begin to withdraw the scaffolds to ensure that pupils begin to use the knowledge and skills stored and built up in their long-term memory over time.
 
-So they'll be moving from clunky and manual to smooth and automatic. But all this is also dependent on the subject, the topic you're teaching, and the elements of the topic you're teaching. There's no one-size-fits-all solution to this. You will have to think carefully through the best way for the children to practice within the subject or topic in order for them to become fluent.
+So they’ll be moving from clunky and manual to smooth and automatic. But all this is also dependent on the subject, the topic you’re teaching, and the elements of the topic you’re teaching. There’s no one-size-fits-all solution to this. You will have to think carefully through the best way for the children to practice within the subject or topic in order for them to become fluent.
 
 {/details}
 
@@ -187,7 +187,7 @@ Before pupils move onto guided practice, they need an appropriate level of knowl
 
 During guided practice, it is likely you will still include elements of modelling and explanation to clarify understanding and build upon pupils’ learning. Therefore, explanations and modelling cannot be separated from guided practice as they are heavily intertwined.
 
-Pupils' level of understanding during guided practice should be continually reviewed through questioning (explored in the last session of this module). This will inform you of how to progress the lesson. If pupils demonstrate a low success rate during guided practice, then you may need to return to the explanations and models you exposed them to when first introducing the material and provide more examples to build up their understanding and address gaps in learning.
+pupils’ level of understanding during guided practice should be continually reviewed through questioning (explored in the last session of this module). This will inform you of how to progress the lesson. If pupils demonstrate a low success rate during guided practice, then you may need to return to the explanations and models you exposed them to when first introducing the material and provide more examples to build up their understanding and address gaps in learning.
 
 Equally, if pupils are very confident during guided practice, you may need to reduce the level of support or guidance you are providing.
 

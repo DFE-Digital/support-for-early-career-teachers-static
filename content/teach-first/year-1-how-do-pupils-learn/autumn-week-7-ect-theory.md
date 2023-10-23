@@ -18,7 +18,7 @@ Simply put, cognition is thinking. It’s the mental process of knowing, underst
 
 ### Metacognition
 
-Simply put, this is pupils' thinking about their thinking (EEF, 2018). When approaching any task, pupils do so with metacognitive knowledge about:
+Simply put, this is pupils’ thinking about their thinking (EEF, 2018). When approaching any task, pupils do so with metacognitive knowledge about:
 
 - What the activity is asking them to do
 - What cognitive strategies they could use
@@ -56,7 +56,7 @@ below:
 
 #### Step 1: planning
 
-First, the pupil examines the question. They can see it's multiplication from the
+First, the pupil examines the question. They can see it’s multiplication from the
 operator symbol used. They know they are good at their times tables, so they decide
 to use their times tables to work it out.
 

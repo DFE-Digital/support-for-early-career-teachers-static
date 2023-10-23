@@ -13,7 +13,7 @@ Video transcript.
 
 We all know teachers who are great at fostering good behaviour. Pupils seem to like
 them, to work hard in their lessons. Perhaps you can remember a favorite teacher
-who neither you nor your classmates would mess around for. It's tempting to think
+who neither you nor your classmates would mess around for. It’s tempting to think
 that this is down to individual character traits, that good behaviour management
 is just something that teachers can just do.  But in fact, helping pupils to behave
 in a way that will support them to learn is something that all teachers can learn
@@ -32,7 +32,7 @@ that support their learning. And to build strong relationships with pupils, teac
 need to behave in a way that is consistent and make an effort to get to know them.
 Get to know the school behaviour policy, greet pupils in the corridors, make positive
 phone calls home. All of these things build trust and show that teachers care. Good
-behavior management doesn't happen by chance or by magic. It happens as a result
+behavior management doesn’t happen by chance or by magic. It happens as a result
 of advance planning and implementing tried and tested strategies over and over again.
 The results will be more than worth the effort.
 
@@ -40,20 +40,20 @@ The results will be more than worth the effort.
 
 Over the course of the behaviour strand, we will help you learn how to shape your
 pupils’ behaviour, so that enables them to get the best out of school and beyond.
-The material's based on a growing body of evidence for both outside and inside the
-classroom. In the first half of the strand, we'll show you ways of effectively managing
-behavior. We'll show you the value of strong classroom routines, clear expectations,
+The material’s based on a growing body of evidence for both outside and inside the
+classroom. In the first half of the strand, we’ll show you ways of effectively managing
+behavior. We’ll show you the value of strong classroom routines, clear expectations,
 and trust. In the second half of the strand, we look at how to create a climate for
 effective learning by providing structured support, helping pupils to be more receptive
 to challenge, and supporting them to think hard.
 
-The module has been carefully sequenced so that it supports you across the term. At the beginning of the strand, we cover how to set up some of the key routines that you will want to have in place from day one. Towards the end of the strand, we'll explore practices that require more complex behaviour management, such as setting up effective group work. What you learn in the first half of the strand will support you in the second.
+The module has been carefully sequenced so that it supports you across the term. At the beginning of the strand, we cover how to set up some of the key routines that you will want to have in place from day one. Towards the end of the strand, we’ll explore practices that require more complex behaviour management, such as setting up effective group work. What you learn in the first half of the strand will support you in the second.
 
-Each video will provide you with an overview of the module, practical strategies, and the model of classroom practice to watch and unpick. The videos focus on techniques that you can apply in the classroom and draw on the same research base that is outlined in the evidence summary. We don't want you to just copy what you see in the videos. One example alone can never fit every context. What they can do, however, is give you a concrete example of some of the key ideas that you will learn. When you're watching, pay close attention to the ideas that we highlight. These ideas are transferable across all subjects, phases, and learners. The better you understand these core principles, the more you will be able to adapt what you see to your specific needs.
+Each video will provide you with an overview of the module, practical strategies, and the model of classroom practice to watch and unpick. The videos focus on techniques that you can apply in the classroom and draw on the same research base that is outlined in the evidence summary. We don’t want you to just copy what you see in the videos. One example alone can never fit every context. What they can do, however, is give you a concrete example of some of the key ideas that you will learn. When you’re watching, pay close attention to the ideas that we highlight. These ideas are transferable across all subjects, phases, and learners. The better you understand these core principles, the more you will be able to adapt what you see to your specific needs.
 
-Over the course of this strand, we want you to learn some practical ways in which you can manage classroom behaviour, as well as some of the theory that underpins these practices. You will come to see that managing behaviour isn't just about stopping disruption and getting pupils to comply. There's a lot more we can do to influence pupil thinking and motivation, which will ultimately help them to learn.
+Over the course of this strand, we want you to learn some practical ways in which you can manage classroom behaviour, as well as some of the theory that underpins these practices. You will come to see that managing behaviour isn’t just about stopping disruption and getting pupils to comply. There’s a lot more we can do to influence pupil thinking and motivation, which will ultimately help them to learn.
 
-When behaviour's going well, not only do pupils learn more, but it's a much more enjoyable experience for everyone.
+When behaviour’s going well, not only do pupils learn more, but it’s a much more enjoyable experience for everyone.
 
 {/details}
 

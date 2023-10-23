@@ -89,7 +89,7 @@ If you require an audio description over the video, please watch this version: [
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/eT1CgNK_m6A)
 
-### Monitoring pupils' work for misconceptions
+### Monitoring pupils’ work for misconceptions
 
 #### Activity
 Select an upcoming lesson plan to review.
@@ -117,9 +117,9 @@ but has not on this occasion.
 Error: which occurs when answering something that a student has
 not mastered or has misunderstood.
 
-<p style="text-align: right;">(EEF, 'A Marked Improvement?', page 12)</p>
+<p style="text-align: right;">(EEF, ‘A Marked Improvement?’, page 12)</p>
 
-If a pupil makes a mistake, how much feedback is it worth giving in order to correct the mistake? The EEF ‘[A Marked Improvement?](https://educationendowmentfoundation.org.uk/public/files/Presentations/Publications/EEF_Marking_Review_April_2016.pdf)' (2016) report concludes that it should be marked as incorrect, but that the correct answer should not be provided. The rationale for this is that, if a pupil is given the correct answer, it means they are no longer required to think about the mistakes they have made, and as a result are likely to repeat the mistake again.
+If a pupil makes a mistake, how much feedback is it worth giving in order to correct the mistake? The EEF ‘[A Marked Improvement?](https://educationendowmentfoundation.org.uk/public/files/Presentations/Publications/EEF_Marking_Review_April_2016.pdf)’ (2016) report concludes that it should be marked as incorrect, but that the correct answer should not be provided. The rationale for this is that, if a pupil is given the correct answer, it means they are no longer required to think about the mistakes they have made, and as a result are likely to repeat the mistake again.
 
 Conversely, if a pupil has made an error and therefore has a potential misconception, the report recommends that it is most effective to remind the pupil of a related rule or offer a hint towards a correct answer. If the error was treated the same as a mistake, by simply marking it incorrect, a pupil would not have the knowledge to work out what they have done wrong.
 
@@ -127,7 +127,7 @@ Conversely, if a pupil has made an error and therefore has a potential misconcep
 
 Knowing when to give feedback, and what type of feedback will be most effective, can be challenging, particularly as research has identified that feedback can sometimes have a negative impact on pupil progress.
 
-Whilst monitoring your pupils you may notice errors occurring. When this happens, there are four different ways that you could correct the error in your pupils' thinking:
+Whilst monitoring your pupils you may notice errors occurring. When this happens, there are four different ways that you could correct the error in your pupils’ thinking:
 
 - Immediate correction of the individual who has made the error
 - Immediate class correction

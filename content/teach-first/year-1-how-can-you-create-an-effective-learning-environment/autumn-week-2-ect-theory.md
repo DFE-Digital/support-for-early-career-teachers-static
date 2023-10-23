@@ -14,7 +14,7 @@ Classroom routines are procedures that are well established to ensure pupils com
 
 Routines reduce pupil distractions, make the classroom environment predictable and secure, and reduce the possibility for misbehaviour. A predictable and secure environment benefits all pupils but is particularly valuable for pupils with special educational needs. Ultimately, creating and implementing routines in line with your school ethos saves time – and this means that pupils can spend more time focusing on what matters most: their learning.
 
-In addition, research shows that routines are important for developing pupils' emotional self-regulation - the ability to control their emotions. It is important to develop this because if pupils can control their emotional response, they are better able to concentrate and learn in the classroom, which affects success in school and future lives.
+In addition, research shows that routines are important for developing pupils’ emotional self-regulation - the ability to control their emotions. It is important to develop this because if pupils can control their emotional response, they are better able to concentrate and learn in the classroom, which affects success in school and future lives.
 
 Pupils become more able to regulate emotions, such as boredom or frustration, by relying on classroom rules and routines that help them to redirect their attention and minimise stress (Ursache, Blair & Raver, 2012). Therefore, it is important that you invest time in establishing and reinforcing routines to create an effective learning environment.
 
@@ -223,23 +223,23 @@ Be clear on what to do by giving instructions that are:
 - Sequential
 - Manageable
 
-#### Getting pupils' attention - Early Years - Bethan Hughes at Reach Academy
+#### Getting pupils’ attention - Early Years - Bethan Hughes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ygkxtEyRg_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-If you require an audio description over the video, please watch this version: [Getting pupils' attention - Early Years - Bethan Hughes at Reach Academy[AD]](https://youtu.be/x9vDCjDBdTw)
+If you require an audio description over the video, please watch this version: [Getting pupils’ attention - Early Years - Bethan Hughes at Reach Academy[AD]](https://youtu.be/x9vDCjDBdTw)
 
-#### Getting pupils' attention – Primary at Reach Academy
+#### Getting pupils’ attention – Primary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T8F58ysBdrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-If you require an audio description over the video, please watch this version: [Getting pupils' attention – Primary at Reach Academy \[AD\]](https://youtu.be/U8zn5aT0EfI)
+If you require an audio description over the video, please watch this version: [Getting pupils’ attention – Primary at Reach Academy \[AD\]](https://youtu.be/U8zn5aT0EfI)
 
-#### Getting pupils' attention - Secondary - Phil Fowkes at Reach Academy
+#### Getting pupils’ attention - Secondary - Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gDiw7hftbbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-If you require an audio description over the video, please watch this version: [Getting pupils' attention - Secondary - Phil Fowkes at Reach Academy \[AD\]](https://youtu.be/ZcV_gVxTbsk)
+If you require an audio description over the video, please watch this version: [Getting pupils’ attention - Secondary - Phil Fowkes at Reach Academy \[AD\]](https://youtu.be/ZcV_gVxTbsk)
 
 #### Getting pupils’ attention - Specialist setting - Robyn Emmerson at Ellen Tinkham School
 
@@ -251,7 +251,7 @@ If you require an audio description over the video, please watch this version: [
 
 Think about your teaching practice and consider the following questions:
 
-- How do you currently gain pupils' attention?
+- How do you currently gain pupils’ attention?
 - Is this successful? If so, why? If not, how could you make this routine better?
 
 ## Exit routine

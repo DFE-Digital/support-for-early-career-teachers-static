@@ -4,7 +4,7 @@ heading: "Second half-term: inquiry into engaging pupils in learning"
 caption: "Year 2"
 ---
 
-In this module you'll focus on how to improve your teaching without adding to your workload.
+In this module you’ll focus on how to improve your teaching without adding to your workload.
 
 ## Week 1: module audit
 
@@ -72,12 +72,12 @@ The ECT does not have any self-study materials this week. Instead, they should u
 
 ## Week 6: making judicious use of practical skills in relation to promoting good progress and demonstrating good subject and curriculum knowledge
 
-There are no self-study materials this week. Instead, you will meet your mentor to present your findings from this module's practitioner inquiry.
+There are no self-study materials this week. Instead, you will meet your mentor to present your findings from this moudle’s practitioner inquiry.
 
 Duration: minutes.
 
 ### Mentors
 
-The ECT does not have any self-study materials this week. Instead, they should present to you their findings from this module's practitioner inquiry.
+The ECT does not have any self-study materials this week. Instead, they should present to you their findings from this moudle’s practitioner inquiry.
 
 [View mentor materials](/ucl/year-2-inquiry-into-engaging-pupils-in-learning/autumn-week-6-mentor-materials)

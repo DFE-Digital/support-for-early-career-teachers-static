@@ -35,7 +35,7 @@ Consider the following example:
 #### Teaching sentence structure
 Start by introducing the rules of a simple sentence.
 
-Show a sentence on the board: 'The boy threw the ball.'
+Show a sentence on the board: ’the boy threw the ball.’
 
 Read the sentence together.
 
@@ -87,7 +87,7 @@ As you become more experienced, you will be more easily able to link new ideas t
 An effective teacher will make this connection explicit, linking new material to what has been previously studied and learned by using some of these techniques:
 
 - Verbally making the link: “We’re going to talk about compound sentences today. Do you remember last week when we spoke about simple sentences?”
-- Demonstrating how the new idea links to previously studied material with examples: “The first step I use is to make sure my sentence is an independent clause which we practised in last week's lesson.”
+- Demonstrating how the new idea links to previously studied material with examples: “The first step I use is to make sure my sentence is an independent clause which we practised in last week’s lesson.”
 - Using “link” activities which remind pupils of the learning from previous lessons: “You are going to write four simple sentences about your trip to the zoo. First, we are going to make a bullet point list of what to include ‒ you will need 1) subject 2) verb 3) object.
 
 ### Effective teachers use modelling to help pupils understand new processes and ideas
@@ -362,7 +362,7 @@ You put up scaffolds all the time when you are teaching. Think of a time when yo
 
 You can also plan scaffolds in advance of a lesson. This could be in how you present new information, breaking it down into steps as we saw earlier in this section. It could also be by providing a framework for pupils to follow, which supports them to apply a complex skill with support.
 
-Whenever we design a task or activity, we need to consider which resources might help to purposefully scaffold pupils' learning, whilst still ensuring they engage cognitively with the content. We can also encourage pupils to think about and explain their own levels of understanding before starting on a task. Developing pupils’ ability to reflect in this way may mean that less time needs to be spent on diagnosing who needs what support (Van de Pol et al., 2015).
+Whenever we design a task or activity, we need to consider which resources might help to purposefully scaffold pupils’ learning, whilst still ensuring they engage cognitively with the content. We can also encourage pupils to think about and explain their own levels of understanding before starting on a task. Developing pupils’ ability to reflect in this way may mean that less time needs to be spent on diagnosing who needs what support (Van de Pol et al., 2015).
 
 You can use this series of questions to help guide your decisions:
 
@@ -508,7 +508,7 @@ Worked examples are another great way of helping pupils to apply new ideas. You 
 #### How to structure a paragraph
 
 <br>
-          
+
 ##### Key point
 A key issue in our school is that in the school canteen there is the
         lack of seating for pupils.
@@ -529,7 +529,7 @@ For example, last week Year 4 were last to the lunch queue because they
 <h5>Link back to the question</h5>
  As you can see, not having enough seating is a key issue in our school
         because pupils have a lot of energy at lunchtime which they need to run
-        off outside. If all they do is queue, then they won't work as hard when
+        off outside. If all they do is queue, then they won’t work as hard when
         they get back into lessons!
 
 Remember, worked examples should be planned in advance so you can be sure to explain each step in as simple and coherent a way as possible.

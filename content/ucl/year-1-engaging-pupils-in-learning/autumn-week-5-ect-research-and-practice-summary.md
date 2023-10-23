@@ -130,7 +130,7 @@ how her pupils show the 3Cs.
 
 #### Plenary
 
-Rachel often uses the 'Evaluate Act Reflect (EAR)' method so the pupils have a framework for their thinking. Rachel stops the lesson for the ‘EAR’ part of the
+Rachel often uses the ‘Evaluate Act Reflect (EAR)’ method so the pupils have a framework for their thinking. Rachel stops the lesson for the ‘EAR’ part of the
 lesson:
 
 - evaluate. How successful has your strategy been? What could you change to improve

@@ -25,7 +25,7 @@ Develop pupils’ literacy by:
 
 In the self-directed study session, through observation and/or discussion with a colleague, your mentee has explored their understanding and development needs in relation to literacy subject and pedagogical knowledge. This session asks you to explore with your mentee their practice in relation to developing pupils’ literacy within their phase or subject.
 
-You should read the research and practice summary in this week's ECT materials. It might be most useful to focus on those aspects of literacy which are pertinent to your mentee’s phase or subject area, but emphasise that every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
+You should read the research and practice summary in this week’s ECT materials. It might be most useful to focus on those aspects of literacy which are pertinent to your mentee’s phase or subject area, but emphasise that every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
 
 ### Meeting activities
 
@@ -67,7 +67,7 @@ Theory to Practice 40 mins
 #### Possible foci for observation or discussion
 
 - How is handwriting taught? Is a specific programme used to teach handwriting systematically? E.g. Review children’s writing outcomes together and consider progression in handwriting.
-- How are parents/carers involved in supporting younger pupils' reading? E.g. School support for parents/carers, such as workshops to develop their understanding of approaches to teaching early reading.
+- How are parents/carers involved in supporting younger pupils’ reading? E.g. School support for parents/carers, such as workshops to develop their understanding of approaches to teaching early reading.
 
 ### Learning intention: Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
 

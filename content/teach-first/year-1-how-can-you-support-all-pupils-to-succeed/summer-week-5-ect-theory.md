@@ -25,7 +25,7 @@ Video transcript.
 
 What is the SEND Code of Practice?
 
-The 'SEND Code of Practice: 0 to 25 years' (revised January 2015) explains the duties of local authorities, health bodies, schools and colleges to provide for those with special educational needs under part 3 of the Children and Families Act 2014.
+The ’sEND Code of Practice: 0 to 25 years’ (revised January 2015) explains the duties of local authorities, health bodies, schools and colleges to provide for those with special educational needs under part 3 of the Children and Families Act 2014.
 
 In total, the SEND Code of Practice is 292 pages long. So how can it be used by teachers to help inform their practice?
 
@@ -120,7 +120,7 @@ From the outset it is worth stating that we are looking at the behaviours exhibi
 
 Although we are referencing the SEND Code of Practice, good practice dictates that we review where a pupil is performing and look at what we can do to assist them in accessing learning within the classroom. This does not mean that we are saying that the individual has SEND; it is more a case of looking to see what works, what doesn’t, and what needs revising.
 
-The first stage of the graduated approach is '**assess**'.
+The first stage of the graduated approach is ‘**assess**’.
 
 At this point we are gathering / collating the evidence we have to hand; this might be from:
 
@@ -136,7 +136,7 @@ At this point we are gathering / collating the evidence we have to hand; this mi
   in a subsequent assess, plan, do and review cycle and would be the carried out with
   the involvement of outside professionals.
 
-Then we are looking to '**plan**'.
+Then we are looking to ‘**plan**’.
 
 Knowing what you feel the issue may be, the next step is considering what you need to do in order to help the pupil access the curriculum and engage with learning activities within the classroom.
 
@@ -150,9 +150,9 @@ Things we might do at this stage could be:
   some of you that might be talking with teaching assistants so that they complement
   what you are doing.
 
-Then we move on to the '**do**' part of the cycle, putting into action what you have planned, trying out different approaches and seeing their impact. Most importantly, doing something rather than waiting for someone else to take responsibility.
+Then we move on to the ‘**do**’ part of the cycle, putting into action what you have planned, trying out different approaches and seeing their impact. Most importantly, doing something rather than waiting for someone else to take responsibility.
 
-The final part of the cylce is '**review**'.
+The final part of the cylce is ‘**review**’.
 
 What did you notice? What have other staff noticed?
 
@@ -227,7 +227,7 @@ Note down how you would help this pupil using some or all of the following gradu
 
 #### Assess
 
-Build a holistic picture of the pupil's learning needs by gathering information from several sources.
+Build a holistic picture of the pupil’s learning needs by gathering information from several sources.
 
 #### Plan
 

@@ -51,10 +51,10 @@ As part of their self-directed study, your mentee identified what they thought w
 
 To support this activity, you could:
 
-- ask your mentee to connect their reasoning to research and practice summary in this week's ECT materials and to the content of the Module 4 ECT training session
-- support your own feedback with explicit reference to research and practice summary in this week's ECT materials
+- ask your mentee to connect their reasoning to research and practice summary in this week’s ECT materials and to the content of the Module 4 ECT training session
+- support your own feedback with explicit reference to research and practice summary in this week’s ECT materials
 - be clear, where you highlight strengths, why these are positive, with reference to the contents of the Early Career Framework
-- use the research and practice summary in this week's ECT materials to help you suggest ways to further improve your mentee’s planning
+- use the research and practice summary in this week’s ECT materials to help you suggest ways to further improve your mentee’s planning
 
 Sharing of practice
 

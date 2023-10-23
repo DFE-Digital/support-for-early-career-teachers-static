@@ -6,10 +6,10 @@ previous_path: "/ambition-institute/year-1-instruction/spring-week-5-ect-teachin
 
 ### Reminder of key takeaways
 
-Ms Thomas's expositions will better match pupil needs if she understands:
+Ms Thomas’s expositions will better match pupil needs if she understands:
 
 - the importance of preventing pupil overload by first building on prior knowledge
-- the ‘I-We-You' approach helps her to ensure she manages pupil thinking and working memory effectively
+- the ‘I-We-You’ approach helps her to ensure she manages pupil thinking and working memory effectively
 - using concrete and abstract examples, modelling, and worked examples in expositions supports pupils when introducing new concepts and processes
 - checking pupil understanding prior to letting them practise independently can be a powerful approach
 

@@ -31,16 +31,16 @@ Example precise target: Teacher breaks down what pupils need to do into sequenti
 
 #### Focused development areas
 
-- Teacher models aloud a process by breaking it down into sequential, manageable steps based on pupils' prior knowledge.
+- Teacher models aloud a process by breaking it down into sequential, manageable steps based on pupils’ prior knowledge.
 - Teacher checks that pupils have understood each part of the model and how it relates to the whole process or concept.
-- Teacher breaks down their explanations of concepts into manageable chunks based on pupils' prior knowledge and checks for understanding at appropriate points.
+- Teacher breaks down their explanations of concepts into manageable chunks based on pupils’ prior knowledge and checks for understanding at appropriate points.
 
 ### Development area 3: Focusing attention
 
 #### Focused development areas
 
-- Teacher ensures they have all pupils' attention when they model or explain and restates their expectations pre-emptively to help pupils to remain focused.
-- Teacher focuses pupils' attention on the important features of the model or explanation.
+- Teacher ensures they have all pupils’ attention when they model or explain and restates their expectations pre-emptively to help pupils to remain focused.
+- Teacher focuses pupils’ attention on the important features of the model or explanation.
 - Teacher limits distractions when modelling or explaining through their use of language, resources and instruction.
 
 ### Observe

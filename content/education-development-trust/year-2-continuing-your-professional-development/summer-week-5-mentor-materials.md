@@ -87,7 +87,7 @@ Colleagues that could offer support might include:
 
 ### Next steps (20 minutes)
 
-Together, watch the video in this week's ECT self-study materials, which ends the programme by prompting ECTs to think about their next steps and further professional development.
+Together, watch the video in this week’s ECT self-study materials, which ends the programme by prompting ECTs to think about their next steps and further professional development.
 
 Following the video, pose the question: Where would you like your teaching career to progress over the next 1, 3, 5 years?
 

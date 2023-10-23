@@ -24,7 +24,7 @@ _5f. Balancing input of new content so that pupils master important concepts._
 
 _5h. Making use of well-designed resources (e.g. textbooks)._
 
-_5i. Planning to connect new content with pupils' existing knowledge or providing additional pre-teaching if pupils lack critical knowledge._
+_5i. Planning to connect new content with pupils’ existing knowledge or providing additional pre-teaching if pupils lack critical knowledge._
 
 _5j. Building in additional practice or removing unnecessary expositions._
 

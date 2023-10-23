@@ -6,7 +6,7 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-2-ect-reflect"
 ---
 
-Ms Stones wants to ensure pupils experience maximum learning in each lesson. She knows she needs to challenge pupils with new learning content but is unsure how to decide the right amount of content to do this. How could she identify and divide up content, and check if learning is taking place? How can she adapt others' plans for her own classes to achieve this?
+Ms Stones wants to ensure pupils experience maximum learning in each lesson. She knows she needs to challenge pupils with new learning content but is unsure how to decide the right amount of content to do this. How could she identify and divide up content, and check if learning is taking place? How can she adapt others’ plans for her own classes to achieve this?
 
 ## Key idea
 
@@ -51,7 +51,7 @@ One approach to breaking learning down could be to set steps which pupils can al
 Ms Stones can deliver more effective instruction by identifying the learning content
 if she understands that:
 
-- learning is a process leading to changes in pupils' capabilities or understanding that happens when pupils think hard
+- learning is a process leading to changes in pupils’ capabilities or understanding that happens when pupils think hard
 - breaking learning down should make thinking manageable enough for pupils to experience a high success rate
 - identifying manageable steps is tricky, so teachers should check all pupils’ key learning, and provide further support to ensure a high success rate
 
