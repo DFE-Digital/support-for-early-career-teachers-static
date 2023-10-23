@@ -152,7 +152,7 @@ Things we might do at this stage could be:
 
 Then we move on to the '**do**' part of the cycle, putting into action what you have planned, trying out different approaches and seeing their impact. Most importantly, doing something rather than waiting for someone else to take responsibility.
 
-The final part of the cylce is '**review**'.
+The final part of the cycle is '**review**'.
 
 What did you notice? What have other staff noticed?
 
