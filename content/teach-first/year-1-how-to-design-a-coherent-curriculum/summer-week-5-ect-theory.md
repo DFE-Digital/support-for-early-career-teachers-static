@@ -10,9 +10,9 @@ next_path: "/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-
 
 Take some time now to review the following content from module 3:
 
-- [Session 2: Explanations and modelling (up to and including explanations)](/teach-first/year-1/spring-1/topic-3/part-1)
-- [Session 3: Guided practice](/teach-first/year-1/spring-1/topic-4/part-1)
-- [Session 4: Independent practice](/teach-first/year-1/spring-1/topic-5/part-1)
+- [Session 2: Explanations and modelling (up to and including explanations)](/teach-first/year-1-what-makes-classroom-practice-effective#week-2-explanations-and-modelling)
+- [Session 3: Guided practice](/teach-first/year-1-what-makes-classroom-practice-effective#week-3-guided-practice)
+- [Session 4: Independent practice](/teach-first/year-1-what-makes-classroom-practice-effective#week-4-independent-practice)
 
 In these sessions you learnt about how to support pupils to gradually build pupils’ knowledge throughout a lesson, but the same principles apply to a learning objective that may need to extend over a series of lessons.
 

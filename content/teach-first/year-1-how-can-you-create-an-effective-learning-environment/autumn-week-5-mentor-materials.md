@@ -22,9 +22,9 @@ In the online study materials, your teacher was asked to reflect on a time when 
 
 The case studies your teacher has read only included information on the pupil and the incident, not information on how the teacher responded to that behaviour but if you wish, you can see how the teacher did respond which can support your discussion with your teacher. The case studies, which include how the teacher responded, are included in further sections of this page:
 
-- [Early Years case study](/teach-first/year-1/autumn-1/topic-5/mentoring/1/part-3)
-- [Primary case study](/teach-first/year-1/autumn-1/topic-5/mentoring/1/part-4)
-- [Secondary case study](/teach-first/year-1/autumn-1/topic-5/mentoring/1/part-5)
+- [Early Years case study](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-5-mentor-materials#early-years-challenging-behaviour-case-study)
+- [Primary case study](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-5-mentor-materials#primary-challenging-behaviour-case-study)
+- [Secondary case study](/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-5-mentor-materials#secondary-challenging-behaviour-case-study)
 
 ### Praise, probe and set precise actions
 

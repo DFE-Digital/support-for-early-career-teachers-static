@@ -18,6 +18,10 @@ compile '/**/*.md' do
   write item.identifier.without_ext + '/index.html'
 end
 
+compile '/assets/materials/**/*' do
+  write '/assets/materials/' + File.basename(item.identifier.to_s)
+end
+
 %w(woff woff2).each do |ext|
   compile("/**/*.#{ext}") do
     write '/assets/fonts/' + File.basename(item.identifier.to_s)
