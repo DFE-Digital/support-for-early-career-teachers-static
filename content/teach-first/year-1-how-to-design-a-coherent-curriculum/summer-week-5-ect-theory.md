@@ -27,14 +27,14 @@ Developing pupils' knowledge throughout a scheme of work – Emily Maule
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   Scaffolding builds pupils’ skills and confidence and helps them to realise
   that they can use their prior knowledge to move forwards. I always like to
   provide some form of scaffold, but as we go through a scheme, the guidance
   becomes less as pupils build confidence. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   When introducing a new or abstract idea in a scheme of work, I always ensure
   that these are supported with clear and concrete examples, to support pupils’
   understanding. For example, when teaching pupils about a collision plate
@@ -47,13 +47,13 @@ Video transcript.
   as cars in collisions, they then have an understanding of the concept which
   they can use to predict what might happen at the margin between other tectonic
   plates.
-</span> <span style="font-weight: 400;">
+ 
    And I think that sometimes, the more creative you can be with the
   illustrations, the more likely it is that pupils will remember the
   illustration. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Another favourite example from a different scheme is used when teaching about
   air pressure. Pupils (and teachers!) often find the global atmospheric
   circulation system difficult to get their head around, with the behaviour of
@@ -73,7 +73,7 @@ Video transcript.
   weather conditions that are not moving or changing. It is a bit of a silly
   illustration but definitely helps pupils visualise how air pressure affects
   the weather conditions.
-</span>
+
  {/details}
 
 ### Video script - How have you developed pupils’ knowledge over the course of the scheme of work?

@@ -93,12 +93,7 @@ elements need to be taken into account in the structuring of the task.
 The teacher needs to make clear that cooperation between pupils in the group
 is desired."
 
-<p style="text-align: right;">
-  <span style="font-weight: 400;">
-                                                                      (Muijs
-    &amp; Reynolds, 2017)
-  </span>
-</p>
+(Muijs & Reynolds, 2017)
 
 There are many different ways in which pupils can be grouped, for example:
 
@@ -147,7 +142,7 @@ A teacher explains how she would like the groups to be set up for an activity.
 {details}
 Video script.
 
-<span style="font-weight: 400;">
+
   Teacher: As you know, this term our topic is ‘The Restless Earth’ and you have
   been learning about the causes and impacts of volcanic eruptions. In the last
   lesson, we learned about how volcanic eruptions can be predicted. Today we are
@@ -155,9 +150,9 @@ Video script.
   will be applying the knowledge you have built up to a real-life situation. It
   would be helpful to have your knowledge organiser to hand so you can refer to
   the key terms where needed. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   For this lesson, we are going to be working in teams. You are part of a team
   of volcano experts invited to the Montserrat Volcano Observatory to help the
   geologists manage a serious situation developing on the island. There have
@@ -167,57 +162,57 @@ Video script.
   will result. A helicopter pilot is in the air sending back reports. It is up
   to your team to collect the reports, map the volcanic activity and make the
   crucial decisions required to manage the situation.
-</span>
 
-<span style="font-weight: 400;">Right, so let’s discuss roles.</span>
 
-<span style="font-weight: 400;">
+Right, so let’s discuss roles.
+
+
   I am His Excellency, Frank Savage the Governor of the island. 
-</span>
 
-<span style="font-weight: 400;">Each team requires the following members:</span>
 
-<span style="text-decoration: underline;">
-  <span style="font-weight: 400;">Information coordinator</span>
-</span>
+Each team requires the following members:
 
-<span style="font-weight: 400;">
+
+  Information coordinator
+
+
+
   Your role is to monitor the reports coming in from the helicopter and take
   them to the rest of the team. You also need to take the decisions made by the
   crisis manager to the governor for checking.
-</span>
 
-<span style="font-weight: 400;">
-  <span style="text-decoration: underline;">Geologist</span> 
-</span>
 
-<span style="font-weight: 400;">
+
+  Geologist 
+
+
+
   Your role is to make a map of the volcanic hazard, and work with the crisis
   manager on a plan for ensuring the safety of the islanders.
-</span>
 
-<span style="text-decoration: underline;">
-  <span style="font-weight: 400;">Crisis manager</span>
-</span>
 
-<span style="font-weight: 400;">
+
+  Crisis manager
+
+
+
   Your role is to make important decisions to manage the crisis. You have the
   reports from the helicopter and the advice of the geologist. After you make a
   decision, send your advice to the governor immediately. You will get instant
   feedback on your decision. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   You will now have one minute in your groups to decide who is going to do what
   role. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   3, 2, 1… Hands up if you are the information coordinator… hands up if you are
   the geologist... hands up if you are the crisis manager.
-</span>
 
-<span style="font-weight: 400;">Each group needs the following resources:</span>
+
+Each group needs the following resources:
 
 1. A3 map of the island for annotation by the Geologist
 2. Decision-making sheet (Crisis manager)

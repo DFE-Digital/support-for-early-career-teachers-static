@@ -69,7 +69,7 @@ She then explored features of fish and amphibians through looking at both groups
 
 "How can I tell a fish from an amphibian?
 
-"Now I know the names 'fish' and 'amphibian', I need to remember how to tell them apart. I know that the main difference is that amphibians can breathe in and out of water. How can I remember that difference? Let’s look at the word: <span style="color: #000000;">**Amphib** **I**n **an**d out</span>.
+"Now I know the names 'fish' and 'amphibian', I need to remember how to tell them apart. I know that the main difference is that amphibians can breathe in and out of water. How can I remember that difference? Let’s look at the word: **Amphib** **I**n **an**d out.
 
 "That’s a great way of remembering that amphibians can breathe in and out of water! I love it when the names of animals tell us about their special features."
 

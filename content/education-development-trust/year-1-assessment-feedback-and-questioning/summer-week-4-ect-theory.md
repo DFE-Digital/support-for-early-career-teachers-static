@@ -58,7 +58,7 @@ Other teachers used choral responses to provide sufficient practice when teachin
 
 In addition to asking questions, the more effective teachers facilitated their students’ rehearsal by providing explanations, giving more examples, and supervising students as they practised new material.
 
-<p style="text-align: right;">Rosenshine (2012)</p>
+Rosenshine (2012)
 
 ### The section that follows describes some of the key types of questions and how they can be used to achieve these goals
 
@@ -143,7 +143,7 @@ Pupil: “It was triggered by the Wall Street Crash of 1929 when stock prices fe
 
 Teacher: “Excellent. We’re now going to read Chapter 1. These are the following questions I’d like you to be thinking about and we will return to when we have finished reading.
 
-<ol style="list-style-type: lower-alpha;">
+<ol>
   <li>Which characters are involved in this chapter?</li>
   <li>What are the main events that take place?</li>
   <li>
@@ -180,7 +180,7 @@ Hinge questions often take the form of multiple-choice questions. Multiple-choic
 ##### 1. Science
 In which part of a daffodil does photosynthesis occur?
 
-<ol style="list-style-type: upper-alpha;">
+<ol>
   <li>All of the daffodil.</li>
   <li>The leaves and petals.</li>
   <li>The leaves and roots.</li>
@@ -193,7 +193,7 @@ the leaves (E) and that petals and roots do not contain chloroplasts (B/C).
 ##### 2. French
 Which of these translations is/are correct for the text below? L’été dernier, ma
 sœur avait un petit job donc elle est restée chez nous.
-<ol style="list-style-type: upper-alpha;">
+<ol>
   <li>Last summer, my sister had a small job so stayed at our house.</li>
   <li>Last summer, my sister had a part-time job so stayed at our house.</li>
   <li>Last summer my sister had a job, therefore she stayed at ours.</li>
@@ -209,7 +209,8 @@ small job.
 ##### 3. History
 Which of these pairs of dates in ordinary numerals and Roman numerals is/are
 correct?
-<ol style="list-style-type: upper-alpha;">
+
+<ol>
   <li>1996 – MCMXCVI</li>
   <li>1332 – MCCCXXXII</li>
   <li>1514 – MDXVI</li>
@@ -258,7 +259,7 @@ We have been learning about magnetic fields and I want to see how much you know.
 
 Which object can be picked up with a magnet?
 
-<ol style="list-style-type: upper-alpha;">
+<ol>
   <li>An iron nail.</li>
   <li>A copper wire.</li>
   <li>A piece of wood.</li>

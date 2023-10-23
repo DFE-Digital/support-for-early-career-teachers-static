@@ -85,18 +85,11 @@ Assessment is an essential part of every lesson. It gives you information about 
 
 A key opportunity for assessment is the beginning of the lesson, and I often use this time to activate prior learning from either the day before, as a recap, or a week or so ago, as more of a spaced /retrieval practice. Depending on how recently we learnt the topic, I often like to give a partially completed example which the pupils then complete, or a ‘find the error’ example where they find my mistake. I find these really help focus pupil thinking back to the topic knowledge and specifically the process and steps that they need to implement in order to solve the problem. An example from literacy might be something like this:
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="width: 100%;">
-        Correct Mr Sulivan’s grammar mistakes: Walking through the viallage ,
-        sarah spotted some yellow ducklings on there own in the pond sarah new
-        that they must only be days old and that mabye their mother had flown of
-        to find some food for them
-      </td>
-    </tr>
-  </tbody>
-</table>
+> Correct Mr Sulivan’s grammar mistakes: Walking through the viallage ,
+> sarah spotted some yellow ducklings on there own in the pond sarah new
+> that they must only be days old and that mabye their mother had flown of
+> to find some food for them
+
 I often put common misconceptions or mistakes pupils usually make. Spelling of the word ‘maybe’ as ‘mabye’, and missing capital letter of proper nouns is really common.
 
 Another opportunity to plan in some purposeful assessment is to consciously check for misconceptions forming in pupil knowledge. I have been teaching for over 10 years now, so I am more familiar with the types of misconceptions that can happen in each subject, but at the start of my career I found it really valuable to chat with experienced colleagues if I ever felt I wasn’t sure what misconceptions could arise. I like to plan to check for potential misconceptions at two points in the lesson:
@@ -108,18 +101,11 @@ I don’t do this for every lesson, but where I know there is a good chance of a
 
 An example of this would be:
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="width: 100%;">
-        Which sentence contains the correctly placed apostrophe? A – The pupils’
-        in the class were ready to learn. B – The pupils in the class were ready
-        to learn. C – The pupil’s in the class were ready to learn. How do you
-        know?
-      </td>
-    </tr>
-  </tbody>
-</table>
+> Which sentence contains the correctly placed apostrophe? A – The pupils’
+> in the class were ready to learn. B – The pupils in the class were ready
+> to learn. C – The pupil’s in the class were ready to learn. How do you
+> know?
+
 I find it helpful to anticipate potential misconceptions and be conscious and explicit
 about them when I teach.  {/details}
 
@@ -249,16 +235,11 @@ Identify the verb in this sentence: Claire walked her dog quickly past the spook
 
 In your notepad, outline whether you think this is an effective hinge-question and why.
 
-<details class="govuk-details" data-module="govuk-details">
-  <summary class="govuk-details__summary">
-    <span class="govuk-details__summary-text">
-      Hinge-question feedback
-    </span>
-  </summary>
-  <div class="govuk-details__text">
+{Details}
+Hinge-question feedback
+
 It is an effective hinge question because it can be answered quickly, it will allow the teacher to gather assessment information from the whole class at once, the other question options are plausible, and it would highlight misconceptions in pupil thinking.
-  </div>
-</details>
+{/Details}
 
 ### Activity 2
 

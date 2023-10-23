@@ -12,7 +12,7 @@ previous_path: "/education-development-trust/year-2-embedding-a-positive-climate
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   Welcome back! When you started on this programme, you began by looking at how
   to establish a positive learning environment. You learned about how to make
   your classroom a secure, safe and predictable place for your pupils through
@@ -22,9 +22,9 @@ Video transcript.
   times when managing behaviour and keeping your expectations really high is
   challenging. That is why we are revisiting it now at the beginning of Year 2,
   just as you will be doing the same with your pupils.
-</span>
 
-<span style="font-weight: 400;">
+
+
   In this Block, we build on your knowledge by looking at what motivates pupils.
   Understanding ‘what makes them tick’ will help you to develop an even more
   purposeful learning environment. You will explore the different ways you can
@@ -35,9 +35,9 @@ Video transcript.
   pupils feeling motivated to work hard and apply effort. You will also consider
   how enabling your pupils to achieve meaningful success can motivate them to
   put in the effort needed for further success.
-</span>
 
-<span style="font-weight: 400;">
+
+
   We will look further at the importance and value of the language you use with
   pupils, highlighting the ways we can use language to establish an effective
   learning environment and support pupils, empowering them to take ownership of
@@ -45,5 +45,5 @@ Video transcript.
   high expectations to your pupils and the impact this would have on pupil
   outcomes. In this Block you will consider how you can use praise meaningfully
   to support and motivate your pupils.
-</span>
+
  {/details}

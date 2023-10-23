@@ -55,10 +55,10 @@ Effective monitoring during independent practice is often non-verbal – for exa
 
 ### Key takeaways
 
-<span style="font-weight: 400;">
+
   Ms Silva can promote behaviours that support independent practice if she
   understands that:
-</span>
+
 - pupils need to understand the long-term benefits of practice, even if it feels hard 
 - to practise independently, pupils need enough support and clear behavioural expectations. Teachers also need to check pupil understanding of support and expectations 
 - pupils need to be held to account to practise independently
@@ -70,126 +70,126 @@ Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2
 {details}
 References.
 
-<span style="font-weight: 400;">Coe, R. (2013). </span>
+Coe, R. (2013). 
 <i>
-<span style="font-weight: 400;">
+
 Improving Education: A triumph of hope over experience
-</span>
+
 </i>
-<span style="font-weight: 400;">. Centre for Evaluation and Monitoring.  </span>
+. Centre for Evaluation and Monitoring.  
 <a href="http://bit.ly/ecf-coe2" target="_blank" rel="noopener">
-<span style="font-weight: 400;">bit.ly/ecf-coe2</span>
+bit.ly/ecf-coe2
 </a>
 
-<span style="font-weight: 400;">
+
   Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014).
-</span>
+
 <i>
-  <span style="font-weight: 400;">
+  
     What makes great teaching. Review of the underpinning research
-  </span>
+  
 </i>
-<span style="font-weight: 400;">. Durham University. </span>
+. Durham University. 
 <a href="https://www.suttontrust.com/wp-content/uploads/2014/10/What-Makes-Great-Teaching-REPORT.pdf">
-  <span style="font-weight: 400;">bit.ly/ecf-coe</span>
+  bit.ly/ecf-coe
 </a>
 
-<span style="font-weight: 400;">Deans for Impact (2019). </span>
+Deans for Impact (2019). 
 <i>
-<span style="font-weight: 400;">The Science of Early Learning.</span>
+The Science of Early Learning.
 </i>
 <a href="http://bit.ly/ecf-dea3" target="_blank" rel="noopener">
-<span style="font-weight: 400;"> bit.ly/ecf-dea3</span>
+ bit.ly/ecf-dea3
 </a>
 
-<span style="font-weight: 400;">
+
   Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D.
   T. (2013) Improving students’ learning with effective learning techniques:
   Promising directions from cognitive and educational psychology.
-</span>
+
 <i>
-  <span style="font-weight: 400;">
+  
     Psychological Science in the Public Interest, Supplement, 14
-  </span>
+  
 </i>
-<span style="font-weight: 400;">
+
   (1), 4–58.
   <a href="http://bit.ly/ecf-dun2" target="_blank" rel="noopener">
     bit.ly/ecf-dun2
   </a>
-</span>
 
-<span style="font-weight: 400;">Institute of Education Sciences (2008). </span>
+
+Institute of Education Sciences (2008). 
 <i>
-<span style="font-weight: 400;">
+
 Reducing Behavior Problems in the Elementary School Classroom.
-</span>
+
 </i>
-<span style="font-weight: 400;">
+
 
 <a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">
 bit.ly/ecf-ies
 </a>
-</span>
-<span style="font-weight: 400;"> </span>
 
-<span style="font-weight: 400;">
+ 
+
+
   Kirschner, P., Sweller, J., Kirschner, F. &amp; Zambrano, J. (2018). From
   cognitive load theory to collaborative cognitive load theory. In 
-</span>
+
 <i>
-  <span style="font-weight: 400;">
+  
     International Journal of Computer-Supported Collaborative Learning
-  </span>
+  
 </i>
-<span style="font-weight: 400;">, </span>
+, 
 <i>
-  <span style="font-weight: 400;">13</span>
+  13
 </i>
-<span style="font-weight: 400;">(2), 213-233. </span>
-<span style="font-weight: 400;"> </span>
+(2), 213-233. 
+ 
 
-<span style="font-weight: 400;">Lemov, D. (2015). </span>
+Lemov, D. (2015). 
 <i>
-<span style="font-weight: 400;">Teach Like a Champion 2.0</span>
+Teach Like a Champion 2.0
 </i>
-<span style="font-weight: 400;">.  Jossey-Bass. 2</span>
-<span style="font-weight: 400;">nd</span>
-<span style="font-weight: 400;"> ed. Edition. </span>
-<span style="font-weight: 400;"> </span>
+.  Jossey-Bass. 2
+nd
+ ed. Edition. 
+ 
 
-<span style="font-weight: 400;">
+
   Pashler, H., McDaniel, M., Rohrer, D., &amp; Bjork, R. (2008). Learning
   Styles: Concepts and Evidence. 
-</span>
+
 <i>
-  <span style="font-weight: 400;">
+  
     Psychological Science in the Public Interest
-  </span>
+  
 </i>
-<span style="font-weight: 400;">, </span>
+, 
 <i>
-  <span style="font-weight: 400;">9 </span>
+  9 
 </i>
-<span style="font-weight: 400;">(3). </span>
-<span style="font-weight: 400;">
+(3). 
+
    
   <a href="http://bit.ly/ecf-pas" target="_blank" rel="noopener">
     bit.ly/ecf-pas
   </a>
-</span>
 
-<span style="font-weight: 400;">
+
+
   Rosenshine, B. (2012) Principles of Instruction: Research-based strategies
   that all teachers should know. 
-</span>
+
 <i>
-  <span style="font-weight: 400;">American Educator</span>
+  American Educator
 </i>
-<span style="font-weight: 400;">
+
   , 12–20. 
   <a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">
     bit.ly/ecf-ros
   </a>
-</span>
+
  {/details}

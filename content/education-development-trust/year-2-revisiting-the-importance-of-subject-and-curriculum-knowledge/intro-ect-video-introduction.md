@@ -12,11 +12,11 @@ previous_path: "/education-development-trust/year-2-revisiting-the-importance-of
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
-  As you established in Block 4, subject knowledge is of critical importance. 
-</span>
 
-<span style="font-weight: 400;">
+  As you established in Block 4, subject knowledge is of critical importance. 
+
+
+
   This Block will focus on key aspects of your practice to support you in
   curriculum design and delivery. In particular, we will focus on how you can
   use your improved understanding of how the subject or subjects you teach
@@ -24,9 +24,9 @@ Video transcript.
   on your learning from Block 2 and Block 4 around how knowledge is constructed
   and developed and the different strategies you can use to support your pupils
   to become more successful learners.
-</span>
 
-<span style="font-weight: 400;">
+
+
   Knowledge is built by linking new ideas to existing knowledge. We know that
   pupils are likely to forget what they have learnt without specific strategies
   to support them in transferring knowledge to their long-term memory, as
@@ -36,9 +36,9 @@ Video transcript.
   and skills to other contexts, and to think critically, by drawing attention to
   the underlying structure of problems and how concrete examples can lead to
   abstract ones. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   In the self-directed study materials, we will look specifically at how to help
   pupils build more complex mental models. You can support your pupils to do
   this by drawing explicit links between new content and the core concepts and
@@ -46,14 +46,14 @@ Video transcript.
   knowledge to the foundations of the subject you are teaching; creating a
   logical system in which ideas, knowledge and skills are linked rather than
   stand-alone ‘facts’, easily forgotten. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   As you established in Block 4, developing excellent subject and curriculum
   knowledge is a process that takes time. You will probably feel more confident
   now than you did at this point last year. However, continuing to work with
   more experienced colleagues who can offer you support, advice and practical
   strategies is an important part of your development as a teacher. This Block
   encourages you to do this in relation to longer-term planning.
-</span>
+
  {/details}

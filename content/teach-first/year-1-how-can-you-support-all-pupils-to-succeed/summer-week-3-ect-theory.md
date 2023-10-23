@@ -24,7 +24,7 @@ You may recognise the strategies above as they have been covered earlier in the 
   point in responding to pupils who have or may have SEN. Additional
   intervention and SEN support cannot compensate for a lack of good quality
   teaching.
-  <span style="font-size: 10pt;">(Department for Education, 2014)</span>
+  (Department for Education, 2014)
 </blockquote>
  {/details}
 

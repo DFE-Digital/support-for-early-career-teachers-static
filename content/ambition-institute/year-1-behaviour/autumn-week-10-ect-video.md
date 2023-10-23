@@ -9,9 +9,8 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-10-ect-teaching-cha
 {details}
 Video transcript.
 
-<h3 class="p1">
-  <span class="s1">Presenter intro: Peps McCrea</span>
-</h3>
+Presenter intro: Peps McCrea
+
 To learn effectively, pupils need plenty of opportunities to think hard. Sometimes
 we need to do this thinking on our own. There need to be times during lessons when
 pupils work independently. Pupils are more likely to do this well when teachers give

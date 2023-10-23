@@ -239,20 +239,20 @@ Choose one of the videos below to hear how teachers developed pupils' intrinsic 
 {details}
 Video Transcript.
 
-<span style="font-weight: 400;">
-Pupil motivation is a key driver in pupil progress, attainment and outcomes. Teachers have the ability to influence the academic potential of their classes by raising their expectations of them and expecting more. By holding high expectations, you encourage pupils to work harder, do more and thus achieve more.  It is clear that pupils with high levels of motivation are more likely to step out of their comfort zones and take risks in order to make improvements in their work. Conversely, pupils with low levels of motivation are likely to give up easily, leave work incomplete or refuse to answer questions in lessons because they think they “do not know”.  
-</span>
-#### So, what impacts pupils' motivation?
-<span style="font-weight: 400;">
-Pupils’ levels of motivation can be a product of their own experiences for example if a pupil has always struggled with algebra in maths for example this may then impact their level of motivation when studying algebra as they assume it will be difficult and therefore it becomes more difficult. Pupils can also be influenced by parental views of certain subjects. 
-</span>
 
-<span style="font-weight: 400;">
+Pupil motivation is a key driver in pupil progress, attainment and outcomes. Teachers have the ability to influence the academic potential of their classes by raising their expectations of them and expecting more. By holding high expectations, you encourage pupils to work harder, do more and thus achieve more.  It is clear that pupils with high levels of motivation are more likely to step out of their comfort zones and take risks in order to make improvements in their work. Conversely, pupils with low levels of motivation are likely to give up easily, leave work incomplete or refuse to answer questions in lessons because they think they “do not know”.  
+
+#### So, what impacts pupils' motivation?
+
+Pupils’ levels of motivation can be a product of their own experiences for example if a pupil has always struggled with algebra in maths for example this may then impact their level of motivation when studying algebra as they assume it will be difficult and therefore it becomes more difficult. Pupils can also be influenced by parental views of certain subjects. 
+
+
+
 As a languages teacher I have experienced many occasions where at parents' evenings, parents have explained how much they struggled in French, didn’t like speaking out loud and could not understand the grammatical concepts – this has then influenced their child’s motivation and therefore success in languages.  
-</span>
+
 #### How can you develop pupils' motivation?
-<span style="font-weight: 400;">
+
 Creating pupil buy-in during lessons can motivate them to engage with learning. One way to do this is to share the learning objectives and make sure they are clearly explained, so that pupils are aware of what they are going to be doing, why they are doing that and how this links to their long-term goals.  Embedding pupil success during lessons is also vital in developing pupil motivation. However, there is a balance to be struck between challenging pupils “to think hard”, supporting pupils with scaffolding and modelling, and increasing levels of pupil independence. It is also important for pupils to feel supported in their learning environment so that it becomes accepted that all learners make mistakes. A key strategy is to circulate the room during independent practice. Where common misconceptions have been identified, you can stop the class and address the issue there and then in order to prevent the error from being learnt. When doing so, it is important to thank the pupil for sharing with the rest of the class to help maintain a safe and positive learning culture. 
-</span>
+
 
 {/details}

@@ -9,9 +9,8 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-12-ect-teaching-cha
 {details}
 Video transcript.
 
-<h3 class="p1">
-  <span class="s1">Presenter intro: Peps McCrea</span>
-</h3>
+Presenter intro: Peps McCrea
+
 The goals that teachers set for their pupils have a huge impact on what they achieve.
 If we want our pupils to experience success at school and beyond, it's crucial that
 teachers have high expectations, both for behaviour and academic success. But just
@@ -99,8 +98,4 @@ some kind of magic touch. But none of this is really magic. Helping pupils to
 meet high expectations for behaviour as well as academic success occurs when
 teachers consistently show their pupils what to do. It's about being explicit to
 pupils, and constantly reinforcing what we say.
-
-<p class="p2">
-  <span class="s1"> </span>
-</p>
  {/details}

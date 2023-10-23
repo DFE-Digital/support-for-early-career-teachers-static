@@ -110,13 +110,13 @@ Working with Stakeholders – Kelly Challis
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   The adaptations you make to your everyday class teaching can have a great
   impact on the progress of the pupil. For example:
-</span>
+
 - ensuring key vocabulary is pre-taught can help ensure that learners are better prepared when they come across it in lessons&nbsp; 
 - Or providing scaffolding for the learner during tasks can mean that they don’t experience the fear of the blank page but have support to start their response&nbsp;
-<span style="font-weight: 400;">
+
   When adaptive teaching does not have the desired impact, suitable
   interventions should be set up. Interventions need to be effective and
   evidence based, and progress must be tracked and shared. In some instances,
@@ -124,9 +124,9 @@ Video transcript.
   potentially other educational professionals. This assessment data needs to be
   clearly understood and shared with all appropriate stakeholders so that next
   steps can be planned. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   A stakeholder in education is someone who has an interest in the success and
   welfare of a school and its pupils. This includes those who work in and
   outside the school, for example teachers, support staff, parents, governors
@@ -141,9 +141,9 @@ Video transcript.
   understand things from their perspective. This information can also inform
   planning, classroom layout, timetabling and support in order to enable
   learners to participate in all aspects of classroom learning.
-</span>
 
-<span style="font-weight: 400;">
+
+
   A graduated approach will help you to monitor the impact of stakeholder
   support on the development of the pupil. At each step of the way along the
   assess, plan, do, review cycle, consideration needs to be made as to which
@@ -151,29 +151,29 @@ Video transcript.
   this information must be shared. There needs to be clear processes in place
   for when to work with specialists, both those within the school and
   externally. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Most importantly the learner and their family need to be at the centre of the
   whole process. It is essential to gather their views if the graduated approach
   is to work effectively. Involving the pupil and their family can help build a
   more holistic picture of the pupil so that you become more aware of the
   individual in different contexts. This insight can become invaluable for
   working out what can work with the pupil.
-</span>
 
-<span style="font-weight: 400;">
+
+
   High-quality teaching, a graduated approach for SEND, and clear communication
   channels will ensure schools are on the way to effectively meeting the needs
   of all their learners. However, if
-</span>
+
 <b>all</b>
-<span style="font-weight: 400;">
+
   
   stakeholders work together and communicate clearly, there will be even a
   greater impact on young people with SEND, which will support them to achieve
   better outcomes and realise their true potential.
-</span>
+
  {/details}
 
 Below are videos that share guidance and advice from key stakeholders. Each stakeholder explains why they feel it is essential to be included in the pupil’s support network. They each share their personal experiences and key learnings of what they feel makes a good stakeholder relationship.
@@ -185,7 +185,7 @@ Select one video (or transcript) to view that you feel most aligns with your dev
 {details}
 Video script - 1. Communication is key.
 
-<span style="font-weight: 400;">
+
   When working to support pupils with special needs or disabilities, we work
   with a variety of other stakeholders. During my time as a SENDCo I have worked
   with local GPs and specialised doctors and nurses from a variety of
@@ -194,9 +194,9 @@ Video script - 1. Communication is key.
   palate team, school nurses, ophthalmologists, autism assessment team, the
   visual impairment and hearing impairment team and speech and language
   therapists and language development workers.
-</span>
 
-<span style="font-weight: 400;">
+
+
   It is imperative to engage with these services to ensure the pupils are able
   to access the correct provision and learning environments to enable them to
   succeed. For example, we have several pupils in the school who are hearing
@@ -206,23 +206,23 @@ Video script - 1. Communication is key.
   have gained to help other pupils as soon as they begin to attend our school,
   to ensure the pupil is able to engage in all lessons as soon as they walk
   through the door.
-</span>
 
-<span style="font-weight: 400;">
+
+
   Communication is key when working with other stakeholders. There may be times
   when you need to do a bit of detective work and knowing who to contact and
   having good relationships means a faster result for the child.
-</span>
 
-<span style="font-weight: 400;">
+
+
   Including parents/carers, and the pupil themselves, in the process is key to
   being able to contact the right people. By having all the information from all
   the individuals involved in the pupil's life, you will be able to get a fully
   rounded picture of any support that needs to be in place, which will
   ultimately mean the pupil is able to progress in their education.
-</span>
 
-<span style="font-weight: 400;">
+
+
   It is important to be aware that some parents/carers will have very little
   experience with the SEND process and external agencies. Likewise, they may
   have a wealth of knowledge that can be shared with and learned from. Regular
@@ -231,7 +231,7 @@ Video script - 1. Communication is key.
   voice is included. An open-door policy will also help parents/carers in
   feeling empowered to approach staff with any information rather than waiting
   for time-specified meetings.
-</span>
+
  {/details}
 
 2. Parent Liane Bunn talks about the challenges her family faced when transitioning her son from nursery to primary school.
@@ -243,7 +243,7 @@ Parent view – Liane Bunn
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   Bill is 4 1/2 years old and has been deaf in the left ear from birth. He also
   has intermittent hearing loss in the right ear. Alongside this, he also been
   diagnosed with a sensory processing disorder which, for Bill, can present in
@@ -252,15 +252,15 @@ Video transcript.
   periods of absences. He can become unresponsive, limp, slack-mouthed, or
   demonstrates repetitive behaviours he is unaware of (like an arm or leg moving
   up and down). 
-</span>
-<span style="font-weight: 400;">
+
+
   
   As it is quite unpredictable how he will react to different stimuli it can be
   difficult to understand Bill's needs, as they can differ from moment to
   moment.
-</span>
 
-<span style="font-weight: 400;">
+
+
   The nursery Bill attends is well set up for children with hearing loss and
   sensory impairment – it is one of the reasons we selected it. This means that
   there are many strategies staff use through the day (such as signing or giving
@@ -271,9 +271,9 @@ Video transcript.
   happy that Bill would be able to slot right into his new school and not need
   extra support or adaptation made. As his parents, we felt this was optimistic
   to say the least, so I contacted the school where he will begin in September. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Bill's older brother attends this school already and so I was able to explain
   a little of our situation. They were instantly very reassuring. They offered a
   meeting before the school applications had even closed, so that they could
@@ -287,9 +287,9 @@ Video transcript.
   classroom Makaton really can help him to understand and process what is being
   asked. He often misses the beginning and ends of words, so using Makaton means
   he understands much better what is going on. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Bill is a completely different child when he recognises where he is, who he is
   with, and what is going to happen. When things happen he isn't expecting, it
   can really be a struggle. He can also struggle to pick up new skills until he
@@ -299,18 +299,18 @@ Video transcript.
   help him prepare and process what he is being asked to do. The cue cards are
   especially good for supporting his memory of how to do something, or the
   sequence it needs to be done in. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Another strategy that was particularly effective was that the nursery assigns
   each day of the week a colour, feel, and smell to help the children to learn
   and process each of these gradually. It is a gentle introduction to new senses
   that has become part of the routine of his day. The next time he encounters
   them he won’t be so surprised by them, and this could avoid any sensory
   overload happening. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   The school have said they will ask the nursery for the details of each of
   these and will be able to implement at least some of them very easily, without
   disruption or additional cost. They explained that some of these things
@@ -320,9 +320,9 @@ Video transcript.
   am positive, prove to be a great help to Bill. It felt wonderful that they had
   taken the time to listen to our concerns, and engage with us in discussing
   strategies that would support my son. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   As his parents we couldn't feel happier about the approach the school have
   used. We feel completely relaxed about this transition and very much like any
   ideas or thoughts will be listened to. The difference between this and the
@@ -330,7 +330,7 @@ Video transcript.
   transition to school can be a scary enough time, but when your child has
   additional needs that aren't always obvious, and you think your worries,
   concerns and knowledge of your child are being ignored, it is even harder.
-</span>
+
  {/details}
 
 3. Teacher educator Henry Morgan explains how he included his pupils in the assessment of their own learning needs.
@@ -338,57 +338,57 @@ Video transcript.
 {details}
 Video script – 3. Graduated approach, pupil voice.
 
-<span style="font-weight: 400;">
+
   I taught a pupil who was diagnosed with dyslexia and obsessive-compulsive
   disorder with elements of autism. Here, I needed to put the pupil and their
   needs at the centre of the graduated approach. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   This included engaging with them in open conversations about which strategies
   worked well for them and which ones did not and discussing how they like to be
   approached in the lesson. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Once I had this information, I cross-referenced it with other information that
   I had on the pupil, for example any information from multi-agency meetings,
   the SENCo, and previous information gathered from their parents. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Once I had done this, I approached and spoke to their parents myself to look
   into what had and what had not previously worked for their child. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Then I set about using a low-stakes testing method to find out where they were
   in relation to their peers – this is something I often use with my whole class
   as part of high-quality teaching. This represented the assess phase of the
   graduated approach. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   From here I could plan how to best support them over the following academic
   year by providing extra support to address key misconceptions or topics that
   were particularly difficult for the child. For example, as the pupil had
   difficulty understanding perceptual reasoning, when teaching shapes, angles
   and area, I knew they would require more concrete examples. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   When reviewing the strategies, I spoke with the pupil regularly to see if my
   lessons were having an impact. I also looked at carefully selected data to
   measure if there was progress. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Including the pupil’s voice in this process meant that the pupil felt they
   could have an open conversation with me when things were not working for them.
   This helped to make the pupil feel safe and supported, which in turn led to
   emboldened confidence – the key ingredient to getting any pupil with
   additional needs to give your lesson a go.
-</span>
+
  {/details}
 
 A common theme running through all the videos is that of ‘clear communication’. Whether this be between parents, pupils or educational specialists, good communication is a key feature of successful stakeholder relationships and ultimately the success of the pupil.

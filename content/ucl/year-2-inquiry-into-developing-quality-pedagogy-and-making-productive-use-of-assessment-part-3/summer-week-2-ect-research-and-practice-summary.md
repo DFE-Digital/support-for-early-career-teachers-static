@@ -225,7 +225,8 @@ She has also saved on her workload because she has learned that:
 
 6.7 Working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload.
 
-<h3 style="text-align: left;">Case study D: Questioning</h3>
+<h3>Case study D: Questioning</h3>
+
 #### Mo’s use of direction and elaboration to improve questioning in GCSE PE
 To ensure he was developing his practice effectively, Mo devised this evaluative
 inquiry question:

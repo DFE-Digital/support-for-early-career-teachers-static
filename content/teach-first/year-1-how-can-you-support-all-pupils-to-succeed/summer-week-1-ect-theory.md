@@ -221,38 +221,38 @@ Feedback.
 
 There are many ways Saima could have clarified ideas, extended Pedro’s thinking, suggested ideas, asked open questions or encouraged the use of full sentences. Below is one example of how this could have been done, which you can compare to your own.
 
-<p style="padding-left: 40px;">
+
   Pedro emptied the box of building blocks and sat down. He began to gather
   blocks and stack them on top of each other. Saima sat down next to him and
   began to observe what he was doing.
-</p>
-<p style="padding-left: 40px;">
+
+
   Pedro placed a small cube on the floor and then picked up a 3D semi-circle and
   balanced this on top. He then picked up another larger cube and tried to place
   this on top, but it fell.
-</p>
-<p style="padding-left: 40px;">Saima said, “Oh no, it fell down!</p>
+
+Saima said, “Oh no, it fell down!
 _Why do you think it fell down?”_ (open question) ... _“What could you try next time to stop this?”_ (extending thinking).
-<p style="padding-left: 40px;">
+
   Pedro began to build the tower again. He picked up the large cube this time
   and then placed the 3D semi-circle on top. He picked up a cuboid and tried to
   place this on top of the 3D semi-circle, but the blocks fell down.
-</p>
-<p style="padding-left: 40px;">Saima said, “Oh no, it fell down again.”</p>
-<p style="padding-left: 40px;">Pedro said, “I use this one now”</p>
+
+Saima said, “Oh no, it fell down again.”
+Pedro said, “I use this one now”
 _“So, you want to start with the curved shape at the bottom to see if the tower remains standing?”_ (Clarifying question).
-<p style="padding-left: 40px;">
+
   This time Pedro started with the 3D semi-circle shape at the bottom and tried
   to place a cuboid on top. He did it carefully so that it balanced.
-</p>
-<p style="padding-left: 40px;">Saima said, “Wow, that’s balancing”</p>
-<p style="padding-left: 40px;">
+
+Saima said, “Wow, that’s balancing”
+
   Pedro then placed another cube on top which stayed, and then another. He then
   reached for a large cube and placed this on top, but the tower fell.
-</p>
-<p style="padding-left: 40px;">
+
+
   Saima said, "Oh no – silly big block. It made the tower fall down."
-</p>
+
 _“That was a great try! Why don’t you try starting with a shape that has flat surfaces, like this one?”_ (Suggesting). _“Which one would be best to put on next?”_ (Extending
 thinking).  {/details}
 

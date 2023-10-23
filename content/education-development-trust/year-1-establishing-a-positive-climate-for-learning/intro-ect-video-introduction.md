@@ -17,21 +17,21 @@ Watch the video.
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   Welcome to Block 1. Block 1 is about creating an effective climate for
   learning for your pupils.
-</span>
 
-<span style="font-weight: 400;">
+
+
   It is natural for behaviour management to preoccupy new teachers. Poor
   behaviour makes it hard for pupils to learn. As a teacher, the feeling of not
   being in charge of the lesson can be really demoralising. You will inevitably
   contrast what you do with more experienced colleagues, but it can be hard to
   identify the strategies they use to develop a positive climate for learning.
   It can be easy to assume that you either have ‘it’ or you don’t. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   The good news is that this doesn’t need to be the case! A positive learning
   environment is carefully crafted through specific teacher planning and
   actions, and everyone can do this. In short, you need to teach your pupils how
@@ -41,9 +41,9 @@ Video transcript.
   their own actions, and making the right choices. In this type of environment,
   pupils will feel more supported and secure, and you will be happier in your
   job.
-</span>
 
-<span style="font-weight: 400;">
+
+
   When you know what to look for, you will see two different aspects of
   behaviour management. One is the multi-faceted skill of dealing effectively
   with instances of misbehaviour. This is a skill which improves with
@@ -51,9 +51,9 @@ Video transcript.
   well as individuals. The second, more desirable, aspect is the proactive
   orchestration of classroom conditions in which poor behaviour is less likely
   to happen. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   To help with this, your goal should be to develop positive relationships and a
   culture of respect and trust with your pupils. Get to know your pupils, learn
   their names, talk to them about how they are learning and tell them what you
@@ -61,24 +61,24 @@ Video transcript.
   this yourself. Your school will have policies and practices to support you and
   these should be followed from the outset. However, systems and policies alone
   cannot create a positive learning environment. Your actions,
-</span>
+
 <i>
-  <span style="font-weight: 400;">your</span>
+  your
 </i>
-<span style="font-weight: 400;">
+
   
   behaviour and how you respond to your pupils are key. 
-</span>
 
-<span style="font-weight: 400;">The </span>
-<span style="font-weight: 400;">
+
+The 
+
 teachers we remember the most are those who were fair and consistent in how
 they treated us. They are also the ones we knew had high expectations of both
 our behaviour and what we could achieve. They inspired us to do more, do
 better and produce our best. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   You are responsible for creating and managing the climate within your
   classroom. Your actions can influence the way your pupils behave, the way that
   they feel about your lessons and the results they achieve. This Block has been
@@ -88,9 +88,9 @@ better and produce our best. 
   reinforce rules and routines, support you in establishing positive
   relationships with pupils and show you ways to set and maintain high
   expectations.
-</span>
 
-<span style="font-weight: 400;">
+
+
   Creating a culture in which pupils want to work hard and actively resist
   temptations to misbehave will benefit both your workload and wellbeing but
   also your pupils’ attitudes, wellbeing and motivation. It is not something
@@ -98,5 +98,5 @@ better and produce our best. 
   crafted over time. However, if you consistently teach and model your rules,
   routines and expectations and embed these securely, a positive climate for
   learning will follow before too long.
-</span>
+
  {/details}

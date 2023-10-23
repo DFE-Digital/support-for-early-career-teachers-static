@@ -42,19 +42,20 @@ Codes:
 
 1. Pupil did not invert fraction before beginning calculation
 2. Pupil did not express answer as a mixed number fraction
-<table style="border-collapse: collapse; width: 102.994%;">
+
+<table>
   <tbody>
     <tr>
-      <th style="width: 50%;">Pupil name:</th>
-      <th style="width: 50%;">Code: 1 or 2</th>
+      <th>Pupil name:</th>
+      <th>Code: 1 or 2</th>
     </tr>
     <tr>
-      <td style="width: 50%;">Joe Bloggs</td>
-      <td style="width: 50%;">1 and 2</td>
+      <td>Joe Bloggs</td>
+      <td>1 and 2</td>
     </tr>
     <tr>
-      <td style="width: 50%;">Jane Bloggs</td>
-      <td style="width: 50%;">1</td>
+      <td>Jane Bloggs</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
@@ -117,7 +118,7 @@ but has not on this occasion.
 Error: which occurs when answering something that a student has
 not mastered or has misunderstood.
 
-<p style="text-align: right;">(EEF, 'A Marked Improvement?', page 12)</p>
+(EEF, 'A Marked Improvement?', page 12)
 
 If a pupil makes a mistake, how much feedback is it worth giving in order to correct the mistake? The EEF ‘[A Marked Improvement?](https://educationendowmentfoundation.org.uk/public/files/Presentations/Publications/EEF_Marking_Review_April_2016.pdf)' (2016) report concludes that it should be marked as incorrect, but that the correct answer should not be provided. The rationale for this is that, if a pupil is given the correct answer, it means they are no longer required to think about the mistakes they have made, and as a result are likely to repeat the mistake again.
 

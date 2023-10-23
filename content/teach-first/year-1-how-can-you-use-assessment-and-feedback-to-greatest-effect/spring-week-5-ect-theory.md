@@ -177,13 +177,8 @@ Knowing also that an effective way to develop metacognitive strategies and self-
   <li>Are all of my facial features in proportion?</li>
 </ol>
 
-<details class="govuk-details" data-module="govuk-details">
-  <summary class="govuk-details__summary">
-    <span class="govuk-details__summary-text">
-      Answers
-    </span>
-  </summary>
-  <div class="govuk-details__text">
-    1. Plan 2. Monitor 3. Plan 4. Evaluate 5. Monitor
-</div>
-</details>
+{Details}
+Answers
+
+1. Plan 2. Monitor 3. Plan 4. Evaluate 5. Monitor
+{/Details}

@@ -14,14 +14,14 @@ Colleagues will be able to provide ideas they have found work well with your pup
 
 ### Working with colleagues
 
-<span style="font-weight: 400;">
+
   These are some questions you could ask colleagues about assessment and
   feedback: 
-</span>
+
 - what steps do you take to make assessment efficient? 
 - how do you get the information needed? 
 - how do you provide effective feedback?
-<span style="font-weight: 400;">
+
   Try and expand the network of colleagues who you look to for support in this
   area. For example, it can be useful to talk to colleagues from outside your
   phase/department as it can help give you a different perspective.

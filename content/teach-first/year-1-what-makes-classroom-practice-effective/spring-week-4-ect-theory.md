@@ -122,7 +122,7 @@ Listen to Elizabeth Arkle talk about how she uses checklists to scaffold pupils 
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   This year in English, I really wanted to make children’s planning of their
   writing more meaningful and something that they actually used. I noticed that
   all too often children would plan a piece of writing through a sequence of
@@ -130,23 +130,23 @@ Video transcript.
   They would frequently go and get a SPAG checklist, or a year group assessment
   grid, and then write something that was often poorly organised and did not
   meet the purpose for the writing.
-</span>
 
-<span style="font-weight: 400;">
+
+
   I wanted to give children a way to plan ideas for vocabulary and sentence
   structure, but also see clearly what should be in their writing so I decided
   to use a checklist to act as a prompt. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Before a piece of writing, I plan a checklist, together with the children,
   that is specific to that piece of writing. We call it ‘ingredients for
   success’. As it is developed
-</span>
+
 <i>
-  <span style="font-weight: 400;">with </span>
+  with 
 </i>
-<span style="font-weight: 400;">
+
   the children, not just given to them, they take it very seriously. I always
   start the process off by adding some non-negotiables – these will be my
   specific aims for this piece of writing. For example, it might be to include
@@ -155,43 +155,43 @@ Video transcript.
   we develop this together. Lastly, if they have been given a next step target
   from their last writing – for example, to remember commas in a list – they
   will add this to their own. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   What we include in the checklist varies from piece to piece, but means we have
   a very specific and relevant checklist to guide children through their
   writing. Pupils are encouraged to physically tick things off on their list as
   they go to keep them on track.
-</span>
 
-<span style="font-weight: 400;">
+
+
   It also gives me the chance to give my children writing at greater depth a
   further challenge by adding other elements to their work. Similarly, I can
   remove elements from some children’s checklists to help keep them focused on
   the skills they need to work on.
-</span>
 
-<span style="font-weight: 400;">
+
+
   Planning writing in this way has really helped children to develop
   independence in their writing. It did need a conscious investment of time at
   the outset. To begin with, children would sometimes come up with simple
   punctuation points. Now, however, they are beginning to think for themselves
   about what makes a good piece of writing and will make much more thoughtful
   contributions, such as starting sentences in different ways. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   One other advantage of these more specific checklists is I can add specific
   targets for individual children very easily. For example, one child – although
   a good writer – was persistently using ‘and then’ in their writing. By adding
   this to their checklist, over a couple of pieces of writing, they have almost
   completely stopped doing this.
-</span>
 
-<span style="font-weight: 400;">
+
+
   I have found checklists to be a vital resource when building pupil
   independence whilst still providing a form of scaffold.
-</span>
+
  {/details}
 
 ## Checklists to scaffold metacognitive processes

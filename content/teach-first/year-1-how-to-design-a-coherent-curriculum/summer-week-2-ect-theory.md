@@ -32,16 +32,16 @@ Fitting a scheme of work into the broader sequencing of your curriculum – Emil
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   When planning curriculum, I believe it is crucial for us to plan based on the
   only safe assumption we have about pupils and their relationship with our
   subject, and that is that they might go on to study it at university. I think
   this mentality completely changes the way we plan curriculum as we have to
   think much more carefully about the rigour, longevity and flexibility of what
   we are teaching. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   I am going to be talking about a year 7 plate tectonics scheme of work that I
   wrote recently, that brings together years of teaching the scheme in various
   formats and timeframes. The scheme is an exciting one for introducing
@@ -52,7 +52,7 @@ Video transcript.
   can engage with issues surrounding development and poverty in a more
   sophisticated way later on in school, once they have a grounding in how
   tectonic hazards can shape a community.
-</span>
+
  {/details}
 
 ### Video script - How does your scheme of work fit into the broader sequencing of your curriculum?
@@ -115,16 +115,16 @@ Identifying the foundational knowledge – Emily Maule
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   Foundational concepts and knowledge are the building blocks to any scheme and
   in geography. When planning the year 7 plate tectonics scheme, I created a
   knowledge organiser, which included the foundational concepts and knowledge
   the pupils would need. I selected these by writing out the key things that I
   needed pupils to know by the end of the scheme. These are the things that if
   pupils didn’t learn them, I would feel they had been short changed.
-</span>
 
-<span style="font-weight: 400;">
+
+
   For example, foundational knowledge included the structure of the earth and
   how the crust is broken up into segments that are constantly moving. This
   knowledge is fundamental to this scheme but also to their future learning in
@@ -139,9 +139,9 @@ Video transcript.
   the destruction of buildings and communication systems. Finally, we look at
   how people respond to the disaster, including actions like search and rescue,
   rebuilding works and environmental restoration programmes. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   These foundational knowledge and concepts also included specific examples of
   tectonic events, where pupils are able to study the causes, effects and
   responses to particular tectonic events. In this scheme pupils look
@@ -149,7 +149,7 @@ Video transcript.
   this information on the knowledge organiser means that the pupils and I have a
   clear picture of the core knowledge, concepts and skills pupils need for
   successful learning.
-</span>
+
  {/details}
 
 ### Video script - How did you identify the foundational knowledge for your scheme of work?

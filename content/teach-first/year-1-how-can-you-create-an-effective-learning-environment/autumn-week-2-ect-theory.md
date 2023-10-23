@@ -384,77 +384,77 @@ You may wish to discuss which one would be highest leverage for you to establish
 {details}
 Click here for an example of a script on transitioning pupils from carpets to tables.
 
-<span style="font-weight: 400;">
+
   (When pupils are sat on the carpet) “Today we are going to learn how to come
   to the carpet and go to our tables quickly and quietly. This is important
   because it ensures we can spend as much time as possible on our learning.” 
-</span>
 
-<span style="font-weight: 400;">
+
+
   “I am going to teach you three instructions and show you what I want you to do
   when I say these instructions. After I have shown you, I might ask another
   pupil to demonstrate this so make sure you’re listening carefully.”
-</span>
 
-<span style="font-weight: 400;">
+
+
   “When I say ‘one’, please stand.” (Model standing up and remaining on the
   spot).
-</span>
 
-<span style="font-weight: 400;">
+
+
   “When I say ‘two’, please walk to your space and pull out your chair.” (Model
   walking calmly to a space and pulling out the chair).
-</span>
 
-<span style="font-weight: 400;">
+
+
   “When I say ‘three’, please sit down and begin your work.” (Model sitting down
   at the table and beginning some work).
-</span>
 
-<span style="font-weight: 400;">
+
+
   “Now, who can show me what to do?” Ask one pupil to demonstrate what to do
   whilst I give the instructions. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   “One”, (pupil should stand). Provide praise to that pupil if they remember
   what to do. Ask another pupil to help them if they have forgotten. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   “Two”, (pupil should calmly walk to their table and pull out their chair).
   Provide praise to that pupil if they remember what to do. Ask another pupil to
   help them if they have forgotten.
-</span>
 
-<span style="font-weight: 400;">
+
+
   “Three”, (pupil should sit down and begin their work). Provide praise to that
   pupil if they remember what to do. Ask another pupil to help them if they have
   forgotten.
-</span>
 
-<span style="font-weight: 400;">
+
+
   “Now I am going to ask all of you to do this. Do you think you can do it as
   well as Zackary? Let’s see! I am looking for calm sensible children. Who will
   really impress me I wonder?”
-</span>
 
-<span style="font-weight: 400;">
+
+
   “One”, (all pupils should stand). Provide praise to pupils if they remember
   what to do. Provide gentle prompts and support to pupils who have forgotten.
-</span>
 
-<span style="font-weight: 400;">
+
+
   “Two”, (all pupils should calmly walk to their table and pull out their
   chair). Provide praise to pupils if they remember what to do. Provide gentle
   prompts and support to pupils who have forgotten.
-</span>
 
-<span style="font-weight: 400;">
+
+
   “Three”, (all pupils should sit down and begin their work). Provide praise to
   pupils if they remember what to do. Provide gentle prompts and support to
   pupils who have forgotten.
-</span>
 
-<span style="font-weight: 400;">Practise as many times as required.</span>
+
+Practise as many times as required.
 {/details}

@@ -119,7 +119,7 @@ Building effective relationships is easier when pupils believe that their feelin
 {details}
 Video transcript.
 
-<span style="font-weight: 400;">
+
   It's a grey Wednesday morning in November. You have left the house in a hurry,
   forgetting your keys, and snapped at your mum on the phone on the way in to
   work. You arrive at school later than you had wanted to, with less time to
@@ -127,45 +127,45 @@ Video transcript.
   will be arriving. A class of young people that, if you are honest with
   yourself, you have not yet been able to build the relationships with that you
   know are so important. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   So how can you, with everything you are managing in your own life, create a
   classroom climate that builds trust and respect and that supports all pupils
   to thrive? 
-</span>
 
-<span style="font-weight: 400;">
+
+
   Firstly, we will think about YOU. What you are dealing with in your own life
   and how you manage the feelings associated with the ups and downs - your
-</span>
-<b>self-awareness</b>
-<span style="font-weight: 400;">. </span>
 
-<span style="font-weight: 400;">Secondly, we will consider how </span>
+<b>self-awareness</b>
+. 
+
+Secondly, we will consider how 
 <b>feelings drive behaviours</b>
-<span style="font-weight: 400;">
+
 
 and how our ability to respond empathically to those around us will support
 you, as teacher, to build responsive relationships with pupils.
-</span>
 
-<span style="font-weight: 400;">Thirdly, we will explore how </span>
+
+Thirdly, we will explore how 
 <b>high expectations</b>
-<span style="font-weight: 400;">
+
 
 can be maintained through a finely tuned balance of
-</span>
+
 <b>empathy with clear boundaries.</b>
 
-<span style="font-weight: 400;">
+
   So let’s return to that grizzly Wednesday morning. It’s so important to check
   in with your own emotional state on a regular basis: where would you be, and
   place yourself, in terms of your emotions at that point in the day?
-</span>
-<span style="font-weight: 400;"> We come to our first point – that </span>
+
+ We come to our first point – that 
 <b>your self-awareness is key</b>
-<span style="font-weight: 400;">
+
   . Recognising your own emotions – whether it’s anger, excitement, frustration
   or something else – and accepting that you can both be aware of the emotion
   whilst also being able to ‘park it’, to return to it later, is a key part of
@@ -173,9 +173,9 @@ can be maintained through a finely tuned balance of
   professionals we need to find ways to be aware of, but put to one side, our
   own emotions - so that we can enable and support young people and build a
   culture of trust and respect.  
-</span>
 
-<span style="font-weight: 400;">
+
+
   To do this, you can create times in the day to ‘check in’ with how you are
   feeling, for example, whilst walking down the corridor, listening to music, or
   having a cup of tea with a colleague.  If you can create this space – just a
@@ -183,9 +183,9 @@ can be maintained through a finely tuned balance of
   feelings and emotions. This is important because as the orchestrator of the
   classroom climate, in Haim Ginott’s words, it’s your daily mood that makes the
   weather. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   This leads to our second point that these feelings you are checking in with on
   a regular basis are driving behaviours – both yours and those of your pupils.
   Behaviour is often a way of communicating feelings; for example, a child who
@@ -198,9 +198,9 @@ can be maintained through a finely tuned balance of
   expand pupils’ feelings vocabulary. Once they begin to recognise their
   feelings, you can support pupils to find other tools to deal with the
   situations they find difficult. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   One way we can encourage pupils to respect and support one another is with a
   class or group agreement that you can then return to on a regular basis.
   Including young people early on in identifying how they want to FEEL in class,
@@ -223,13 +223,13 @@ can be maintained through a finely tuned balance of
   they need in order to learn, through an understanding of their own feelings
   and drivers of their behaviour and therefore support them to self-regulate
   their emotions in the long term. 
-</span>
 
-<span style="font-weight: 400;">
+
+
   The final way to create a culture of respect and mutual trust is to maintain
   high expectations of pupils through a finely tuned balance of empathy with
   fair, clear boundaries.
-</span> <span style="font-weight: 400;">
+ 
   Empathy, unlike sympathy, is the ability to think about how another person
   might be feeling and to see a situation from their point of view. So we can
   tentatively suggest what might be going on for a child when they are throwing,
@@ -243,9 +243,9 @@ can be maintained through a finely tuned balance of
   expectations of behaviour is not through methods that might shame or humiliate
   the children in our classes but in how we help pupils to change their
   behaviour.
-</span>
 
-<span style="font-weight: 400;">
+
+
   So, how do you create a culture of mutual trust and respect that supports all
   pupils to thrive? First, make sure you are thinking about YOUR self-awareness
   – as the role model, the young people in your class are learning about
@@ -258,7 +258,7 @@ can be maintained through a finely tuned balance of
   most important, an empathy-based classroom pivots on you, the teacher, being
   able to be a responsive adult for young people, and in order to be that person
   it is crucial that you look after yourself.
-</span>
+
  {/details}
 
 ### Reflection
