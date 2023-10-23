@@ -30,7 +30,7 @@ For this topic you’ll need to:
 Duration: 45 minutes.
 
 1. [Module introduction](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-module-introduction)
-2. [What you’ll learn this week](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-what-you’ll-learn-this-week)
+2. [What you’ll learn this week](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-what-you'll-learn-this-week)
 3. [Research and practice summary](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-research-and-practice-summary)
 4. [Self-study activities](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-self-study-activities)
 
