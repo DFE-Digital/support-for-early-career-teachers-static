@@ -35,18 +35,8 @@ Questioning is essential to great teaching and should be interactive and respons
 2. Ask students to explain what they have learned
 3. Check the response of all students
 4. Provide systematic feedback and corrections
-   So questioning helps us do a lot. It's essential to be a good questioner as a teacher
-   and again it needs lots and lots of practice. Our questions can help us gauge many
-   things, from how well the pupils understand, to whether we need to reteach something,
-   to whether pupils have understood a complex concept. We need to ask loads of questions
-   and involve loads of pupils. We may need to take more time in a lesson to explain
-   something further if our questioning has shown us that pupils don't really get it.
-   Questioning enables us to be responsive teachers and to act on the information we
-   glean from our pupils. Questioning is really key and, as Rosenshine found, less successful
-   teachers ask fewer questions and almost no process questions. There's an array of
-   questioning strategies that you can employ in your teaching. It's worth focusing
-   on a few and practicing them until you're more comfortable and they come more naturally.
-   Practice is key.
+
+So questioning helps us do a lot. It's essential to be a good questioner as a teacher and again it needs lots and lots of practice. Our questions can help us gauge many things, from how well the pupils understand, to whether we need to reteach something, to whether pupils have understood a complex concept. We need to ask loads of questions and involve loads of pupils. We may need to take more time in a lesson to explain something further if our questioning has shown us that pupils don't really get it. Questioning enables us to be responsive teachers and to act on the information we glean from our pupils. Questioning is really key and, as Rosenshine found, less successful teachers ask fewer questions and almost no process questions. There's an array of questioning strategies that you can employ in your teaching. It's worth focusing on a few and practicing them until you're more comfortable and they come more naturally. Practice is key.
 
 In this session you'll explore how to check pupils’ understanding by asking pupils a number of different questions and gaining feedback about what they understand. As Rosenshine and Sherrington emphasize, this reinforces the need to present material in small steps. If there's too much at once then errors and misconceptions will potentially occur more frequently. Therefore chunked explanations supported by models and reinforced by regular questioning and checking for understanding is vital.
 

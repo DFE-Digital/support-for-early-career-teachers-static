@@ -267,19 +267,16 @@ Ideas for challenging might include:
 #### Make effective use of resources, including additional adults
 
 1. For a lesson or sequence of lessons you are going to teach, review the resources you plan to use. Use the following questions to guide your thinking:
-
-- Who might need additional resources?
-- What kind of additional resources might be needed?
-- Have I got enough written structures in place for this lesson, e.g. sentence stems?
-- Have I used word banks or glossaries to support vocabulary?
-- Are there any concrete resources, such as props or models that might help aid understanding?
-
+  - Who might need additional resources?
+  - What kind of additional resources might be needed?
+  - Have I got enough written structures in place for this lesson, e.g. sentence stems?
+  - Have I used word banks or glossaries to support vocabulary?
+  - Are there any concrete resources, such as props or models that might help aid understanding?
 2. Plan how you will deploy any additional adults you have in the classroom:
-
-- Who will they work with?
-- What information might they need prior to the lesson?
-- What misconceptions might they hold which you do not want to pass onto pupils?
-- When should they withdraw their support and how?
+  - Who will they work with?
+  - What information might they need prior to the lesson?
+  - What misconceptions might they hold which you do not want to pass onto pupils?
+  - When should they withdraw their support and how?
 
 You do not need to create distinct tasks for different pupils. Think about how you can provide support to pupils so that they can all achieve and reach a high standard.
 

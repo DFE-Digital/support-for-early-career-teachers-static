@@ -36,13 +36,9 @@ Throughout the session, try to refer explicitly to the Learning Intentions, and 
 Review 5 mins
 
 1. Start this session by briefly following up the actions that the mentee set at the end of last week’s session, which was to plan a lesson which retained core knowledge but also introduced values important to your mentee. Ask your mentee to summarise:
-
-   a. what they did
-
-   b. the impact of this on pupil learning (including how they are evaluating this)
-
-   c. what they will do going forward to build on these actions
-
+   1. what they did
+   2. the impact of this on pupil learning (including how they are evaluating this)
+   3. what they will do going forward to build on these actions
 2. Clarify the Learning Intentions for this session with your mentee
 
 Plan 5 mins
@@ -54,18 +50,12 @@ Theory to Practice 35 mins
 Your mentee had the exemplification of Rachel’s Year 6 PE lesson (above) to help model their own topic plan.
 
 1. Analyse artefacts
-
    Discuss with your mentee the topic planning that they devised in their self-directed study this week.
-
    To support your discussion of their plan, ask your mentee to articulate their thinking on the questions below. (And help them to extend and refine their thinking with the prompts that follow.)
-
-   a. What are the key knowledge and skills within this topic? (And how could you communicate these to your pupils?)
-
-   b. What educational values are supported within this topic? (And why are these important to you?)
-
-   c. How does the topic draw on understanding of prior knowledge to sequence the content within the lessons (and any home learning), including key points of assessment? (Is their prior knowledge secure? Are they making common errors still?)
-
-   d. How are critical skills and transfer considered within the planning? (And can you use a rule-of-thumb like EAR to help develop schema?)
+   1. What are the key knowledge and skills within this topic? (And how could you communicate these to your pupils?)
+   2. What educational values are supported within this topic? (And why are these important to you?)
+   3. How does the topic draw on understanding of prior knowledge to sequence the content within the lessons (and any home learning), including key points of assessment? (Is their prior knowledge secure? Are they making common errors still?)
+   4. How are critical skills and transfer considered within the planning? (And can you use a rule-of-thumb like EAR to help develop schema?)
 
 2. Collaborative planning
 
@@ -81,11 +71,9 @@ Next Steps 5 mins
 
 Agree with your mentee how they will now put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
 
-1\. the action(s) they will take and how these action(s) are expected to contribute to improving their workload and wellbeing
-
-2\. what success will ‘look like’ in relation to these action(s)
-
-3\. how they will evaluate their success in taking these action(s)
+1. the action(s) they will take and how these action(s) are expected to contribute to improving their workload and wellbeing
+2. what success will ‘look like’ in relation to these action(s)
+3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
 

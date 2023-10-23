@@ -19,14 +19,11 @@ Read the case studies on this week’s topic, or the one that is most relevant t
 Take a few minutes to plan how you will use your self-directed study time this week. Think about:
 
 - what evidence you already have for the way you teach now, and the impact it has on your pupils, e.g.
-
   - your module audit
   - observation notes from last week
   - the work your pupils are producing
   - what your pupils are saying in class, how they are responding to feedback
-
 - what evidence it would still be useful for you to collect, e.g.
-
   - the views of your pupils about this change in your practice – how has it altered their attitudes to learning?
   - how the responses of your pupils to the change in your teaching may have altered over time – some may have started well but begun to level off. Can you track that?
   - how the change in your practice is affecting different pupils in different ways

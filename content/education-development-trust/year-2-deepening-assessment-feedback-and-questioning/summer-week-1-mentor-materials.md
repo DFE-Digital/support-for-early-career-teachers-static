@@ -98,18 +98,16 @@ Pose the following question: How can you scaffold self-assessment by sharing mod
 Model work helps pupils gain an understanding about what quality learning ‘looks like’ and – by highlighting the key details and characteristics – what they need to do to achieve the standard. It is underpinned by the idea that it is easier to understand how to do something by being _shown_ how to do it rather than being given a description of how to do it. What could this look like?
 
 1. Prepared model work:
-
-   - Pupils see a complete example, so they know what they are aiming for.
-   - Teacher can share multiple prepared responses showing a variety of high-quality responses
-   - Can be used to identify errors and how to address them
-   - Pupils see the product or outcome they are aiming for
-   - Pupils and teacher can analyse, dissect and evaluate the features within a model.
+  - Pupils see a complete example, so they know what they are aiming for.
+  - Teacher can share multiple prepared responses showing a variety of high-quality responses
+  - Can be used to identify errors and how to address them
+  - Pupils see the product or outcome they are aiming for
+  - Pupils and teacher can analyse, dissect and evaluate the features within a model.
 
 2. Worked examples:
-
-   - Improve learning by reducing cognitive load during skill acquisition
-   - Model the process or procedure and thinking required to solve a particular problem, as well as showing the product
-   - Can be used more than once and completed in collaboration with pupils with pupils partly or fully leading the worked example depending on the level of scaffold required.
+  - Improve learning by reducing cognitive load during skill acquisition
+  - Model the process or procedure and thinking required to solve a particular problem, as well as showing the product
+  - Can be used more than once and completed in collaboration with pupils with pupils partly or fully leading the worked example depending on the level of scaffold required.
 
 Watch the video from this week's ECT self-study materials.
 

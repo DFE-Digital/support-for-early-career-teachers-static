@@ -146,15 +146,15 @@ Answers:
 2. When the capacity of working memory is exceeded.
 3. Because if cognitive overload occurs, we are unlikely to be able to transfer new information into our long-term memory… we learn very little.
 4. Possible options:
-   - Tailor lessons to pupils’ existing knowledge and skills
-   - Use worked examples
-   - Gradually increase independence
-   - Cut out inessential information from explanations
-   - Don’t overload slides with too much information
-   - Present essential information together
+  - Tailor lessons to pupils’ existing knowledge and skills
+  - Use worked examples
+  - Gradually increase independence
+  - Cut out inessential information from explanations
+  - Don’t overload slides with too much information
+  - Present essential information together
 5. Possible answers:
-   - We only have so much time to teach pupils so need to focus on what’s essential.
-   - It helps to boil the subject down to its ‘essence’ so that pupils understand the core principles that make that subject what it is.
+  - We only have so much time to teach pupils so need to focus on what’s essential.
+  - It helps to boil the subject down to its ‘essence’ so that pupils understand the core principles that make that subject what it is.
 
 ### Linking learning to what pupils already know (20 minutes)
 

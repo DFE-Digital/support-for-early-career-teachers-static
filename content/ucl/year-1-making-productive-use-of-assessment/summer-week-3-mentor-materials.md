@@ -35,11 +35,9 @@ Throughout the session, try to refer explicitly to the Learning Intentions, and 
 Review: 5 mins
 
 1. Start this session by briefly following up on the actions that your mentee set at the end of last week’s session. Ask your mentee to summarise:
-
-   - what they did
-   - the impact of this on pupil learning (including how they are evaluating this)
-   - what they will do going forward to build on these actions
-
+  - what they did
+  - the impact of this on pupil learning (including how they are evaluating this)
+  - what they will do going forward to build on these actions
 2. Clarify the Learning Intentions for this session with your mentee.
 
 Plan: 5 mins
@@ -63,11 +61,8 @@ To support this conversation, you could:
 Discuss with mentor / sharing of practice – discuss with your mentee:
 
 1. How they might use assessments in their phase/specialism at the beginning of new topics as a way of checking for prior knowledge/skill and pre-existing misconceptions. Share examples of your practice as appropriate to support this discussion.
-
    You might find it helpful to draft with your mentee a list of the most common misconceptions that you have encountered in your teaching, if you are experienced in the same phase/specialism as your mentee. If you work in a different phase/specialism, you may wish to seek input for this activity from a suitably experienced colleague.
-
 2. How to plan and use carefully structured questions during lessons that surface pupils’ thinking and enable the teacher to accurately identify knowledge gaps and misconceptions. Explore how hinge questions and elaboration might be used in the mentee’s phase and specialism to support assessment and therefore pupils’ learning. Share examples of your practice as appropriate to support this discussion.
-
    As above, you may find it helpful to seek input from a suitably experienced colleague if you work in a different phase / specialism to your mentee.
 
 ---

@@ -34,8 +34,6 @@ Bring these notes to your next mentor meeting.
 
 Look ahead to your next mentor meeting, where you will learn how to:
 
-5h. Make use of well-designed resources (e.g. textbooks).
-
-5i. Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge.
-
-5j. Build in additional practice or remove unnecessary expositions.
+- 5h. Make use of well-designed resources (e.g. textbooks).
+- 5i. Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge.
+- 5j. Build in additional practice or remove unnecessary expositions.

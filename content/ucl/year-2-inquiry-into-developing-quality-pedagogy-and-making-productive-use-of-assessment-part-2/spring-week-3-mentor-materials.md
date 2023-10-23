@@ -68,9 +68,8 @@ Louise:
 
 Through experimenting with ‘minimal marking’ as an alternative to always giving full written feedback, she learned better how to reduce the opportunity cost of marking by using codes and verbal feedback (6p). She also learned better how to give whole-class feedback so they knew what they needed to do to improve, and had the time to do it. (6h) Her claims therefore are:
 
-1\.\_ \_Using codes/verbal feedback does not detrimentally affect pupil progress, compared with a standard written marking approach.
-
-2\. On average, using codes/verbal feedback saves the teacher 30-45 minutes a week, per teaching class, compared with a standard written marking approach.
+1. Using codes/verbal feedback does not detrimentally affect pupil progress, compared with a standard written marking approach.
+2. On average, using codes/verbal feedback saves the teacher 30-45 minutes a week, per teaching class, compared with a standard written marking approach.
 
 She will use this insight to now apply the same principles of verbal feedback and minimal marking to her Year 7 and Year 8 classes, while monitoring the impact of that on her pupils and herself.
 

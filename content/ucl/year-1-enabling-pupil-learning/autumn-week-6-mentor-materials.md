@@ -45,32 +45,21 @@ At the start of this module, you looked at all of the _learn how to_ statements 
 Theory to Practice: 35 mins
 
 1. Analyse artefacts/discuss with mentor
-
    Invite your mentee to talk you through the vignettes and checklist they drafted in their self-study session this week and to share what they learned from completing these activities. Use your knowledge and experience to highlight strengths in your mentee’s reflective thinking and suggest ways to make the most of their learning from the activities as they put their checklist into practice.
-
    To support this discussion, you could:
-
    - connect your mentee’s checklist to your school’s behaviour policy to ensure that the two are aligned
    - highlight strengths in your mentee’s current approach to managing behaviour on which they can build
    - note any areas for development which your mentee has not included in their checklist, but which you think should usefully be addressed
-
 2. Discuss with mentor
-
    Module 1 has introduced a range of approaches to behaviour management, many of which your mentee will now have put into practice. As part of next week’s ECT mentor meeting, you will observe your mentee using some of these approaches. Based on your mentee’s development needs and the challenges they are currently experiencing with their pupils, agree with your mentee which class you will observe and the focus of this observation. The observation is allocated 20 minutes of your meeting time for the week.
-
    Use the notes made by your mentee in their self-study session and the outcomes of the first activity in this session as a starting point for some collaborative planning. Work with your mentee to plan how they will incorporate into their teaching, in the coming week, strategies for developing pupils’ resilience, self-regulation and motivation.
-
    Agree with your mentee:
-
    - which lesson you will observe
    - which 20 minute part of the lesson you will observe
    - the focus of your observation, drawn from one or more of the sessions for Module 1
    - the success criteria for this observation, contextualised for your mentee’s stage of development and the characteristics of their pupils
-
    Note: this observation should not form part of your school’s performance management process or NQT statutory induction. To clearly differentiate this developmental observation from these formal processes you may wish to record your observation notes on paperwork not associated with these processes.
-
 3. Collaborative planning
-
    Spend some time with your mentee planning their lesson for the agreed observation next week. Make use of research and practice summaries from previous weeks in this module, as appropriate, to stimulate ideas for the lesson. You might also use scripting and/or rehearsal if this suits your mentee’s needs.
 
 Next Steps: 5 mins

@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-5-ect-theory"
 ---
 
-### High Expectations
+## High Expectations
 
 1.4 Setting clear expectations can help communicate shared values that improve classroom and school culture.
 
@@ -16,7 +16,7 @@ _1f. Teaching and rigorously maintaining clear behavioural expectations (e.g. fo
 
 _1g. Applying rules, sanctions and rewards in line with school policy, escalating behaviour incidents as appropriate._
 
-### Managing Behaviour
+## Managing Behaviour
 
 7.2 A predictable and secure environment benefits all pupils, but is particularly valuable for pupils with special educational needs.
 

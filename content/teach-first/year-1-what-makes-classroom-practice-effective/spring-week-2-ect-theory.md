@@ -74,14 +74,8 @@ In this part of the module we'll be exploring how Rosenshine reminds us to prese
 2. To clarify and expand an idea
 3. To give causes, context and consequences of a situation or event
 4. Or show how facts and concepts are related and connected
-   So effective explanations are hugely important. Tharby makes it crystal clear when
-   he says, ‘It is near impossible to conceive of effective teaching without explanation’.
-   Teacher talk is vital. If the children can't access our expertise through clear,
-   precise, knowledgeable explanations they are disadvantaged. And the evidence from
-   cognitive science shows that the less prior knowledge a pupil has, the more teacher
-   guidance they need. So, explanations are vital for the children we teach to make
-   sense of the world around them. It's hard, and again it takes lots of practice for
-   a novice teacher. But explanations illuminate.
+
+So effective explanations are hugely important. Tharby makes it crystal clear when he says, ‘It is near impossible to conceive of effective teaching without explanation’. Teacher talk is vital. If the children can't access our expertise through clear, precise, knowledgeable explanations they are disadvantaged. And the evidence from cognitive science shows that the less prior knowledge a pupil has, the more teacher guidance they need. So, explanations are vital for the children we teach to make sense of the world around them. It's hard, and again it takes lots of practice for a novice teacher. But explanations illuminate.
 
 In this session, you'll learn to start making links between what you know about working memory and effective explanations. Effective explanations are chunked. The teacher does not overwhelm pupils by presenting too much information at once, as the working memory can become overloaded. Information and new material are presented in small steps and often with many concrete examples. This is where modelling can come in: the importance of concrete examples so the children can see what a good or indeed a bad example looks like. As Tom Sherrington says, ‘providing models is a central feature of giving good explanations’. Models can be used in any phase of schooling and are an important element of the children having a concrete example of what it looks like. Weinstein and Sumeracki remind us that novices find abstract ideas vague and hard to grasp so concrete examples are much easier to remember. Models help to illustrate abstract ideas and make them easier to understand. Models can organize the information for the novice into a well-structured schema.
 

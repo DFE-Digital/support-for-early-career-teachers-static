@@ -50,33 +50,22 @@ At the start of this module, you looked at all of the _learn how to_ statements 
 Theory to Practice: 35 mins
 
 1. Analyse artefacts/discuss with mentor
-
    Review the vignettes that your mentee drafted in their self-study session this week. Use your knowledge and experience to discuss with your mentee why this sort of in-depth reflection on pupils is valuable, including why it is a necessary starting point for teachers who want to develop their pupils as independent, self-regulating learners.
-
    To support this activity, you could:
-
    - highlight strengths and areas for development in how your mentee has approached the vignettes
    - if you know the pupils concerned, help your mentee to expand the vignettes by drawing on your knowledge of the pupils
    - discuss possible strategies that would help your mentee come to know their pupils better over time so that they are in a position to understand more about their resilience, self-regulation and motivation
    - discuss the value for teachers of undertaking activities like this one, in helping them to reflect on the progress of individual learners in their class(es)
-
 2. Collaborative planning
-
    Use the notes made by your mentee in their self-study session and the outcomes of the first activity in this session as a starting point for some collaborative planning. Work with your mentee to plan how they will incorporate into their teaching in the coming week strategies for developing pupils’ resilience, self-regulation and motivation.
-
    As you work through this activity, you could:
-
    - check that your mentee is clear about whether they are focusing on a single pupil, a group of pupils or a whole class
    - connect the strategies they select to their understanding of the relative strengths and areas for development of the pupil(s) selected
    - relate planning back to the research and practice summary in this week's ECT materials, and the strategies identified that help to develop pupils as independent learners
    - encourage your mentee to be specific in detailing the actions they will take, including scripting any key interactions with pupils that would benefit from this level of detailed preparation
-
 3. Rehearsal
-
    As appropriate, support your mentee to rehearse key interactions that will be part of their teaching as they put their planned strategies into practice.
-
    You can support your mentee’s learning in this activity by:
-
    - taking the role of the pupil(s) concerned and ‘acting back’ as they typically might so that your mentee can rehearse their chosen strategy
    - giving feedback to your mentee about how well they enacted their planned strategy, including positive steps to improve their practice
 

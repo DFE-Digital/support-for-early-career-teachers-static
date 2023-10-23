@@ -43,31 +43,21 @@ Remember that this observation is separate from your school’s formal NQT induc
 Theory to Practice 30 mins
 
 1. Reflection
-
    Ask your mentee to reflect on the lesson that you observed. This is an opportunity for you to support the development of their reflective capacity with good judgement, and in relation to evidence and best practice, and to set appropriate targets for their ongoing development.
-
    To support your mentee’s reflection you could prompt them to:
-
    - identify strengths in their teaching in relation to the strategies they planned to use in the session – in enacting the strategies as planned and in adapting these to the requirements of the lesson
    - identify areas for development, as above
    - consider any aspects of the lesson which surprised them and how this will help them to plan more effective teaching in the future
    - connect their practice in the lesson to research and practice summaries in this module. Where did they demonstrate particular strategies from these summaries? How can they further embed these strategies in their practice over time?
-
    Use your judgment to support and shape your mentee’s reflections, as appropriate.
-
 2. Discuss with mentor –share your feedback on your mentee’s lesson.
-
    To make productive use of this discussion, you could:
-
    - use your notes from the observation to highlight strengths in your mentee’s practice – both in enacting the strategies that were planned and in responding to what happened in the lesson as it progressed
    - use your notes to highlight opportunities for further development in your mentee’s practice, as above
    - build on relevant points arising from your mentee’s reflections in the previous activity
    - connect your feedback explicitly to the contents of the research and practice summaries from this module
-
 3. Reflection
-
    Return to the module audit that your mentee completed at the beginning of this module. Invite your mentee to complete this audit again, having worked through the module. You could:
-
    - note and celebrate those areas in which your mentee has made progress
    - recognise those areas in which your mentee is finding it more difficult to make progress and discuss how you will continue to support your mentee to do this over time
    - acknowledge with your mentee that they will continue to develop their competence and confidence in relation to Module 1 contents as they gain experience. Remind them that they can return to module materials at a later stage if they experience particular challenges related to setting high expectations and managing behaviour effectively

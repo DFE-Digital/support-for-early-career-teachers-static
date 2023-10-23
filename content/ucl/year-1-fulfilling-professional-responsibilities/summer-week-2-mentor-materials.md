@@ -87,43 +87,30 @@ Throughout the session, try to refer explicitly to the Learning Intentions, and 
 
 Review and Plan: 10 mins
 
-1 - Start this session by allocating some time for you and your mentee to read this week’s research and practice summary.
-
-2 - Clarify the learning intentions for this session with your mentee.
+1. Start this session by allocating some time for you and your mentee to read this week’s research and practice summary.
+2. Clarify the learning intentions for this session with your mentee.
 
 At the start of this module, you looked at all of the _learn how_ statements for Standard 8 and conducted a module audit with your mentee. In some areas they will already be confident and skilled. In others they will want more practice and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
 
 Theory to Practice: 35 mins
 
 1. Discuss with mentor
-
    Talk to your mentee about the issues and strategies raised in this week’s research and practice summary, and how they apply to your mentee at present.
-
    You could explore the following questions:
-
    - which issues explored in the summary are particularly pertinent for your mentee?
    - what strategies does your mentee already use successfully to manage their workload and wellbeing?
    - what, specifically, are the top 2 or 3 issues your mentee finds most challenge their workload and wellbeing?
    - are there patterns to how these issues present themselves? For example, are they linked to their timetable, to weekly/monthly/termly cycles in the school calendar/other?
-
 2. Sharing of practice
-
    Share with your mentee strategies you have used, or seen colleagues use, that specifically address the challenges your mentee has highlighted.
-
    As you share these examples:
-
    - be as specific as you can about the nature of the issue, the actions taken and the impact of these actions on workload and wellbeing
    - connect back to the principles/strategies identified in the research and practice summary above
-
 3. Analysis of artefacts/collaborative planning
-
    With reference to the mentee’s planner, online calendar and/or other approaches to planning their workload, work together to devise practical strategies that:
-
    - address the issues that most challenge their workload and wellbeing at present
    - proactively help to pre-empt issues that may challenge workload and wellbeing in the future
-
    To make the most of this activity:
-
    - build on the positive strategies your mentee already has in place
    - draw on the successful strategies that you have shared from your own practice and that of colleagues
    - prompt your mentee to be as specific as possible in setting out the strategies they will put in place going forward. For example, if they are committing to at least one evening a week when they will not work beyond 5pm, use their planner to identify a day when this is most feasible/beneficial and encourage them to add this to their planner as a reminder

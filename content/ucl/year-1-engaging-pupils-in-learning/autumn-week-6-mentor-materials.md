@@ -88,12 +88,9 @@ Throughout the session, try to refer explicitly to the Learning Intentions, and 
 Review 5 mins
 
 1. Start this session by briefly following up the actions that the mentee set at the end of last week’s session, which was to plan learning which combined opportunities to develop critical thinking and transfer, while expressing something important about the values inherent in the subject. Ask your mentee to summarise:
-
-   a. what they did
-
-   b. the impact of this on pupil learning (including how they are evaluating this)
-
-   c. what they will do going forward to build on these actions
+  1. what they did
+  2. the impact of this on pupil learning (including how they are evaluating this)
+  3. what they will do going forward to build on these actions
 
 2. Clarify the Learning Intentions for this session with your mentee
 
@@ -106,31 +103,18 @@ Theory to Practice 35 mins
 Last week, your mentee thought in depth about one topic. The topic will have been drawn from a discipline, such as literacy or a subject, such as geography. Your mentee might have instead focused on a skill or development goal, such as fine motor skills or collaborative play. For ease, we will just refer here to ‘subjects’. Even if your mentee teaches across a range of subjects, in this session they are thinking about just one. By modelling the depth of thought that is possible in relation to this one subject, you are preparing your mentee to think this deeply about each subject that they may teach.
 
 1. Discuss with mentor
-
    With your mentee, discuss why your chosen subject ‘really matters’. Why do you feel that it is deserving of the space given to it in the school curriculum?
-
    To guide your discussion, use these prompts. Don’t aim to cover all prompts, but focus on those which are most relevant to your mentee, the phase in which they teach and the subject being discussed.
-
-   a. Develop a list of key concepts and skills within your chosen area together. It might help to first consider the parent discipline(s) from which the subjects are derived (e.g. literacy in English derives from English language; school geography also draws on geology, environmental science, urban planning, etc.)
-
-   - What might be learnt at university about this discipline (or skill/development goal)?
-   - What is cutting edge within this area which has perhaps not been brought into school curricula yet? (e.g. recent advances in space exploration, the release of a new music album, the design features of a new smartphone)
-   - What makes your mentee (and you as a mentor) passionate about this area?
-
-   b. To help with this task you might use further internet research, for example, by looking at university subject department websites or any professional associations and societies associated with the subject (e.g. the Royal Geographical Society, Historical Association, Institute of Physics)
-
-   c. Together with your mentee now try to define the nature of the subject that you are focusing on: how does it provide students with knowledge about the world, or ways of acting within it? (For example, art can provide representations of the world, but it can also challenge, provoking thought and emotion. Mathematics also provides a language with which to describe the world, but it goes further in that it allows us to see patterns that we might not otherwise be aware of, because it is an internally coherent language. Physical education teaches pupils about recreation, but also teamwork, health and the human body, drawing on both the experience of accomplished sportspersons and scientific study.)
-
+   1. Develop a list of key concepts and skills within your chosen area together. It might help to first consider the parent discipline(s) from which the subjects are derived (e.g. literacy in English derives from English language; school geography also draws on geology, environmental science, urban planning, etc.)
+    - What might be learnt at university about this discipline (or skill/development goal)?
+    - What is cutting edge within this area which has perhaps not been brought into school curricula yet? (e.g. recent advances in space exploration, the release of a new music album, the design features of a new smartphone)
+    - What makes your mentee (and you as a mentor) passionate about this area?
+   2. To help with this task you might use further internet research, for example, by looking at university subject department websites or any professional associations and societies associated with the subject (e.g. the Royal Geographical Society, Historical Association, Institute of Physics)
+   3. Together with your mentee now try to define the nature of the subject that you are focusing on: how does it provide students with knowledge about the world, or ways of acting within it? (For example, art can provide representations of the world, but it can also challenge, provoking thought and emotion. Mathematics also provides a language with which to describe the world, but it goes further in that it allows us to see patterns that we might not otherwise be aware of, because it is an internally coherent language. Physical education teaches pupils about recreation, but also teamwork, health and the human body, drawing on both the experience of accomplished sportspersons and scientific study.)
 2. Practical activity
-
    Within any area of learning there are stories and analogies, illustrations, examples, explanations and demonstrations which convey the important knowledge and skills. Some of these may have come up when you were discussing progression over the last two weeks.
-
    Either
-
-   1. If you feel that you arrived at a reasonable definition for the nature of the subject that you are discussing, now spend time listing the activities and explanations which already convey this to students within your curriculum. How do students come to understand the nature of this subject? How can teachers support this further? (e.g. if you are teaching art, are there opportunities for your pupils to go beyond painting a ‘good’ picture, so that they make art that ‘says’ something? In maths, do you invite your pupils to see the mathematical patterns that occur around them?)
-
-      Or
-
+   1. If you feel that you arrived at a reasonable definition for the nature of the subject that you are discussing, now spend time listing the activities and explanations which already convey this to students within your curriculum. How do students come to understand the nature of this subject? How can teachers support this further? (e.g. if you are teaching art, are there opportunities for your pupils to go beyond painting a ‘good’ picture, so that they make art that ‘says’ something? In maths, do you invite your pupils to see the mathematical patterns that occur around them?), or
    2. If consideration of the nature of the subject under discussion was challenging (and indeed this often is), then instead spend some time focusing on a key concept or skill. List the activities and explanations that allow understanding of this to build up across a year.
 
 3. Collaborative planning
@@ -161,11 +145,9 @@ Next Steps 5 mins
 
 Agree with your mentee how they will now put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
 
-1\. the action(s) they will take and how these action(s) are expected to contribute to improving their workload and wellbeing
-
-2\. what success will ‘look like’ in relation to these action(s)
-
-3\. how they will evaluate their success in taking these action(s)
+1. the action(s) they will take and how these action(s) are expected to contribute to improving their workload and wellbeing
+2. what success will ‘look like’ in relation to these action(s)
+3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting, when you will check on your mentee’s progress.
 

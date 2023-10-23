@@ -40,30 +40,19 @@ Clarify the learning intentions for this session with your mentee. These are ext
 Theory to Practice 40 mins
 
 1. Discuss with Mentor
-
    Your mentee observed or had a discussion with a colleague who has some expertise in literacy. Review with them how the observation or discussion went and help them to draw out important learning for themselves. If they have not managed to do it yet, you should help them to arrange the observation or discussion and make sure it happens.
-
    To support you in having a focused discussion, you might frame it this way with your mentee:
-
    ‘I believe you have observed/ met a colleague who has expertise in literacy.
-
-   How far did they address: <br/>
-
-   - explicitly teaching unfamiliar and high-utility vocabulary <br/>
-   - modelling reading comprehension by asking questions, making predictions, and summarising <br/>
-   - promoting reading for pleasure <br/>
-   - modelling and requiring high-quality oral language. <br/>
-
+   How far did they address:
+   - explicitly teaching unfamiliar and high-utility vocabulary
+   - modelling reading comprehension by asking questions, making predictions, and summarising
+   - promoting reading for pleasure
+   - modelling and requiring high-quality oral language.
    What is the single-most important thing that you learned from this? What would you need to do to apply what you have learned in your own teaching? What support from me, or others, might you need?’
-
 2. Collaborative planning
-
    Work together with the mentee to plan a lesson or sequence of lessons which seek to develop a specific area of literacy pertinent to their subject or phase.
-
    For example, the mentee may have focused their self-study on the role of oral language in literacy development. They might have observed how a teacher has supported a positive climate for constructive dialogue, perhaps through the use of ground rules or sentence stems to scaffold pupil talk.
-
    The examples provided in the self-study session are shown below.
-
    Support their reflections and plan together how they will apply their learning to their own practice over the next few lessons
 
 ### Learning intention: Demonstrating a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling.

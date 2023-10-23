@@ -76,17 +76,14 @@ Suggested dialogue for mentors:
 In the next part of the topic, you will work with a colleague to identify efficient approaches to marking and alternative approaches to providing feedback. We’ve got ten minutes to prepare.
 
 1. What efficient approaches to marking can you think of that you might want to steer your colleague to discuss?
-
-   - Marking codes
-   - Live marking
-   - Self-Assessment
-   - Peer-Assessment
-
+  - Marking codes
+  - Live marking
+  - Self-Assessment
+  - Peer-Assessment
 2. What alternative approaches to providing feedback might you want to steer your colleague to discuss?
-
-   - Peer feedback
-   - Whole class feedback
-   - Verbal feedback
+  - Peer feedback
+  - Whole class feedback
+  - Verbal feedback
 
 What specific questions might you want to ask?
 

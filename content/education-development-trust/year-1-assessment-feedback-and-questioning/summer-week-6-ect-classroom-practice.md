@@ -188,22 +188,17 @@ For a lesson you have coming up, develop a multiple-choice quiz that you could u
 For example, the teacher has taught one lesson in a sequence of lessons on the Battle of Hastings. He uses the following multiple-choice questions to test pupils' knowledge as they go into lesson 2.
 
 1. Why might Harold’s army have been tired before the Battle of Hastings?
-
-   - They had recently fought Harald Hadrada.
-   - They had recently fought King Cnut.
-   - They had recently fought William Duke of Normandy.
-
+ - They had recently fought Harald Hadrada.
+ - They had recently fought King Cnut.
+ - They had recently fought William Duke of Normandy.
 2. What other reason did Harold’s army have for being tired?
-
-   - They had marched to and from London Bridge.
-   - They had marched to and from Stamford Bridge.
-   - They had marched to and from Severn Bridge.
-
+  - They had marched to and from London Bridge.
+  - They had marched to and from Stamford Bridge.
+  - They had marched to and from Severn Bridge.
 3. What advantages did William’s army have ahead of the battle?
-
-   - They were a large army of mostly amateur soldiers.
-   - They arrived early and positioned themselves atop Senlac Hill.
-   - They were well equipped with horses and weapons.
+ - They were a large army of mostly amateur soldiers.
+ - They arrived early and positioned themselves atop Senlac Hill.
+ - They were well equipped with horses and weapons.
 
 #### 5 quick questions/If this is the answer, what’s the question?
 

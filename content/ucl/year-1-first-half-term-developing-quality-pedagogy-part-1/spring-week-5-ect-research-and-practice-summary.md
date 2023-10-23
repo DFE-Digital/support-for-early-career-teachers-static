@@ -77,12 +77,9 @@ I put pupils into groups of mixed ability based on how they had tackled their pr
 We used the following scaffold to structure discussion. 'What would success look like for Henry VIII in terms of his foreign policy 1509–1527?’
 
 1. Suggest a definition for success.
-
 2. Ask a question about the definition. Person 1 should respond to your
    question.
-
 3. Suggest a change to the definition in the light of this discussion.
-
 4. Ask a further question about the definition and then draft a final
    definition which the whole group should then agree before all writing down
    an answer.

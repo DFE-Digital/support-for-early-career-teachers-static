@@ -156,11 +156,11 @@ Record your reflection in your notepad:
 
 Another way to support pupils to stay focused and engaged during lessons is to make the start and end of activities clear. This can help to keep the pace of the lesson and therefore keep pupils alert and focused. Some ways you can do this are:
 
-1. Clear start
+1. **Clear start.**
    Make sure that all pupils know when to start the task by using a clear cue. Everyone starting tasks at the same time means that it keeps pupils focused and the environment purposeful as pupils don’t drift into starting activities or have a quick chat before they begin. For example, when starting pupils off on a task, you might say, “Three, two one, off you go.”
-2. Clear finish
+2. **Clear finish.**
    Ensuring that all pupils know when the activity has ended and what they should do next means that pupils are not finishing at different times and have a chance to start to be off task. Making it clear when the time is up and what to do to show that they are ready is key to you being able to get the pupils' attention and move on with the lesson. For example, using a timer with a sound to indicate time is up and then giving instructions of what to do such as, “Pencils down, eyes on me.”
-3. Provide positive reinforcement
+3. **Provide positive reinforcement.**
    Positively reinforcing your expectations helps to ensure all pupils start and finish the task as and when you directed. For example, when starting a task, you might say, “I can see four tables have started, well done.” Equally, when finishing a task, you might say, “Pencils down, eyes on me, thanks front row, I have all of you looking at me.”
 
 #### Making the beginning and end of activities clear in action

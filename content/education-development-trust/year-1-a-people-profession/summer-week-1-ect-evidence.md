@@ -126,28 +126,23 @@ Watch the following video and consider the way in which the two teachers approac
 Video transcript.
 
 1. How do you prepare for parents' evening?
-   <p class="p1">
-     <b>Year 6:</b> I make a pile for each student which includes a sample of
-     their work to show parents. I have a template where I jot down some notes
-     for each pupil in advance of the meetings – what’s going well, areas for
-     improvement and some next steps for their child and how the parents can
-     help. I do this so I don’t forget anything and I feel confident that I’m
-     making the most of the time when I have parents and carers in front of me.
-   </p>
-   <p class="p1">
-     <b>Secondary:</b> It depends on the year group to be honest. If it is a KS3
-     year group, I sometimes teach over 100 pupils in the year so I always print
-     out a page with pupil names and pictures so I can refer to it if I need to.
-     I would hate to make a mistake and so it is a discreet way to make sure I
-     give the right information to the right parents. I always prepare a data
-     sheet which has their latest test scores, homework and attendance records
-     on it – and for GCSE classes I will include targets. I usually bring the
-     class set of books with me as well, it’s helpful to be able to show
-     examples of work to parents so they understand what I am talking about.
-   </p>
+  * **Year 6:** I make a pile for each student which includes a sample of
+  their work to show parents. I have a template where I jot down some notes
+  for each pupil in advance of the meetings – what’s going well, areas for
+  improvement and some next steps for their child and how the parents can
+  help. I do this so I don’t forget anything and I feel confident that I’m
+  making the most of the time when I have parents and carers in front of me.
+  * **Secondary:** It depends on the year group to be honest. If it is a KS3
+   year group, I sometimes teach over 100 pupils in the year so I always print
+   out a page with pupil names and pictures so I can refer to it if I need to.
+   I would hate to make a mistake and so it is a discreet way to make sure I
+   give the right information to the right parents. I always prepare a data
+   sheet which has their latest test scores, homework and attendance records
+   on it – and for GCSE classes I will include targets. I usually bring the
+   class set of books with me as well, it’s helpful to be able to show
+   examples of work to parents so they understand what I am talking about.
 2. How do you manage the conversation to make best use of their time?
-   <p class="p1">
-     <b>Year 6:</b> I start by explaining what I am going to cover in the
+   * **Year 6:** I start by explaining what I am going to cover in the
      conversation and if that sounds good to them or is there is something they
      particularly want to talk about which I haven’t mentioned. This helps
      because sometimes parents have a really specific question which they ask
@@ -155,9 +150,7 @@ Video transcript.
      is frustrating for the parent as they came with that question in mind and
      then leave without having it answered. I try to not speak for the full slot
      to make sure that their questions have time to be answered.
-   </p>
-   <p class="p1">
-     <b>Secondary: </b>I always start by saying that the slot is just 10 minutes
+   * **Secondary:** I always start by saying that the slot is just 10 minutes
      and that we will have to stick to time to be fair to the other parents. If
      at the end of the slot there feels like there is still a lot to talk about,
      I will suggest that I follow up the next day to arrange a longer meeting or
@@ -166,10 +159,8 @@ Video transcript.
      would have already spoken to them and so when we meet at parents evening I
      am picking up the thread of a conversation and updating rather than
      informing for the first time.
-   </p>
 3. What are your top tips for parents' evening and dealing with difficult conversations?
-   <p class="p1">
-     <b>Year 6:</b> My top tip is to prepare as much as possible. Better to be
+   * **Year 6:** My top tip is to prepare as much as possible. Better to be
      over prepared than under. These are their children and so it shows respect
      to the parents that you have taken the time to plan. Always start by saying
      something positive about the pupil – not a generic comment like they are
@@ -178,9 +169,7 @@ Video transcript.
      son/daughter is – just the other day we had to wait for the PE bus to
      arrive and they didn’t get frustrated but calmly took their book out to
      read!”
-   </p>
-   <p class="p2">
-     <b>Secondary: </b>My top tip is to remain polite and professional
+   * **Secondary:** My top tip is to remain polite and professional
      throughout. Start by smiling and shake their hand, if this is culturally
      appropriate. Say that you are pleased to finally meet them and share
      something positive which you have noticed about their child. If you are
@@ -188,8 +177,7 @@ Video transcript.
      sit in with you and suggest that you meet in a side classroom for some
      privacy. Always follow up the next day if there was a question or query
      which you couldn’t answer.
-   </p>
-    {/details}
+{/details}
 
 ### In your notepad
 
@@ -221,54 +209,47 @@ What steps does the teacher take to build a relationship with the parents/carers
 {details}
 Video transcript.
 
-<p class="p1">
-  When I start with my new class I know that building a relationship with the
-  parents and carers is really important.
-</p>
-<p class="p1">
-  Being a primary school, lots of our parents still drop their kids off or
-  collect them at the end of the day so I make a point of standing outside to
-  say hello and make the initial connection. I keep a list of pupils in my
-  pocket so I tick off when I have met each parent or carer, and any that I
-  haven’t met within the first few weeks I will give a quick call to say hello
-  and introduce myself. I think it is important that families feel they can
-  speak to me if they need to – some of our parents are difficult to engage and
-  so a friendly first impression helps a lot.
-</p>
-<p class="p1">
-  We have a policy of emailing home schemes of work and information about what
-  we will be learning each half term. I find this is a really great way to
-  communicate with families and I always include suggestions of activities which
-  they can do with their children – simple stuff in the home or local area but
-  also ideas of websites or books which would support the theme or topic we are
-  doing.
-</p>
-<p class="p1">
-  Our school parent afternoons tend to be quite early in the year – this is so
-  we have a chance to sit down formally with each family and speak properly with
-  them about their child. Almost every parent or carer I have ever met is
-  delighted to talk about their child and how they can help them with their
-  learning. I like to host these in my classroom so they can see where their
-  child is all day, examples of their work on display and it is a quiet space so
-  they can raise any worries or concerns. I always follow up with a quick email
-  to say thank you and it was nice to meet you. It’s a simple thing but it shows
-  that I am open to continuing the dialogue and we are working together to
-  support their child.
-</p>
-<p class="p1">
-  I do sometimes use text messages – parents sign up to this at the start of the
-  year to say they are happy to receive information this way. I tend to use
-  texts for reminders or quick praise messages as they are short and easy to
-  send. Parents seem to like it.
-</p>
-<p class="p1">
-  One other thing I do to get to know parents and carers is ask the pupils. I do
-  a ‘getting to know you’ activity when I first meet my class - they tell the
-  class about who they live with and maybe some things like how they travel to
-  school or who picks them up after school. This is always fun and I like being
-  able to ask parents about their e-scooters or how their elderly relative who
-  lives with them is doing.
-</p>
+When I start with my new class I know that building a relationship with the
+parents and carers is really important.
+
+Being a primary school, lots of our parents still drop their kids off or
+collect them at the end of the day so I make a point of standing outside to
+say hello and make the initial connection. I keep a list of pupils in my
+pocket so I tick off when I have met each parent or carer, and any that I
+haven’t met within the first few weeks I will give a quick call to say hello
+and introduce myself. I think it is important that families feel they can
+speak to me if they need to – some of our parents are difficult to engage and
+so a friendly first impression helps a lot.
+
+We have a policy of emailing home schemes of work and information about what
+we will be learning each half term. I find this is a really great way to
+communicate with families and I always include suggestions of activities which
+they can do with their children – simple stuff in the home or local area but
+also ideas of websites or books which would support the theme or topic we are
+doing.
+
+Our school parent afternoons tend to be quite early in the year – this is so
+we have a chance to sit down formally with each family and speak properly with
+them about their child. Almost every parent or carer I have ever met is
+delighted to talk about their child and how they can help them with their
+learning. I like to host these in my classroom so they can see where their
+child is all day, examples of their work on display and it is a quiet space so
+they can raise any worries or concerns. I always follow up with a quick email
+to say thank you and it was nice to meet you. It’s a simple thing but it shows
+that I am open to continuing the dialogue and we are working together to
+support their child.
+
+I do sometimes use text messages – parents sign up to this at the start of the
+year to say they are happy to receive information this way. I tend to use
+texts for reminders or quick praise messages as they are short and easy to
+send. Parents seem to like it.
+
+One other thing I do to get to know parents and carers is ask the pupils. I do
+a ‘getting to know you’ activity when I first meet my class - they tell the
+class about who they live with and maybe some things like how they travel to
+school or who picks them up after school. This is always fun and I like being
+able to ask parents about their e-scooters or how their elderly relative who
+lives with them is doing.
  {/details}
 
 ### In your notepad

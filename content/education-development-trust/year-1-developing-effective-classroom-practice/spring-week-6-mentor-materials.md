@@ -88,7 +88,6 @@ Use the final activity in the self-directed study materials to look through all 
 2. What do you need to learn more about?
 3. Have you achieved your goal?
    Ask the ECT to share their responses. Support the ECT to come with an action plan for how they can address the areas they identify in Question 2. Some prompts to support:
-
-- Which colleagues could the ECT go to in order to learn about X?
-- What might be the focus of further reading?
-- What might the ECT need to work on in terms of their classroom practice moving forward? How could they be supported to do this?
+  - Which colleagues could the ECT go to in order to learn about X?
+  - What might be the focus of further reading?
+  - What might the ECT need to work on in terms of their classroom practice moving forward? How could they be supported to do this?

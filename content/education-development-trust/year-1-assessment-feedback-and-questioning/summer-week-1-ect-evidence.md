@@ -161,10 +161,15 @@ allows me to have a few words as they go out, and is a nice way to end the sessi
 I then read through their answers, sometimes there and then for a snapshot of progress,
 or later when I’m planning the next lesson I can sort the tickets into three piles:
 
-1. Pupils who have understood, 2. Pupils who have sort of understood, 3. Pupils who
-   have not understood. This gives me the big picture quickly and easily. It helps me
-   know my starting point for the next set of lessons, and what misconceptions are likely
-   to persist. {/details}
+1. Pupils who have understood
+2. Pupils who have sort of understood
+3. Pupils who have not understood
+
+This gives me the big picture quickly and easily. It helps me know my starting
+point for the next set of lessons, and what misconceptions are likely to
+persist.
+
+{/details}
 
 ### In your notepad
 

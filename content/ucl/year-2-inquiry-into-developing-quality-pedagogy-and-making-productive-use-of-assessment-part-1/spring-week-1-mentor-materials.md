@@ -64,7 +64,7 @@ Secure: I know a lot about this, and / or I do it in my practice consistently an
 
 Plan and Theory to Practice 40 mins
 
-1. Discuss with mentor
+## Discuss with mentor
 
 Ask your mentee to talk you through their audit and to explain the reasoning behind each self-assessment. Where possible, prompt the mentee to support their assessment with reference to one or more sources of evidence (see examples listed in the introduction to this session). You might use questions / prompts such as:
 
@@ -75,7 +75,7 @@ Ask your mentee to talk you through their audit and to explain the reasoning beh
 
 Use your expertise and experience to shape the mentee’s reflections and to draw their attention to aspects of their practice which they may be overlooking (either by judging themselves too harshly or too kindly). The purpose of this activity is to help the mentee identify areas for particular development in relation to Module 8 and also to recognise and celebrate areas of relative strength / confidence.
 
-1. Action Planning
+## Action Planning
 
 Agree with your mentee how you will use the outcomes from the audit to choose an area of focus for an exploratory practitioner inquiry, to run throughout the remainder of this module. At the start of Modules 6 and 7, you helped your mentee to devise an exploratory question. You will repeat that exercise now, to help frame the baseline for a longer practitioner inquiry.
 

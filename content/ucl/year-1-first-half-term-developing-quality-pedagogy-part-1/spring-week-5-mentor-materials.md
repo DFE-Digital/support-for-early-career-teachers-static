@@ -43,45 +43,29 @@ Collaborative Planning
 Now, use their plan in this activity. Depending on the areas for further development that you identified with your mentee in their audit of Standard 4, select from the following activities:
 
 1. Planning activities around what you want pupils to think hard about.
-
    Explore the key learning intention for this lesson. What is it that pupils will need to work hard on and think hard about in order to make progress?
-
    Planning such activities means you should consider:
-
    - the different starting points of each pupil – will they all be thinking hard and working hard on the same thing?
    - what scaffolds you should introduce or withdraw
    - what pupil groupings will best support them
    - the opportunities you give your pupils to practise independently
-
    Are there any ideas you can borrow from the example of Sarah and her Year 11 geographers?
-
 2. Considering the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped).
-
    It might be helpful to think of long-, medium- and short-term factors. Can your mentee say ‘yes’ to these?
-
    Long term factors:
-
    - I have agreed routines, and these are clear to all
    - The pupils have secure prior knowledge from earlier lessons
    - The pupils are used to working in different groups
-
    Medium term factors:
-
    - We have practised paired and collaborative work recently, where I reinforced expectations
    - The class has recently revisited some of the material they will need in this lesson
-
    Short term factors:
-
    - I am clear about my learning intentions for this lesson
    - I am clear about which pupils will work effectively together to achieve the learning intentions
    - I will start with a retrieval exercise so the pupils’ working memories are not overloaded
-
 3. Providing scaffolds for pupil talk to increase the focus and rigour of dialogue
-
    Firstly, look again at the research and practice summary in this week's ECT materials for strategies you can use and at the example of Sarah’s Year 11 geography class or Ben’s Year 12 history class.
-
    You could also consider smaller group and paired structures:
-
    - think-pair-share (thinking alone, sharing with a partner, sharing with a larger group)
    - specific roles for each member of the group (speaker, note-taker, challenger, checker)
    - scaffolds for the conversation – Pupil A explain..... Pupil B....; ABCQ (Agree, Build, Challenge, Question)

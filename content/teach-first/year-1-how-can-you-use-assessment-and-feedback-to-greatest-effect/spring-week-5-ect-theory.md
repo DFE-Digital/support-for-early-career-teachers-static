@@ -44,13 +44,14 @@ There are four things that help most teachers use self-assessment effectively:
 2. Secondly, share specific and understandable success criteria that help your students know how they're doing along the way.
 3. Plan opportunities for your students to use those success criteria independently to identify both their own successes and the things that they need to improve, and finally,
 4. Plan opportunities for your students to work independently to make the identified improvements and I can't stress that last point enough. The most important thing about feedback is what a student does with it.
-   Effective peer assessment involves students thinking about someone else's piece of
-   work and how it could be improved. Peer assessment can be a powerful learning tool
-   and it's not actually about students marking each other's work, as sometimes it's
-   thought, and, structured well, it can have a positive impact both for the student
-   receiving the peer assessment feedback as well as for the student giving it. Often
-   those students who engage in effective peer assessment tasks become much more aware
-   of how to improve their own work by virtue of trying to improve others'.
+
+Effective peer assessment involves students thinking about someone else's piece of
+work and how it could be improved. Peer assessment can be a powerful learning tool
+and it's not actually about students marking each other's work, as sometimes it's
+thought, and, structured well, it can have a positive impact both for the student
+receiving the peer assessment feedback as well as for the student giving it. Often
+those students who engage in effective peer assessment tasks become much more aware
+of how to improve their own work by virtue of trying to improve others'.
 
 Peer assessment engages your students in taking on the role of what Dylan William has called ‘learning resources for their peers’ and just as with self-assessment you'll need to provide students with exemplars and success criteria as well as planned opportunities to identify successes and areas for improvement and, crucially, planned opportunities to act on this information.
 

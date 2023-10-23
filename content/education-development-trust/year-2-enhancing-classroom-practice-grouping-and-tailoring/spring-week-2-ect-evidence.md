@@ -223,7 +223,8 @@ Video script.
 2. Decision-making sheet (Crisis manager)
 3. A4 map of the island for part 2 of the task
 4. Notepaper for the information coordinator
-   {/details}
+
+{/details}
 
 ## Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low-attaining pupils
 

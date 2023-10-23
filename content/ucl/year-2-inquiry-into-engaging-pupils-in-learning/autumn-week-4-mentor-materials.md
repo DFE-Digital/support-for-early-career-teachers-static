@@ -116,12 +116,10 @@ Throughout the session, try to refer explicitly to the Learning Intentions and e
 Review 5 mins
 
 1. Start this session by briefly following up the actions that the mentee set at the end of last week’s mentor meeting. Ask your mentee to summarise
-
-- what they did
-- the impact of this on pupil learning (including how they are evaluating this)
-- what they will do going forward to build on these actions
-
-(2) Clarify the Learning Intentions for this session with your mentee
+  - what they did
+  - the impact of this on pupil learning (including how they are evaluating this)
+  - what they will do going forward to build on these actions
+2. Clarify the Learning Intentions for this session with your mentee
 
 Plan and Theory to Practice 40 mins
 

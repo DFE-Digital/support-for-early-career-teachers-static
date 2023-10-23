@@ -347,19 +347,14 @@ There’s a well-known phenomenon called the curse of expertise, which simply pu
 Time is one of the most important resources you have as a teacher and so it’s important you do what you can to conserve it. Routines can help with this by enabling pupils to complete a task in the quickest, simplest way that requires you to give only a few brief instructions. The following suggestions will support you when planning and teaching your routines.
 
 1. Be clear on what you want pupils to do
-   When creating any routine, it is important that you are clear on what you want pupils to do. It is therefore useful if you plan your instructions in advance and ensure that they are:
-
-   - Specific and observable – they make the behaviours pupils are expected to exhibit explicit. This also makes it easy to observe whether pupils are doing them or not. For example, saying, “Pencils down and eyes to me” is specific and observable whereas saying, “Pay attention” is vague and abstract.
-   - Sequential – they are given in the order that you want pupils to follow them. For example, “Put your pens down, close your books, and eyes on me”.
-   - Manageable – use fewer words to make the instruction easier for pupils to process and remember. You can replace words with numbers or gestures to make them even quicker to deliver.
-
+  When creating any routine, it is important that you are clear on what you want pupils to do. It is therefore useful if you plan your instructions in advance and ensure that they are:
+  - Specific and observable – they make the behaviours pupils are expected to exhibit explicit. This also makes it easy to observe whether pupils are doing them or not. For example, saying, “Pencils down and eyes to me” is specific and observable whereas saying, “Pay attention” is vague and abstract.
+  - Sequential – they are given in the order that you want pupils to follow them. For example, “Put your pens down, close your books, and eyes on me”.
+  - Manageable – use fewer words to make the instruction easier for pupils to process and remember. You can replace words with numbers or gestures to make them even quicker to deliver.
 2. Teach and model your routine in small steps
-
-   - Teaching a routine in small steps helps to make it manageable and memorable for pupils. When teaching each step, make your behavioural expectations explicit by modelling the step as you describe it. This helps to build pupils’ mental model of the routine and makes it more likely they will achieve success.
-
+  - Teaching a routine in small steps helps to make it manageable and memorable for pupils. When teaching each step, make your behavioural expectations explicit by modelling the step as you describe it. This helps to build pupils’ mental model of the routine and makes it more likely they will achieve success.
 3. Practise your routine at the beginning of the school year until pupils meet your expectations
-
-   - Practice is an integral part of effective teaching; ensuring pupils have opportunities to practise, with appropriate guidance and feedback, increases the chances of them being successful when completing the routine. Frame guidance and feedback positively to motivate pupils to do better next time.
+  - Practice is an integral part of effective teaching; ensuring pupils have opportunities to practise, with appropriate guidance and feedback, increases the chances of them being successful when completing the routine. Frame guidance and feedback positively to motivate pupils to do better next time.
 
 Note that while pupils may master routines after lots of practise at the start of the year, over time you may notice some routines slipping a little. Demonstrate the high expectations you have of your pupils by positively reinforcing your routines and practising them again if necessary. This is the key to maintaining high quality, efficient routines.
 

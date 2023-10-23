@@ -35,13 +35,9 @@ As this session is an opportunity for reflection there is no additional research
 Review 5 mins
 
 1. Start this session by briefly following up the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise:
-
-   a. what they did
-
-   b. the impact of this on pupil learning (including how they are evaluating this)
-
-   c. what they will do going forward to build on these actions
-
+  1. what they did
+  2. the impact of this on pupil learning (including how they are evaluating this)
+  3. what they will do going forward to build on these actions
 2. Clarify the Learning Intentions for this session with your mentee
 
 Plan 5 mins
@@ -102,10 +98,8 @@ Next Steps 5 mins
 
 Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
 
-1\. the action(s) they will take and how these action(s) are expected to contribute to improving their workload and wellbeing
-
-2\. what success will ‘look like’ in relation to these action(s)
-
-3\. how they will evaluate their success in taking these action(s)
+1. the action(s) they will take and how these action(s) are expected to contribute to improving their workload and wellbeing
+2. what success will ‘look like’ in relation to these action(s)
+3. how they will evaluate their success in taking these action(s)
 
 Note the date of your next mentor meeting.
