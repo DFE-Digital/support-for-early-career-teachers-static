@@ -52,7 +52,7 @@ For this topic you’ll need to:
 
 Duration: 45 minutes.
 
-1. [What you’ll learn in this topic](/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-what-you’ll-learn-in-this-topic)
+1. [What you’ll learn in this topic](/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-what-you'll-learn-in-this-topic)
 2. [Research and practice summary](/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-research-and-practice-summary)
 3. [Self-study activities](/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-self-study-activities)
 
