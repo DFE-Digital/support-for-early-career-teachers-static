@@ -14,7 +14,7 @@ start:
 	bundle exec nanoc view
 
 watch:
-  	bundle exec nanoc live
+	bundle exec nanoc live
 
 check:
 	bundle exec nanoc check
