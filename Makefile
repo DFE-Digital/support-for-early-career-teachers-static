@@ -11,4 +11,4 @@ bundle_install:
 	bundle install
 
 start:
-	nanoc view
+	bundle exec nanoc view
