@@ -20,7 +20,7 @@ Effective teaching takes account of the limits of pupils’ working memories. Pu
 
 - Drawing on prior knowledge, explicitly linking to what pupils have already been taught.
 - Breaking material up into smaller chunks when introducing it to reduce overload.
-- Structuring her teaching around an ‘I-We-You' model. This should begin with what pupils already know; provide them with a clear explanation of the key ideas and demonstration of the task (I do); provide an opportunity to practise the task collectively and for the teacher to check pupil understanding (We do); and finally move to pupils working independently (You do) (Lemov, 2015).
+- Structuring her teaching around an ‘I-We-You’ model. This should begin with what pupils already know; provide them with a clear explanation of the key ideas and demonstration of the task (I do); provide an opportunity to practise the task collectively and for the teacher to check pupil understanding (We do); and finally move to pupils working independently (You do) (Lemov, 2015).
 
 The I-We-You structure provides multiple opportunities for teachers to convey new ideas by using concrete examples, modelling, and worked examples (Lemov, 2015). These place manageable demands on pupils’ working memory, supporting them to actively process and understand new material (Deans for Impact, 2015).
 
@@ -50,10 +50,10 @@ While guided instruction through modelling is more effective for novices than ot
 
 ### Key takeaways
 
-Ms Thomas's expositions will better match pupil needs if she understands:
+Ms Thomas’s expositions will better match pupil needs if she understands:
 
 - the importance of preventing pupil overload by first building on prior knowledge
-- the ‘I-We-You' approach helps her to ensure she manages pupil thinking and working memory effectively
+- the ‘I-We-You’ approach helps her to ensure she manages pupil thinking and working memory effectively
 - using concrete and abstract examples, modelling, and worked examples in expositions supports pupils when introducing new concepts and processes
 - checking pupil understanding prior to letting them practise independently can be a powerful approach
 

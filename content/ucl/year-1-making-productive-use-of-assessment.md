@@ -4,7 +4,7 @@ heading: "First half-term: making productive use of assessment"
 caption: "Year 1"
 ---
 
-In this module you'll build on your existing knowledge of assessment principles.
+In this module you’ll build on your existing knowledge of assessment principles.
 
 ## Week 1: module audit
 

@@ -29,7 +29,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 {details}
 Example precise target: Teacher promotes challenge using consistent and intentional language, so pupils see it as desirable and understand how it benefits their learning.
 
-- **Not doing it at all:** Use consistent language to describe the benefits of challenging tasks and link this to the benefits to pupils' learning.
+- **Not doing it at all:** Use consistent language to describe the benefits of challenging tasks and link this to the benefits to pupils’ learning.
 - **Doing it but needs some improvement:** When pupils are working on tasks they find challenging, remind pupils of the progress they have made through persevering with challenging tasks, e.g. "Last term you were doing ...; you have pushed yourselves, and now you are able to..."
 - **Doing it well and needs some stretch:** During or following a task that pupils found challenging, plan in reflection time that causes pupils to think about the progress they have made through tackling the challenging task. Encourage pupils to use the same positive, intentional language you have used with them to describe the benefits of challenge.
 

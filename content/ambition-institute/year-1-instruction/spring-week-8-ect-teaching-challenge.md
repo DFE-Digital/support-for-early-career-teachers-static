@@ -18,11 +18,11 @@ Teachers should deploy instructional strategies that provide most teacher suppor
 
 Explicit teaching means teachers provide fully guided instruction to pupils when introducing new knowledge and skills (Sweller, 2016). Ms Sims chooses to pursue explicit teaching because it is the most efficient way to develop her pupils’ mental models – the collection of concepts, knowledge, skills and principles which comprise their understanding of a topic or a subject. To build these mental models, Ms Sims can combine a variety of techniques.
 
-One model which can be helpful when thinking about how to sequence these techniques is the ‘I-We-You' approach (Lemov, 2015). When pupils begin learning a topic or skill, they benefit from first receiving guided instruction from the teacher, as opposed to discovering key ideas for themselves (Coe et al., 2014).
+One model which can be helpful when thinking about how to sequence these techniques is the ‘I-We-You’ approach (Lemov, 2015). When pupils begin learning a topic or skill, they benefit from first receiving guided instruction from the teacher, as opposed to discovering key ideas for themselves (Coe et al., 2014).
 
 One reason this approach is effective is because working memory is limited. If pupils have to discover the key ideas themselves, or complete a complicated process with limited guidance, they will find it difficult to do and to remember. However, teachers can make this process easier through an effective ‘I do’, for example linking to pupil prior knowledge, addressing common misconceptions and introducing material in steps through explanations and models. As pupils acquire knowledge and skills, their expertise increases, and Ms Sims can encourage them to work increasingly independently, first with teacher support (‘We do’) and then practising alone (‘You do’) to gain mastery. Such a sequence makes it more likely pupils will be successful (Rosenshine, 2012).
 
-### 'I do’ - effective teacher exposition
+### ‘I do’ - effective teacher exposition
 
 So how can Ms Sims provide adequate guidance to pupils when introducing new material? During the ‘I do’ section of the lesson, Ms Sims can help her pupils grasp new ideas by introducing new material in steps and crafting careful explanations (Wittwer & Renkl, 2010) using worked and partially worked examples or models (Pashler et al., 2007; Rosenshine, 2012).
 
@@ -46,7 +46,7 @@ But the ‘You do’ stage of independent practice is also important for pupil l
 
 I-We-You offers valuable guidance for sequencing learning, but it is not a rule: it is not equally appropriate across all subjects and phases. An I-We-You structure supports learning across individual lessons but can also be used in shorter cycles within a lesson, or over several lessons.
 
-The expertise reversal effect (Kalyuga, 2007) means that as pupils gain knowledge and skills, too much support can stop them using what they already know. As a result, it is important that teachers check for understanding to ensure they are not ‘over-scaffolding' learning, withdrawing support as appropriate.
+The expertise reversal effect (Kalyuga, 2007) means that as pupils gain knowledge and skills, too much support can stop them using what they already know. As a result, it is important that teachers check for understanding to ensure they are not ‘over-scaffolding’ learning, withdrawing support as appropriate.
 
 ### Key takeaways
 

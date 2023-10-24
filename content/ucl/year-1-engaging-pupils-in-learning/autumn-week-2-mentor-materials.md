@@ -76,7 +76,7 @@ Theory to Practice 40 mins
    - how to identify when prior knowledge is weak and pupils have misconceptions
    - what strategies might be effective for their class(es) in anticipating and dealing with these misconceptions
    Focusing specifically on an instance of misconception that your mentee has encountered, jointly work through their ideas and how these might be refined in order to minimise the occurrence of this.
-   To support this discussion, you could refer to the research and practice summary in this week's ECT materials, and use perhaps two of these prompts:
+   To support this discussion, you could refer to the research and practice summary in this week’s ECT materials, and use perhaps two of these prompts:
    - consider how they might discover the likely extent of this misconception, both across their class as a whole and among different pupils (e.g. do a quick quiz of their previous learning, get pupils to rehearse ‘everything they remember’, give a quick recap of what they ought to have learned and follow up with one or two multiple-choice questions, ‘correct the teacher’ – deliberately quote the likely misconception and challenge the class to point out the mistake)
    - draw out implications of this discussion for what – and how – new material might be introduced
    - building on their understanding of the role of memory in learning, map out a strategy for addressing misconceptions that could be used within their classroom, including providing appropriate external support and thinking about what form this should take

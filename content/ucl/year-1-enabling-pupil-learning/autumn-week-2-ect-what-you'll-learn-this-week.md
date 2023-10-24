@@ -1,5 +1,5 @@
 ---
-title: "What you'll learn this week"
+title: "What you’ll learn this week"
 previous_title: "Module introduction"
 previous_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-module-introduction"
 next_title: "Research and practice summary"

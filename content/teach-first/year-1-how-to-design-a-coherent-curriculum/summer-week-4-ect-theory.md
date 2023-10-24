@@ -41,7 +41,7 @@ Correct idea: different cells can have different sizes and shapes.
 Misconception: The earth’s plates are made of solid rock that can never be seen because
 the plates are always deep within the earth.
 
-Correct idea: Earth's plates are made of solid rock, and they can be seen where they are not covered by soil, loose rocks, or water.
+Correct idea: Earth’s plates are made of solid rock, and they can be seen where they are not covered by soil, loose rocks, or water.
 
 #### Modern foreign languages (French)
 

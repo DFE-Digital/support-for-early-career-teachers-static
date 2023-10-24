@@ -63,7 +63,7 @@ Why should you teach concepts using a range of examples?
 
 How will you know if you have used a sufficient number of examples?
 
-- Testing pupils' understanding will help you work out if you have given enough examples – after a few examples, ask the students to apply their understanding. If they cannot, then you will need to provide more examples.
+- Testing pupils’ understanding will help you work out if you have given enough examples – after a few examples, ask the students to apply their understanding. If they cannot, then you will need to provide more examples.
 - Asking pupils more complex questions will test how well they have grasped the abstract concept.
 
 What are some of the different ways teachers can make explicit links between new content and the core concepts and principles in the subject?

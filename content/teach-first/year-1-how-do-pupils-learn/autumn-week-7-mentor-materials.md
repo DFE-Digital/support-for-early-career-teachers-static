@@ -43,6 +43,6 @@ This is an introduction to self-regulation and metacognition. Developing pupils�
 
 ### Additional resources:
 
-[Education Endowment Foundation's metacognition and self-regulated learning guidance report](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/EEF_Metacognition_and_self-regulated_learning.pdf) (pages 8 to 11 would be particularly useful to read ahead of the mentor session)
+[Education Endowment Foundation’s metacognition and self-regulated learning guidance report](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/EEF_Metacognition_and_self-regulated_learning.pdf) (pages 8 to 11 would be particularly useful to read ahead of the mentor session)
 
-[Education Endowment Foundation's podcast on metacognition](https://educationendowmentfoundation.org.uk/news/trialled-and-tested-podcast-metacognition/)
+[Education Endowment Foundation’s podcast on metacognition](https://educationendowmentfoundation.org.uk/news/trialled-and-tested-podcast-metacognition/)

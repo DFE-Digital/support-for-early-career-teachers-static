@@ -32,7 +32,7 @@ An important part of high-quality teaching is seeking to understand your pupils�
 
 ## Adaptive teaching
 
-Adaptive teaching means being responsive to learners' needs. This includes providing further challenge to stretch pupils’ learning and providing additional support and scaffold to support pupils who are struggling. There are many ways you can adapt your teaching, but this is less likely to be valuable if it causes you to artificially create distinct tasks for different groups of pupils or set lower expectations for particular pupils. Adapting your teaching should be done in a meaningful way that will have a positive impact on pupils’ learning.
+Adaptive teaching means being responsive to learners’ needs. This includes providing further challenge to stretch pupils’ learning and providing additional support and scaffold to support pupils who are struggling. There are many ways you can adapt your teaching, but this is less likely to be valuable if it causes you to artificially create distinct tasks for different groups of pupils or set lower expectations for particular pupils. Adapting your teaching should be done in a meaningful way that will have a positive impact on pupils’ learning.
 
 Listen and make notes as Katherine Fas talks about how she has prepared for and implemented adaptive teaching. You will then be asked to identify and recall at least four strategies that Katherine mentions.
 
@@ -101,7 +101,7 @@ Often, you will already know which pupils will benefit from pre-teaching based o
 
 ### Using pre-teaching to develop prior knowledge
 
-Pupils' prior knowledge can be developed in a variety of ways, but this session will focus on pre-teaching. Pre-teaching is when pupils are taught key information prior to it being taught in a lesson. Pre-teaching provides pupils with essential foundational knowledge that they can draw upon during a lesson. This is likely to increase the pupils’ attention, focus and motivation.
+pupils’ prior knowledge can be developed in a variety of ways, but this session will focus on pre-teaching. Pre-teaching is when pupils are taught key information prior to it being taught in a lesson. Pre-teaching provides pupils with essential foundational knowledge that they can draw upon during a lesson. This is likely to increase the pupils’ attention, focus and motivation.
 
 ## Identifying material to pre-teach
 

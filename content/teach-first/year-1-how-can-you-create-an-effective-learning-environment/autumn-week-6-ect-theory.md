@@ -33,7 +33,7 @@ Success drives motivation. You are much more likely to want to engage in activit
 
 There are multiple ways you can do this and many of these will be explored throughout this programme. In this session, you will explore how to help pupils achieve meaningful success by ensuring they have enough thinking time to respond to questions or discussions and are provided with the opportunity to gather and collate their thoughts before sharing them with the class. One way you can do this is through a technique called ‘Everybody Writes’ or by using talk partners.
 
-## 'Everybody Writes' or talk partners
+## ‘Everybody Writes’ or talk partners
 
 ‘Everybody Writes’ or talk partners is a great way to support pupils to be successful in their answers. This is because it provides pupils with time to think about their answer before sharing it with the whole class.
 
@@ -45,7 +45,7 @@ This has three main benefits:
 2. It increases the time that pupils have to process and think about the question and therefore will increase the depth of the answer.
 3. You can circulate the classroom as pupils are writing their answers or discussing it with their partner and select a pupil that has a good answer to share and/or pick up on any misconceptions as part of the discussion.
 
-To increase pupils' success, you may want to display or model using a writing or speaking frame as this will help to increase the focus and rigour of pupils’ written ideas or dialogue.
+To increase pupils’ success, you may want to display or model using a writing or speaking frame as this will help to increase the focus and rigour of pupils’ written ideas or dialogue.
 
 Watch the video below of a teacher using ‘Everybody Writes’ or talk partners and consider the following questions:
 
@@ -100,7 +100,7 @@ There are a number of ways you can do this:
 - Praise pupils for their effort and progress rather than whether they are correct or not
 - Where pupils have made public mistakes or errors, thank them for their answer and for allowing you use their answer as a learning point for the class
 
-Creating a positive learning environment where it’s safe to make mistakes will take time, particularly where pupils' academic confidence is low. Where this is the case, it is important to regularly reflect on the language you are using with pupils and that you ensure you are planning regular opportunities for them to be meaningfully successful.
+Creating a positive learning environment where it’s safe to make mistakes will take time, particularly where pupils’ academic confidence is low. Where this is the case, it is important to regularly reflect on the language you are using with pupils and that you ensure you are planning regular opportunities for them to be meaningfully successful.
 
 ### Creating a positive learning environment in action
 
@@ -109,7 +109,7 @@ record your response in your notepad:
 
 - how did the teachers respond to the pupils who made an error?
 - what impact did this have on the pupils and the rest of the class?
-- how did the teachers' responses ensure the pupils remained motivated to
+- how did the teachers’ responses ensure the pupils remained motivated to
   learn?
 
 #### Create a positive learning environment where it’s safe to make mistakes – Early Years - Bethan Hughes at Reach Academy
@@ -210,13 +210,13 @@ Pupil A was a child that had earned himself a bit of a reputation for lack of mo
 
 ### A Year 9-11 Spanish Case Study
 
-In year 9, Pupil A was chatty, frequently distracted and was often heard saying that she ‘couldn’t do Spanish’. During that year, she also had an extended period of absence. On her return she was withdrawn, worried and very unconfident with Spanish. Now in year 11, she enjoys Spanish and is working at a strong grade 3 with elements of a 4. I believe that she is very much capable of achieving a 4 in the summer exams. I have implemented many strategies to increase her motivation in the subject and this has brought about a change in her attitude. One of the key strategies was utilising parent's evening. Towards the end of year 9 I had an in-depth chat with her parents and herself during parent's evening. We discussed what she was finding difficult in Spanish and what she felt she needed to improve. Whilst this is nothing out of the ordinary for a standard parent's evening, I really felt this was the first turning point for her. Her mum was very supportive, which was a real boost for her. We talked for a long time and I felt that she really enjoyed having her own voice and understanding that her thoughts and feelings were being considered. At parent’s evening, Pupil A expressed a concern that she was behind with vocabulary. I was able to give her a department booklet which aims to catch up new students to GCSE with the key vocabulary. Whilst this booklet wasn’t specifically designed for her, I decided to make use of the available resources in the school. She responded really well to receiving this resource and completed the booklet at home. I think she liked the security and feelings of success associated with knowing a lot of the words whilst still having a chance to check she was secure with them. As luck would have it the department also had a few spare revision guides. I took the decision to lend the revision guides to her at the start of year 10, again, to make use of available resources within the school, as I knew that she was a girl that needed pushing to the 4. Again, I really feel that these very small but significant gestures of help intrinsically motivated her. I think they showed that we were all on her side and believed in her ability to make great progress and succeed. During year 10, we did a few pieces of work where pupils had to create their own ‘versions’ of resources. For example, pupils created their own personalised verb sheets. She enjoyed the creative side of this activity. She has since taken it upon herself to create her own ‘version’ of other resources such as a writing revision sheet and a speaking strategies PowerPoint. I think it is fantastic that she chooses to work so independently and have always praised her for this great level of engagement. This praise further motivates her to engage and succeed. To help ensure success, I provide her with small chunks of information to learn at a time. For example, she has been learning speaking questions in small sections rather than all at once. She has responded very well to learning in small bursts. Throughout all of this, I really feel that building a personal relationship with Pupil A has been vital. At the beginning of year 9, it sometimes felt that all I ever did was tell her off. This was detrimental to our relationship and wasn’t motivating her to change so I quickly realised I needed to switch the focus of conversation to be about how I could help her to succeed. Once we were on a more positive footing towards the end of year 9, I could see that she was actually sometimes stressed in Spanish. The interventions I have put in place above as well as interventions in lessons, such as giving her targeted support or praise, have all helped to ease this stress, provide her with feelings of success and motivate her to engage in the subject both in school and at home.
+In year 9, Pupil A was chatty, frequently distracted and was often heard saying that she ‘couldn’t do Spanish’. During that year, she also had an extended period of absence. On her return she was withdrawn, worried and very unconfident with Spanish. Now in year 11, she enjoys Spanish and is working at a strong grade 3 with elements of a 4. I believe that she is very much capable of achieving a 4 in the summer exams. I have implemented many strategies to increase her motivation in the subject and this has brought about a change in her attitude. One of the key strategies was utilising parent’s evening. Towards the end of year 9 I had an in-depth chat with her parents and herself during parent’s evening. We discussed what she was finding difficult in Spanish and what she felt she needed to improve. Whilst this is nothing out of the ordinary for a standard parent’s evening, I really felt this was the first turning point for her. Her mum was very supportive, which was a real boost for her. We talked for a long time and I felt that she really enjoyed having her own voice and understanding that her thoughts and feelings were being considered. At parent’s evening, Pupil A expressed a concern that she was behind with vocabulary. I was able to give her a department booklet which aims to catch up new students to GCSE with the key vocabulary. Whilst this booklet wasn’t specifically designed for her, I decided to make use of the available resources in the school. She responded really well to receiving this resource and completed the booklet at home. I think she liked the security and feelings of success associated with knowing a lot of the words whilst still having a chance to check she was secure with them. As luck would have it the department also had a few spare revision guides. I took the decision to lend the revision guides to her at the start of year 10, again, to make use of available resources within the school, as I knew that she was a girl that needed pushing to the 4. Again, I really feel that these very small but significant gestures of help intrinsically motivated her. I think they showed that we were all on her side and believed in her ability to make great progress and succeed. During year 10, we did a few pieces of work where pupils had to create their own ‘versions’ of resources. For example, pupils created their own personalised verb sheets. She enjoyed the creative side of this activity. She has since taken it upon herself to create her own ‘version’ of other resources such as a writing revision sheet and a speaking strategies PowerPoint. I think it is fantastic that she chooses to work so independently and have always praised her for this great level of engagement. This praise further motivates her to engage and succeed. To help ensure success, I provide her with small chunks of information to learn at a time. For example, she has been learning speaking questions in small sections rather than all at once. She has responded very well to learning in small bursts. Throughout all of this, I really feel that building a personal relationship with Pupil A has been vital. At the beginning of year 9, it sometimes felt that all I ever did was tell her off. This was detrimental to our relationship and wasn’t motivating her to change so I quickly realised I needed to switch the focus of conversation to be about how I could help her to succeed. Once we were on a more positive footing towards the end of year 9, I could see that she was actually sometimes stressed in Spanish. The interventions I have put in place above as well as interventions in lessons, such as giving her targeted support or praise, have all helped to ease this stress, provide her with feelings of success and motivate her to engage in the subject both in school and at home.
 
 As noted in the previous session, it’s important that you don’t feel alone in dealing with challenging behaviour - you have a right to be supported by your school to deal with it. If you do encounter incidents that you are unsure how to deal with or don’t feel confident to address, you should seek support from your mentor, a member of your senior leadership team and possibly your SENDCo. Managing behaviour is a whole school responsibility so you shouldn’t feel as though you have to act alone.
 
 ## Application to practice
 
-In your next mentor session, you will be observed using strategies that help to build pupils' motivation such as:
+In your next mentor session, you will be observed using strategies that help to build pupils’ motivation such as:
 
 - Providing opportunities for pupils to experience meaningful success
 - Creating a positive learning environment where it’s safe to make mistakes
@@ -226,7 +226,7 @@ You will also have the opportunity to discuss how to build the intrinsic motivat
 
 #### Additional resources
 
-Choose one of the videos below to hear how teachers developed pupils' intrinsic motivation
+Choose one of the videos below to hear how teachers developed pupils’ intrinsic motivation
 
 #### Developing pupils’ intrinsic motivation - Primary
 
@@ -239,16 +239,13 @@ Choose one of the videos below to hear how teachers developed pupils' intrinsic 
 {details}
 Video Transcript.
 
-
 Pupil motivation is a key driver in pupil progress, attainment and outcomes. Teachers have the ability to influence the academic potential of their classes by raising their expectations of them and expecting more. By holding high expectations, you encourage pupils to work harder, do more and thus achieve more.  It is clear that pupils with high levels of motivation are more likely to step out of their comfort zones and take risks in order to make improvements in their work. Conversely, pupils with low levels of motivation are likely to give up easily, leave work incomplete or refuse to answer questions in lessons because they think they “do not know”.  
 
-#### So, what impacts pupils' motivation?
+#### So, what impacts pupils’ motivation?
 
 Pupils’ levels of motivation can be a product of their own experiences for example if a pupil has always struggled with algebra in maths for example this may then impact their level of motivation when studying algebra as they assume it will be difficult and therefore it becomes more difficult. Pupils can also be influenced by parental views of certain subjects. 
 
-
-
-As a languages teacher I have experienced many occasions where at parents' evenings, parents have explained how much they struggled in French, didn’t like speaking out loud and could not understand the grammatical concepts – this has then influenced their child’s motivation and therefore success in languages.  
+As a languages teacher I have experienced many occasions where at parents’ evenings, parents have explained how much they struggled in French, didn’t like speaking out loud and could not understand the grammatical concepts – this has then influenced their child’s motivation and therefore success in languages.  
 
 #### How can you develop pupils' motivation?
 

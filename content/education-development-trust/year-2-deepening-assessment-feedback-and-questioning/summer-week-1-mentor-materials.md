@@ -109,7 +109,7 @@ Model work helps pupils gain an understanding about what quality learning ‘loo
   - Model the process or procedure and thinking required to solve a particular problem, as well as showing the product
   - Can be used more than once and completed in collaboration with pupils with pupils partly or fully leading the worked example depending on the level of scaffold required.
 
-Watch the video from this week's ECT self-study materials.
+Watch the video from this week’s ECT self-study materials.
 
 Pose the questions:
 

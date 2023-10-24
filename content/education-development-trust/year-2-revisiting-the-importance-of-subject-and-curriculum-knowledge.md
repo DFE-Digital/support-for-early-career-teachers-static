@@ -4,7 +4,7 @@ heading: "Second half-term: revisiting the importance of subject and curriculum 
 caption: "Year 2"
 ---
 
-In this module you'll focus on how you can use your in-depth understanding of the subjects you teach to strengthen your pupils' knowledge.
+In this module you’ll focus on how you can use your in-depth understanding of the subjects you teach to strengthen your pupils’ knowledge.
 
 ## Module introduction
 
@@ -61,7 +61,7 @@ There are no materials for this topic. Instead, your school’s induction lead s
 
 [View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-mentor-materials)
 
-## Week 4: strengthening pupils' subject knowledge
+## Week 4: strengthening pupils’ subject knowledge
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
@@ -99,13 +99,13 @@ Duration: 30 minutes.
 
 ### Mentors
 
-Use the materials below to help you plan a discussion with the ECT about what they've learnt during this module.
+Use the materials below to help you plan a discussion with the ECT about what they’ve learnt during this module.
 
 [View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-6-mentor-materials)
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
 
 Duration: 5 minutes.
 

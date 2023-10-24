@@ -125,7 +125,7 @@ Watch the following video and consider the way in which the two teachers approac
 {details}
 Video transcript.
 
-1. How do you prepare for parents' evening?
+1. How do you prepare for parents’ evening?
   * **Year 6:** I make a pile for each student which includes a sample of
   their work to show parents. I have a template where I jot down some notes
   for each pupil in advance of the meetings – what’s going well, areas for
@@ -155,11 +155,11 @@ Video transcript.
      at the end of the slot there feels like there is still a lot to talk about,
      I will suggest that I follow up the next day to arrange a longer meeting or
      phone call. However, this is rare because if I did have a concern about a
-     pupil I would never surprise parents with this at parents' evening – I
+     pupil I would never surprise parents with this at parents’ evening – I
      would have already spoken to them and so when we meet at parents evening I
      am picking up the thread of a conversation and updating rather than
      informing for the first time.
-3. What are your top tips for parents' evening and dealing with difficult conversations?
+3. What are your top tips for parents’ evening and dealing with difficult conversations?
    * **Year 6:** My top tip is to prepare as much as possible. Better to be
      over prepared than under. These are their children and so it shows respect
      to the parents that you have taken the time to plan. Always start by saying
@@ -259,7 +259,7 @@ with the parents and carers of their class?
 
 What impact do you think this would have?
 
-Keep in mind that high-quality teaching has a long-term positive effect on pupils' life chances, particularly for children from disadvantaged backgrounds. The work you do building relationships and learning about a pupil’s individual circumstances will positively influence your practice as you will be able to effectively plan and adapt your teaching to suit the individual needs of your pupils.
+Keep in mind that high-quality teaching has a long-term positive effect on pupils’ life chances, particularly for children from disadvantaged backgrounds. The work you do building relationships and learning about a pupil’s individual circumstances will positively influence your practice as you will be able to effectively plan and adapt your teaching to suit the individual needs of your pupils.
 
 ### Working with teaching assistants
 
@@ -342,7 +342,7 @@ The TA could work with different pupils at different times so that the teacher c
 Many other professionals work in schools. Developing effective working relationships with these colleagues is a way you can make a positive contribution to the wider life of the school, helping to create a sense that as a community of professionals you are working together to improve the lives of all pupils. Working with other staff in school can also lead to positive effects on teachers’ job satisfaction and decreases in stress and workload (Blatchford et al., 2009). Support staff and other specialist colleagues have valuable expertise, which you can draw on and learn from to help you improve your teaching, whether this is working with particular pupils or developing your teaching.
 
 <figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-1.png" alt="Image shows a SENCO in a classroom, with a speech bubble saying: I'm an experienced teacher. Now I use my expertise to design and plan interventions for pupils, and to to help teacher support pupils so that they achieve their potential. I work with professionals outside the schools as well, and I have strong relationships with many pupils' parents." />
+  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-1.png" alt="Image shows a SENCO in a classroom, with a speech bubble saying: I’m an experienced teacher. Now I use my expertise to design and plan interventions for pupils, and to to help teacher support pupils so that they achieve their potential. I work with professionals outside the schools as well, and I have strong relationships with many pupils’ parents." />
 </figure>
 
 <figure>
@@ -354,11 +354,11 @@ Many other professionals work in schools. Developing effective working relations
 </figure>
 
 <figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-4.png" alt="Image shows a librarian standing in front of some bookshelves, with a speech bubble saying: I love talking to children about what they like to read. Even for the most reluctant readers, I always find something that they'll enjoy.  I spend time thinking really hard about how to organise the books so that they look exciting and interesting. I always have a central role in supporting literacy initiatives." />
+  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-4.png" alt="Image shows a librarian standing in front of some bookshelves, with a speech bubble saying: I love talking to children about what they like to read. Even for the most reluctant readers, I always find something that they’ll enjoy.  I spend time thinking really hard about how to organise the books so that they look exciting and interesting. I always have a central role in supporting literacy initiatives." />
 </figure>
 
 <figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-5.png" alt="Image show a Science/D&T/Art/ICT technician preparing equipment in a laboratory. The speech bubble says: I organise equipment for the teachers. I support teachers in planning new activities, troubleshoot when things aren't working, and often work as part of the team developing new approaches to learning." />
+  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-5.png" alt="Image show a Science/D&T/Art/ICT technician preparing equipment in a laboratory. The speech bubble says: I organise equipment for the teachers. I support teachers in planning new activities, troubleshoot when things aren’t working, and often work as part of the team developing new approaches to learning." />
 </figure>
 
 ### Remember

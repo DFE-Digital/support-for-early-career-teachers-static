@@ -31,7 +31,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 Example precise target: Teacher checks pupil understanding, particularly of challenging content, and adds in extra support in the form of explanations and examples in a way that best suits the needs of the class.
 
 - **Not doing it at all:** Review a task and pre-emptively identify the areas of the task pupils may find particularly challenging. Plan an explanation or an example that would support pupils with one of these challenging areas.
-- **Doing it but needs some improvement:** Circulate and specifically check on pupils' progress on the task, paying particular attention to areas you have identified as challenging and deliver an additional explanation or an example to support the pupils who are struggling.
+- **Doing it but needs some improvement:** Circulate and specifically check on pupils’ progress on the task, paying particular attention to areas you have identified as challenging and deliver an additional explanation or an example to support the pupils who are struggling.
 - **Doing it well and needs some stretch:** If the majority of pupils are getting stuck on a certain aspect of the task, stop the class and deliver an explanation or additional example to support pupils.
 
 {/details}
@@ -40,7 +40,7 @@ Example precise target: Teacher checks pupil understanding, particularly of chal
 
 #### Focused development area
 
-- Teacher checks pupils' understanding of the key learning is sound before removing scaffolding so they have just enough support.
+- Teacher checks pupils’ understanding of the key learning is sound before removing scaffolding so they have just enough support.
 - Teacher explicitly articulates high academic expectations of pupils in explaining, modelling and encouraging them to remove scaffolds at the appropriate time to make their learning more effortful.
 
 ### Observe

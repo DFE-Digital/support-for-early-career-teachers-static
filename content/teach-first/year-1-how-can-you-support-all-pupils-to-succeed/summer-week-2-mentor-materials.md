@@ -63,10 +63,10 @@ Work with your teacher to plan and practise teaching vocabulary implicitly and e
 
 ### Additional resources:
 
-[Education Endowment Foundation's recommendations to support improving early language and literacy](https://educationendowmentfoundation.org.uk/tools/guidance-reports/preparing-for-literacy/)
+[Education Endowment Foundation’s recommendations to support improving early language and literacy](https://educationendowmentfoundation.org.uk/tools/guidance-reports/preparing-for-literacy/)
 
-[Education Endowment Foundation's improving literacy in key stage 1 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-1/)
+[Education Endowment Foundation’s improving literacy in key stage 1 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-1/)
 
-[Education Endowment Foundation's improving literacy in key stage 2 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-2/)
+[Education Endowment Foundation’s improving literacy in key stage 2 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-2/)
 
-[Education Endowment Foundation's improving literacy in secondary schools guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-literacy-in-secondary-schools/)
+[Education Endowment Foundation’s improving literacy in secondary schools guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-literacy-in-secondary-schools/)

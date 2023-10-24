@@ -59,7 +59,7 @@ Ideas might include:
 - Plan lots of opportunities to check learning
 - Make links to prior knowledge.
 
-Together, watch the video from this week's ECT self-study materials.
+Together, watch the video from this week’s ECT self-study materials.
 
 ### Supporting pupils to master challenging content (10 minutes)
 

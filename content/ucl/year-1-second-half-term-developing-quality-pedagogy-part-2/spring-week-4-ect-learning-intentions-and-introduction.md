@@ -19,7 +19,7 @@ next_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spri
 | You will learn how to:                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 5h. Make use of well-designed resources (e.g., textbooks).                                                                            |
-| 5i. Plan to connect new content with pupils' existing knowledge or provide additional pre-teaching if pupils lack critical knowledge. |
+| 5i. Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge. |
 | 5j. Build in additional practice or remove unnecessary expositions.                                                                   |
 
 ## Introduction

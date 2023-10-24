@@ -14,15 +14,15 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- Teacher checks for pupils' prior knowledge before introducing new information.
+- Teacher checks for pupils’ prior knowledge before introducing new information.
 - Teacher addresses gaps they find in prior knowledge before introducing new information.
-- Teacher uses information about pupils' prior knowledge to ensure they introduce new learning in a manageable way.
+- Teacher uses information about pupils’ prior knowledge to ensure they introduce new learning in a manageable way.
 
 {details}
-Example precise target: Teacher checks for pupils' prior knowledge before introducing new information.
+Example precise target: Teacher checks for pupils’ prior knowledge before introducing new information.
 
-- **Not doing it at all:** Plan and deliver a question(s) that enables you to check for pupils' prior knowledge.
-- **Doing it but needs some improvement:** Plan and deliver a set of question(s) that enable you to check for gaps in pupils' prior knowledge.
+- **Not doing it at all:** Plan and deliver a question(s) that enables you to check for pupils’ prior knowledge.
+- **Doing it but needs some improvement:** Plan and deliver a set of question(s) that enable you to check for gaps in pupils’ prior knowledge.
 - **Doing it well and needs some stretch:** Plan and deliver a set of questions that enable you to check pupils’ prior knowledge including any gaps they may have. Explain the link between the prior knowledge pupils have and the new material being introduced.
 
 {/details}
@@ -32,7 +32,7 @@ Example precise target: Teacher checks for pupils' prior knowledge before introd
 #### Focused development area
 
 - Teacher designs a task to activate pupils’ prior knowledge.
-- Teacher checks for pupils' understanding of the links between their prior knowledge and new information, addressing confusion.
+- Teacher checks for pupils’ understanding of the links between their prior knowledge and new information, addressing confusion.
 
 ### Development area 3: Addressing gaps in pupils’ prior knowledge
 
@@ -58,7 +58,7 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Take into account pupils’ prior knowledge when planning how much new information to introduce.
 - Link what pupils already know to what is being taught.
 - Encourage pupils to share emerging understanding and points of confusion.
-- Plan to connect new content with pupils' existing knowledge or provide additional pre-teaching if pupils lack critical knowledge.
+- Plan to connect new content with pupils’ existing knowledge or provide additional pre-teaching if pupils lack critical knowledge.
 - Structure tasks and questions to enable the identification of knowledge gaps
 
 Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.

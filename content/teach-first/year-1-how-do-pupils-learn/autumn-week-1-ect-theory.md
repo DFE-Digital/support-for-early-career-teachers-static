@@ -21,7 +21,7 @@ Listen to the module expert Ben Riley, the Executive Director of Deans for Impac
 {details}
 Video transcript.
 
-Hi, I'm Benjamin Riley, the Founder and Executive Director of Dean's for Impact – a US based, non-profit organisation working to ensure that all children are taught by well-prepared teachers. And part of our work is about making sure that teachers are well prepared by having a firm understanding of how pupils learn. So that’s what I’m going to try to explain to you today in a very short video – how do pupils learn? We don’t have a lot of time, so let’s dive right in.
+Hi, I’m Benjamin Riley, the Founder and Executive Director of Dean’s for Impact – a US based, non-profit organisation working to ensure that all children are taught by well-prepared teachers. And part of our work is about making sure that teachers are well prepared by having a firm understanding of how pupils learn. So that’s what I’m going to try to explain to you today in a very short video – how do pupils learn? We don’t have a lot of time, so let’s dive right in.
 
 So, there’s some good news I have, there’s some bad news I have. I have a model for you that will explain the good news and bad news, and I have a little bit more good news, and then we’re going to end with a quiz. So that’s the outline, let’s start with the good news.
 

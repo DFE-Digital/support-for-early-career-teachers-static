@@ -15,7 +15,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 #### Focused development area
 
 - Teacher, with the support of a colleague, accumulates and refines a range of high-quality models that can be used to exemplify what success looks like to pupils.
-- Teacher focuses pupils' attention on the key components, e.g. using evidence in a paragraph, of a range of high-quality model examples and explains the quality of these key components to pupils, e.g. that the evidence must support the argument the writer is making.
+- Teacher focuses pupils’ attention on the key components, e.g. using evidence in a paragraph, of a range of high-quality model examples and explains the quality of these key components to pupils, e.g. that the evidence must support the argument the writer is making.
 - Teacher ensures pupils engage with the key components of the models, so they are more likely to be remembered.
 - Teacher, with the support of a colleague, identifies misconceptions that may arise from the models and plans to prevent these. - Teacher explicitly teaches pupils how to use models to plan, monitor and evaluate their work to support independence and academic success.
 
@@ -34,7 +34,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 Example precise target: Teacher narrates their thought process when modelling each step and supports pupils’ understanding by linking to prior knowledge.
 
 - **Not doing it at all:** Model the steps in a process by thinking aloud what you are doing in each step.
-- **Doing it but needs some improvement:** Model the steps in a process by thinking aloud what you are doing in each step and making links to supporting prior knowledge, e.g. ”Drawing a right angle reminds me of drawing right-angled triangles when we were learning about Pythagoras' theorem. I remember they were 90 degrees.”
+- **Doing it but needs some improvement:** Model the steps in a process by thinking aloud what you are doing in each step and making links to supporting prior knowledge, e.g. ”Drawing a right angle reminds me of drawing right-angled triangles when we were learning about Pythagoras’ theorem. I remember they were 90 degrees.”
 - **Doing it well and needs some stretch:** For processes that are new or complex for pupils, model the steps and your thought process, linking to their prior knowledge, and when pupils’ knowledge becomes more secure ask them for the steps and thought process that needs to be applied
 
 {/details}
@@ -44,7 +44,7 @@ Example precise target: Teacher narrates their thought process when modelling ea
 #### Focused development area
 
 - Teacher, with the support of a colleague, accumulates and refines worked examples to scaffold pupils towards completing processes independently.
-- Teacher checks pupils' success rate to determine when and how they should gradually remove the scaffolding afforded by worked examples, e.g. by using partially worked examples or just providing the steps or prompts to recall the process.
+- Teacher checks pupils’ success rate to determine when and how they should gradually remove the scaffolding afforded by worked examples, e.g. by using partially worked examples or just providing the steps or prompts to recall the process.
 - Teacher explicitly teaches pupils how to use worked examples to plan, monitor and evaluate their work to support independence and academic success.
 
 ### Observe

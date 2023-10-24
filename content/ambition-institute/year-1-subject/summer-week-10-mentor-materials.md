@@ -10,21 +10,21 @@ caption: "Summer week 10"
 
 Consider the development areas for this topic (below). Then make a note of the area you plan to zoom in on and when you plan to visit so you can observe your teacher in this area. Familiarise yourself with the focused development areas. You will select one later when you observe your teacher.
 
-### Development area 1: Systematically examining pupils' responses
+### Development area 1: Systematically examining pupils’ responses
 
 #### Focused development area
 
 - Teacher, with the support of a colleague, ensures they are clear on what pupils’ responses would look or sound like if pupils had secure knowledge.
-- Teacher, with the support of a colleague, has identified in advance of the assessment common misconceptions, potential gaps in knowledge and errors pupils may make and knows what these would sound or look like in pupils' responses.
-- Teacher intentionally and efficiently checks pupils' responses for previously identified misconceptions, gaps in knowledge and errors.
-- Teacher analyses pupil responses over time, spotting patterns in pupils' understanding of critical knowledge and skills e.g. spotting common misconceptions, gaps in knowledge and error.
+- Teacher, with the support of a colleague, has identified in advance of the assessment common misconceptions, potential gaps in knowledge and errors pupils may make and knows what these would sound or look like in pupils’ responses.
+- Teacher intentionally and efficiently checks pupils’ responses for previously identified misconceptions, gaps in knowledge and errors.
+- Teacher analyses pupil responses over time, spotting patterns in pupils’ understanding of critical knowledge and skills e.g. spotting common misconceptions, gaps in knowledge and error.
 
 {details}
-Example precise target: Teacher intentionally and efficiently checks pupils' responses for previously identified misconceptions, gaps in knowledge and errors.
+Example precise target: Teacher intentionally and efficiently checks pupils’ responses for previously identified misconceptions, gaps in knowledge and errors.
 
-- **Not doing it at all:** Intentionally circulate to check pupils' responses, paying particular attention to misconceptions, gaps in knowledge and errors you think pupils may have.
-- **Doing it but needs some improvement:** Plan to capture pupils' responses to questions in a simple format as you circulate, paying particular attention to responses to questions that target misconceptions, gaps in knowledge and errors you anticipated pupils making.
-- **Doing it well and needs some stretch:** Plan to capture pupils' responses to questions in a simple format as you circulate, particularly capturing information on the number of pupils who have misconceptions, gaps in knowledge and errors and the types that you see, in order to target your feedback.
+- **Not doing it at all:** Intentionally circulate to check pupils’ responses, paying particular attention to misconceptions, gaps in knowledge and errors you think pupils may have.
+- **Doing it but needs some improvement:** Plan to capture pupils’ responses to questions in a simple format as you circulate, paying particular attention to responses to questions that target misconceptions, gaps in knowledge and errors you anticipated pupils making.
+- **Doing it well and needs some stretch:** Plan to capture pupils’ responses to questions in a simple format as you circulate, particularly capturing information on the number of pupils who have misconceptions, gaps in knowledge and errors and the types that you see, in order to target your feedback.
 
 {/details}
 
@@ -33,7 +33,7 @@ Example precise target: Teacher intentionally and efficiently checks pupils' res
 #### Focused development area
 
 - Teacher knows which answers to the diagnostic questions they have set would constitute misconceptions, gaps in knowledge or errors.
-- Teacher examines pupils' responses and probes further for information they need in order to make inferences about pupils' understanding, e.g. asking questions to see where misconceptions stem from.
+- Teacher examines pupils’ responses and probes further for information they need in order to make inferences about pupils’ understanding, e.g. asking questions to see where misconceptions stem from.
 - Teacher actively looks for and efficiently gathers an appropriate range of pupil responses from diagnostic questions, e.g. by scanning whole class to see which answers pupils have chosen and tallying incorrect responses.
 
 ### Development area 3: Making inferences from pupils’ responses

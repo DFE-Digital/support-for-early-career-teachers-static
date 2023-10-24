@@ -89,12 +89,7 @@ Pupils: sh...eee...p...sheep.
 [Cut to talking head of teacher]
 
 
-  Teacher: I use synthetic phonics to teach my pupils how to decode words
-
-–
-
-  
-  it basically means helping them learn how to blend sounds. With synthetic
+  Teacher: I use synthetic phonics to teach my pupils how to decode words – it basically means helping them learn how to blend sounds. With synthetic
   phonics, we are teaching spelling too. We teach spelling as the reverse of
   reading. For reading, children see the word first and then say the sounds. For
   spelling, children hear the word first and then say the sounds. So, to spell,
@@ -264,7 +259,7 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 - Model the use of sentence stems.
 - Prepare a bank of common sentence stems for display.
 - Sentence stems help pupils speak in full sentences.
-- Use this approach regularly so pupils' talk improves over time.
+- Use this approach regularly so pupils’ talk improves over time.
 
 #### Approach: Think, pair, share
 
@@ -325,7 +320,7 @@ call these tier 2 and tier 3 words.
 
 
 - Tier 1: Words of everyday speech, familiar to most children.&nbsp;
-- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil's language ability.
+- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil’s language ability.
 - Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.&nbsp;
   <b>Examples</b>
    
@@ -348,7 +343,6 @@ call these tier 2 and tier 3 words.
   The EEF report for secondary school teachers recommends that they should
   prioritise teaching tier 2 and 3 vocabulary, which students are unlikely to
   encounter in everyday speech.
-
  
 - Choose which words you will explicitly teach in your subject or phase. 
 - Remember that these are most likely to be tier 2 and tier 3 words because they are more complex or subject specific and therefore less likely to be acquired through oral language.&nbsp; 
@@ -403,12 +397,7 @@ Video script.
 Joe: “What does ‘grocer’ mean?”
 
 
-  Anna: “That’s the question I was going to ask
-
-–
-
-  
-  what is a grocer? And who is a grocer boy?”
+  Anna: “That’s the question I was going to ask – what is a grocer? And who is a grocer boy?”
 
 
 
@@ -460,8 +449,7 @@ Pupils: “Yes!”
 
 
 
-  Teacher: “That’s right – do you see, Harry? The Mummy says ‘I wonder who that
-  can be?' Which means she doesn’t know who is at the door yet.”
+  Teacher: “That’s right – do you see, Harry? The Mummy says ‘I wonder who that can be’ Which means she doesn’t know who is at the door yet.”
 
 
 

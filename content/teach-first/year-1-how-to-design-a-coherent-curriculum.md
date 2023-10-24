@@ -4,11 +4,11 @@ heading: "Second half-term: how to design a coherent curriculum"
 caption: "Year 1"
 ---
 
-In this module you'll learn how to design a carefully sequenced and coherent scheme of work, and how this will improve learning for your pupils.
+In this module you’ll learn how to design a carefully sequenced and coherent scheme of work, and how this will improve learning for your pupils.
 
 ## Introduction to the module
 
-Go through the module introduction to see what you'll be learning.
+Go through the module introduction to see what you’ll be learning.
 
 Duration: 10 minutes.
 
@@ -25,7 +25,7 @@ Go through the module introduction to see what the ECT will be learning.
 During the first topic of the module you need to:
 
 - work through the self-study materials below
-- meet your mentor to discuss what you'll be doing in the weeks ahead
+- meet your mentor to discuss what you’ll be doing in the weeks ahead
 
 Duration: 25 minutes.
 

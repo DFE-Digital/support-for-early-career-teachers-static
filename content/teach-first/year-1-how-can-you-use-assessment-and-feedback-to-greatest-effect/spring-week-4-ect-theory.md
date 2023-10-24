@@ -13,13 +13,13 @@ next_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-great
 {details}
 Video transcript.
 
-In defining feedback, and this does sound obvious, but something has to happen first. Like the way bats or whales tend to use sound to listen to the echoes: sonic use. So, feedback is a reaction, it's a consequence of the performance.
+In defining feedback, and this does sound obvious, but something has to happen first. Like the way bats or whales tend to use sound to listen to the echoes: sonic use. So, feedback is a reaction, it’s a consequence of the performance.
 
-I think there are two types basically, that's useful and, probably, useless. In terms of educational feedback, the purpose is generally to provide information that consolidates or improves performance.
+I think there are two types basically, that’s useful and, probably, useless. In terms of educational feedback, the purpose is generally to provide information that consolidates or improves performance.
 
 There are numerous forms of feedback – oral feedback, such as about a piece of work, observation of a task or response to a question acknowledgment, the ticking of a page to say that the work is actually being looked at, and then we use things like grades or marks, and then written feedback.
 
-There's also physical feedback, the learners pick up on the nods and the winks and the applause and their facial expressions. The method will of course depend on the purpose and the context:
+There’s also physical feedback, the learners pick up on the nods and the winks and the applause and their facial expressions. The method will of course depend on the purpose and the context:
 
 - What are you trying to achieve?
 - Why?
@@ -33,9 +33,9 @@ There's also physical feedback, the learners pick up on the nods and the winks a
   In other words, it works best if it is focused on confirming what is being done –
   is it right, or clearly indicates what needs to be done, with some indication of
   what can be achieved, where the learner needs to go next? This raises questions about
-  the method and style of feedback. It's often seen as desirable to give praising feedback,
-  but be cautious, it's likely to be well received and often engender motivation when
-  it's genuine, but it's sometimes difficult to maintain. {/details}
+  the method and style of feedback. It’s often seen as desirable to give praising feedback,
+  but be cautious, it’s likely to be well received and often engender motivation when
+  it’s genuine, but it’s sometimes difficult to maintain. {/details}
 
 When sharing feedback with pupils, you need to consider carefully what it is you are wanting the pupil to change, and then be specific in what you ask them to do. This applies to individual and class written or verbal feedback. As highlighted by Mick, there is often lots of feedback that you could give to a pupil. However, skilled teachers identify what feedback will have the biggest impact and then share it with pupils in an effective way.
 
@@ -131,17 +131,17 @@ Consider your personal development needs and select 2 of the feedback methods to
 {details}
 Video transcript.
 
-It's worth spending the little bit of time considering written feedback, as this is the area that attracts quite a lot of attention, especially with regards to things like teacher workload. There's evidence that written comments are more effective in moving pupils forward than say for example using marks or grades. However, whilst high marks may motivate some pupils, low marks may well have the opposite effect on other pupils.
+it’s worth spending the little bit of time considering written feedback, as this is the area that attracts quite a lot of attention, especially with regards to things like teacher workload. There’s evidence that written comments are more effective in moving pupils forward than say for example using marks or grades. However, whilst high marks may motivate some pupils, low marks may well have the opposite effect on other pupils.
 
-There's also evidence that giving marks and comments doesn't necessarily work. Pupils read the mark or grade and not actually the comments. But written feedback is not always effective. Here we need to consider the quality of the feedback. Does it actually help or hinder? Does it clarify or confuse? Is it worth the time and is it worth the effort? And is the feedback appropriate? I've seen one side of A4 of teachers’ comments given back to infants who can't actually read. So this raises the question: who is the feedback for? Is it really having a positive impact on the learner or is it to simply to comply with a marking policy or set of expectations about teacher behaviour? Feedback is an effective basic human interaction, but in a teaching and learning environment we don't ask quite often enough about whether the feedback is actually making a difference, and how do we know it's making a difference?
+There’s also evidence that giving marks and comments doesn’t necessarily work. Pupils read the mark or grade and not actually the comments. But written feedback is not always effective. Here we need to consider the quality of the feedback. Does it actually help or hinder? Does it clarify or confuse? Is it worth the time and is it worth the effort? And is the feedback appropriate? I’ve seen one side of A4 of teachers’ comments given back to infants who can’t actually read. So this raises the question: who is the feedback for? Is it really having a positive impact on the learner or is it to simply to comply with a marking policy or set of expectations about teacher behaviour? Feedback is an effective basic human interaction, but in a teaching and learning environment we don’t ask quite often enough about whether the feedback is actually making a difference, and how do we know it’s making a difference?
 
-Marking is something that is generally referred to in feedback but the impact of marking has been of particular interest in terms of teacher workload and the DfE teacher workload challenge which was in 2014 found that marking was one of three top causes of teacher mark load. In fact 53% of about 47,000 people thought that whilst marking pupils' work is necessary and productive, its frequency in depth is often burdensome. Much of this was associated with what has been described as deep marking, or triple marking. That means several iterations of comments between the teacher and pupil using different pens so this transaction goes backwards and forwards, but there's no evidence that this is actually effective. But yet the practice, the use of this, is very widespread. The DfE report reducing workload around marking, made three I think very useful suggestions that marking should be:
+Marking is something that is generally referred to in feedback but the impact of marking has been of particular interest in terms of teacher workload and the DfE teacher workload challenge which was in 2014 found that marking was one of three top causes of teacher mark load. In fact 53% of about 47,000 people thought that whilst marking pupils’ work is necessary and productive, its frequency in depth is often burdensome. Much of this was associated with what has been described as deep marking, or triple marking. That means several iterations of comments between the teacher and pupil using different pens so this transaction goes backwards and forwards, but there’s no evidence that this is actually effective. But yet the practice, the use of this, is very widespread. The DfE report reducing workload around marking, made three I think very useful suggestions that marking should be:
 
 - meaningful
 - motivational
 - manageable
-  There's also a report from a group of 16 schools in Wigan, the ‘Wow’ schools, ‘With
-  Others We Succeed’, who tried a variety of approaches to marking pupils' work in
+  There’s also a report from a group of 16 schools in Wigan, the ‘Wow’ schools, ‘With
+  Others We Succeed’, who tried a variety of approaches to marking pupils’ work in
   order to evaluate the impact on pupils, teachers and indeed parents. Was it meaningful?
   Was it motivational and was it manageable? The trial approaches including things
   like just stopping marking to see if actually made any difference and indeed it did
@@ -232,9 +232,9 @@ Hear from Secondary teacher and teacher educator Liz Carroll, as she explains wh
 {details}
 Video transcript.
 
-We know that feedback is important and has a direct impact on progress. So, we need to be delivering that feedback in a constructive way. It's also really important to recognise that writing in books isn't the only form of feedback and actually writing in every single book can become an onerous task and have a disproportionate impact on your workload.
+We know that feedback is important and has a direct impact on progress. So, we need to be delivering that feedback in a constructive way. It’s also really important to recognise that writing in books isn’t the only form of feedback and actually writing in every single book can become an onerous task and have a disproportionate impact on your workload.
 
-If the purpose of feedback is to recognise strengths, correct misconceptions, and keep pupils motivated, using group verbal feedback in the lessons, having marked books, can be really impactful. To prepare for this, when looking through the books you need to become really familiar with the level of understanding in the class. Then you can use that knowledge to feed back to the whole group in a subsequent lesson and immediately see the impact that feedback can have on the learning. You could also stop to offer group verbal feedback just in the middle of a lesson so you're not responding to what you've seen in the books when you've looked at them, but you're responding to the work that's happening there and then. And again pupils will be able to respond to that guidance straight away.
+If the purpose of feedback is to recognise strengths, correct misconceptions, and keep pupils motivated, using group verbal feedback in the lessons, having marked books, can be really impactful. To prepare for this, when looking through the books you need to become really familiar with the level of understanding in the class. Then you can use that knowledge to feed back to the whole group in a subsequent lesson and immediately see the impact that feedback can have on the learning. You could also stop to offer group verbal feedback just in the middle of a lesson so you’re not responding to what you’ve seen in the books when you’ve looked at them, but you’re responding to the work that’s happening there and then. And again pupils will be able to respond to that guidance straight away.
 
 {/details}
 
@@ -298,7 +298,7 @@ A few examples of our codes are: P: point, Ev: evidence, Ex: explanation.
 
 When we introduced the codes, it was important to model their use for the pupils and we marked a series of modelled answers on the board together. I used the “I do, we do, you do” approach and I was able to show my pupils how they should expect to see them presented in their work and what this meant that they needed to do as an action.
 
-On a practitioner level, I find the marking code effective as it helps me to provide meaningful feedback to my pupils. I find that they understand the code quickly and can begin to action feedback immediately. It has also had a positive impact on my workload as it is quicker to denote where success and areas for improvement are by using the symbols, rather than having to write lengthy prose. This saves me time and I can therefore invest that time into planning improvement tasks or planning for their next lesson where the pupils will actually have the opportunity to incorporate those improvements. I also find that when we are looking at work as a department, the marking code enables standardisation. I use the same codes as all the other teachers, and it makes cross referencing across the department quick and effective. We are able to look at a students' work, see where the teacher has identified where they think a criteria has or has not been met, and then we can check through it. Alternatively, during blind standardisation (when we all have clean copies of the same script) we can then discuss it and if there is disagreement about the mark the question should be awarded, that’s when we can query why one person thinks there is sufficient evidence or not by using the symbols to zoom in on those areas in the question.
+On a practitioner level, I find the marking code effective as it helps me to provide meaningful feedback to my pupils. I find that they understand the code quickly and can begin to action feedback immediately. It has also had a positive impact on my workload as it is quicker to denote where success and areas for improvement are by using the symbols, rather than having to write lengthy prose. This saves me time and I can therefore invest that time into planning improvement tasks or planning for their next lesson where the pupils will actually have the opportunity to incorporate those improvements. I also find that when we are looking at work as a department, the marking code enables standardisation. I use the same codes as all the other teachers, and it makes cross referencing across the department quick and effective. We are able to look at a students’ work, see where the teacher has identified where they think a criteria has or has not been met, and then we can check through it. Alternatively, during blind standardisation (when we all have clean copies of the same script) we can then discuss it and if there is disagreement about the mark the question should be awarded, that’s when we can query why one person thinks there is sufficient evidence or not by using the symbols to zoom in on those areas in the question.
 
 My use of the marking code isn’t only kept for marking after the lesson, I also use it during my lessons to support with live marking. I circulate the room and use the marking codes to assess pieces of work and provide areas for improvement instantly. The pupils can then respond immediately, and I can support them with that where necessary.
 

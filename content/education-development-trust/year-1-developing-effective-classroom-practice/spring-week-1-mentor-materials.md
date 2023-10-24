@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 1"
 ---
 
-## Setting the scene and becoming an 'effective teacher'
+## Setting the scene and becoming an ‘effective teacher’
 
 ### Intended outcomes
 

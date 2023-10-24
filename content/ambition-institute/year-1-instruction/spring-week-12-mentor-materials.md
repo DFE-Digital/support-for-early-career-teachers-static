@@ -21,7 +21,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- The teacher, with the support of a colleague, selects manageable, specific content of the whole-class feedback on the basis of common patterns they identify in pupils' responses and work.
+- The teacher, with the support of a colleague, selects manageable, specific content of the whole-class feedback on the basis of common patterns they identify in pupils’ responses and work.
 - Teacher provides whole-class feedback that is manageable, specific and coupled with an actionable task for pupils to put the feedback into practice.
 - Teacher considers where feedback may be unclear and ensures pupils know what the feedback means by being specific, giving examples and checking pupils understand how to action the feedback.
 - Teacher provides pupils with sufficient time to process and respond to feedback and checks that their responses show progress.

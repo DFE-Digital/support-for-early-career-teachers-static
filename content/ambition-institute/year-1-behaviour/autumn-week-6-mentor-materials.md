@@ -14,7 +14,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- Teacher addresses pupils consistently and adopts language that reinforces the school's culture and values.
+- Teacher addresses pupils consistently and adopts language that reinforces the school’s culture and values.
 - Teacher uses language that communicates the high expectations they have of pupils and supports them to have high expectations of themselves.
 - Teacher uses language that states positively what they need pupils to do.
 
@@ -22,14 +22,14 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- Teacher, with the support of a colleague, identifies which behaviours warrant which sanctions in line with the school's behavioural policy, and plans to address behaviours consistently and as positively as possible.
+- Teacher, with the support of a colleague, identifies which behaviours warrant which sanctions in line with the school’s behavioural policy, and plans to address behaviours consistently and as positively as possible.
 - Teacher always delivers sanctions calmly, using language and non-verbals that are likely to de-escalate the situation and enable teaching and learning to continue.
 - Teacher consistently seeks to re-engage pupils after issuing a sanction.
 
 {details}
-Example precise target: Teacher, with the support of a colleague, identifies which behaviours warrant which sanctions in line with the school's behavioural policy, and plans to address behaviours consistently and as positively as possible.
+Example precise target: Teacher, with the support of a colleague, identifies which behaviours warrant which sanctions in line with the school’s behavioural policy, and plans to address behaviours consistently and as positively as possible.
 
-- **Not doing it at all:** With the support of a colleague, ensure you are clear on which categories of behaviour warrant which levels of sanction in line with the school's behavioural policy, including behaviours that arise as a result of issuing a sanction (secondary behaviours).
+- **Not doing it at all:** With the support of a colleague, ensure you are clear on which categories of behaviour warrant which levels of sanction in line with the school’s behavioural policy, including behaviours that arise as a result of issuing a sanction (secondary behaviours).
 - **Doing it but needs some improvement:** With the support of a colleague, plan how you will respond consistently to behaviours that require different levels of response in line with the school’s behavioural policy.
 - **Doing it well and needs some stretch:** With the support of a colleague, plan to use a consistent format for supporting pupils to change their behaviour, e.g. state the behaviour, state the consequence, tell them what to do to get back on track.
 

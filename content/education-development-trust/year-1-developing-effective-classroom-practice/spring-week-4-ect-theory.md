@@ -70,7 +70,7 @@ The pupils have all been given the same task. This is not because the pupils are
 
 #### What should you focus on in this video?
 
-- What is the teacher doing in the lesson to maximise each pupil's progress during their independent practice?
+- What is the teacher doing in the lesson to maximise each pupil’s progress during their independent practice?
 - What did the teacher need to think about or prepare before the lesson in order to do this?
 - What happens when the teacher notices that a pupil is struggling?
 - What is the impact of the strategy?

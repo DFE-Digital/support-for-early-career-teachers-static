@@ -36,9 +36,9 @@ Questioning is essential to great teaching and should be interactive and respons
 3. Check the response of all students
 4. Provide systematic feedback and corrections
 
-So questioning helps us do a lot. It's essential to be a good questioner as a teacher and again it needs lots and lots of practice. Our questions can help us gauge many things, from how well the pupils understand, to whether we need to reteach something, to whether pupils have understood a complex concept. We need to ask loads of questions and involve loads of pupils. We may need to take more time in a lesson to explain something further if our questioning has shown us that pupils don't really get it. Questioning enables us to be responsive teachers and to act on the information we glean from our pupils. Questioning is really key and, as Rosenshine found, less successful teachers ask fewer questions and almost no process questions. There's an array of questioning strategies that you can employ in your teaching. It's worth focusing on a few and practicing them until you're more comfortable and they come more naturally. Practice is key.
+So questioning helps us do a lot. It’s essential to be a good questioner as a teacher and again it needs lots and lots of practice. Our questions can help us gauge many things, from how well the pupils understand, to whether we need to reteach something, to whether pupils have understood a complex concept. We need to ask loads of questions and involve loads of pupils. We may need to take more time in a lesson to explain something further if our questioning has shown us that pupils don’t really get it. Questioning enables us to be responsive teachers and to act on the information we glean from our pupils. Questioning is really key and, as Rosenshine found, less successful teachers ask fewer questions and almost no process questions. There’s an array of questioning strategies that you can employ in your teaching. It’s worth focusing on a few and practicing them until you’re more comfortable and they come more naturally. Practice is key.
 
-In this session you'll explore how to check pupils’ understanding by asking pupils a number of different questions and gaining feedback about what they understand. As Rosenshine and Sherrington emphasize, this reinforces the need to present material in small steps. If there's too much at once then errors and misconceptions will potentially occur more frequently. Therefore chunked explanations supported by models and reinforced by regular questioning and checking for understanding is vital.
+In this session you’ll explore how to check pupils’ understanding by asking pupils a number of different questions and gaining feedback about what they understand. As Rosenshine and Sherrington emphasize, this reinforces the need to present material in small steps. If there’s too much at once then errors and misconceptions will potentially occur more frequently. Therefore chunked explanations supported by models and reinforced by regular questioning and checking for understanding is vital.
 
 {/details}
 
@@ -178,11 +178,11 @@ Whilst questioning should be used to check understanding, it can also be used to
 - Ensure you do not complete pupils’ answers for them. By extending their answer with your own ideas, you are lowering your expectations of what a good answer is and assuming pupils know more than they do
 - Ask pupils follow-up questions which encourage them to build on their answer to extend and challenge them
 
-## Do not complete pupils' answers
+## Do not complete pupils’ answers
 
 One way to ensure you maintain high expectations of pupil responses is to ensure you ask follow-up questions to an incomplete answer rather than completing the answer for the pupils.
 
-Often teachers, unknowingly, complete or ‘round-up’ pupils' incomplete answers and then reward the pupil for their answer even though it wasn’t entirely their response.
+Often teachers, unknowingly, complete or ‘round-up’ pupils’ incomplete answers and then reward the pupil for their answer even though it wasn’t entirely their response.
 
 ### Example
 
@@ -196,7 +196,7 @@ The teacher has added extra information but still indicated the pupil gave the c
 
 ### Asking further questions to enable the pupil to complete or build upon their answer
 
-It can be difficult not to round-up pupils' answers as you want to keep the pace of the lesson and praise pupils for sharing their ideas. However, if you don’t address partially correct answers and probe for more detail then you have lowered your expectations of pupils and don’t provide them with an opportunity to extend their leaning.
+It can be difficult not to round-up pupils’ answers as you want to keep the pace of the lesson and praise pupils for sharing their ideas. However, if you don’t address partially correct answers and probe for more detail then you have lowered your expectations of pupils and don’t provide them with an opportunity to extend their leaning.
 
 The best way to avoid doing this is to ensure _you_ know what a good answer would be before asking the question. For example, it may be that the pupils need to give three specific pieces of information. Knowing this helps you identify _exactly_ what you want pupils to say. If/when they don’t provide you with a full answer, you can probe further.
 
@@ -216,30 +216,30 @@ answers. Consider the following questions and record your response in your notep
 
 If you require an audio description over the video, please watch this version: [Do not complete pupils’ answers – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/gbcRuyisUlU)
 
-#### Do not complete pupils' answers - Primary
+#### Do not complete pupils’ answers - Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w9d8SyZzMtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-If you require an audio description over the video, please watch this version: [Do not complete pupils' answers - Primary [AD]](https://youtu.be/zt3gtOdwomM)
+If you require an audio description over the video, please watch this version: [Do not complete pupils’ answers - Primary [AD]](https://youtu.be/zt3gtOdwomM)
 
-#### Do not complete pupils' answers - Secondary
+#### Do not complete pupils’ answers - Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3KWumo1mI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-If you require an audio description over the video, please watch this version: [Do not complete pupils' answers - Secondary [AD]](https://youtu.be/JsCtPhGuQbA)
+If you require an audio description over the video, please watch this version: [Do not complete pupils’ answers - Secondary [AD]](https://youtu.be/JsCtPhGuQbA)
 
-#### Do not complete pupils' answers – Specialist setting - Ellen Tinkham School
+#### Do not complete pupils’ answers – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMnpXnoDC3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-If you require an audio description over the video, please watch this version: [Do not complete pupils' answers – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/axORC2uYll4)
+If you require an audio description over the video, please watch this version: [Do not complete pupils’ answers – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/axORC2uYll4)
 
 ### Reflection
 
 Listen to Robert Gardener talking through why he ensures he does not complete pupils’
 answers and an example of when he probed a pupil to provide more detail.
 
-#### Do not complete pupils' answers - Robert Gardner at Bishop Chadwick Catholic Education Trust
+#### Do not complete pupils’ answers - Robert Gardner at Bishop Chadwick Catholic Education Trust
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHIYl_ZFJzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -253,9 +253,9 @@ This is about us, as teachers, having high expectations of all students in the r
 There are a number of ways that we can do that in the lesson:
 
 - We can further probe, so we can ask further questions, we can pose further questions to reshape the answer
-- Using wait time is important as well, so once we've posed a question, if we just wait for a moment, that allows a student time to articulate their thoughts, to shape their response
-- Also, we can, if we've posed a question, we can ask other students and they can then support the original student; so, for example, the student gives a half-formed answer, an inaccurate answer, we leave that student for a moment, and then we question other students around the room. That allows the student, the original student, time to reformulate, to reflect, to listen to other students, and helps to push them to give a better answer.
-  So, in a recent lesson (I'm an English teacher) on _Macbeth_, we were
+- Using wait time is important as well, so once we’ve posed a question, if we just wait for a moment, that allows a student time to articulate their thoughts, to shape their response
+- Also, we can, if we’ve posed a question, we can ask other students and they can then support the original student; so, for example, the student gives a half-formed answer, an inaccurate answer, we leave that student for a moment, and then we question other students around the room. That allows the student, the original student, time to reformulate, to reflect, to listen to other students, and helps to push them to give a better answer.
+  So, in a recent lesson (I’m an English teacher) on _Macbeth_, we were
   looking at some close analysis of a speech by Lady Macbeth. A student that I
   questioned about the speech gave an incorrect or a partially correct answer
   about a crucial plot event in the play. They indicated that Lady Macbeth “puts
@@ -275,7 +275,7 @@ There are a number of ways that we can do that in the lesson:
   made sure that the student eventually got to a fuller, more rounded out, fleshed
   out answer.
 
-As teachers, I think it is sometimes tempting to accept poorly formed, maybe even inaccurate answers. Maybe we want to appear encouraging to students, for instance, or to we want to maintain the flow of the lesson, the pace of the lesson. But the issue with that is that we can’t allow these misconceptions or even errors to become embedded – that's the danger if we don’t challenge them. So we must always challenge, we must insist on challenging incorrect or partially formed answers.
+As teachers, I think it is sometimes tempting to accept poorly formed, maybe even inaccurate answers. Maybe we want to appear encouraging to students, for instance, or to we want to maintain the flow of the lesson, the pace of the lesson. But the issue with that is that we can’t allow these misconceptions or even errors to become embedded – that’s the danger if we don’t challenge them. So we must always challenge, we must insist on challenging incorrect or partially formed answers.
 
 {/details}
 
@@ -300,7 +300,7 @@ These can be used in all subjects and phases.
 
 ## Ask how or why
 
-Rosenshine (2012) found that more successful teachers ask more process questions. Asking pupils to explain how or why they have come to an answer is an example of a process question as it checks pupils' reasoning and working-out. This is a simple way to stretch pupils’ answers.
+Rosenshine (2012) found that more successful teachers ask more process questions. Asking pupils to explain how or why they have come to an answer is an example of a process question as it checks pupils’ reasoning and working-out. This is a simple way to stretch pupils’ answers.
 
 By doing this, you are:
 
@@ -422,11 +422,11 @@ Questioning is a vital tool to use within the classroom as it enables you to bot
 - Provide appropriate wait time after asking a question to allow pupils to generate a response
 - Do not complete pupils’ answers
 - Ask follow-up questions to extend and challenge pupils
-- Will pupils' benefit from scaffolds such as sentence frames when answering questions?
+- Will pupils’ benefit from scaffolds such as sentence frames when answering questions?
 
 In your next mentor session and training session, you will explore questioning further and will plan questioning into a future lesson.
 
-In the following week, you will then be observed using questioning to assess pupils' understanding and extend and challenge pupils.
+In the following week, you will then be observed using questioning to assess pupils’ understanding and extend and challenge pupils.
 
 ## Additional resources
 
@@ -473,15 +473,15 @@ Kelly Challis talks about scaffolding and why it is so important when planning, 
 {details}
 Video transcript.
 
-If there is one thing which I used constantly with all of my learners when I was teaching it was scaffolds.  Now these could range from structured frameworks for accessing and for exploring written text to a mind map for ideas which are to be developed into a body of text. Scaffolds don't make the content easier, they create access to that content and help pupils, particularly those with literacy difficulties, to demonstrate the richness of their answers on paper.
+If there is one thing which I used constantly with all of my learners when I was teaching it was scaffolds.  Now these could range from structured frameworks for accessing and for exploring written text to a mind map for ideas which are to be developed into a body of text. Scaffolds don’t make the content easier, they create access to that content and help pupils, particularly those with literacy difficulties, to demonstrate the richness of their answers on paper.
 
 It is important to consider the idea of cognitive load when focusing on the purpose of a scaffold. Cognitive load theory by Sweller (1988) is a way of thinking about the total amount of information which a person is dealing with and processing at any time. For example, if you have a learner that finds reading text difficult but the objective of that lesson is to comprehend that text, a learner’s cognitive load may be taken up with the process of reading, decoding the words, the speed of reading, the length of the text, the familiarity of the text or the stress of doing something which they perceive as a challenge rather than the set task of comprehending.
 
-This is where scaffolding comes in. That same learner, if they are aware of some of the complex vocabulary that they will be reading in that text, if they have been given some guidance on how to scan a text and read it for meaning or signposted to the areas of text which they need to read closely, or if they have been modelled how to read through that text and identify the areas by highlighting parts of the text to aid comprehension later in the lesson. Everything I've just described could be a scaffold, none of them make the content any easier but the process of reading has become easier and thus the working memory load has more capacity for the teaching material.
+This is where scaffolding comes in. That same learner, if they are aware of some of the complex vocabulary that they will be reading in that text, if they have been given some guidance on how to scan a text and read it for meaning or signposted to the areas of text which they need to read closely, or if they have been modelled how to read through that text and identify the areas by highlighting parts of the text to aid comprehension later in the lesson. Everything I’ve just described could be a scaffold, none of them make the content any easier but the process of reading has become easier and thus the working memory load has more capacity for the teaching material.
 
-Another example of a good scaffold to use and one which I have recommended several times to the schools that I work with is a task planner. This really helps those learners with literacy difficulties but also those that struggle with organization as it allows them to make sense of what they need to do. It also enables them to tick off what they've achieved in the lesson and for you, as a teacher, to see whether they are ready to move on from a scaffold.
+Another example of a good scaffold to use and one which I have recommended several times to the schools that I work with is a task planner. This really helps those learners with literacy difficulties but also those that struggle with organization as it allows them to make sense of what they need to do. It also enables them to tick off what they’ve achieved in the lesson and for you, as a teacher, to see whether they are ready to move on from a scaffold.
 
-This is an example of making the implicit explicit through the use of concrete examples. Sharing those planning techniques that we may take for granted as teachers. The Education Endowment Foundation in their 'Metacognition and self-regulated learning' resource make reference to research supporting the idea that those learners who find learning difficult do not use these kinds of scaffolds and strategies inherently as some more successful learners do. Teaching those learners these kinds of strategies is not giving them an advantage, it's equipping them with useful strategies they can continue to use in their learning.
+This is an example of making the implicit explicit through the use of concrete examples. Sharing those planning techniques that we may take for granted as teachers. The Education Endowment Foundation in their ‘Metacognition and self-regulated learning’ resource make reference to research supporting the idea that those learners who find learning difficult do not use these kinds of scaffolds and strategies inherently as some more successful learners do. Teaching those learners these kinds of strategies is not giving them an advantage, it’s equipping them with useful strategies they can continue to use in their learning.
 
 Let me finish off by giving you some examples of strategies for planning, drafting and editing.
 

@@ -310,7 +310,7 @@ There are lots of different ways to set up collaborative activities. I would use
 
 These collaborative structures have very clear stages and instructions; students work collaboratively towards a common goal. They all have to take part to achieve that goal, but they are doing this in a framework that is very much directed by the teacher in terms of the timing and moving through each stage of the activity.
 
-One example of this is a _consensus activity_ where students aim towards reaching consensus. So, students are given a question or a debating point that they work on alone before they share their ideas together, and then they discuss those ideas with the group at large, with the whole class at large. So for example, with a recent year 10 class, we were working on _Macbeth_and I posed the question or the debating point: “Macbeth is a wholly evil character. Discuss”. First the students were asked to work independently, they didn't communicate with their group colleagues at all at first. They had to think about their key ideas, their initial thoughts, maybe some evidence in response to that question of Macbeth being wholly evil. Once they've had that time, which is important, that prior knowledge, activating that prior knowledge was important, once that time was up, I signalled for them to get together in their groups and each of them took turns to share their ideas. Again, that was very much controlled by me through timings. The aim was to stimulate some debate but also to look at any similarities that students might have once they had shared their ideas, in order that they could craft a group consensus in response to that debating point on \_Macbeth_. When directed, someone from each group acted as a spokesman and they shared their ideas with the class at large, so we had a whole class discussion after the collaborative activity.
+One example of this is a _consensus activity_ where students aim towards reaching consensus. So, students are given a question or a debating point that they work on alone before they share their ideas together, and then they discuss those ideas with the group at large, with the whole class at large. So for example, with a recent year 10 class, we were working on _Macbeth_and I posed the question or the debating point: “Macbeth is a wholly evil character. Discuss”. First the students were asked to work independently, they didn’t communicate with their group colleagues at all at first. They had to think about their key ideas, their initial thoughts, maybe some evidence in response to that question of Macbeth being wholly evil. Once they’ve had that time, which is important, that prior knowledge, activating that prior knowledge was important, once that time was up, I signalled for them to get together in their groups and each of them took turns to share their ideas. Again, that was very much controlled by me through timings. The aim was to stimulate some debate but also to look at any similarities that students might have once they had shared their ideas, in order that they could craft a group consensus in response to that debating point on \_Macbeth_. When directed, someone from each group acted as a spokesman and they shared their ideas with the class at large, so we had a whole class discussion after the collaborative activity.
 
 The features of this task that made it successful were:
 
@@ -318,14 +318,14 @@ The features of this task that made it successful were:
 - The task was very structured in terms of timings and when we are moving through each stage
 - Students had enough prior knowledge to be able to succesfully engage with the task
 - And they were given that little bit of individual time at the very beginning of the task just in order to think about that prior knowledge, to kind of reactivate that prior knowledge, I suppose, before the group consensus
-  We could contrast that very structured approach with something I've done in the past
-  which wasn't successful. I would pose a question to a group, so "discuss this in
-  groups" I would say after I'd given them a topic area. Now, that didn't give them
-  any struture at all. And I have done this before in the past, I'll hold my hands
+  We could contrast that very structured approach with something I’ve done in the past
+  which wasn’t successful. I would pose a question to a group, so "discuss this in
+  groups" I would say after I’d given them a topic area. Now, that didn’t give them
+  any struture at all. And I have done this before in the past, I’ll hold my hands
   up. The students lacked direction; some students did nothing; some students dominate
-  the conversation. They weren't given time to think about prior knowledge, to activate
-  that prior knowledge, to formulate their ideas. So this task, when I've done that
-  in the past, were unsuccessful, a lot of students didn't benefit from that.
+  the conversation. They weren’t given time to think about prior knowledge, to activate
+  that prior knowledge, to formulate their ideas. So this task, when I’ve done that
+  in the past, were unsuccessful, a lot of students didn’t benefit from that.
 
 There are lots of different ways you can actually group students. I would tend to group students in terms of ability, but you can have mixed ability groups, based on their prior attainment for instance. You should always bear in mind, whenever you are putting groups together, potential pastoral or behavioural concerns within the group, that is very, very important, those things that could manifest when students are working together.
 
@@ -342,7 +342,7 @@ Group work can serve a really useful function. It builds on and can help to deve
 
 I use collaborative work frequently but one example of when I have done this is during a year 11 English Literature revision lesson when we were exploring a key question related to the text _A Christmas Carol_: ‘How is Scrooge presented at the beginning of the novel?’
 
-The pupils were already sitting in mixed attainment groups of four and each had a number 1-4. I started with a ‘Think-Pair-Share' activity so that pupils had time to individually reflect on the question. I gave them 30 seconds to think and then one minute to write down their own ideas.  I then gave them two minutes to discuss their ideas with a partner who was sitting next to them.  I then gave them a further four minutes to share their ideas with a partner sitting opposite them, which would then lead to a group discussion where they would hopefully come to a consensus for the answer to that question.
+The pupils were already sitting in mixed attainment groups of four and each had a number 1-4. I started with a ‘Think-Pair-Share’ activity so that pupils had time to individually reflect on the question. I gave them 30 seconds to think and then one minute to write down their own ideas.  I then gave them two minutes to discuss their ideas with a partner who was sitting next to them.  I then gave them a further four minutes to share their ideas with a partner sitting opposite them, which would then lead to a group discussion where they would hopefully come to a consensus for the answer to that question.
 
 I then wanted the class to explore how Scrooge is presented throughout the whole text. I asked pupils numbered 1 to focus stave (or chapter) 2, pupils numbered 2, to focus on stave 3, pupils numbered 3 to focus on stave 4 and pupils numbered 4 to focus on stave 5. I asked pupils work independently for 2 minutes to bullet point ideas about the presentation of Scrooge in their stave. After that, I asked the Number 1s to move to a designated table at the back of the room, the Number 2s to a table in the middle, the Number 3s to a table also in the middle, and the Number 4s to a table at the front. I always ensure pupils make this transition quickly and quietly so that it doesn’t waste learning time. As pupils have become more familiar with this transition, the routine has become quicker and more efficient.
 
@@ -350,7 +350,7 @@ In their new groups, I gave pupils 5 minutes to share ideas, to pass around thei
 
 When the timer finishes, pupils move back to their original groups and have one minute each to share their notes with the rest of the group. During this phase, it’s quite normal and quite lovely to hear praise, applause and other positive modes of feedback that the pupils give to each other. After this, I took whole-class feedback by asking individuals to share their points and we discussed these as a class.
 
-I find collaboration a great way to scaffold pupils' learning and have noticed it works best when tasks are well structured, when pupils are familiar with any routines involved and when pupils have the prior knowledge required to meaningfully engage with the tasks set.
+I find collaboration a great way to scaffold pupils’ learning and have noticed it works best when tasks are well structured, when pupils are familiar with any routines involved and when pupils have the prior knowledge required to meaningfully engage with the tasks set.
 
 {/details}
 
@@ -390,7 +390,7 @@ After independent practice, the pupils were able to be confident in multiplying 
 {details}
 Video transcript.
 
-Both within a lesson and throughout a series of lessons, it is important that there is a logical progression. This often takes the form of initially presenting new information through explanations and models, then practicing new material and skills in a collaborative way, before providing pupils time for independent work. Throughout this process scaffolding should be provided and then eventually removed as pupils’ knowledge develops and they require a greater level of challenge. To support pupils to be successful in their work, I try to be consistent in the strategies and structures I use to explain key concepts. I find this helps to build pupils' confidence and consequently increase their levels of motivation.
+Both within a lesson and throughout a series of lessons, it is important that there is a logical progression. This often takes the form of initially presenting new information through explanations and models, then practicing new material and skills in a collaborative way, before providing pupils time for independent work. Throughout this process scaffolding should be provided and then eventually removed as pupils’ knowledge develops and they require a greater level of challenge. To support pupils to be successful in their work, I try to be consistent in the strategies and structures I use to explain key concepts. I find this helps to build pupils’ confidence and consequently increase their levels of motivation.
 
 When teaching pupils how to write in French I break it down into its components parts by first teaching them the key structures that build a basic sentence, then how to extend a simple sentence, and finally how to construct paragraphs and extended pieces of writing.
 
@@ -400,7 +400,7 @@ Then, during guided and independent practice, pupils use these writing frames an
 
 Over time, I reduce the level of support provided in the writing frame by removing the amount of words or structures given, and I then challenge pupils to recall the structures from their memory which helps to build their learning and independence until eventually they no longer require writing structures to support them.
 
-What is important to note in this example is that the principle of progression from formulating basic sentences to extending sentences into paragraphs remains the same. Once these structures are stored in the pupil's long-term memory, they can recall them and draw upon them when learning about new topics or vocabulary. Using the same writing frames and structures each time supports all pupils, particularly those who are lower attaining in French, as it allows for increased practice and therefore increased success.
+What is important to note in this example is that the principle of progression from formulating basic sentences to extending sentences into paragraphs remains the same. Once these structures are stored in the pupil’s long-term memory, they can recall them and draw upon them when learning about new topics or vocabulary. Using the same writing frames and structures each time supports all pupils, particularly those who are lower attaining in French, as it allows for increased practice and therefore increased success.
 
 {/details}
 
@@ -423,7 +423,7 @@ After this, I began to model completing the task, demonstrating my metacognition
 
 For the independent practice, I provided pupils with a partially completed example to continue to scaffold their responses. This further reinforced their understanding of the different elements of the question and ensured their thinking was focused around the key learning points.
 
-So throughout the lesson, I gradually removed the scaffold of teacher support to increase pupil independence. During independent practise, pupils were not expected to work entirely without scaffolds and instead were given a partially completed example because I knew they would require some form of support. However, over time, depending on the pupil and their progress, I began to remove scaffolds for source utility questions. I began by transitioning from a partially completed example to using checklists to support and prompt pupils' cognitive and metacognitive processes. Once pupils had internalised the structure and processes involved in the question, I was able to remove the checklists entirely. The speed at which this was done varied for different pupils to suit their differing needs. To further support pupil independence, I ensure I consistently use the same structures when answering questions.
+So throughout the lesson, I gradually removed the scaffold of teacher support to increase pupil independence. During independent practise, pupils were not expected to work entirely without scaffolds and instead were given a partially completed example because I knew they would require some form of support. However, over time, depending on the pupil and their progress, I began to remove scaffolds for source utility questions. I began by transitioning from a partially completed example to using checklists to support and prompt pupils’ cognitive and metacognitive processes. Once pupils had internalised the structure and processes involved in the question, I was able to remove the checklists entirely. The speed at which this was done varied for different pupils to suit their differing needs. To further support pupil independence, I ensure I consistently use the same structures when answering questions.
 
 I always challenge pupils to progress to independence – the scaffolding must begin to come down at some point, but when appropriate. Don’t be fearful to put scaffolds back into place if errors are made and it is required.
 
@@ -472,7 +472,7 @@ Video transcript.
 
 Independent practice in Key Stage One builds pupils confidence and enables the teacher to make an assessment on strategies pupils are using and to gain an understanding of what pupils have learnt. The teacher knows what pupils interests are and where challenge or support is needed to revisit a particular concept that maybe proving tricky for pupils.
 
-The teacher needs to be clear on expected learning outcomes and the steps needed through scaffolding. This will ensure pupils are ready and prepared for working independently with success. Pupils' resilience to work independently and the desire to achieve is key in this area. The teacher should ensure relationships with all pupils are strong, consistent and respectful in order for the pupils to develop confidence in their learning within the classroom environment.
+The teacher needs to be clear on expected learning outcomes and the steps needed through scaffolding. This will ensure pupils are ready and prepared for working independently with success. pupils’ resilience to work independently and the desire to achieve is key in this area. The teacher should ensure relationships with all pupils are strong, consistent and respectful in order for the pupils to develop confidence in their learning within the classroom environment.
 
 The teacher needs to take risks often to allow pupils to make mistakes and to create a culture of risk taking as a way of the pupils learning and remembering more. Pupils should be encouraged to attempt tasks and challenges on their own when they are ready but also reassured that they can ask for help, clarification and support as and when required.
 
@@ -493,7 +493,7 @@ Video transcript.
 
 The ability of pupils to apply their learning in a new context is the benchmark that something has been learnt. According to Hattie, “learning is the process of developing sufficient surface knowledge to then move to a deeper understanding such that one can appropriately transfer this learning to new tasks and situations”. Independent practice is used to develop this deeper understanding.
 
-In order to prepare your pupils for independent practice and to help them achieve meaningful success, you should provide clear explanations and models to develop the pupils' understanding of necessary foundational knowledge and skills.
+In order to prepare your pupils for independent practice and to help them achieve meaningful success, you should provide clear explanations and models to develop the pupils’ understanding of necessary foundational knowledge and skills.
 
 When pupils are engaging in independent practice, you should be the ‘thermostat’ in the room. You should provide assessment opportunities to identify when to turn the temperature up and increase the level of challenge given to pupils, and when to turn the temperature down and provide additional support or even re-teach material to help pupils master challenging content.
 

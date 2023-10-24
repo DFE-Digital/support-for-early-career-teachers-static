@@ -57,7 +57,7 @@ Ask the ECT to reflect on the following questions related to their focus area of
 - What did you notice?
 - What surprised you?
 - What did you learn?
-- How did X affect the pupil's learning?
+- How did X affect the pupil’s learning?
 
 ### Implications for practice (10 minutes)
 

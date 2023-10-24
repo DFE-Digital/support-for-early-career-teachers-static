@@ -55,7 +55,7 @@ Work collaboratively with your mentee to review, discuss and improve, as necessa
 To support this conversation, you could:
 
 - ask your mentee to explain to you the reasoning behind their plan, and highlight aspects of strength in their thinking
-- use your expertise – and the the research and practice summary in this week's ECT materials – to draw their attention to aspects of the plan could be further developed
+- use your expertise – and the the research and practice summary in this week’s ECT materials – to draw their attention to aspects of the plan could be further developed
 - work with your mentee to make the improvements that you identify
 
 Discuss with mentor / sharing of practice – discuss with your mentee:

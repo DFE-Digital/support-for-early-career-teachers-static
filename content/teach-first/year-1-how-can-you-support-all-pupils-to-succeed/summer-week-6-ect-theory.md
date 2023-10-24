@@ -114,7 +114,7 @@ Video transcript.
   The adaptations you make to your everyday class teaching can have a great
   impact on the progress of the pupil. For example:
 
-- ensuring key vocabulary is pre-taught can help ensure that learners are better prepared when they come across it in lessons&nbsp; 
+- ensuring key vocabulary is pre-taught can help ensure that learners are better prepared when they come across it in lessons
 - Or providing scaffolding for the learner during tasks can mean that they don’t experience the fear of the blank page but have support to start their response&nbsp;
 
   When adaptive teaching does not have the desired impact, suitable
@@ -165,12 +165,7 @@ Video transcript.
 
   High-quality teaching, a graduated approach for SEND, and clear communication
   channels will ensure schools are on the way to effectively meeting the needs
-  of all their learners. However, if
-
-<b>all</b>
-
-  
-  stakeholders work together and communicate clearly, there will be even a
+  of all their learners. However, if all stakeholders work together and communicate clearly, there will be even a
   greater impact on young people with SEND, which will support them to achieve
   better outcomes and realise their true potential.
 
@@ -217,7 +212,7 @@ Video script - 1. Communication is key.
 
   Including parents/carers, and the pupil themselves, in the process is key to
   being able to contact the right people. By having all the information from all
-  the individuals involved in the pupil's life, you will be able to get a fully
+  the individuals involved in the pupil’s life, you will be able to get a fully
   rounded picture of any support that needs to be in place, which will
   ultimately mean the pupil is able to progress in their education.
 
@@ -253,10 +248,8 @@ Video transcript.
   demonstrates repetitive behaviours he is unaware of (like an arm or leg moving
   up and down). 
 
-
-  
   As it is quite unpredictable how he will react to different stimuli it can be
-  difficult to understand Bill's needs, as they can differ from moment to
+  difficult to understand Bill’s needs, as they can differ from moment to
   moment.
 
 
@@ -264,7 +257,7 @@ Video transcript.
   The nursery Bill attends is well set up for children with hearing loss and
   sensory impairment – it is one of the reasons we selected it. This means that
   there are many strategies staff use through the day (such as signing or giving
-  visual cues) that benefit all of the children, even if they haven't been
+  visual cues) that benefit all of the children, even if they haven’t been
   identified as needing it. Because these strategies are in place, Bill is
   comfortable at nursery and tends to not have the bigger episodes of shutdown
   while he is there. This has resulted in the nursery saying that they were
@@ -272,9 +265,7 @@ Video transcript.
   extra support or adaptation made. As his parents, we felt this was optimistic
   to say the least, so I contacted the school where he will begin in September. 
 
-
-
-  Bill's older brother attends this school already and so I was able to explain
+  Bill’s older brother attends this school already and so I was able to explain
   a little of our situation. They were instantly very reassuring. They offered a
   meeting before the school applications had even closed, so that they could
   understand more about Bill and what his needs  might be. They explained that
@@ -291,7 +282,7 @@ Video transcript.
 
 
   Bill is a completely different child when he recognises where he is, who he is
-  with, and what is going to happen. When things happen he isn't expecting, it
+  with, and what is going to happen. When things happen he isn’t expecting, it
   can really be a struggle. He can also struggle to pick up new skills until he
   has been shown them several times. He needs to be allowed to watch until he
   feels comfortable to join in. Therefore, strategies like visual timetables,
@@ -321,14 +312,12 @@ Video transcript.
   taken the time to listen to our concerns, and engage with us in discussing
   strategies that would support my son. 
 
-
-
-  As his parents we couldn't feel happier about the approach the school have
+  As his parents we couldn’t feel happier about the approach the school have
   used. We feel completely relaxed about this transition and very much like any
   ideas or thoughts will be listened to. The difference between this and the
   feelings we have been left with from nursery at times is unquantifiable. The
   transition to school can be a scary enough time, but when your child has
-  additional needs that aren't always obvious, and you think your worries,
+  additional needs that aren’t always obvious, and you think your worries,
   concerns and knowledge of your child are being ignored, it is even harder.
 
  {/details}
@@ -401,7 +390,7 @@ Consider the following questions and record your reflection in your notebook:
   with SEN?
 - what transition points within school and between schools can you identify
   where communication might be especially important?
-- how could you include the pupil's and parent or carer's views in planning
+- how could you include the pupil’s and parent or carer’s views in planning
   strategies for learning?
 
 ## Case Studies
@@ -479,12 +468,12 @@ Barriers to reading case study – Primary
 Video transcript.
 
 This pupil was in Year 3 and their barrier to learning was reading. They had not passed the phonics screening check in Year 1 but had passed in Year 2. Their attainment was below age-related expectations but not significant enough for a specific SEND diagnosis.
-So, although this pupil was making some progress, it was reading that continued to be the challenge. I used the graduated approach to identify the pupils' needs, generate strategies to support them and evaluate these strategies based on the pupil’s progress. During the assessment phase I gathered as much information as possible. Through progress meetings, teachers had identified that the child had a 2.3 score for reading, which was significantly behind their age. As a result, further professional discussions about the pupil’s specific barriers to reading were required.  
+So, although this pupil was making some progress, it was reading that continued to be the challenge. I used the graduated approach to identify the pupils’ needs, generate strategies to support them and evaluate these strategies based on the pupil’s progress. During the assessment phase I gathered as much information as possible. Through progress meetings, teachers had identified that the child had a 2.3 score for reading, which was significantly behind their age. As a result, further professional discussions about the pupil’s specific barriers to reading were required.
 We also met with parents to discuss further support, before an in-depth gap analysis was carried out by the English lead to support the teacher with next steps in the pupil’s learning. This analysis identified that whilst decoding was not an issue the pupil was not reading for meaning. Although they could confidently segment and blend, they were not making meaning from reading in sentences. During the plan phase, the teacher used the information obtained from assessments and parents to decide what actions to take place. It was identified that the pupil would need support and interventions to help them decode unfamiliar words using segmenting and blending.
 They would also need support to develop their comprehension of what they were reading. To support the pupil to meet their decided outcomes, specific interventions were put in place such as:
 
 - Reading to an adult every day with a specific focus on segmenting and blending unfamiliar words
-- Receiving a reading intervention that focused on the pupil's ability to develop comprehension strategies such as re-reading sentences if they don’t seem to make sense
+- Receiving a reading intervention that focused on the pupil’s ability to develop comprehension strategies such as re-reading sentences if they don’t seem to make sense
 - Teacher providing focused support in the lessons such as working with the pupil in a guided group at least once a week
 - Lesson visits from an SLT member to engage the pupil in discussions and promote a love of reading and book choices
 - Reading strategies were shared with his parents and it was asked that he read to them daily
@@ -561,7 +550,7 @@ Speech and language case study - Early Years
 {details}
 Video transcript.
 
-This case study describes how we have used the graduated approach to support a pupil – referred to as Pupil A throughout this video – with communication and interaction needs. The system follows the four stages, often referred to as a 'cycle': Assess, Plan, Do, Review. (For further information about this cycle, often referred to as the 'graduated approach', see Chapter 6 of the SEND Code of Practice 2015.)
+This case study describes how we have used the graduated approach to support a pupil – referred to as Pupil A throughout this video – with communication and interaction needs. The system follows the four stages, often referred to as a ‘cycle’: Assess, Plan, Do, Review. (For further information about this cycle, often referred to as the ‘graduated approach’, see Chapter 6 of the SEND Code of Practice 2015.)
 
 Pupil A is a 4 year old, Asian, summer-born boy, who started his Reception year after having a limited time spent in an education setting, from our feeder Nursery School. The pupil is also a second language learner, speaking Hindko at home. Pupil A does not have any diagnosis of specific language impairment (SLI) at this stage. His non-verbal skills are a relative strength. He displays signs of phonological disorder with features of verbal dyspraxia, which means he makes pronunciation errors, but again no diagnosis as his attendance was poor at nursery. Pupil A also has a hearing impairment and is involved with the hearing specialist teacher who supports with radio aids. He does not wear his hearing aids at home, which is impacting on his hearing loss. These concerns are severely impacting on his ability to make himself understood. He doesn’t have an EHCP at present, but concerns were raised by the SENDCo at the previous setting.
 
@@ -643,7 +632,7 @@ outcomes were decided upon and the cycle continued.
 
 Using the graduated approach helped to identify Pupil A’s significant needs.
 The **Assess, Plan, Do, Review** cycle needs to be fluid and
-flexible to ensure both the teacher and school can respond to the pupil's needs.
+flexible to ensure both the teacher and school can respond to the pupil’s needs.
 By keeping him back a year, we were able to help him meet new outcomes. Several
 of the interventions included in the initial ‘Do’ phase continued into the
 second cycle.
@@ -765,7 +754,7 @@ something to be out of the normal routine without prior warning, they would have
 a heightened sense of awareness that would make them feel very anxious. Other situations
 that would lead to them feel anxious were if the corridor was too busy, if there
 was a supply teacher needed, if we did maths before breaktime – anything that was
-unexpected could lead to heightened anxiety levels. If this happened, they wouldn't
+unexpected could lead to heightened anxiety levels. If this happened, they wouldn’t
 be calm enough to participate fully in their learning, and there was also a risk
 that these feelings of fear and uncertainty would manifest into challenging behaviours.
 So to counteract this we planned strategies that would allow them to be as prepared

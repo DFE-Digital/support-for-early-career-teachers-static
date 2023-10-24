@@ -51,7 +51,7 @@ High-quality instruction enables the expert teacher to impart knowledge to the n
 
 Explanations are used to introduce new material to pupils in small sequential steps, which you will have already explored in module two. During an explanation, the teacher will talk through the new material and ask pupils lots of questions to check their understanding.
 
-Modelling accompanies an explanation to show pupils how to approach or complete a task. Modelling is vital during teacher explanations because it shows pupils how to do something well. Making this explicit through modelling supports pupils' understanding and builds their mental model of what ‘good’ looks like.
+Modelling accompanies an explanation to show pupils how to approach or complete a task. Modelling is vital during teacher explanations because it shows pupils how to do something well. Making this explicit through modelling supports pupils’ understanding and builds their mental model of what ‘good’ looks like.
 
 Listen to Claire Stoneman talk about explanations and modelling. Consider the following questions and record your response in your notebook:
 
@@ -68,16 +68,16 @@ Explanations and modelling - Claire Stoneman
 {details}
 Video transcript.
 
-In this part of the module we'll be exploring how Rosenshine reminds us to present new material using small steps. And as part of this we’ll cover the importance of explanation and how Rosenshine also reminds us about the importance of providing models. Andy Tharby reminds us that from about the age of two children develop the intellectual ability to ask ‘why’ questions. I'm sure that this is something that those of you working in Early Years Foundation Stage can relate to. As Tharby says, children, especially very young children, go on a tireless hunt for further information and elaboration that might lift the veil on the wonders of the universe. How wonderful, and what a weighty responsibility we have to get our explanations right. So, what's the purpose of an explanation? Tharby reminds us that explanation can have a range of purposes:
+In this part of the module We’ll be exploring how Rosenshine reminds us to present new material using small steps. And as part of this we’ll cover the importance of explanation and how Rosenshine also reminds us about the importance of providing models. Andy Tharby reminds us that from about the age of two children develop the intellectual ability to ask ‘why’ questions. I’m sure that this is something that those of you working in Early Years Foundation Stage can relate to. As Tharby says, children, especially very young children, go on a tireless hunt for further information and elaboration that might lift the veil on the wonders of the universe. How wonderful, and what a weighty responsibility we have to get our explanations right. So, what’s the purpose of an explanation? Tharby reminds us that explanation can have a range of purposes:
 
 1. To make something understandable
 2. To clarify and expand an idea
 3. To give causes, context and consequences of a situation or event
 4. Or show how facts and concepts are related and connected
 
-So effective explanations are hugely important. Tharby makes it crystal clear when he says, ‘It is near impossible to conceive of effective teaching without explanation’. Teacher talk is vital. If the children can't access our expertise through clear, precise, knowledgeable explanations they are disadvantaged. And the evidence from cognitive science shows that the less prior knowledge a pupil has, the more teacher guidance they need. So, explanations are vital for the children we teach to make sense of the world around them. It's hard, and again it takes lots of practice for a novice teacher. But explanations illuminate.
+So effective explanations are hugely important. Tharby makes it crystal clear when he says, ‘It is near impossible to conceive of effective teaching without explanation’. Teacher talk is vital. If the children can’t access our expertise through clear, precise, knowledgeable explanations they are disadvantaged. And the evidence from cognitive science shows that the less prior knowledge a pupil has, the more teacher guidance they need. So, explanations are vital for the children we teach to make sense of the world around them. It’s hard, and again it takes lots of practice for a novice teacher. But explanations illuminate.
 
-In this session, you'll learn to start making links between what you know about working memory and effective explanations. Effective explanations are chunked. The teacher does not overwhelm pupils by presenting too much information at once, as the working memory can become overloaded. Information and new material are presented in small steps and often with many concrete examples. This is where modelling can come in: the importance of concrete examples so the children can see what a good or indeed a bad example looks like. As Tom Sherrington says, ‘providing models is a central feature of giving good explanations’. Models can be used in any phase of schooling and are an important element of the children having a concrete example of what it looks like. Weinstein and Sumeracki remind us that novices find abstract ideas vague and hard to grasp so concrete examples are much easier to remember. Models help to illustrate abstract ideas and make them easier to understand. Models can organize the information for the novice into a well-structured schema.
+In this session, you’ll learn to start making links between what you know about working memory and effective explanations. Effective explanations are chunked. The teacher does not overwhelm pupils by presenting too much information at once, as the working memory can become overloaded. Information and new material are presented in small steps and often with many concrete examples. This is where modelling can come in: the importance of concrete examples so the children can see what a good or indeed a bad example looks like. As Tom Sherrington says, ‘providing models is a central feature of giving good explanations’. Models can be used in any phase of schooling and are an important element of the children having a concrete example of what it looks like. Weinstein and Sumeracki remind us that novices find abstract ideas vague and hard to grasp so concrete examples are much easier to remember. Models help to illustrate abstract ideas and make them easier to understand. Models can organize the information for the novice into a well-structured schema.
 
 {/details}
 
@@ -197,7 +197,7 @@ In simple terms, cognition is the thinking you do when completing a task. Teache
 
 Below is an example of a teacher using ‘Think Aloud’ to model their cognitive process by engaging their prior knowledge when performing a forward roll safely in PE. This has been taken from the [Metacognition and Self-regulated Learning Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/EEF_Metacognition_and_self-regulated_learning.pdf) (EEF, 2017):
 
-#### Using the 'think aloud' model: example 1
+#### Using the ’think aloud’ model: example 1
 
 Preparing for the roll: _“I don’t want to hurt my neck and want to do this neatly. So first, to protect my neck, I need to tuck my chin to my chest like this.”_
 
@@ -219,7 +219,7 @@ Metacognition can be broken down into three different stages:
 
 Below is an example of a teacher using ‘Think Aloud’ to model their metacognitive processes when planning how to answer a History question:
 
-### Using the 'think aloud' model: example 2
+### Using the ’think aloud’ model: example 2
 
 ‘The main reason why the League of Nations could not stop aggression in the 1930s was because the USA was not a member. Do you agree?’
 
@@ -275,14 +275,14 @@ What you say is very important and should be carefully planned out. The narratio
 
 The EEF (2017) highlights that modelling of this type is often not planned into explanations because the thinking processes occur ‘naturally’ to the expert (teacher), which is a risk because such thought processes are vital for breaking down a task so that it can be better understood or completed successfully.
 
-To move from novice to expert, pupils need to know how an expert habitually thinks and acts (EEF, 2017). By modelling these thought processes, you make the implicit or hidden parts of a process explicit and exposed, helping to build the novice's mental model of what they should be doing in similar situations.
+To move from novice to expert, pupils need to know how an expert habitually thinks and acts (EEF, 2017). By modelling these thought processes, you make the implicit or hidden parts of a process explicit and exposed, helping to build the novice’s mental model of what they should be doing in similar situations.
 
 ### Which narration is most effective?
 
 To ensure ‘Think Aloud’ is successful, you should:
 
 - Ensure narration is linked to key teaching points
-- Ensure narration considers pupils' prior knowledge
+- Ensure narration considers pupils’ prior knowledge
 
 Look at the following scripts of a teacher using ‘Think Aloud’ to model using adjectives in a sentence. Identify which one is more effective and why.
 

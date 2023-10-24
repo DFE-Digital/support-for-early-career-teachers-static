@@ -4,11 +4,11 @@ heading: "Second half-term: how can you use assessment and feedback to greatest 
 caption: "Year 1"
 ---
 
-In this module you'll hear from education experts about why assessment should be at the heart of your teaching. You'll also explore ways to give purposeful feedback to your pupils and what you can learn from summative data sets.
+In this module you’ll hear from education experts about why assessment should be at the heart of your teaching. you’ll also explore ways to give purposeful feedback to your pupils and what you can learn from summative data sets.
 
 ## Module overview
 
-Go through the module introduction to see what you'll be learning.
+Go through the module introduction to see what you’ll be learning.
 
 Duration: 10 minutes.
 
@@ -25,7 +25,7 @@ Go through the module introduction to see what the ECT will be learning.
 During the first topic of the module you need to:
 
 - work through the self-study materials below
-- meet your mentor to discuss what you'll be doing in the weeks ahead
+- meet your mentor to discuss what you’ll be doing in the weeks ahead
 
 Duration: 50 minutes.
 
@@ -57,7 +57,7 @@ Duration: 50 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-2-mentor-materials)
 
@@ -79,7 +79,7 @@ Duration: 45 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-3-mentor-materials)
 
@@ -101,7 +101,7 @@ Duration: 55 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-4-mentor-materials)
 
@@ -123,7 +123,7 @@ Duration: 35 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-5-mentor-materials)
 
@@ -145,6 +145,6 @@ Duration: 30 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-6-mentor-materials)

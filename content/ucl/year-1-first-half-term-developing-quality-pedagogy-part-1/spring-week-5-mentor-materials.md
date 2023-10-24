@@ -64,7 +64,7 @@ Now, use their plan in this activity. Depending on the areas for further develop
    - I am clear about which pupils will work effectively together to achieve the learning intentions
    - I will start with a retrieval exercise so the pupils’ working memories are not overloaded
 3. Providing scaffolds for pupil talk to increase the focus and rigour of dialogue
-   Firstly, look again at the research and practice summary in this week's ECT materials for strategies you can use and at the example of Sarah’s Year 11 geography class or Ben’s Year 12 history class.
+   Firstly, look again at the research and practice summary in this week’s ECT materials for strategies you can use and at the example of Sarah’s Year 11 geography class or Ben’s Year 12 history class.
    You could also consider smaller group and paired structures:
    - think-pair-share (thinking alone, sharing with a partner, sharing with a larger group)
    - specific roles for each member of the group (speaker, note-taker, challenger, checker)

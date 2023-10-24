@@ -1,5 +1,5 @@
 ---
-title: "What you'll learn in this topic"
+title: "What you’ll learn in this topic"
 next_title: "Research and practice summary"
 next_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-research-and-practice-summary"
 ---

@@ -4,11 +4,11 @@ heading: "First half-term: establishing a positive climate for learning"
 caption: "Year 1"
 ---
 
-In this module you'll learn about teaching your pupils how to behave in your classroom, setting clear expectations and reinforcing these with consistent routines.
+In this module you’ll learn about teaching your pupils how to behave in your classroom, setting clear expectations and reinforcing these with consistent routines.
 
 ## Module introduction
 
-Go through the module introduction to see what you'll be learning.
+Go through the module introduction to see what you’ll be learning.
 
 Duration: 10 minutes.
 
@@ -147,7 +147,7 @@ Use the materials below for an end of module review with the ECT.
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
 
 Duration: 10 minutes.
 

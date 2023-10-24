@@ -4,9 +4,9 @@ heading: "First half-term: enabling pupil learning"
 caption: "Year 1"
 ---
 
-In this module you'll focus on how you set up your classroom as a learning environment.
+In this module you’ll focus on how you set up your classroom as a learning environment.
 
-You'll be able to reflect on the different ways you can influence your environment, and learn practical strategies that keep pupils safe, motivated and focused on learning.
+you’ll be able to reflect on the different ways you can influence your environment, and learn practical strategies that keep pupils safe, motivated and focused on learning.
 
 ## Week 1: module audit
 
@@ -30,7 +30,7 @@ For this topic you’ll need to:
 Duration: 45 minutes.
 
 1. [Module introduction](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-module-introduction)
-2. [What you'll learn this week](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-what-you'll-learn-this-week)
+2. [What you’ll learn this week](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-what-you'll-learn-this-week)
 3. [Research and practice summary](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-research-and-practice-summary)
 4. [Self-study activities](/ucl/year-1-enabling-pupil-learning/autumn-week-2-ect-self-study-activities)
 
@@ -52,7 +52,7 @@ For this topic you’ll need to:
 
 Duration: 45 minutes.
 
-1. [What you'll learn in this topic](/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-what-you'll-learn-in-this-topic)
+1. [What you’ll learn in this topic](/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-what-you'll-learn-in-this-topic)
 2. [Research and practice summary](/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-research-and-practice-summary)
 3. [Self-study activities](/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-self-study-activities)
 

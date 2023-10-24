@@ -4,7 +4,7 @@ heading: "Second half-term: fulfilling professional responsibilities"
 caption: "Year 1"
 ---
 
-In this module you'll consider what it means to be professional, and approaches to managing your professional development.
+In this module you’ll consider what it means to be professional, and approaches to managing your professional development.
 
 ## Week 1: module audit
 

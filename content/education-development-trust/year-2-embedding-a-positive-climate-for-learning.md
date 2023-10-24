@@ -4,7 +4,7 @@ heading: "First half-term: embedding a positive climate for learning"
 caption: "Year 2"
 ---
 
-In this module you'll look at what motivates pupils so you can develop a really purposeful learning environment.
+In this module you’ll look at what motivates pupils so you can develop a really purposeful learning environment.
 
 ## Module introduction
 
@@ -23,7 +23,7 @@ Watch the video introduction to this module.
 
 ## Week 1: welcome back
 
-During the first week of the module you should catch up with your mentor to discuss what you'll be learning in the weeks ahead.
+During the first week of the module you should catch up with your mentor to discuss what you’ll be learning in the weeks ahead.
 
 Duration: minutes.
 
@@ -111,13 +111,13 @@ Duration: 30 minutes.
 
 ### Mentors
 
-Use the materials below to help you plan a discussion with the ECT about what they've learnt during this module.
+Use the materials below to help you plan a discussion with the ECT about what they’ve learnt during this module.
 
 [View mentor materials](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-6-mentor-materials)
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
 
 Duration: 5 minutes.
 

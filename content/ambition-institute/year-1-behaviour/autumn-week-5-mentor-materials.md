@@ -14,7 +14,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- Teacher decides with a colleague the behaviours they expect of pupils and communicates and demonstrates these visible behaviours to pupils, linking them to the school's culture and values.
+- Teacher decides with a colleague the behaviours they expect of pupils and communicates and demonstrates these visible behaviours to pupils, linking them to the school’s culture and values.
 - Teacher looks for and reinforces positive behaviours by acknowledging them in pupils.
 - Teacher reminds pupils of their behavioural expectations to pre-empt low-level disruption.  
 
@@ -27,7 +27,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 - Teacher signals non-verbally to pupils that they should change their behaviour
 - Teacher uses anonymous whole-class, verbal reminders to support pupils to change their behaviour so that it meets expectations if a non-verbal reminder has not worked.
 - Teacher stops talking mid-sentence if a pupil interrupts in order to signal that they will not continue until the interruption has stopped.
-- Teacher gives pupils adequate time to act upon their reminder, checking and responding to their behaviour in line with the school's behavioural policy.
+- Teacher gives pupils adequate time to act upon their reminder, checking and responding to their behaviour in line with the school’s behavioural policy.
 
 {details}
 Example precise target: Teacher signals non-verbally to pupils that they should change their behaviour.

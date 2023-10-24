@@ -33,7 +33,7 @@ Example precise target: Teacher gives pupils appropriate wait time to process an
 - Teacher, with the support of a colleague, plans questions about the key knowledge they need to check and are clear on the answers pupils need to give to show that this knowledge is secure before they move on.
 - Teacher asks questions that cause pupils to elaborate upon their answers in order to ensure they stem from a secure understanding of the underlying concept.
 - Teacher asks questions to samples of pupils so they can efficiently make inferences from their responses.
-- Teacher uses methods to get responses to important questions from the whole class so they can check all pupils' understanding.
+- Teacher uses methods to get responses to important questions from the whole class so they can check all pupils’ understanding.
 
 ### Development area 3: Extending pupils’ thinking
 
@@ -41,7 +41,7 @@ Example precise target: Teacher gives pupils appropriate wait time to process an
 
 - Teacher deliberately asks a range of types of questions that get pupils to extend their thinking, e.g. by justifying their answers or prompting them to use challenging vocabulary.
 - Teacher reframes their questions to provide greater scaffolding or greater stretch.
-- Teacher models high-quality oral language, including high-quality vocabulary, and insists upon it in pupils' answers.
+- Teacher models high-quality oral language, including high-quality vocabulary, and insists upon it in pupils’ answers.
 
 ### Observe
 

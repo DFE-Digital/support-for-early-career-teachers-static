@@ -6,7 +6,7 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-3-ect-reflect"
 ---
 
-Mr Alexander has a clear idea of the content that he wants his pupils to learn. However, despite 'covering' the content in lessons, he still finds that many of his pupils struggle to remember it in future lessons. What can Mr Alexander do to help his pupils remember what they have been taught?
+Mr Alexander has a clear idea of the content that he wants his pupils to learn. However, despite ‘covering’ the content in lessons, he still finds that many of his pupils struggle to remember it in future lessons. What can Mr Alexander do to help his pupils remember what they have been taught?
 
 ## Key idea
 
@@ -48,7 +48,7 @@ The I-We-You model can be a useful approach to gradually removing support (Lemov
 
 Having supported pupils to think successfully about new material, Mr Alexander needs to help pupils remember material over time. We have known for 100 years that without revisiting learning, people forget most material covered within a few days (Ebbinghaus, 1885 in Cowan, 2008).
 
-A powerful way Mr Alexander can support pupils to remember learning is to get them to regularly ‘retrieve’ material covered. Retrieval is the act of recalling information from memory and is beneficial in itself because it helps to 'cement the information to memory’ and makes forgetting less likely (Pashler et al., 2007).
+A powerful way Mr Alexander can support pupils to remember learning is to get them to regularly ‘retrieve’ material covered. Retrieval is the act of recalling information from memory and is beneficial in itself because it helps to ‘cement the information to memory’ and makes forgetting less likely (Pashler et al., 2007).
 
 Retrieval is most powerful when pupils have begun to forget material, as this makes pupils think harder when retrieving, strengthening their memories. So, to be most effective, retrieval practice should be spaced out over time (Pashler et al., 2007). For example, Mr Alexander could return to material in a few days and then a few weeks to support his pupils to remember it most successfully.
 

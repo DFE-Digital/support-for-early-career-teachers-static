@@ -35,7 +35,7 @@ In the classroom, you may choose to address low-level disruption by employing th
 
 ## Non-verbal Intervention
 
-'Non-verbal Intervention’ is when you use gestures or your proximity to a pupil to mitigate low-level disruption in a non-invasive way.
+‘Non-verbal Intervention’ is when you use gestures or your proximity to a pupil to mitigate low-level disruption in a non-invasive way.
 
 The advantage of this technique is that the teaching does not stop while the disruption is being addressed, so the flow of the lesson is not interrupted in any way. It is also a respectful way to refocus pupils because it gives them an opportunity to self-regulate their behaviour without being shamed or embarrassed in front of their peers.
 
@@ -144,7 +144,7 @@ This technique also gives pupils more ownership over their behaviour as they ide
 
 Watch the video of a teacher using anonymous individual correction with their pupils.
 
-Consider the impact this has on the class's learning and on the pupils’ sense of autonomy and independence.
+Consider the impact this has on the class’s learning and on the pupils’ sense of autonomy and independence.
 
 #### Anonymous individual correction – Early Years - Bethan Hughes at Reach Academy
 
@@ -194,7 +194,7 @@ These features help to create a culture of mutual trust and respect which suppor
 
 Watch the video of a teacher using private individual correction with their pupils.
 
-Consider the impact this has on the class's learning and on the pupils’ sense of autonomy and independence.
+Consider the impact this has on the class’s learning and on the pupils’ sense of autonomy and independence.
 
 #### Private individual correction – Primary – Sophie Emms at Reach Academy
 
@@ -255,7 +255,7 @@ It is of course important that you only acknowledge the now on-task behaviour if
 
 Watch a video of a teacher using lightning-quick public correction with their pupils.
 
-Consider the impact this has on the pupils' and the class’s learning.
+Consider the impact this has on the pupils’ and the class’s learning.
 
 #### Lightning quick public correction – Early Years - Maria Craster at One Degree Academy
 

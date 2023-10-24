@@ -28,7 +28,7 @@ ask for in return. It is also important that teachers respond in a consistent wa
 to similar behaviours from different pupils, both positive and negative. Sticking
 closely to the classroom behaviour system really helps with this.
 
-Here's one way of rewarding positive behaviour.
+Here’s one way of rewarding positive behaviour.
 
 1. Briefly state the behaviour.
 2. Set out the reward.
@@ -36,7 +36,7 @@ Here's one way of rewarding positive behaviour.
    Linking positive behaviour to success in learning may help pupils to be motivated
    by intrinsic factors, rather than extrinsic ones.
 
-Here's one suggestion for how you might give a sanction.
+Here’s one suggestion for how you might give a sanction.
 
 1. Briefly state the behaviour.
 2. State the consequence.
@@ -48,11 +48,11 @@ Here's one suggestion for how you might give a sanction.
 
 Rewards and sanctions are not the only way of encouraging positive behaviour. Teachers need to help pupils behave in a way that supports learning because they want to do it for themselves, but rewards and sanctions can help pupils to get there, so teachers need to know what the system in their school is.
 
-The more that pupils see a teacher behaving in the same way over time, the more likely they are to associate that teacher with those qualities. If teachers behave in a way that is consistent, pupils will feel that their teacher is consistent. This, in turn, creates a sort of trusting relationship that benefits pupils' learning.
+The more that pupils see a teacher behaving in the same way over time, the more likely they are to associate that teacher with those qualities. If teachers behave in a way that is consistent, pupils will feel that their teacher is consistent. This, in turn, creates a sort of trusting relationship that benefits pupils’ learning.
 
 ### Presenter exemplification framing
 
-In the next example, you will see a model of one way to respond to a pupil who's
+In the next example, you will see a model of one way to respond to a pupil who’s
 been repeatedly off task. As you watch, focus on the following:
 
 - Responds consistently to pupil behaviour.
@@ -60,10 +60,10 @@ been repeatedly off task. As you watch, focus on the following:
 
 ### Exemplification
 
-In this example, I'm going to model how to give a sanction to a pupil who is not
-doing what I have asked. I want you to imagine that I'm teaching a year 10
+In this example, I’m going to model how to give a sanction to a pupil who is not
+doing what I have asked. I want you to imagine that I’m teaching a year 10
 science class. Pupils are working on an independent writing task, comparing two
-different models of the atom. I've provided lots of support and guidance to
+different models of the atom. I’ve provided lots of support and guidance to
 ensure that the pupils have the knowledge and skills to attempt this task. The
 expectation is, therefore, that pupils are silent and remain focused on the task
 with pen to paper, and this has been shared with the pupils. If they have a
@@ -80,21 +80,21 @@ _Tom, facing forwards, working silently, thank you._
 _[Teacher pauses and scans the room. As pupil does not follow instructions, teachers approaches pupil to address them directly.&nbsp; Teacher_
 _crouches in front of the desk, in a position where he can still see the rest of the class]_
 
-_Tom, this is the third time that you've turned around in your chair. You need to be facing forwards, writing. If you need help, raise your hand and I will come and help you. Thank you for starting writing quickly, good job._
+_Tom, this is the third time that you’ve turned around in your chair. You need to be facing forwards, writing. If you need help, raise your hand and I will come and help you. Thank you for starting writing quickly, good job._
 
 _[Teacher circulates the classroom and then returns to Tom]_
 
-_Yeah, lovely work, Tom. I can see that you've already compared the position of the electrons in the two models, good work.”_
+_Yeah, lovely work, Tom. I can see that you’ve already compared the position of the electrons in the two models, good work.”_
 
 The aim of the model was to show how to respond consistently to pupil behaviour in line with school policy. When I first saw a few pupils, including Tom, turned around or chatting, I gave an anonymous reminder of my expectations that pupils should be facing forwards and writing silently.
 
-When I then saw Tom was still turned around in his chair, I gave a quick, named response. This is an escalation, as Tom now knows I have noticed that he is not following instructions, and I've specifically reminded him of the expectations. I did this quickly and in a neutral tone. I don't want to draw attention this low level disruption, but I do need to respond to it.
+When I then saw Tom was still turned around in his chair, I gave a quick, named response. This is an escalation, as Tom now knows I have noticed that he is not following instructions, and I’ve specifically reminded him of the expectations. I did this quickly and in a neutral tone. I don’t want to draw attention this low level disruption, but I do need to respond to it.
 
 When I saw Tom turn around a third time, I gave a private sanction, which included stating the error, stating the consequence, and explaining how he could get back on track. I ensured that the conversation was not in front of the class because this can sometimes escalate a situation, and I wanted Tom to focus on what I was saying. I also quickly acknowledged that he had listened and was now following my instructions.
 
 Later in the lesson, having focused for the remainder of the task, Tom had produced some high-quality work and I praised him for his effort.
 
-I treated Tom in the same way as other pupils, holding him to account when he was off task, praising his efforts when appropriate. My tone was the same throughout the model, formal and calm. This consistent tone shows pupils that I'm able to manage the situation and that I will maintain my expectations I have set out.
+I treated Tom in the same way as other pupils, holding him to account when he was off task, praising his efforts when appropriate. My tone was the same throughout the model, formal and calm. This consistent tone shows pupils that I’m able to manage the situation and that I will maintain my expectations I have set out.
 
 Finally, my language was consistent. I used language and a structure that my pupils are now familiar with. \_“Face the front”\_is a short, quick phrase that clearly tells pupils what to do, and one which I always use. And I use the same format for issuing a sanction: state the error, state the consequence, and explain how to get back on track.
 
@@ -102,7 +102,7 @@ Responding to pupil behaviour in the same way over time means that I can act qui
 
 ### Presenter key ideas
 
-In this video, we have considered why it's important that teachers are consistent
+In this video, we have considered why it’s important that teachers are consistent
 and looked at some ways in which they can achieve this. Take a moment to read the
 key ideas. Which ones do you think the example best illustrated?
 
@@ -115,6 +115,6 @@ key ideas. Which ones do you think the example best illustrated?
 Responding consistently to pupil behaviour can be hard in the beginning. It can
 be difficult for teachers to know what they will say and do on the spot. Picking
 one specific response to plan and practise outside of the classroom really helps
-you to know what to do when you're standing in front of your pupils. Plan and
+you to know what to do when you’re standing in front of your pupils. Plan and
 practise in advance so you can be consistent in the moment.
 {/details}

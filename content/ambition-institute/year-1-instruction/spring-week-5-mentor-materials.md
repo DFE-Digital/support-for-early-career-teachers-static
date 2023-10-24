@@ -22,7 +22,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- The teacher explains new concepts by linking them to pupils' prior knowledge.
+- The teacher explains new concepts by linking them to pupils’ prior knowledge.
 - Teacher provides a clear definition of a concept that pupils will understand and links it to the examples they use.
 - Teacher uses examples and non-examples to exemplify the concept and explains the underpinning features of these to aid pupil understanding.
 

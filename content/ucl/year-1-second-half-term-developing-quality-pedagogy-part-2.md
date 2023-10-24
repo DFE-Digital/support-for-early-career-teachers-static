@@ -4,7 +4,7 @@ heading: "Second half term: developing quality pedagogy (part 2)"
 caption: "Year 1"
 ---
 
-In this module you'll extend your knowledge of effective modelling that enables pupils to tackle difficult concepts.
+In this module you’ll extend your knowledge of effective modelling that enables pupils to tackle difficult concepts.
 
 ## Week 1: using groupings to support specific needs
 

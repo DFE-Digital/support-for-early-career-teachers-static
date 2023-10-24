@@ -35,7 +35,7 @@ How you collect your evidence will depend upon the exploratory question you are 
 Your question may have been something like:
 
 - ‘What does my recent marking and recording of assessment data say about the prior knowledge of middle prior attaining boys?’
-- 'What are the misconceptions that pupils typically have about the topic I am about to start teaching?’
+- ‘What are the misconceptions that pupils typically have about the topic I am about to start teaching?’
 - ‘How appropriate are the textbooks I have for the curriculum I want to teach and the stage my pupils are at?’
 
 It is useful to remember that pupil work—whether it is performed (as in art, drama, music, PE, technology), spoken or written—is a source of evidence. By assessing that work, which you do as a normal part of your professional life, you can bring that evidence to bear on your inquiry question.

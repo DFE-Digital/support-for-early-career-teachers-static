@@ -59,13 +59,13 @@ Taking their script or set of homeworks as a starting point, you are now going t
 
 ▪ expose potential pitfalls and explaining how to avoid them
 
-Use the script from Christine’s Year 1 science lesson as your model. You don’t have to go quite as far, if there isn’t the time. It's more important to rehearse the parts of your explanation that model thought processes, memorable steps and avoiding pitfalls.
+Use the script from Christine’s Year 1 science lesson as your model. You don’t have to go quite as far, if there isn’t the time. It’s more important to rehearse the parts of your explanation that model thought processes, memorable steps and avoiding pitfalls.
 
 ---
 
 Self-assessment
 
-In their self-directed study session, your mentee reflected on their classroom practice since the start of the year and completed a checklist similar to this, where they recorded how frequently they ‘do this’. Now, as a result of their study activities and their mentoring with you, ask them to record their confidence in the same areas. (Look back at the research and practice summary in this week's ECT materials for examples).
+In their self-directed study session, your mentee reflected on their classroom practice since the start of the year and completed a checklist similar to this, where they recorded how frequently they ‘do this’. Now, as a result of their study activities and their mentoring with you, ask them to record their confidence in the same areas. (Look back at the research and practice summary in this week’s ECT materials for examples).
 
 | I do this                                    | Not at all | Quite | Very confident |
 | -------------------------------------------- | ---------- | ----- | -------------- |

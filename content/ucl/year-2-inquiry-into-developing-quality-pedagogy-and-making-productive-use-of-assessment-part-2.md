@@ -4,7 +4,7 @@ heading: "Second half-term: inquiry into developing quality pedagogy and making 
 caption: "Year 2"
 ---
 
-In this module you'll look at how to gather evidence about the impact your teaching is having, followed by practical tips on altering your practices to get better results.
+In this module you’ll look at how to gather evidence about the impact your teaching is having, followed by practical tips on altering your practices to get better results.
 
 ## Week 1: observation and feedback to improve the quality of pedagogy and the productive use of assessment
 
@@ -66,7 +66,7 @@ Duration: minutes.
 
 ### Mentors
 
-Use the materials below to help explore any potential counter-evidence regarding the ECT's practitioner inquiry.
+Use the materials below to help explore any potential counter-evidence regarding the ECT’s practitioner inquiry.
 
 [View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-2/spring-week-5-mentor-materials)
 

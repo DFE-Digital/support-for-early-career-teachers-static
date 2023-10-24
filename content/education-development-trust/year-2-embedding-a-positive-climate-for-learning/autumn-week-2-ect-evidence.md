@@ -233,7 +233,7 @@ A key technique for achieving this positive reinforcement of pupils’ beliefs i
 - Praising intelligence rather than effort: ‘Well done, you are really clever at mathematics.’
 - Praising the outcome: ‘You got 83%, that is great.’
 - Attributing success to ability: ‘I knew you would do well at that task, you always do.’
-- Revealing grudges: ‘I can see you’re trying as hard in this lesson as you didn't last lesson.’
+- Revealing grudges: ‘I can see you’re trying as hard in this lesson as you didn’t last lesson.’
 - Giving the impression that success comes easily: ‘Great answer, this is easy for you.’
 
 When praise is used effectively it can tell students that they are on the right track and motivate them to continue working. Using praise judiciously and communicating genuine warmth and enthusiasm can have a direct impact on motivation and the learning environment.

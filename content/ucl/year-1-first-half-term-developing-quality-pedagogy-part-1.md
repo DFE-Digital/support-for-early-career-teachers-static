@@ -4,7 +4,7 @@ heading: "First half term: developing quality pedagogy (part 1)"
 caption: "Year 1"
 ---
 
-In this module you'll extend your knowledge of effective modelling that enables pupils to tackle difficult concepts.
+In this module you’ll extend your knowledge of effective modelling that enables pupils to tackle difficult concepts.
 
 ## Week 1: module audit
 

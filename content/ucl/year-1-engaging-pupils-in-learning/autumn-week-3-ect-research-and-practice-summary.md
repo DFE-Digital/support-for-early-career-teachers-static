@@ -64,7 +64,7 @@ The pupils
 are all familiar with their roles, as this is a strategy that has been modelled for
 them regularly and the roles are swapped around.
 
-Imogen's role is to listen and provide
+Imogen’s role is to listen and provide
 direction if they struggle with any aspects. Today, Imogen is going to read the text
 aloud as the pupils take their roles. In this way, she will model how a fluent reader
 uses volume, tone, expression and modulation when they read, recognising that spoken

@@ -48,7 +48,7 @@ Choose an aspect of literacy outlined below and an area of focus for discussion 
 ##### Possible foci for observation or discussion
 
 - How is handwriting taught? Is a specific programme used to teach handwriting systematically? E.g. Review children’s writing outcomes together and consider progression in handwriting.
-- How are parents/carers involved in supporting younger pupils' reading? E.g. School support for parents/carers, such as workshops to develop their understanding of approaches to teaching early reading.
+- How are parents/carers involved in supporting younger pupils’ reading? E.g. School support for parents/carers, such as workshops to develop their understanding of approaches to teaching early reading.
 
 #### Learning intention: Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
 

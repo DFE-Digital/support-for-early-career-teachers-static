@@ -4,7 +4,7 @@ heading: "First half-term: developing effective classroom practice"
 caption: "Year 1"
 ---
 
-In this module you'll focus on the fundamental techniques you can use to become a more effective teacher.
+In this module you’ll focus on the fundamental techniques you can use to become a more effective teacher.
 
 ## Module introduction
 

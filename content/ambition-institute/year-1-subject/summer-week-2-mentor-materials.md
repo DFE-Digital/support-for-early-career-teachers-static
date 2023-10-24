@@ -37,8 +37,8 @@ Example precise target: Teacher, with the support of a colleague, ensures lesson
 
 #### Focused development area
 
-- Teacher, with the support of a colleague, accesses and reviews subject materials to understand how tasks build pupils' knowledge and skills towards the learning goals for a lesson.
-- Teacher, with the support of a colleague, accesses and reviews subject materials to understand how to adapt task content to efficiently build pupils' knowledge and skills so they can meet the learning goals for a lesson.
+- Teacher, with the support of a colleague, accesses and reviews subject materials to understand how tasks build pupils’ knowledge and skills towards the learning goals for a lesson.
+- Teacher, with the support of a colleague, accesses and reviews subject materials to understand how to adapt task content to efficiently build pupils’ knowledge and skills so they can meet the learning goals for a lesson.
 
 ### Observe
 

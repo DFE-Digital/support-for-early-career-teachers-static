@@ -31,7 +31,7 @@ Example precise target:Teacher, with the support of a colleague, identifies the 
 #### Focused development area
 
 - Teacher, with the support of a colleague, decides on the knowledge and skills to cover or introduce in a lesson and ensures they are manageable for pupils.
-- Teacher, with the support of a colleague, plans to ensure knowledge and skills build in order to ensure the content is manageable and deepens pupils' understanding over time.
+- Teacher, with the support of a colleague, plans to ensure knowledge and skills build in order to ensure the content is manageable and deepens pupils’ understanding over time.
 - Teacher breaks down key knowledge and skills needed for a task into steps to make learning manageable.
 
 ### Development area 3: Exit tasks
@@ -39,7 +39,7 @@ Example precise target:Teacher, with the support of a colleague, identifies the 
 #### Focused development area
 
 - Teacher carefully frames to pupils what exit tasks are and what their purpose is so that pupils know they are low stakes and support their learning.
-- Teacher plans the content of the exit task so that it efficiently checks pupils' understanding of the key knowledge and skills from the lesson, specifically assessing for misconceptions and gaps in understanding.
+- Teacher plans the content of the exit task so that it efficiently checks pupils’ understanding of the key knowledge and skills from the lesson, specifically assessing for misconceptions and gaps in understanding.
 - Teacher plans how to address information from the exit tasks in the following lesson.
 
 ### Observe

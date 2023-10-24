@@ -54,7 +54,7 @@ Modelling is an instructional strategy in which the teacher demonstrates a new c
 
 "I want to see if I can remember the names of the different animal groups. I have
 a cool way of remembering them. It’s linked to a pet shop I go to called FARM B.
-(show image of pet shop sign 'FARM B').
+(show image of pet shop sign ‘FARM B’).
 
 "Inside, all of the different animals are
 grouped together. In the F section are the fish. In the A section are the amphibians.
@@ -69,15 +69,15 @@ She then explored features of fish and amphibians through looking at both groups
 
 "How can I tell a fish from an amphibian?
 
-"Now I know the names 'fish' and 'amphibian', I need to remember how to tell them apart. I know that the main difference is that amphibians can breathe in and out of water. How can I remember that difference? Let’s look at the word: **Amphib** **I**n **an**d out.
+"Now I know the names ‘fish’ and ‘amphibian’, I need to remember how to tell them apart. I know that the main difference is that amphibians can breathe in and out of water. How can I remember that difference? Let’s look at the word: **Amphib** **I**n **an**d out.
 
 "That’s a great way of remembering that amphibians can breathe in and out of water! I love it when the names of animals tell us about their special features."
 
 Christine then showed the class a picture of an unnamed animal, with ‘clues’.
 
-"So, let me see if this works for animal x. The clue says 'I can breathe out of water.' Hmm, so can amphibians, so does this mean it is definitely an amphibian? No, because there are other groups of animals that can breathe out of water, like birds and mammals, so I must look at its other features.
+"So, let me see if this works for animal x. The clue says ‘I can breathe out of water.’ Hmm, so can amphibians, so does this mean it is definitely an amphibian? No, because there are other groups of animals that can breathe out of water, like birds and mammals, so I must look at its other features.
 
-"Clue 2: 'I can also breathe in water.' Right, I’m happy to say it must be an amphibian now because only amphibians can breathe in and out of water."
+"Clue 2: ‘I can also breathe in water.’ Right, I’m happy to say it must be an amphibian now because only amphibians can breathe in and out of water."
 
 Christine narrated her thought processes by thinking out loud. This would model metacognition linked to subject knowledge for her pupils. Her use of mnemonics (FARM B, Amphib In and out) helped make the learning memorable. She alerted her pupils to the potential pitfall (of classing all animals that breathe out of water amphibians).
 

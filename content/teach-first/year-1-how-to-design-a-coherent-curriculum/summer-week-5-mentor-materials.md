@@ -52,4 +52,4 @@ Practise either:
 
 ### Additional resources:
 
-[Deans for Impact's report on the science of learning](https://deansforimpact.org/resources/the-science-of-learning/)
+[Deans for Impact’s report on the science of learning](https://deansforimpact.org/resources/the-science-of-learning/)

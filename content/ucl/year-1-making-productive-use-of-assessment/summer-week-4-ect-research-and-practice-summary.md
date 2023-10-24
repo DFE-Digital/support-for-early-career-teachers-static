@@ -164,7 +164,7 @@ Pupils are expected to re-work this part of the text during dedicated classroom 
 Alessia keeps the improvements focused and manageable so she doesn’t overwhelm pupils.
 
 <h5>Targets</h5>
-Alessia identifies a target that each pupil should address in future work. For example, 'Extend lines of reasoning so that you always develop your arguments fully. Aim for at least 3 steps in each chain of analysis.’
+Alessia identifies a target that each pupil should address in future work. For example, ‘Extend lines of reasoning so that you always develop your arguments fully. Aim for at least 3 steps in each chain of analysis.’
 
 When pupils start their next substantial piece of work, Alessia asks them to write their previous target at the top of their work. When they have finished the task, pupils write a comment next to the target to self-assess the extent to which they have met it. They also circle the part of their work where they feel they have best demonstrated this target.
 

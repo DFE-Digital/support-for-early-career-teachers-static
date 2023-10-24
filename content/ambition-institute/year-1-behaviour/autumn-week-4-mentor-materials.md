@@ -14,7 +14,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- Teacher gets the whole class' attention before delivering instructions.
+- Teacher gets the whole class’ attention before delivering instructions.
 - Teacher ensures their instructions are clear by making them manageable and sequential.
 - Teacher ensures pupils know they are accountable for following instructions by standing where they are visible to the class and checking they are following instructions.
 - Teacher reminds pupils who are off-task what they need to do in order to get back on task.
@@ -26,14 +26,14 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 - Teacher ensures they are able to see all pupils and explicitly scans the whole class.
 - Teacher checks for and reinforces the behaviour they want from pupils and non-verbally corrects behaviours they do not.
-- Teacher, with the support of a colleague, identifies when it is most useful to check all pupils' behaviour and which behaviours they are looking for.
+- Teacher, with the support of a colleague, identifies when it is most useful to check all pupils’ behaviour and which behaviours they are looking for.
 
 {details}
 Example precise target: Teacher ensures they are able to see all pupils and explicitly scans the whole class.
 
 - **Not doing it at all:** When you need to see all pupils and be seen, e.g. when checking their behaviour or delivering instructions, stand in a spot where you can view all pupils and they can all see you.
-- **Doing it but needs some improvement:** Standing on a spot where you can view all pupils and they can all see you, check all pupils' behaviour by scanning across the whole class.
-- **Doing it well and needs some stretch:** Standing on a spot where you can view all pupils and they can all see you, make it obvious to pupils that you are checking all pupils' behaviour by exaggerating your body language, e.g. stand on tip-toes, widen your eyes and/or move your arm across the room to match your gaze.
+- **Doing it but needs some improvement:** Standing on a spot where you can view all pupils and they can all see you, check all pupils’ behaviour by scanning across the whole class.
+- **Doing it well and needs some stretch:** Standing on a spot where you can view all pupils and they can all see you, make it obvious to pupils that you are checking all pupils’ behaviour by exaggerating your body language, e.g. stand on tip-toes, widen your eyes and/or move your arm across the room to match your gaze.
 
 {/details}
 

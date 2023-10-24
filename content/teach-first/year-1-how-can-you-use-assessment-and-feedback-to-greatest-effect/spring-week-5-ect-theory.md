@@ -36,26 +36,26 @@ Record any notes in your notebook.
 {details}
 Video transcript.
 
-During the course of a lesson, or sequence of lessons, you build up a picture of your students' learning by using assessments to take multiple inadequate glances through a variety of lenses – moment by moment quizzes, topic questions and so on – and by doing so you can increase your confidence in knowing how your students are doing. In a similar way both self-assessment and peer assessment can help your students increase their confidence in how they're doing. And just as you are learning to develop the skills of teacher assessment, so your students need to learn the skills of self and peer assessment. Self and peer assessments are not just valuable tools for producing information. The very act of thinking hard about your own work or someone else's work can be powerful learning events in and of themselves for the person doing the thinking. Done poorly, however, these approaches take up too much classroom time and can lead to students focusing on the wrong drivers of success. Effective self-assessment is a process in which a student thinks independently about their own work and how it could be improved. For it to be useful, the process should be modelled and scaffolded deliberately for your students as it's often unfamiliar and challenging, and the steps involved need to be transparent and understood by everyone in your classroom.
+During the course of a lesson, or sequence of lessons, you build up a picture of your students’ learning by using assessments to take multiple inadequate glances through a variety of lenses – moment by moment quizzes, topic questions and so on – and by doing so you can increase your confidence in knowing how your students are doing. In a similar way both self-assessment and peer assessment can help your students increase their confidence in how they’re doing. And just as you are learning to develop the skills of teacher assessment, so your students need to learn the skills of self and peer assessment. Self and peer assessments are not just valuable tools for producing information. The very act of thinking hard about your own work or someone else’s work can be powerful learning events in and of themselves for the person doing the thinking. Done poorly, however, these approaches take up too much classroom time and can lead to students focusing on the wrong drivers of success. Effective self-assessment is a process in which a student thinks independently about their own work and how it could be improved. For it to be useful, the process should be modelled and scaffolded deliberately for your students as it’s often unfamiliar and challenging, and the steps involved need to be transparent and understood by everyone in your classroom.
 
 There are four things that help most teachers use self-assessment effectively:
 
-1. Firstly, provide students with clear and understandable examples of what you want them to learn – modelling the destination in this way can be incredibly powerful in knowing where they're going on the journey.
-2. Secondly, share specific and understandable success criteria that help your students know how they're doing along the way.
+1. Firstly, provide students with clear and understandable examples of what you want them to learn – modelling the destination in this way can be incredibly powerful in knowing where they’re going on the journey.
+2. Secondly, share specific and understandable success criteria that help your students know how they’re doing along the way.
 3. Plan opportunities for your students to use those success criteria independently to identify both their own successes and the things that they need to improve, and finally,
-4. Plan opportunities for your students to work independently to make the identified improvements and I can't stress that last point enough. The most important thing about feedback is what a student does with it.
+4. Plan opportunities for your students to work independently to make the identified improvements and I can’t stress that last point enough. The most important thing about feedback is what a student does with it.
 
-Effective peer assessment involves students thinking about someone else's piece of
+Effective peer assessment involves students thinking about someone else’s piece of
 work and how it could be improved. Peer assessment can be a powerful learning tool
-and it's not actually about students marking each other's work, as sometimes it's
+and it’s not actually about students marking each other’s work, as sometimes it’s
 thought, and, structured well, it can have a positive impact both for the student
 receiving the peer assessment feedback as well as for the student giving it. Often
 those students who engage in effective peer assessment tasks become much more aware
-of how to improve their own work by virtue of trying to improve others'.
+of how to improve their own work by virtue of trying to improve others’.
 
-Peer assessment engages your students in taking on the role of what Dylan William has called ‘learning resources for their peers’ and just as with self-assessment you'll need to provide students with exemplars and success criteria as well as planned opportunities to identify successes and areas for improvement and, crucially, planned opportunities to act on this information.
+Peer assessment engages your students in taking on the role of what Dylan William has called ‘learning resources for their peers’ and just as with self-assessment you’ll need to provide students with exemplars and success criteria as well as planned opportunities to identify successes and areas for improvement and, crucially, planned opportunities to act on this information.
 
-Both peer assessment and self-assessment require students to self-regulate effectively. They need to be able to think about the process of their own learning explicitly and to manage it. But to do so requires motivation, a willingness on the part of the student. Your students need to be motivated to engage in something that is inherently difficult, so helping them understand not just what they're learning, but also how they learn effectively, can be instrumental in generating the motivation to put in the effort needed to learn.
+Both peer assessment and self-assessment require students to self-regulate effectively. They need to be able to think about the process of their own learning explicitly and to manage it. But to do so requires motivation, a willingness on the part of the student. Your students need to be motivated to engage in something that is inherently difficult, so helping them understand not just what they’re learning, but also how they learn effectively, can be instrumental in generating the motivation to put in the effort needed to learn.
 
 {/details}
 
@@ -70,7 +70,7 @@ Hear from fellow teachers as they explain how they have established peer and sel
 {details}
 Video script.
 
-As an Early Years teacher I find assessment checkpoints (sometimes known as mini plenaries) throughout a period of learning to be an effective way to support self-assessment. After a whole class input to a text or piece of writing, the children in Reception move on to tasks which are to be completed independently or supported by the teacher or teaching assistant. With half the class working independently, it gives a good opportunity to use assessment checkpoints to refocus the children, to assess their understanding of the task, and to remind the children of expectations. Within this time, I ask for the attention of all children and explain (so everyone can hear) what I like about individual children’s work and asking them to look at their own work and see if they have similar or think about how they could put this ‘positive’ into their own work. The modelling of what I'm thinking, and what I think is successful, helps them to self-assess whether they recognise it in their own work.
+As an Early Years teacher I find assessment checkpoints (sometimes known as mini plenaries) throughout a period of learning to be an effective way to support self-assessment. After a whole class input to a text or piece of writing, the children in Reception move on to tasks which are to be completed independently or supported by the teacher or teaching assistant. With half the class working independently, it gives a good opportunity to use assessment checkpoints to refocus the children, to assess their understanding of the task, and to remind the children of expectations. Within this time, I ask for the attention of all children and explain (so everyone can hear) what I like about individual children’s work and asking them to look at their own work and see if they have similar or think about how they could put this ‘positive’ into their own work. The modelling of what I’m thinking, and what I think is successful, helps them to self-assess whether they recognise it in their own work.
 
 Within continuous provision, self-assessment is set up in areas such as the construction or glue area. Adults enhance the learning in these areas by supplying a task that ‘could be’ completed if the children need this structured support, rather than child-initiated work. An example of this task is a ‘child planning sheet’. These are placed in various areas across the continuous provision and they encourage children to draw what they want to make, they then go away and create their models, and move on to complete the sheet with a ‘How to make it better next time?’ Although this takes time for young children to be able to self-assess their own work, a child who is assessed as ‘Exceeding’ , is expected to be able to ‘carry out activities and state what they might change if they were to repeat them’.
 
@@ -87,7 +87,7 @@ Video transcript.
 
 Self and peer assessment of writing is something I always plan for at the end of a unit of work. This has had a positive impact on pupil outcomes.
 
-The process of developing the right culture and modelling the process of assessing another’s work is something that I have built up slowly over the course of the year, making sure that, from the outset, the pupils understood assessment of their own, or their peers' work, was not only to pinpoint areas to improve but also to celebrate successes. I didn’t want the pupils to think that helping someone with their work was always a case of looking for ‘mistakes’. Therefore, I always begin peer or self-assessment by asking pupils to identify strengths in a piece of work. Identifying and sharing what their peers did well encouraged pupils to look for similar things in their own work. This was especially effective for those who found it tricky to identify their own successes.
+The process of developing the right culture and modelling the process of assessing another’s work is something that I have built up slowly over the course of the year, making sure that, from the outset, the pupils understood assessment of their own, or their peers’ work, was not only to pinpoint areas to improve but also to celebrate successes. I didn’t want the pupils to think that helping someone with their work was always a case of looking for ‘mistakes’. Therefore, I always begin peer or self-assessment by asking pupils to identify strengths in a piece of work. Identifying and sharing what their peers did well encouraged pupils to look for similar things in their own work. This was especially effective for those who found it tricky to identify their own successes.
 
 After identifying areas of success, the pupils are then asked to identify one place in their work that could be improved. One really powerful way I have found to do this effectively is to get a pupil to read aloud someone else’s work back to them, following all punctuation and reading each word as it is written. Hearing what your own work sounds like, more often than not, makes pupils realise where things may not quite flow well, sound repetitive or, because of the way it has been punctuated, just doesn’t quite make sense. I set this up initially by modelling this with the whole class. I used a piece of writing I put together myself, and had a volunteer to read the work aloud exactly as written. Everyone in the class was given the opportunity to offer comments and opinions; firstly on one thing they found really effective, and then one thing they thought could be improved. As pupils offered feedback, I offered suggestions as to how responses could be re-worded or developed to become effective. The pupils then followed this model.
 
@@ -100,7 +100,7 @@ After receiving feedback from their peers or an adult, the pupils then used a co
 {details}
 Video transcript.
 
-When planning self and peer assessment, I always start with the ‘why’. For it to be successful, the pupils need to see the purpose in doing it. I like to explain the benefits; such as ‘you can identify mistakes and self-correct', ‘your peer can provide alternative viewpoints or suggestions to develop your work’, they can be a ‘friendly second eye’ catching any errors that you may have made.
+When planning self and peer assessment, I always start with the ‘why’. For it to be successful, the pupils need to see the purpose in doing it. I like to explain the benefits; such as ‘you can identify mistakes and self-correct’, ‘your peer can provide alternative viewpoints or suggestions to develop your work’, they can be a ‘friendly second eye’ catching any errors that you may have made.
 
 In my classroom, self-assessment can range from retrieval quiz marking, to peer debate assessment, to feeding back on written work. Different practitioners use different assessment tools such as ‘Whatt Went Well’ and ‘Even Better If’ or ‘2 stars and a wish’ etc. My advice would be to select one approach to self-assessment initially, and be consistent with it, measuring the impact as you do.
 
@@ -109,7 +109,7 @@ A specific example of self and peer assessment in action is from a GCSE class wh
 
 I used peer assessment when asking pupils to assess practice examination questions. When doing this, I made sure that I had a clear mark scheme available to them that was pupil-friendly and accessible. This enabled pupils to clearly identify where marks were awarded and how to understand the difference between the levels, so that they could look at how to progress.
 
-When setting this up in the classroom, I saw it as an evolutionary approach that I would have to build on over time to ensure pupil understanding, avoid working memory overload, and check that the system was being applied correctly. I clearly modelled how to give the feedback and spoke aloud about my thought process at each step. This helps me to constantly reinforce my expectations. For the pupils' first attempt, I also scaffolded their feedback using and corrected their responses where appropriate. My pupils soon started to identify ‘this is where I need to improve, this is what I need to improve, this is how I need to improve it’.
+When setting this up in the classroom, I saw it as an evolutionary approach that I would have to build on over time to ensure pupil understanding, avoid working memory overload, and check that the system was being applied correctly. I clearly modelled how to give the feedback and spoke aloud about my thought process at each step. This helps me to constantly reinforce my expectations. For the pupils’ first attempt, I also scaffolded their feedback using and corrected their responses where appropriate. My pupils soon started to identify ‘this is where I need to improve, this is what I need to improve, this is how I need to improve it’.
 
 {/details}
 
@@ -141,7 +141,7 @@ _How will I approach the problem? Which strategies will I use? How do I manage m
 
 Emphasising the need for pupils to assess the progress they are making as they go.
 
-_What is working? What isn't working? Why am I finding this challenging?_
+_What is working? What isn’t working? Why am I finding this challenging?_
 
 #### Evaluate
 

@@ -10,7 +10,7 @@ next_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer
 
 As you explored in module 3, questioning is a powerful teacher tool. It can be used to both assess and extend pupil understanding. Very skilled teachers will develop pupil understanding by adapting questions to suit learners’ needs either by providing further prompts to help break problems down or further stretch by asking follow-up questions. In order to do this successfully, teachers will use a variety of open and closed questions to guide pupils’ thinking.
 
-In module 3, you covered a variety of questions styles that extend pupils' understanding but how can you adapt your questioning to support pupils who don’t give the correct answer?
+In module 3, you covered a variety of questions styles that extend pupils’ understanding but how can you adapt your questioning to support pupils who don’t give the correct answer?
 
 If a pupil provides an incorrect answer, there are a number of things you can do to support their understanding:
 
@@ -43,7 +43,7 @@ Pupil: "You add 500 and 15 together which totals 515."
 
 Teacher: "Brilliant, remember, we use mathematical language."
 
-How does the teacher stretch the pupil's understanding?
+How does the teacher stretch the pupil’s understanding?
 
 The teacher stretches the pupil by:
 
@@ -191,7 +191,7 @@ I increased the challenge in this question by asking a more open question that r
 
 I then increased the challenge in the question by making it more evaluative and asked a higher attaining pupil – pupil 3 - to extend their thinking:
 
-**‘Do you agree with that, Jack? What do you think about these ‘black and deep desires’?'**
+**‘Do you agree with that, Jack? What do you think about these ‘black and deep desires’?’**
 
 Jack’s response suggested there might be more he could offer, so I prompted him to say more by restating:
 
@@ -213,12 +213,12 @@ Choose one video below to watch teachers as they scaffold learning through quest
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jR1JbyXUPWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Scaffolding questioning - Primary  
+Scaffolding questioning - Primary
 If you require an audio description over the video, please watch this version: [Scaffolding questioning - Primary \[AD\]](https://youtu.be/RNEopCVtfL4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjSSJW_qTZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Scaffolding questioning - Secondary  
+Scaffolding questioning - Secondary
 If you require an audio description over the video, please watch this version: [Scaffolding questioning - Secondary \[AD\]](https://youtu.be/i1sRN6s-lAk)
 
 In the next lesson you teach, consider how you can reframe questions to scaffold and extend pupil understanding.
@@ -240,7 +240,7 @@ Listen as Kenny from the Driver Youth Trust talks about how you can effectively 
 {details}
 Video transcript.
 
-Hi, my name's Kenny Wheeler. We're going to be looking at how to utilise TA support to enhance learning.
+Hi, my name’s Kenny Wheeler. we’re going to be looking at how to utilise TA support to enhance learning.
 
 There has been a lot of research into the use of teaching assistants, some quite negative:
 
@@ -294,7 +294,7 @@ Both you and your TA should aim to deliver quality additional support that build
 {details}
 Video transcript.
 
-Hi, I'm Kenny Wheeler. We're going to be looking at working with a group.
+Hi, I’m Kenny Wheeler. we’re going to be looking at working with a group.
 
 A consideration to bear in mind when an adult works with a group is how are you or the TA developing independence in the pupils? How can you be sure that support is not given too soon and then negatively impacting on the progress pupils are making? How can you be sure that the work the pupils are producing is their own? The Education Endowment Foundation’s scaffolding framework for teaching assistants and pupil interactions provides an effective model for both teachers and TA’s to use to ensure pupil independence is developed when working with an adult. It is a framework consisting of five layers that should be followed sequentially depending on the pupil’s performance.  The framework consists of the five following stages:
 
@@ -329,7 +329,7 @@ So, we reflect together at the end of each day in terms of both what went well a
 
 **What impact does this have on&nbsp;pupils?**
 
-The reflections at the end of the day are particularly impactful and important for us as a team. We both try to be honest around the progression of learning throughout the day. Due to the nature of EYFS and us often being in different rooms, and working with different children on different areas of the curriculum, Muna often sees things that I don’t and vice versa. So, sharing what we’ve observed means we can accurately adapt planning to suit the children's needs for the next day. Also, taking the time to go through everything in the morning ensures that Muna is prepared and has any manipulatives ready that she might need to support during carpet sessions so that learning is accessible to all students, as far as possible.
+The reflections at the end of the day are particularly impactful and important for us as a team. We both try to be honest around the progression of learning throughout the day. Due to the nature of EYFS and us often being in different rooms, and working with different children on different areas of the curriculum, Muna often sees things that I don’t and vice versa. So, sharing what we’ve observed means we can accurately adapt planning to suit the children’s needs for the next day. Also, taking the time to go through everything in the morning ensures that Muna is prepared and has any manipulatives ready that she might need to support during carpet sessions so that learning is accessible to all students, as far as possible.
 
 **How do you ensure all pupils get a similar amount of support from both you and your TA throughout the day/week?**
 
@@ -403,7 +403,7 @@ Pupils who are able to be stretched may be given more challenging work and benef
 
 **How do you ensure all pupils get a similar amount of support from both you and your TA throughout the day/week?**
 
-I suppose there's no hard and fast rule about how frequently the TA’s and I interact with each pupil or groups of pupils within a class.
+I suppose there’s no hard and fast rule about how frequently the TA’s and I interact with each pupil or groups of pupils within a class.
 
 It really is dependent upon the topic being taught, needs of classes and needs of individuals. Our ways of working are fluid and responsive to the unique context presented by each individual lesson.
 
@@ -446,9 +446,9 @@ During the lesson, throughout my explanations and modelling, I used formative as
 
 I asked those pupils to work with me so I could provide additional explicit instruction and support pupils through guided practice. Children worked at a gradual pace meaning content coverage may not be at a greater depth as compared to their peers, but meeting their needs is the priority. Being able to remain flexible, showing children step by step what is expected of them through thorough modelling, and allowing the children to use practical equipment such as analogue clocks was key to building their confidence.
 
-Adapting my lesson to respond to pupils' needs helped to ensure the 5/6 target pupils I worked with developed a strong foundational understanding of time.  This meant they were able to achieve meaningful success in the lesson. I try to ensure I work with a variety of pupils through this method either to support or extend their understanding. For example, when reviewing pupils' work following that lesson, I identified a group of pupils who had got all of their answers correct. So, next lesson I planned to work with them to extend their learning further by providing them with more reasoning and problem-solving questions. These questions included multi-steps to increase their independence and thinking skills.
+Adapting my lesson to respond to pupils’ needs helped to ensure the 5/6 target pupils I worked with developed a strong foundational understanding of time.  This meant they were able to achieve meaningful success in the lesson. I try to ensure I work with a variety of pupils through this method either to support or extend their understanding. For example, when reviewing pupils’ work following that lesson, I identified a group of pupils who had got all of their answers correct. So, next lesson I planned to work with them to extend their learning further by providing them with more reasoning and problem-solving questions. These questions included multi-steps to increase their independence and thinking skills.
 
-I find that by working with different pupils throughout the week, I can meet the needs of all pupils in my class. This ensures all pupils get the opportunity to work with an adult, helping them to self-regulate their learning. It also helps to prevent any stigma being attached to working with the class teacher. I find this has a positive impact on pupils' motivation and their attitudes towards learning.
+I find that by working with different pupils throughout the week, I can meet the needs of all pupils in my class. This ensures all pupils get the opportunity to work with an adult, helping them to self-regulate their learning. It also helps to prevent any stigma being attached to working with the class teacher. I find this has a positive impact on pupils’ motivation and their attitudes towards learning.
 
 {/details}
 
@@ -457,21 +457,21 @@ I find that by working with different pupils throughout the week, I can meet the
 {details}
 Video transcript.
 
-Adaptive teaching is on-the-spot, responsive adaptation of a lesson, or parts of a lesson, in response to students – maybe students who need more support, scaffolding or modelling. Without those things, without that extra support, the students would be unable to move on to the next step of the lesson. Maybe it could be because they haven’t grasped something fully or it could be that they are making too many errors for instance. A key message here would be don’t be a slave to a lesson plan! You may have to adapt or modify your lesson based on student needs. So, for example, a plan can't account for every eventuality in your lesson.
+Adaptive teaching is on-the-spot, responsive adaptation of a lesson, or parts of a lesson, in response to students – maybe students who need more support, scaffolding or modelling. Without those things, without that extra support, the students would be unable to move on to the next step of the lesson. Maybe it could be because they haven’t grasped something fully or it could be that they are making too many errors for instance. A key message here would be don’t be a slave to a lesson plan! You may have to adapt or modify your lesson based on student needs. So, for example, a plan can’t account for every eventuality in your lesson.
 
 How you adapt the lesson will obviously be linked to your assessment that will be taking place as the lesson progresses: for example, misunderstandings may be revealed through questioning, errors may need to be corrected before moving on through the lesson. This could be for all students, it could be for individual students. If we think of learning as a stepped process of progression, then it is clear why we have to adapt our teaching if that situation occurs.
 
-There are many assessment for learning strategies that I would use during a lesson to gauge pupil knowledge: for example, I often use question and response using mini whiteboards, they're a really effective tool, or you can use targeted questioning, where I would question a selection of students around the room to sample responses from around the class.
+There are many assessment for learning strategies that I would use during a lesson to gauge pupil knowledge: for example, I often use question and response using mini whiteboards, they’re a really effective tool, or you can use targeted questioning, where I would question a selection of students around the room to sample responses from around the class.
 
 So for instance, in a recent lesson, students were asked to work on mini whiteboards so I could assess the class; I wanted to assess the whole class and mini whiteboards allow me to do that. During the Q and A students were asked to use a variery of punctuation, practise that variety of punactuation accurately. The ultimate aim was I wanted them to do some descriptive writing where they would be using punctuation effectively, so I was building up towards that.
 
 Because I could see what students had written on the mini whiteboards, I was able to identify those students that needed a bit more support, further scaffolding in order to use semicolons, particularly, more effectively. I knew they would need further support during the activity in order to avoid misconceptions or errors becoming embedded in their writing. So I wanted to nip it in the bud, I suppose, if we look at it in that way.
 
-What I then did, once I'd spotted that there were some students who were making these errors, I brought the samll group to me, I had three students working around the desk with me, so I brought them to the front. And the rest of the class wre able to move on to the descriptive writing task independently.
+What I then did, once I’d spotted that there were some students who were making these errors, I brought the samll group to me, I had three students working around the desk with me, so I brought them to the front. And the rest of the class wre able to move on to the descriptive writing task independently.
 
 It was really important for me to adapt the lesson for that group of students in order to support them to be successful in the next steps of the lesson. If I had ignored the errors, then they wouldn’t have been able to achieve the specific aim of the writing, to use a range of punctuation. Their journey through the lesson had to be modified on the spot, and that was based on the assessment evidence that I had collected during the lesson.
 
-Through that use of flexible grouping, the identified pupils were able to successfully achieve the aim of the writing task, something that would have been impossible for them if I hadn’t provided additional support and scaffolds and that additional bit of time with me. And that was based on their specific needs that I'd assessed, and the gaps in their knowledge of how to punctuate effectively.
+Through that use of flexible grouping, the identified pupils were able to successfully achieve the aim of the writing task, something that would have been impossible for them if I hadn’t provided additional support and scaffolds and that additional bit of time with me. And that was based on their specific needs that I’d assessed, and the gaps in their knowledge of how to punctuate effectively.
 
 {/details}
 
@@ -530,17 +530,17 @@ Video transcript.
 
 When marking books after a lesson or ‘live’ marking with pupils during a lesson, it becomes apparent which pupils have grasped a concept and can apply their knowledge of it independently, and which pupils still need some support.
 
-While teaching a lesson on fractions, decimals and percentages, I assessed pupils' understanding through discussions during explanations and modelling and it seemed as though all pupils had a good understanding. However, when marking their work after the lesson, it became clear that a small group of pupils needed additional practice around **adding mixed number fractions**as they’d struggled to complete the task successfully when working on their own.
+While teaching a lesson on fractions, decimals and percentages, I assessed pupils’ understanding through discussions during explanations and modelling and it seemed as though all pupils had a good understanding. However, when marking their work after the lesson, it became clear that a small group of pupils needed additional practice around **adding mixed number fractions**as they’d struggled to complete the task successfully when working on their own.
 
 They were able to do the work while I was working with them in the classroom and offering prompts, but I identified they had struggled to apply this knowledge when left to work independently.
 
 I wanted to address this as soon as possible, so I asked my classroom assistant to practice this skill with the pupils **immediately after lunch** **the same day**.  I ensured the practice activity focused on exactly the same skill that the we had been working on in class. After gathering feedback from my classroom assistant, it was clear that the pupils would require additional practice to consolidate their learning. As a result of this, I ensured that in the next maths lesson this small group would begin by working on more fluency examples before progressing to a reasoning activity, which the rest of the class were working on. I closely monitored their work so I could provide affirmative or corrective feedback immediately to ensure they didn’t learn or embed misconceptions.
 
-To consolidate learning, I know that pupils need regular practice to build up retrieval strength of the material they are learning about. Therefore, I included a question that required pupils to **add mixed number fractions**in the daily arithmetic practice **for the rest of that week.** **In our school, daily arithmetic is something that the children complete when they come into class every morning.** I found that a 'little and often' approach is an effective way of incorporating additional practice in any area rather than overwhelming the pupils with lots of examples that they might see as ‘extra work’.
+To consolidate learning, I know that pupils need regular practice to build up retrieval strength of the material they are learning about. Therefore, I included a question that required pupils to **add mixed number fractions**in the daily arithmetic practice **for the rest of that week.** **In our school, daily arithmetic is something that the children complete when they come into class every morning.** I found that a ‘little and often’ approach is an effective way of incorporating additional practice in any area rather than overwhelming the pupils with lots of examples that they might see as ‘extra work’.
 
 As further additional practice, I offered short lunchtime booster sessions, usually 5-10 minutes long, which pupils could attend if they felt they needed more practice. I was able to sit with the pupils in a more informal way and go back through their work to address misunderstanding and consolidate their learning.
 
-The variety of additional practice provided had a really positive impact on pupils' learning. By completing the same types of questions daily, the pupils are given the chance to repeat and embed their knowledge and understanding.
+The variety of additional practice provided had a really positive impact on pupils’ learning. By completing the same types of questions daily, the pupils are given the chance to repeat and embed their knowledge and understanding.
 
 {/details}
 

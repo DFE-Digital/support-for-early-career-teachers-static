@@ -13,7 +13,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 Learn how to meet the needs of individuals without creating unnecessary workload by:
 
 - Making use of well-designed resources (e.g. textbooks)
-- Planning to connect new content with pupils' existing knowledge or providing additional pre-teaching if pupils lack critical knowledge
+- Planning to connect new content with pupils’ existing knowledge or providing additional pre-teaching if pupils lack critical knowledge
 - Building in additional practice or removing unnecessary expositions
 - Considering carefully whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils.
 
@@ -87,7 +87,7 @@ Let’s look again at the lesson(s) you brought with you today. For each activit
 
 Guidance to mentors:
 
-The ECT could use questioning to work out who understands and who doesn't. The ECT then might pull the small group who don't to one side for an additional explanation and more examples, but for those that do – set them off. In this way, the ECT is not having to do lots of additional planning – they are responding and adapting in the moment.
+The ECT could use questioning to work out who understands and who doesn’t. The ECT then might pull the small group who don’t to one side for an additional explanation and more examples, but for those that do – set them off. In this way, the ECT is not having to do lots of additional planning – they are responding and adapting in the moment.
 
 ### Intervening within lessons (15 mins)
 

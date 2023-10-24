@@ -4,7 +4,7 @@ heading: "First half-term: inquiry into developing quality pedagogy and making p
 caption: "Year 2"
 ---
 
-In this module you'll look at how to gather evidence about the impact your teaching is having, followed by practical tips on altering your practices to get better results.
+In this module you’ll look at how to gather evidence about the impact your teaching is having, followed by practical tips on altering your practices to get better results.
 
 ## Week 1: module audit
 

@@ -61,7 +61,7 @@ Plan: 5 mins
 
 In their self-directed study session this week, your mentee drafted a script for an entry routine into their classroom. The instructions for this activity are repeated below. Ask your mentee to briefly explain to you their routine, including what will happen and why.
 
-Scripting – use the ideas in the research and practice summary in this week's ECT materials, and your notes from this session so far, to script your own routine for how pupils will enter your classroom. If relevant to your setting, you may want to consider the role of parents and carers as part of this, too.
+Scripting – use the ideas in the research and practice summary in this week’s ECT materials, and your notes from this session so far, to script your own routine for how pupils will enter your classroom. If relevant to your setting, you may want to consider the role of parents and carers as part of this, too.
 
 Your script should address the ‘clarify’ and ‘model’ stages of the process described in this week’s research and practice summary. Include in this script:
 

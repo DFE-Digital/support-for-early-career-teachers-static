@@ -137,7 +137,7 @@ Learn that:
 
 #### Low-stakes quizzing
 
-Low-stakes quizzing is a helpful tool for you to check your pupils' understanding and to develop their recall of key ideas. The fact that it is low-stakes means that pupils will not feel threatened to ‘have a go’ in case they get it wrong.
+Low-stakes quizzing is a helpful tool for you to check your pupils’ understanding and to develop their recall of key ideas. The fact that it is low-stakes means that pupils will not feel threatened to ‘have a go’ in case they get it wrong.
 
 Be explicit that the quiz is low-stakes, i.e. “I will not be recording your score”; “This is not an assessment”.
 
@@ -217,7 +217,7 @@ Learn that:
 
 The core idea of assertive monitoring is:
 
-- By systematically checking pupils' work during a lesson a teacher can see what they have or have not understood.
+- By systematically checking pupils’ work during a lesson a teacher can see what they have or have not understood.
 - They can respond ‘in the moment’ when pupils have got things wrong or are not meeting success criteria and get them to ‘fix it’.
 
 How to do it:
