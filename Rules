@@ -6,6 +6,12 @@ compile '/index.md' do
   write '/index.html'
 end
 
+compile '/404.md' do
+  filter :govuk_markdown
+  layout '/default.*'
+  write '/404.html'
+end
+
 compile '/**/*.slim' do
   filter :slim
   layout '/default.*'
