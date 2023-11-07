@@ -40,11 +40,13 @@ learning. As you watch, pay particular attention to the following:
 - Breaks complex material into smaller steps
 - Checks pupils’ understanding of instructions before a task begins
 
-### Exemplification: Ambition Institute coachA really good way of
+### Exemplification: Ambition Institute coach
 
-supporting learning is to take an end goal and break it into smaller chunks.
-These smaller chunks feel more doable and help to guide pupil thinking. Imagine
-that I’m teaching a reception class how to form the lowercase letter m.
+A really good way of supporting learning is to take an end goal and break it into smaller chunks.
+
+These smaller chunks feel more doable and help to guide pupil thinking.
+
+Imagine that I’m teaching a reception class how to form the lowercase letter m.
 
 _“In handwriting today, we are going to be learning the sound, mm. Mmm. You would have learned the sound in reception as down Maisie, mountain, mountain. Now in year one, we need to be accurate with how our Ms look and how we form our Ms. I’m going to show you how I would do it, and I want you to pay close attention, because in a minute you will be doing it too._
 

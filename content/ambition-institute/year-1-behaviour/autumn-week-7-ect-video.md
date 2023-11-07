@@ -17,13 +17,13 @@ be acknowledged, their successes will be celebrated, and that they can learn fro
 their mistakes. Teachers can create this positive environment and within it pupils
 can thrive.
 
-### Presenter mainA positive environment is one in which all pupils are supported
+### Presenter main
 
-to learn and develop, whatever their starting points. The teacher has high expectations
-of their ability and they’re able to focus on their learning without getting distracted,
-encountering barriers or worrying about making mistakes. They are provided with helpful
-strategies to self-regulate their emotions. All of this together helps to create
-a positive and inclusive environment that helps all pupils to be successful.
+A positive environment is one in which all pupils are supported to learn and develop, whatever their starting points.
+
+The teacher has high expectations of their ability and they’re able to focus on their learning without getting distracted, encountering barriers or worrying about making mistakes. They are provided with helpful strategies to self-regulate their emotions.
+
+All of this together helps to create a positive and inclusive environment that helps all pupils to be successful.
 
 There are many ways in which teachers can build a positive learning environment. Establishing effective routines and expectations provides an important foundation. This means your routines are running smoothly, you set clear expectations, including the positive behaviours that you want to see, and you are consistent in your approach. For example, before asking a question to the class you might remind them that making mistakes is normal and that everyone is expected to try. Or before taking individual responses, you might remind the rest of the class to think about how they can help if someone gets the answer wrong. We want to create an environment in which making mistakes and learning from them are a big part of the daily routine and it can be helpful to include this in your expectations.
 

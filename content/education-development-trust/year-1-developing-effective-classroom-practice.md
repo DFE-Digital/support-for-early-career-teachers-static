@@ -19,8 +19,6 @@ Duration: 10 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-0-mentor-materials)
-
 ## Week 1: becoming an effective teacher
 
 For this topic you’ll need to:
@@ -146,6 +144,4 @@ Duration: 10 minutes.
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-0-mentor-materials)
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

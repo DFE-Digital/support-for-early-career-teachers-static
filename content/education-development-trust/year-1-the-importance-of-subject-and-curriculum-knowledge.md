@@ -19,8 +19,6 @@ Duration: 10 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-0-mentor-materials)
-
 ## Week 1 : subject and curriculum knowledge
 
 For this topic you’ll need to:
@@ -68,8 +66,6 @@ Duration: 45 minutes.
 ### Mentors
 
 There are no mentor activities this week.
-
-[View mentor materials](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-mentor-materials)
 
 ## Week 4: misconceptions and a deeper look at literacy
 
@@ -132,6 +128,4 @@ Duration: 10 minutes.
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-0-mentor-materials)
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

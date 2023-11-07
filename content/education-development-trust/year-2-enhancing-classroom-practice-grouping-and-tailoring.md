@@ -19,8 +19,6 @@ Duration: 5 minutes.
 
 There’s no catch-up with the ECT this week. You just need to watch the brief video introduction to the module.
 
-[View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-0-mentor-materials)
-
 ## Week 1
 
 There are no self-study materials this week.
@@ -29,8 +27,6 @@ There are no self-study materials this week.
 ### Mentors
 
 There are no mentor activities this week.
-
-[View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-1-mentor-materials)
 
 ## Week 2: pupil grouping and homework
 
@@ -74,8 +70,6 @@ For this topic you should:
 - read the ECT’s study materials below
 - catch up with your ECT
 - briefly watch them teach
-
-[View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-3-mentor-materials)
 
 ## Week 4: facilitating pupil collaboration
 
@@ -121,6 +115,4 @@ Duration: 5 minutes.
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-0-mentor-materials)
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

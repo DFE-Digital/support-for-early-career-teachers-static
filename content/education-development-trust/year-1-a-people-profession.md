@@ -25,8 +25,6 @@ During the first week of the module you should:
 - read the ECT’s study materials below
 - catch up with the ECT to discuss what they’ll be learning in the weeks ahead
 
-[View mentor materials](/education-development-trust/year-1-a-people-profession/summer-week-0-mentor-materials)
-
 ## Week 1: building effective relationships
 
 For this topic you’ll need to:
@@ -144,5 +142,3 @@ Duration: 10 minutes.
 ### Mentors
 
 Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-1-a-people-profession/summer-week-0-mentor-materials)

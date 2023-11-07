@@ -101,7 +101,7 @@ Often, you will already know which pupils will benefit from pre-teaching based o
 
 ### Using pre-teaching to develop prior knowledge
 
-pupils’ prior knowledge can be developed in a variety of ways, but this session will focus on pre-teaching. Pre-teaching is when pupils are taught key information prior to it being taught in a lesson. Pre-teaching provides pupils with essential foundational knowledge that they can draw upon during a lesson. This is likely to increase the pupils’ attention, focus and motivation.
+Pupils’ prior knowledge can be developed in a variety of ways, but this session will focus on pre-teaching. Pre-teaching is when pupils are taught key information prior to it being taught in a lesson. Pre-teaching provides pupils with essential foundational knowledge that they can draw upon during a lesson. This is likely to increase the pupils’ attention, focus and motivation.
 
 ## Identifying material to pre-teach
 

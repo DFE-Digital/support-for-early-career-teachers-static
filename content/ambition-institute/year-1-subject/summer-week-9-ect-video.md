@@ -18,9 +18,9 @@ and act in ways that will have the most impact on pupils’ learning, we need to
 carefully about what we assess and how we assess it. Designing and delivering formative
 assessment can help teachers make better decisions.
 
-### Presenter mainA great way of understanding what formative assessment is,
+### Presenter main
 
-is to consider the definition that Paul Black and Dylan William gave in their influential
+A great way of understanding what formative assessment is, is to consider the definition that Paul Black and Dylan William gave in their influential
 work ‘Inside the Black Box’. And assessment is formative if it leads a teacher to
 make a better decision about next steps. Effective formative assessment allows teachers
 to develop an understanding of how learning is going and to make decisions about

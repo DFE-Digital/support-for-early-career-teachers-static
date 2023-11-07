@@ -45,9 +45,9 @@ of questions to check for understanding. As you watch focus on the following:
 - Structures tasks and questions to identify knowledge gaps and misconceptions
 - Checks that pupils have a secure understanding by encouraging them to elaborate when responding to questions
 
-### Exemplificatin: Ambition Institute coachI want you to imagine I’m
+### Exemplification: Ambition Institute coach
 
-teaching a year 12 English lesson. We will be learning about John Keats’ ddes
+I want you to imagine I’m teaching a year 12 English lesson. We will be learning about John Keats’ ddes
 and today we returned to the poem To Autumn. we’ve defined odes as lyrical poems
 that celebrate people, places, things, or ideas. we’ve also considered that
 poets have purposes for their art and that case is presenting an argument in

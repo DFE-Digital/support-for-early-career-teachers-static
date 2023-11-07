@@ -162,9 +162,7 @@ After making small adjustments to her inquiry she was able to draw these insight
 
 Reflecting on her findings, Vashti drew the following interim conclusion for her own teaching:
 
-Classroom talk, combined with scaffolding resources, can be a powerful
-
-driver for improving written literacy among pupils with SpLCN in Year 4. (4a, 4p)
+Classroom talk, combined with scaffolding resources, can be a powerful driver for improving written literacy among pupils with SpLCN in Year 4. (4a, 4p)
 
 She realised that she should continue with this approach to supporting her pupils’ writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
 
@@ -269,9 +267,7 @@ After extending his approach to his other classes, he was able to draw these ins
 
 Based on this, Mo made the following tentative claim from his inquiry so far:
 
-Responsive questioning is a useful tool for improving the quality
-
-of talk and writing among Pupil Premium girls in Year 11 GCSE PE.
+Responsive questioning is a useful tool for improving the quality of talk and writing among Pupil Premium girls in Year 11 GCSE PE.
 
 And because he had developed his questioning practice to this extent, Mo decided to apply the same approaches to his other classroom-based lessons.
 

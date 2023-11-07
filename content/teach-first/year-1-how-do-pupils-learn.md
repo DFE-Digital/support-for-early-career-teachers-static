@@ -18,8 +18,6 @@ Duration: 10 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-0-mentor-materials)
-
 ## Week 1: the working and long-term memory
 
 During the first topic of the module you need to:

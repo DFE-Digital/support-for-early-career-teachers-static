@@ -19,8 +19,6 @@ Duration: 10 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-0-mentor-materials)
-
 ## Week 1: foundations of a positive climate for learning
 
 During the first week of the module you need to:
@@ -125,8 +123,6 @@ Duration: 90 minutes.
 
 There are no mentor activities this week.
 
-[View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-6-mentor-materials)
-
 ## Week 7: lesson observations
 
 Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up.
@@ -153,6 +149,4 @@ Duration: 10 minutes.
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-0-mentor-materials)
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

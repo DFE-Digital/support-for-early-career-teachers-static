@@ -26,8 +26,6 @@ There are no self-study materials this week. Instead, your school’s induction 
 
 There are no mentor activities for this week. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
 
-[View mentor materials](/ucl/year-2-inquiry-into-enabling-pupil-learning/autumn-week-2-mentor-materials)
-
 ## Week 3: using evidence to show how high expectations and managing behaviour efficiently will affect your pupils
 
 For this topic you’ll need to:
@@ -58,8 +56,6 @@ There are no self-study materials this week. Instead, your school’s induction 
 ### Mentors
 
 There are no mentor activities for this week. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
-
-[View mentor materials](/ucl/year-2-inquiry-into-enabling-pupil-learning/autumn-week-4-mentor-materials)
 
 ## Week 5: making judicious use of practical skills in relation to setting high expectations and managing behaviour effectively
 

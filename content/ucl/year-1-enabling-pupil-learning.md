@@ -6,7 +6,7 @@ caption: "Year 1"
 
 In this module you’ll focus on how you set up your classroom as a learning environment.
 
-you’ll be able to reflect on the different ways you can influence your environment, and learn practical strategies that keep pupils safe, motivated and focused on learning.
+You’ll be able to reflect on the different ways you can influence your environment, and learn practical strategies that keep pupils safe, motivated and focused on learning.
 
 ## Week 1: module audit
 

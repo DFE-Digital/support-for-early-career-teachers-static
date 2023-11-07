@@ -41,11 +41,9 @@ And when a routine is in place, teachers need to help it stay in place by clearl
 
 All of this may take time to get right, and you may need to revisit routines across the year, but it is time and energy that is well worth investing in. Great classroom routines help to create a space where all pupils can learn.
 
-### Presenter exemplification framingA key routine that teachers might want
+### Presenter exemplification framing
 
-to think about is how their pupils will enter their classroom. In a moment, we are
-going to look at an entry routine. As you watch, pay particular attention to the
-following:
+A key routine that teachers might want to think about is how their pupils will enter their classroom. In a moment, we are going to look at an entry routine. As you watch, pay particular attention to the following:
 
 - Explicitly teaching routine and behavioural expectations
 - Positive reinforcement
@@ -97,7 +95,7 @@ routines.
 - Use consistent language and non-verbal signals for common classroom directions
   Which of these ideas do you currently recognize from your school setting?
 
-### Presenter summaryA big part of our job is to build an environment where
+### Presenter summary
 
-pupils can learn and succeed. Getting your routines right provides a great foundation
+A big part of our job is to build an environment where pupils can learn and succeed. Getting your routines right provides a great foundation
 for learning. {/details}

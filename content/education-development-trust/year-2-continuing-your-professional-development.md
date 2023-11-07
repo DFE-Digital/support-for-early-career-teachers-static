@@ -27,8 +27,6 @@ Duration: 90 minutes.
 
 There are no materials for this topic. Instead, your school’s induction lead should arrange a training session on this topic with you and the ECT.
 
-[View mentor materials](/education-development-trust/year-2-continuing-your-professional-development/summer-week-2-mentor-materials)
-
 ## Week 3: effective professional development
 
 There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
@@ -38,8 +36,6 @@ Duration: 90 minutes.
 ### Mentors
 
 There are no materials for this topic. Instead, your school’s induction lead should arrange a training session on this topic with you and the ECT.
-
-[View mentor materials](/education-development-trust/year-2-continuing-your-professional-development/summer-week-3-mentor-materials)
 
 ## Week 4: reflecting and celebrating success
 

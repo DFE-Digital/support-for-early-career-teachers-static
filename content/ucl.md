@@ -8,7 +8,7 @@ title: "UCL"
 
 In this module you’ll focus on how you set up your classroom as a learning environment.
 
-you’ll be able to reflect on the different ways you can influence your environment, and learn practical strategies that keep pupils safe, motivated and focused on learning.
+You’ll be able to reflect on the different ways you can influence your environment, and learn practical strategies that keep pupils safe, motivated and focused on learning.
 
 ### [Engaging pupils in learning](/ucl/year-1-engaging-pupils-in-learning)
 
@@ -66,4 +66,4 @@ The module revisits the content of module 5 from the first year of the programme
 
 This is an opportunity for you and your mentor to reflect on the skills you’ve developed across the first two years of your teaching career.
 
-you’ll also be able to explore how your professional role may evolve.
+You’ll also be able to explore how your professional role may evolve.

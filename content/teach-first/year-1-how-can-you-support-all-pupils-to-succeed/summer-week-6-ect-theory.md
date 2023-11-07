@@ -597,9 +597,9 @@ examples of the adaptations to practice made were:
 - Asking his parents to ensure he wears his hearing aid at home and making them aware that this would be monitored.
 - Each half-term, the hearing impairment specialist scheduled home visits to check the frequency of the use of hearing aids at home
 
-#### ReviewI as class teacher attended half-termly meetings with the team
+#### Review
 
-around the child including the SENDCo, Hearing Impairment Specialist, Speech and
+I as class teacher attended half-termly meetings with the team around the child including the SENDCo, Hearing Impairment Specialist, Speech and
 Language Therapist and parents. Here we reviewed his targets and quickly
 identified that Pupil A was struggling to make progress. In particular, he found
 it challenging to retain information. As an outcome of the meeting, it was
