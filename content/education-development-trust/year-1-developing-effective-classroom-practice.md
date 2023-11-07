@@ -70,7 +70,6 @@ For this topic you should:
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 

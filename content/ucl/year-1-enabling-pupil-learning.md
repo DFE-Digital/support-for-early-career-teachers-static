@@ -12,7 +12,6 @@ you’ll be able to reflect on the different ways you can influence your environ
 
 During your first week of a module, you and your mentor will take a look at the topics being covered, establish your level of confidence and agree areas to focus on.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -69,7 +68,6 @@ Use the materials below to:
 
 You don’t have any self-study materials this week, but there will be a meeting with your mentor to discuss this topic.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -127,7 +125,6 @@ You don’t have any self-study materials this week, but there will be a meeting
 
 Your mentor should also see how you are putting what you’ve learnt into practice by watching you teach for 10 to 15 minutes.
 
-Duration: minutes.
 
 ### Mentors
 

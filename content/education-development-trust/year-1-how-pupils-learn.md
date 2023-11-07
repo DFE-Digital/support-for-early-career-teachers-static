@@ -47,7 +47,6 @@ For this topic you should:
 
 There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -59,7 +58,6 @@ There are no materials for this topic. Instead, your school’s induction lead s
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -93,7 +91,6 @@ For this topic you should:
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 

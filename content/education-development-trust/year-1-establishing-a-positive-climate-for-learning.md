@@ -72,7 +72,6 @@ For this topic you should:
 
 There are no self-study materials this week. Instead, your mentor will lead a discussion about this topic in your catch-up with them.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -106,7 +105,6 @@ For this topic you should:
 
 There are no self-study materials this week. Instead, your mentor will lead a discussion about this topic in your catch-up with them.
 
-Duration: minutes.
 
 ### Mentors
 

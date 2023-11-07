@@ -43,7 +43,6 @@ Arrange for your ECTs to observe an expert colleague and follow up with them to 
 
 There are no new ECT materials.
 
-Duration: minutes.
 
 ### Mentors
 

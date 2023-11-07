@@ -65,7 +65,6 @@ Use the materials below to:
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -121,7 +120,6 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 

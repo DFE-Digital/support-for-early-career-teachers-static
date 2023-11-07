@@ -10,7 +10,6 @@ In this module you’ll consider what it means to be professional, and approache
 
 During your first week of the module, you and your mentor will take a look at the topics being covered, establish your level of confidence and agree areas to focus on.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -22,7 +21,6 @@ During the first week of the module, you should take a look at the topics being 
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -50,7 +48,6 @@ The ECT does not have a self-study element this week. Instead, you should use th
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -62,7 +59,6 @@ The ECT does not have a self-study element this week. Instead, you should use th
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -96,7 +92,6 @@ Use the materials below to:
 
 There are no self-study materials this week. Instead, you will need to meet your mentor to review the first year of the programme and discuss plans for your second year.
 
-Duration: minutes.
 
 ### Mentors
 

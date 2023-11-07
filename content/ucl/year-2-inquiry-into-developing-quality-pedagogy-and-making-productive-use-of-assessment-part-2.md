@@ -10,7 +10,6 @@ In this module you’ll look at how to gather evidence about the impact your tea
 
 This week you should your mentor should observe you teaching for about 20 minutes and then follow this up with a half-hour feedback session.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -38,7 +37,6 @@ There are no mentor activities this week.
 
 There are no self-study materials this week. Instead, you will meet your mentor to share your interim inquiry findings and set future development goals.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -50,7 +48,6 @@ The ECT does not have any self-study materials this week. Instead, you should ca
 
 There are no activities this week.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -62,7 +59,6 @@ There are no activities this week.
 
 You should meet your mentor to update them about your inquiry.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -74,7 +70,6 @@ Use the materials below to help explore any potential counter-evidence regarding
 
 There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
-Duration: minutes.
 
 ### Mentors
 

@@ -10,7 +10,6 @@ In this module you’ll look at how to gather evidence about the impact your tea
 
 During your first week of this practitioner inquiry module you and your mentor will take a look at the topics being covered, establish your level of confidence and agree on an inquiry area to focus on.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -40,7 +39,6 @@ There are no mentor activities this week.
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss your practitioner inquiry.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -52,7 +50,6 @@ The ECT does not have any self-study materials this week. Instead, you should me
 
 There are no activities this week.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -64,7 +61,6 @@ There are no activities this week.
 
 There are no self-study materials this week. Instead, you will meet your mentor to update them about your inquiry.
 
-Duration: minutes.
 
 ### Mentors
 

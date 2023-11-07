@@ -41,7 +41,6 @@ There are no mentor activities for this topic.
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -65,7 +64,6 @@ There are no materials for this topic. Instead, your school’s induction lead s
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 

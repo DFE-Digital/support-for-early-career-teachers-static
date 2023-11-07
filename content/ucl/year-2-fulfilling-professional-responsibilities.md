@@ -14,7 +14,6 @@ you’ll also be able to explore how your professional role may evolve.
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss one of your development areas.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -26,7 +25,6 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss one of your development areas.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -38,7 +36,6 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss one of your development areas.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -50,7 +47,6 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 There are no self-study materials this week. Instead, catch up with your mentor to plan for your year 3 professional development.
 
-Duration: minutes.
 
 ### Mentors
 

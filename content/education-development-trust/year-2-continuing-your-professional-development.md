@@ -10,7 +10,6 @@ In the final module you will learn how professional development can help you imp
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -46,7 +45,6 @@ There are no materials for this topic. Instead, your school’s induction lead s
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -58,7 +56,6 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 

@@ -10,7 +10,6 @@ In this module you’ll look at the impact of pupils’ prior knowledge on their
 
 During your first week of the module, you and your mentor will take a look at the topics being covered, establish your level of confidence and agree areas to focus on.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -110,7 +109,6 @@ Use the materials below to:
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -122,7 +120,6 @@ The ECT does not have a self-study element this week. Instead, you should use th
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
-Duration: minutes.
 
 ### Mentors
 

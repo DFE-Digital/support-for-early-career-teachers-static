@@ -10,7 +10,6 @@ In this module you’ll focus on one particular part of your teaching to evaluat
 
 During your first week of this practitioner inquiry module, you and your mentor will take a look at the topics being covered, establish your level of confidence and agree areas to focus on.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -22,7 +21,6 @@ During the first week of this practitioner inquiry module, you should take a loo
 
 There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -56,7 +54,6 @@ Use the materials below to:
 
 There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -68,7 +65,6 @@ There are no mentor activities for this week. Instead, your school’s induction
 
 There are no self-study materials or mentor meeting this week. Instead, you should work on forming an evaluative inquiry question.
 
-Duration: minutes.
 
 ### Mentors
 

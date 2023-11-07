@@ -10,7 +10,6 @@ In this module you’ll focus on how to improve your teaching without adding to 
 
 During your first week of this practitioner inquiry module you and your mentor will take a look at the topics being covered, establish your level of confidence and agree on an inquiry area to focus on.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -22,7 +21,6 @@ During the first week of this practitioner inquiry module, you should take a loo
 
 There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -50,7 +48,6 @@ There are no mentor activities this week.
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss your practitioner inquiry.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -62,7 +59,6 @@ The ECT does not have any self-study materials this week. Instead, you should me
 
 There are no self-study materials this week. Instead, you will meet your mentor to update them about your inquiry.
 
-Duration: minutes.
 
 ### Mentors
 
@@ -74,7 +70,6 @@ The ECT does not have any self-study materials this week. Instead, they should u
 
 There are no self-study materials this week. Instead, you will meet your mentor to present your findings from this moudle’s practitioner inquiry.
 
-Duration: minutes.
 
 ### Mentors
 
