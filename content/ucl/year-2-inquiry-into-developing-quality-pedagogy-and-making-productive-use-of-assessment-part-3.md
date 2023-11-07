@@ -32,8 +32,6 @@ Duration: 45 minutes.
 
 There are no mentor activities this week.
 
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-2-mentor-materials)
-
 ## Week 3: the impact your enquiry has had on you - planning to present
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss the impact your inquiry has had on you.
@@ -55,8 +53,6 @@ Duration: minutes.
 ### Mentors
 
 There are no activities this week.
-
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-4-mentor-materials)
 
 ## Week 5: final presentation of module inquiry, and module review
 

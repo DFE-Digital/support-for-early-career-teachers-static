@@ -19,8 +19,6 @@ Duration: 5 minutes.
 
 Watch the video introduction to this module.
 
-[View mentor materials](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-0-mentor-materials)
-
 ## Week 1: welcome back
 
 During the first week of the module you should catch up with your mentor to discuss what you’ll be learning in the weeks ahead.
@@ -89,8 +87,6 @@ Duration: minutes.
 
 The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
-[View mentor materials](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-4-mentor-materials)
-
 ## Week 5: challenging content
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
@@ -125,6 +121,4 @@ Duration: 5 minutes.
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-0-mentor-materials)
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

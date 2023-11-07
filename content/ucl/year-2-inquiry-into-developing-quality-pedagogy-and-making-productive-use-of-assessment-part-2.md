@@ -32,8 +32,6 @@ Duration: 45 minutes.
 
 There are no mentor activities this week.
 
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-2/spring-week-2-mentor-materials)
-
 ## Week 3: module interim audit
 
 There are no self-study materials this week. Instead, you will meet your mentor to share your interim inquiry findings and set future development goals.
@@ -56,8 +54,6 @@ Duration: minutes.
 
 There are no activities this week.
 
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-2/spring-week-4-mentor-materials)
-
 ## Week 5: inquiry progress - checking for negative consequences
 
 You should meet your mentor to update them about your inquiry.
@@ -79,5 +75,3 @@ Duration: minutes.
 ### Mentors
 
 There are no mentor activities for this week. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
-
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-2/spring-week-6-mentor-materials)

@@ -18,8 +18,6 @@ Duration: 10 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-0-mentor-materials)
-
 ## Week 1: supporting all pupils to access the curriculum by developing high-quality oral language
 
 During the first topic of the module you need to:

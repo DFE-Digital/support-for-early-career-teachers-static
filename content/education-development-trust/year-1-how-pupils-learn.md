@@ -19,8 +19,6 @@ Duration: 10 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-0-mentor-materials)
-
 ## Week 1: understanding how pupils learn
 
 For this topic you’ll need to:
@@ -52,8 +50,6 @@ Duration: minutes.
 ### Mentors
 
 There are no materials for this topic. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
-
-[View mentor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-2-mentor-materials)
 
 ## Week 3: introducing new content
 
@@ -148,6 +144,4 @@ Duration: 10 minutes.
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-0-mentor-materials)
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

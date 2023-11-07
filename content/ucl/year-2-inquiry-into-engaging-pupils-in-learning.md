@@ -28,8 +28,6 @@ Duration: minutes.
 
 There are no mentor activities for this week. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
 
-[View mentor materials](/ucl/year-2-inquiry-into-engaging-pupils-in-learning/autumn-week-2-mentor-materials)
-
 ## Week 3: in your focus area, what impact are you having on your pupils?
 
 For this topic you’ll need to work through the self-study materials below.
@@ -43,8 +41,6 @@ Duration: 45 minutes.
 ### Mentors
 
 There are no mentor activities this week.
-
-[View mentor materials](/ucl/year-2-inquiry-into-engaging-pupils-in-learning/autumn-week-3-mentor-materials)
 
 ## Week 4: what might be a useful alteration to the ECT’s teaching?
 

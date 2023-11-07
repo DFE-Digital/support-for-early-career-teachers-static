@@ -19,8 +19,6 @@ Duration: 5 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-0-mentor-materials)
-
 ## Week 1: curriculum design and subject knowledge
 
 For this topic you’ll need to work through the self-study materials below.
@@ -34,8 +32,6 @@ Duration: 30 minutes.
 ### Mentors
 
 There are no mentor activities for this topic.
-
-[View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-1-mentor-materials)
 
 ## Week 2: complex mental models
 
@@ -58,8 +54,6 @@ Duration: 60 minutes.
 ### Mentors
 
 There are no materials for this topic. Instead, your school’s induction lead should arrange a training session on this topic with you and the ECT.
-
-[View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-mentor-materials)
 
 ## Week 4: strengthening pupils’ subject knowledge
 
@@ -113,6 +107,4 @@ Duration: 5 minutes.
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-0-mentor-materials)
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

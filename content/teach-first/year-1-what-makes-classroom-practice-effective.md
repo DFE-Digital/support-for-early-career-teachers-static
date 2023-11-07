@@ -18,8 +18,6 @@ Duration: 10 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-0-mentor-materials)
-
 ## Week 1: review of previous learning
 
 During the first topic of the module you need to:

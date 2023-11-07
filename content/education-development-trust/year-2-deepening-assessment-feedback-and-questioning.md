@@ -19,8 +19,6 @@ Duration: 5 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-0-mentor-materials)
-
 ## Week 1: feedback
 
 For this topic you’ll need to:
@@ -65,8 +63,6 @@ For this topic you should:
 - catch up with your ECT
 - briefly watch them teach
 
-[View mentor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-2-mentor-materials)
-
 ## Week 3: marking - learning from colleagues
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
@@ -98,8 +94,6 @@ For this topic you should:
 - read the ECT’s study materials below
 - catch up with your ECT
 - briefly watch them teach
-
-[View mentor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-4-mentor-materials)
 
 ## Week 5: marking - efficiencies
 
@@ -135,6 +129,4 @@ Duration: 5 minutes.
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-0-mentor-materials)
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

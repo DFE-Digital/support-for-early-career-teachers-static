@@ -34,8 +34,6 @@ Duration: 45 minutes.
 
 There are no mentor activities this week.
 
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-1/spring-week-2-mentor-materials)
-
 ## Week 3: what might be a useful alteration to your teaching?
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss your practitioner inquiry.
@@ -57,8 +55,6 @@ Duration: minutes.
 ### Mentors
 
 There are no activities this week.
-
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-1/spring-week-4-mentor-materials)
 
 ## Week 5: structured reflection upon your inquiry and the alterations to your teaching
 

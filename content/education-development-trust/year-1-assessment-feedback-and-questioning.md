@@ -19,8 +19,6 @@ Duration: 10 minutes.
 
 Go through the module introduction to see what the ECT will be learning.
 
-[View mentor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-0-mentor-materials)
-
 ## Week 1: what is good assessment and feedback?
 
 For this topic you’ll need to:
@@ -100,8 +98,6 @@ Duration: minutes.
 
 There are no materials for this topic. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
 
-[View mentor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-5-mentor-materials)
-
 ## Week 6: putting it into practice
 
 For this topic you’ll need to:
@@ -120,8 +116,6 @@ For this topic you should:
 
 - read the ECT’s study materials below
 - catch up with your ECT
-
-[View mentor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-6-mentor-materials)
 
 ## Week 7: lesson observations
 
@@ -150,5 +144,3 @@ Duration: 10 minutes.
 ### Mentors
 
 Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
-
-[View mentor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-0-mentor-materials)
