@@ -55,9 +55,9 @@ the rest of the pupils continue to read sounds that you point to on the board.
 
 These are great ways to refocus off-task pupils without stopping teaching. However, such interventions can become invasive if not performed correctly.
 
-### Non-exampleA pupil is fiddling with their pen or whiteboard during a phonics
+### Non-example
 
-lesson, so you use a downward hand gesture to signal to the child to put their pen
+A pupil is fiddling with their pen or whiteboard during a phonics lesson, so you use a downward hand gesture to signal to the child to put their pen
 down and _wait_, looking at them intently with a frown on your face until
 they do.
 

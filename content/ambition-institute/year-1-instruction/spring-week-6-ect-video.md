@@ -62,9 +62,9 @@ to how they do the following:
 - Structures tasks and instructions to enable the identification of knowledge gaps and misconceptions
 - Adapts the lesson to address gaps in knowledge and misconception whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations
 
-### Exemplification: Ambition Institute coachI want you to imagine that I’m
+### Exemplification: Ambition Institute coach
 
-teaching a year seven maths lesson on fractions.  Pupils have been asked to add
+I want you to imagine that I’m teaching a year seven maths lesson on fractions.  Pupils have been asked to add
 the fractions from the board and to select the correct solution from the choices
 available. So this is the problem.
 

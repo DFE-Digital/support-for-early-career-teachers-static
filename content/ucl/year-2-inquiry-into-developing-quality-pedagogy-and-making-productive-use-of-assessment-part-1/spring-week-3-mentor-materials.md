@@ -144,13 +144,9 @@ Case Study B: Modelling and Scaffolding
 
 Vashti (a Year 4 teacher) wants to develop an aspect of her practice in relation to literacy. She has found that around one-third of her pupils are still making basic errors with writing week in, week out. In particular, they are inconsistent in their use of capital letters, full stops and finger spacing. They don’t seem to respond to her written feedback, and she often has to spend time in lessons going over the same ground. She decides she must develop this aspect of her practice, so, with her mentor, she agrees to undertake a practitioner inquiry. To begin her inquiry, she writes two exploratory questions:
 
-How do effective teachers of literacy at Key Stage 2
+How do effective teachers of literacy at Key Stage 2 provide scaffolding and support for struggling writers?
 
-provide scaffolding and support for struggling writers?
-
-What are the characteristics of pupils who
-
-struggle with written literacy in Year 4?
+What are the characteristics of pupils who struggle with written literacy in Year 4?
 
 To answer these questions, Vashti first looked at the evidence she already had to hand:
 
@@ -187,9 +183,7 @@ Case Study C: Making Marking Manageable
 
 Louise (secondary history) is concerned about her marking workload. Department policy states that books should be marked at least once every two weeks. Louise teaches 9 classes this year, and it takes her 2 hours to mark a set of books. This means that she typically spends 8 to 10 hours a week marking books. Louise is concerned about the fact that she isn’t able to spend as much time planning lessons as she would like. She is also concerned that some of her pupils don’t seem to find her written feedback useful, as they often make similar mistakes to those she has corrected the previous week. Following a meeting where she asked her Head of Department whether she could try some different approaches to marking, Louise agreed with him that she should develop this area of her practice. She decided to undertake a practitioner inquiry to explore some other approaches to providing her pupils with feedback. To get started, she wrote the following, exploratory question:
 
-What alternative approaches to providing children
-
-with feedback are there, as an alternative to written marking?
+What alternative approaches to providing children with feedback are there, as an alternative to written marking?
 
 To answer this question, Louise first looked at the evidence she could access easily:
 
@@ -244,11 +238,9 @@ Mo’s school has video cameras installed in classrooms for professional develop
 - on one occasion, Mo gave the pupils the opportunity to look up and discuss a question before asking them publicly. When he did this, the pupil was able to provide a much more in-depth answer-however, Mo did not ask the pupil to elaborate further on the answer they provided
 - during the observation, the Assistant Head for Teaching and Learning noticed that:
 
-o boys spoke more than girls in the lesson
-
-o 5 pupils did not speak at all, other than to their table partner
-
-o of these, 4 were Pupil Premium girls
+* boys spoke more than girls in the lesson
+* 5 pupils did not speak at all, other than to their table partner
+* of these, 4 were Pupil Premium girls
 
 To answer the second question, Mo spoke informally over lunch to some experienced colleagues in other subjects. He looked back in his Learning Log from Module 3, and re-read the Research and Practice Summaries from weeks 3 and 4, paying particular attention to the example of Christine, teaching metacognitive strategies to her class. Through this, he identified three key ideas he wanted to explore further – direction, elaboration and metacognition. In order to develop a more dynamic, responsive approach to questioning, Mo wrote a plan based around these three key ideas. In particular, he planned the following:
 

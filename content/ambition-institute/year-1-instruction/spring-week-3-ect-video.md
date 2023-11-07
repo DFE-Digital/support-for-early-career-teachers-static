@@ -9,9 +9,9 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-3-ect-teaching-ch
 {details}
 Video transcript.
 
-### Presenter intro: Helena MooreA key goal for all teachers is to help their
+### Presenter intro: Helena Moore
 
-pupils to learn and remember what they learn. The good news is that we know a lot
+A key goal for all teachers is to help their pupils to learn and remember what they learn. The good news is that we know a lot
 about how learning works and the role that memory plays. Memory is an important factor
 in learning. It affects our ability to pay attention to something, to remember it,
 and to use it. Teachers need to know about the role that memory plays in learning
@@ -109,7 +109,7 @@ do you currently take into account the most?
 
 ### Presenter summary
 
-it’s quite likely that you’re already doing some of these things in your
+It’s quite likely that you’re already doing some of these things in your
 teaching practice, but everyone can get better. The more you understand about
 how pupils learn, the more effective your teaching will be.
 

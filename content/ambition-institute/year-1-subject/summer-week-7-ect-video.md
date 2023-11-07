@@ -43,9 +43,9 @@ watch, pay particular attention to the following:
 - Provides a concrete model of the word that she is teaching
 - Uses high-quality talk to support pupils to extend their vocabulary
 
-### Exemplification: Ambition Institute coachI want you to imagine that I’m
+### Exemplification: Ambition Institute coach
 
-teaching a year four class during a unit of work on the Romans. I’m going to
+I want you to imagine that I’m teaching a year four class during a unit of work on the Romans. I’m going to
 model how to explicitly teach a new word to them. It’s early on in the unit and
 we’re learning about when and why the Romans first invaded Britain. In this
 example, I want to explicitly teach the word and meaning of the word invade. I

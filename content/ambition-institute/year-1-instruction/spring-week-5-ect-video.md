@@ -9,9 +9,9 @@ next_path: "/ambition-institute/year-1-instruction/spring-week-5-ect-teaching-ch
 {details}
 Video transcript.
 
-### Presenter intro: Helena MooreA lot of what we teach our pupils will be new
+### Presenter intro: Helena Moore
 
-or abstract, and it can be difficult to learn. To help with this, teachers can explicitly
+A lot of what we teach our pupils will be new or abstract, and it can be difficult to learn. To help with this, teachers can explicitly
 teach the knowledge and skills that pupils need to succeed. Exposition is the part
 of a lesson where the teacher can explicitly teach their pupils. This includes explaining,
 modelling and demonstrating. Exposition provides an opportunity for teachers to set

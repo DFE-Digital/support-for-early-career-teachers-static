@@ -136,36 +136,20 @@ to thrive? 
 
 
 Firstly, we will think about YOU. What you are dealing with in your own life
-and how you manage the feelings associated with the ups and downs - your
+and how you manage the feelings associated with the ups and downs - your self-awareness. 
 
-<b>self-awareness</b>
-. 
-
-Secondly, we will consider how 
-<b>feelings drive behaviours</b>
-
-
-and how our ability to respond empathically to those around us will support
+Secondly, we will consider how feelings drive behaviours and how our ability to respond empathically to those around us will support
 you, as teacher, to build responsive relationships with pupils.
 
-
-Thirdly, we will explore how 
-<b>high expectations</b>
-
-
-can be maintained through a finely tuned balance of
-
-<b>empathy with clear boundaries.</b>
+Thirdly, we will explore how high expectations can be maintained through a finely tuned balance of empathy with clear boundaries.
 
 
   So let’s return to that grizzly Wednesday morning. It’s so important to check
   in with your own emotional state on a regular basis: where would you be, and
   place yourself, in terms of your emotions at that point in the day?
 
- We come to our first point – that 
-<b>your self-awareness is key</b>
-
-  . Recognising your own emotions – whether it’s anger, excitement, frustration
+We come to our first point – that
+<b>your self-awareness is key</b>. Recognising your own emotions – whether it’s anger, excitement, frustration
   or something else – and accepting that you can both be aware of the emotion
   whilst also being able to ‘park it’, to return to it later, is a key part of
   being the strong role model that young people need in their lives. As
@@ -228,7 +212,7 @@ can be maintained through a finely tuned balance of
   The final way to create a culture of respect and mutual trust is to maintain
   high expectations of pupils through a finely tuned balance of empathy with
   fair, clear boundaries.
- 
+
   Empathy, unlike sympathy, is the ability to think about how another person
   might be feeling and to see a situation from their point of view. So we can
   tentatively suggest what might be going on for a child when they are throwing,
