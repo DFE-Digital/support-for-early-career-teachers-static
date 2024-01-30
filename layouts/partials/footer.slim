@@ -33,6 +33,6 @@ footer.govuk-footer role='contentinfo'
       .govuk-footer__meta-item
         a.govuk-footer__link.govuk-footer__copyright-logo[href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/"]
           | © Crown copyright
-/ script src="/javascript/govuk-frontend.js"
-/ script
-/   | window.GOVUKFrontend.initAll() ;
+script type="module"
+  | import { initAll } from '/javascript/govuk-frontend.js';
+  | initAll();
