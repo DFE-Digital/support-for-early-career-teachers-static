@@ -14,7 +14,7 @@ By the end of this session your ECT will have:
 
 - articulated what impacts pupils' motivation
 - identified strategies for helping all pupils to journey from extrinsic to intrinsic motivation in a specific subject
-- identified a pupil they teach who is less motivated than their peers ina specific subject
+- identified a pupil they teach who is less motivated than their peers in a specific subject
 - identified 2 or 3 strategies they'll implement to help increase that pupils's motivation
 
 ### Reference materials
