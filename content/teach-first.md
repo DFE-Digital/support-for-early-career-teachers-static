@@ -16,11 +16,11 @@ In this module you’ll explore the findings and evidence gathered during studie
 
 ### [What makes classroom practice effective?](/teach-first/year-1-what-makes-classroom-practice-effective)
 
-In this module you’ll hear an education expert talking about the features of effective classroom practice and why they are so important. you’ll then explore the features in detail and have time to plan them into your sequences of lessons.
+In this module you’ll hear an education expert talking about the features of effective classroom practice and why they are so important. You’ll then explore the features in detail and have time to plan them into your sequences of lessons.
 
 ### [How can you use assessment and feedback to greatest effect?](/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect)
 
-In this module you’ll hear from education experts about why assessment should be at the heart of your teaching. you’ll also explore ways to give purposeful feedback to your pupils and what you can learn from summative data sets.
+In this module you’ll hear from education experts about why assessment should be at the heart of your teaching. You’ll also explore ways to give purposeful feedback to your pupils and what you can learn from summative data sets.
 
 ## Year 1: Summer term
 
