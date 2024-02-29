@@ -1,9 +1,9 @@
 script async=true src="https://www.googletagmanager.com/gtag/js?id=TAG_ID"
+script async=true src="/assets/javascript/analytics.js"
 
 script
   |
-    // do check to see if cookies were accepted
-    if (false) {
+    if (localStorage.getItem("cookies_accepted") == "yes") {
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
