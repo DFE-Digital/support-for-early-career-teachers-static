@@ -31,3 +31,13 @@ In this module you’ll cover:
 - the curriculum
 - your mental model of the subject or phase you teach and its implications for your planning
 - how to know what pupils have understood, the barriers you face in doing so and how to respond to their needs
+
+## Year 2
+
+Use the Year 1 materials again.
+
+You should:
+
+- complete any unfinished modules
+- explore any further reading you missed
+- revisit the modules you find most useful for your own learning and development
