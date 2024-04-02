@@ -25,11 +25,15 @@ const cookiesEnabled = localStorage.getItem(cookieKey) == "yes";
 if (cookiesEnabled) {
   const cookieControlDisableControl = document.getElementById("cookie-control-enabled");
 
-  cookieControlDisableControl.classList.remove("hidden");
+  if (cookieControlDisableControl) {
+    cookieControlDisableControl.classList.remove("hidden");
+  }
 } else {
   const cookieControlEnableControl = document.getElementById("cookie-control-disabled");
 
-  cookieControlEnableControl.classList.remove("hidden");
+  if (cookieControlEnableControl) {
+    cookieControlEnableControl.classList.remove("hidden");
+  }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -37,29 +41,33 @@ document.addEventListener("DOMContentLoaded", () => {
   // otherwise show it and add handlers for the accept/reject clicks
   if (!localStorage.getItem("cookies_accepted")) {
     showCookieBanner();
+
+    acceptButton.addEventListener("click", () => {
+      acceptCookies();
+
+      hideCookieBanner();
+    });
+
+    rejectButton.addEventListener("click", () => {
+      rejectCookies();
+
+      hideCookieBanner();
+    });
   }
 
-  acceptButton.addEventListener("click", () => {
-    acceptCookies();
+  if (enableButton) {
+    enableButton.addEventListener("click", () => {
+      acceptCookies();
 
-    hideCookieBanner();
-  });
+      reloadPage();
+    });
+  }
 
-  rejectButton.addEventListener("click", () => {
-    rejectCookies();
+  if (disableButton) {
+    disableButton.addEventListener("click", () => {
+      rejectCookies();
 
-    hideCookieBanner();
-  });
-
-  enableButton.addEventListener("click", () => {
-    acceptCookies();
-
-    reloadPage();
-  });
-
-  disableButton.addEventListener("click", () => {
-    rejectCookies();
-
-    reloadPage();
-  });
+      reloadPage();
+    });
+  }
 });
