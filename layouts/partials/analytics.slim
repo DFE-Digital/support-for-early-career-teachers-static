@@ -1,0 +1,12 @@
+script async=true src="https://www.googletagmanager.com/gtag/js?id=G-9GWKWB6Q6G"
+script async=true src="/assets/javascript/analytics.js"
+
+script
+  |
+    if (localStorage.getItem("cookies_accepted") == "yes") {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-9GWKWB6Q6G');
+    }

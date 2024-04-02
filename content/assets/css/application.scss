@@ -294,3 +294,7 @@ main {
     }
   }
 }
+
+.hidden-unless-js-enabled {
+  display: none;
+}
