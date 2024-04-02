@@ -42,3 +42,23 @@ Google Analytics stores anonymised information about:
     </tr>
   </tbody>
 </table>
+
+<div id="cookie-control-disabled" class="hidden">
+  <h2 class="govuk-heading-m">Cookie settings</h2>
+
+  <p>Analytics cookies are <strong>disabled</strong>.</p>
+
+  <button id="enable-cookies" class="govuk-button" data-module="govuk-button">
+    Enable analytics cookies
+  </button>
+</div>
+
+<div id="cookie-control-enabled" class="hidden">
+  <h2 class="govuk-heading-m">Cookie settings</h2>
+
+  <p>Analytics cookies are <strong>enabled</strong>.</p>
+
+  <button id="disable-cookies" class="govuk-button" data-module="govuk-button">
+    Disable analytics cookies
+  </button>
+</div>
