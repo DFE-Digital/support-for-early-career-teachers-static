@@ -20,3 +20,5 @@ checking:
     - internal_links
     - mixed_content
     - stale
+
+base_url: 'https://support-for-early-career-teachers.education.gov.uk'

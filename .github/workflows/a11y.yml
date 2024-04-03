@@ -1,0 +1,37 @@
+name: Accessibility checks
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+jobs:
+  run-axe-tests:
+    concurrency: axe-${{ github.ref }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build site
+        uses: ./.github/actions/build-site
+
+      - name: Build static server
+        run: docker build -t support-ects:a11y .
+
+      - name: Run static server
+        run: docker run -p 3000:3000 -d support-ects:a11y
+
+      - name: Run accessibility tests
+        run: npm run a11y
+
+      - name: Upload output report
+        if: success() || failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: 'a11y-report'
+          path: './pa11y-ci-report'
+          overwrite: true

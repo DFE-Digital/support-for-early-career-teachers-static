@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "a11y": "pa11y-ci --sitemap http://localhost:3000/sitemap.xml --config .pa11y --sitemap-find https://support-for-early-career-teachers.education.gov.uk --sitemap-replace http://localhost:3000"
   },
   "keywords": [
     "govspeak",
@@ -18,5 +19,9 @@
   "license": "MIT",
   "dependencies": {
     "govuk-frontend": "5.3.0"
+  },
+  "devDependencies": {
+    "pa11y-ci": "^3.1.0",
+    "pa11y-ci-reporter-html": "^6.0.2"
   }
 }

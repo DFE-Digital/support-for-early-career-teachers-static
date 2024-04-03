@@ -12,6 +12,11 @@ compile '/404.md' do
   write '/404.html'
 end
 
+compile '/sitemap.slim' do
+ filter :slim
+ write '/sitemap.xml'
+end
+
 compile '/**/*.slim' do
   filter :slim
   layout '/default.*'
