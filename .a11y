@@ -1,0 +1,12 @@
+{
+  "defaults": {
+    "reporters": [
+      "cli",
+      "html"
+    ],
+    "ignore": [
+      "color-contrast",
+      "frame-tested"
+    ]
+  }
+}

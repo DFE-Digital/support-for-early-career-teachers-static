@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "a11y": "pa11y-ci --sitemap http://localhost:3000/sitemap.xml --config .pa11y --sitemap-find https://support-for-early-career-teachers.education.gov.uk --sitemap-replace http://localhost:3000"
+    "a11y": "./bin/a11y-test.js --sitemap ./output/sitemap.xml --config .a11y --sitemap-find https://support-for-early-career-teachers.education.gov.uk --sitemap-replace http://localhost:3000"
   },
   "keywords": [
     "govspeak",
@@ -21,7 +21,13 @@
     "govuk-frontend": "5.3.0"
   },
   "devDependencies": {
-    "pa11y-ci": "^3.1.0",
-    "pa11y-ci-reporter-html": "^6.0.2"
+    "@axe-core/cli": "^4.9.0",
+    "axe-html-reporter": "^2.2.3",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^12.0.0",
+    "fast-glob": "^3.3.2",
+    "fast-xml-parser": "^4.3.6",
+    "globby": "^14.0.1",
+    "protocolify": "^4.0.0"
   }
 }

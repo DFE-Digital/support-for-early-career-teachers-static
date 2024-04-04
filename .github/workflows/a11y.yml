@@ -33,5 +33,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: 'a11y-report'
-          path: './pa11y-ci-report'
+          path: './a11y-ci-report'
           overwrite: true
