@@ -186,19 +186,13 @@ class AxeTester {
             ignoreRules = '--disable ' + this.ignore.map(rule => rule.toLowerCase()).join(',');
         }
 
-        let chromeDriver = '';
-        // this is the location currently in github actions ubuntu-20
-        if (fs.existsSync('/usr/bin/google-chrome')) {
-            // chromeDriver = '--chromedriver-path /usr/bin/google-chrome';
-        }
-
         const childProcessOptions = {
             stdio: 'inherit',
             stderr: 'inherit',
         };
 
         const tempFile = './tmp/axe-results.json';
-        execSync(`npx axe ${url} --save ${tempFile} ${ignoreRules} ${chromeDriver}`, childProcessOptions);
+        execSync(`npx axe ${url} --save ${tempFile} ${ignoreRules}`, childProcessOptions);
 
         const resultsData = fs.readFileSync(tempFile, 'utf8');
         fs.unlinkSync(tempFile);
