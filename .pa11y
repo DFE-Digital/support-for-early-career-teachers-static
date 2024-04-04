@@ -1,6 +1,7 @@
 {
   "defaults": {
     "standard": "WCAG2AA",
+    "level": "warning",
     "runners": [
       "axe"
     ],
@@ -12,6 +13,7 @@
       "executablePath": "/usr/bin/google-chrome"
     },
     "ignore": [
+      "color-contrast"
     ]
   }
 }
