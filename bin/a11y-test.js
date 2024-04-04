@@ -189,7 +189,7 @@ class AxeTester {
         let chromeDriver = '';
         // this is the location currently in github actions ubuntu-20
         if (fs.existsSync('/usr/bin/google-chrome')) {
-            chromeDriver = '--chromedriver-path /usr/bin/google-chrome';
+            // chromeDriver = '--chromedriver-path /usr/bin/google-chrome';
         }
 
         const childProcessOptions = {
