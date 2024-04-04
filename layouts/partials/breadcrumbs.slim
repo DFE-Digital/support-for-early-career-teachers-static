@@ -2,7 +2,7 @@
 - breadcrumbs_trail_without_current = breadcrumbs_trail[0...-1]
 - if breadcrumbs_trail_without_current.size > 0
   nav.govuk-breadcrumbs[aria-label="Breadcrumb"]
-    ul.govuk-breadcrumbs__list
+    ol.govuk-breadcrumbs__list
       - breadcrumbs_trail_without_current.each do |ancestor|
         li.govuk-breadcrumbs__list-item
           - if ancestor
