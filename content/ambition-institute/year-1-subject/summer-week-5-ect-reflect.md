@@ -4,7 +4,7 @@ previous_title: "Teaching challenge"
 previous_path: "/ambition-institute/year-1-subject/summer-week-5-ect-teaching-challenge"
 ---
 
-### Reminder of key takeaways
+## Reminder of key takeaways
 
 Ms Smith can help pupils to acquire and apply ideas by:
 
@@ -12,7 +12,7 @@ Ms Smith can help pupils to acquire and apply ideas by:
 - modelling new processes and ideas, linking concrete and abstract models
 - checking pupil understanding before encouraging independent practice
 
-### Reflect on the following questions
+## Reflect on the following questions
 
 1. What did you see in this module that you already do or have seen in other classrooms?
 2. What do you feel is the gap between your current practice and what you have seen in this module?

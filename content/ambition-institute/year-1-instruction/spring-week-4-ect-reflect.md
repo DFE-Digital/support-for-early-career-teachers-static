@@ -4,7 +4,7 @@ previous_title: "Teaching challenge"
 previous_path: "/ambition-institute/year-1-instruction/spring-week-4-ect-teaching-challenge"
 ---
 
-### Reminder of key takeaways
+## Reminder of key takeaways
 
 Ms McShane can begin to improve her instruction by understanding that:
 
@@ -13,7 +13,7 @@ Ms McShane can begin to improve her instruction by understanding that:
 - Ms McShane can build on this by reviewing pupil prior knowledge and introducing new material in steps while asking lots of questions
 - by carefully activating pupil prior knowledge and challenging pupils’ incorrect beliefs, she can support pupils to develop accurate mental models
 
-### Reflect on the following questions
+## Reflect on the following questions
 
 1. What did you see in this module that you already do or have seen in other classrooms?
 2. What do you feel is the gap between your current practice and what you have seen in this module?

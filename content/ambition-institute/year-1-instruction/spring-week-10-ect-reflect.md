@@ -4,7 +4,7 @@ previous_title: "Teaching challenge"
 previous_path: "/ambition-institute/year-1-instruction/spring-week-10-ect-teaching-challenge"
 ---
 
-### Reminder of key takeaways
+## Reminder of key takeaways
 
 To use questioning to support pupil thinking, Mr Ashwin needs to understand that:
 
@@ -12,7 +12,7 @@ To use questioning to support pupil thinking, Mr Ashwin needs to understand that
 - pupils need enough knowledge, guidance and thinking time to produce quality answers
 - questioning underpins quality pupil classroom talk, especially in the ‘We do’ part of instruction
 
-### Reflect on the following questions
+## Reflect on the following questions
 
 1. What did you see in this module that you already do or have seen in other classrooms?
 2. What do you feel is the gap between your current practice and what you have seen in this module?

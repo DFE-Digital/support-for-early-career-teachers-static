@@ -4,7 +4,7 @@ previous_title: "Teaching challenge"
 previous_path: "/ambition-institute/year-1-subject/summer-week-7-ect-teaching-challenge"
 ---
 
-### Reminder of key takeaways
+## Reminder of key takeaways
 
 Mr Jones can help pupils to improve their literacy by:
 
@@ -12,7 +12,7 @@ Mr Jones can help pupils to improve their literacy by:
 - sharing and breaking down models of the reading and writing he hopes pupils will master
 - planning opportunities for high-quality talk, which use key vocabulary to articulate crucial ideas
 
-### Reflect on the following questions
+## Reflect on the following questions
 
 1. What did you see in this module that you already do or have seen in other classrooms?
 2. What do you feel is the gap between your current practice and what you have seen in this module?

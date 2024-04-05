@@ -4,7 +4,7 @@ previous_title: "Teaching challenge"
 previous_path: "/ambition-institute/year-1-instruction/spring-week-12-ect-teaching-challenge"
 ---
 
-### Reminder of key takeaways
+## Reminder of key takeaways
 
 Ms Kearney can use feedback to support pupil learning by understanding that:
 
@@ -12,7 +12,7 @@ Ms Kearney can use feedback to support pupil learning by understanding that:
 - over time, feedback supports pupils to monitor and regulate their own learning
 - before setting an assessment, teachers need to decide whether feedback will be given and be able to justify their decision
 
-### Reflect on the following questions
+## Reflect on the following questions
 
 1. What did you see in this module that you already do or have seen in other classrooms?
 2. What do you feel is the gap between your current practice and what you have seen in this module?

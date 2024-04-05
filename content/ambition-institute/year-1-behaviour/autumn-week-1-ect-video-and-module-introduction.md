@@ -9,7 +9,7 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-1-ect-module-overvi
 {details}
 Video transcript.
 
-### Presenter: Peps McCrea
+## Presenter: Peps McCrea
 
 We all know teachers who are great at fostering good behaviour. Pupils seem to like
 them, to work hard in their lessons. Perhaps you can remember a favorite teacher
@@ -20,7 +20,7 @@ in a way that will support them to learn is something that all teachers can lear
 to do well. As role models for pupils, we can have a big influence over how they
 behave.
 
-### Presenter: Nicholas Hickman
+## Presenter: Nicholas Hickman
 
 Behaviour for learning involves putting things in place that will enable your pupils
 to think hard and try their best. Most effective behaviour management strategies are
@@ -36,7 +36,7 @@ behavior management doesn’t happen by chance or by magic. It happens as a resu
 of advance planning and implementing tried and tested strategies over and over again.
 The results will be more than worth the effort.
 
-### Presenter: Peps McCrea
+## Presenter: Peps McCrea
 
 Over the course of the behaviour strand, we will help you learn how to shape your
 pupils’ behaviour, so that enables them to get the best out of school and beyond.
@@ -57,7 +57,7 @@ When behaviour’s going well, not only do pupils learn more, but it’s a much 
 
 {/details}
 
-### Module introduction
+## Module introduction
 
 Welcome to the Behaviour strand of the programme. This module is composed of 12 topics and has been designed to last roughly a term. It is best completed during your first term as an early career teacher (ECT) – typically the autumn term.
 
@@ -79,7 +79,7 @@ The module comprises topics sequenced to first explore the process of establishi
 - topics 8 to 11 explore more complex ideas around certain practices that can support more effective learning, incorporating and building on previous modules.
 - topic 12 explores how teachers continue to improve the learning environment over time.
 
-#### Making it work
+### Making it work
 
 The features of effective learning environments can vary slightly depending on the subject(s), phase(s) or community you teach.
 
@@ -97,7 +97,7 @@ The evidence cited in the module draws primarily from research on:
 
 You might have previously come across some of the terminology explored, however some of the technical language used, particularly around cognitive science, may be new to you. Several key terms are explored further in the evidence summary below.
 
-#### A reminder of the programme pattern
+### A reminder of the programme pattern
 
 Each topic in the Behaviour module follows the pattern below:
 

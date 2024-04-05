@@ -4,7 +4,7 @@ previous_title: "Strand overview"
 previous_path: "/ambition-institute/year-1-instruction/spring-week-1-ect-strand-overview"
 ---
 
-### Reminder of key takeaways
+## Reminder of key takeaways
 
 Ms Brophy can make better instructional decision by understanding that:
 
@@ -15,7 +15,7 @@ Ms Brophy can make better instructional decision by understanding that:
 - pupils learn at different rates and have different levels of prior knowledge, so effective teachers guide practice and adapt instruction and pupil grouping to provide further support for these pupils
 - once explicit teaching has been mastered, instruction can be further refined through developing questioning, talk and feedback
 
-### Reflect on the following questions
+## Reflect on the following questions
 
 1. What did you see in this module that you already do or have seen in other classrooms?
 2. What do you feel is the gap between your current practice and what you have seen in this module?

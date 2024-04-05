@@ -4,7 +4,7 @@ previous_title: "Teaching challenge"
 previous_path: "/ambition-institute/year-1-subject/summer-week-8-ect-teaching-challenge"
 ---
 
-### Reminder of key takeaways
+## Reminder of key takeaways
 
 Mr Jones can show pupils how to succeed by:
 
@@ -12,7 +12,7 @@ Mr Jones can show pupils how to succeed by:
 - directing pupils’ attention to the critical aspects of those models
 - using those models to promote metacognition and for feedback
 
-### Reflect on the following questions
+## Reflect on the following questions
 
 1. What did you see in this module that you already do or have seen in other classrooms?
 2. What do you feel is the gap between your current practice and what you have seen in this module?

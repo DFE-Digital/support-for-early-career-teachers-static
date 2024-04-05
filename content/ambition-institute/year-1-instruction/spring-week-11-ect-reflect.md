@@ -4,7 +4,7 @@ previous_title: "Teaching challenge"
 previous_path: "/ambition-institute/year-1-instruction/spring-week-11-ect-teaching-challenge"
 ---
 
-### Reminder of key takeaways
+## Reminder of key takeaways
 
 Ms Crosby can facilitate high quality classroom talk if she understands that:
 
@@ -12,7 +12,7 @@ Ms Crosby can facilitate high quality classroom talk if she understands that:
 - teachers can develop successful pupil talk by establishing clear routines and expectations
 - teachers can establish effective whole class, pair and group talk through pre-planning and supporting pupil groups
 
-### Reflect on the following questions
+## Reflect on the following questions
 
 1. What did you see in this module that you already do or have seen in other classrooms?
 2. What do you feel is the gap between your current practice and what you have seen in this module?

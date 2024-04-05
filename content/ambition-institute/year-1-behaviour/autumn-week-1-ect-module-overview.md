@@ -6,17 +6,17 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-1-ect-reflect"
 ---
 
-### Teaching challenge
+## Teaching challenge
 
 Ms Foden is starting a new year at school. She wants to create an effective learning environment for all of her pupils but worries that she may find it difficult to get some pupils to listen, work independently, or show sufficient respect in the classroom. What does an effective learning environment look like, and where should she start in building one?
 
-### Key idea
+## Key idea
 
 Creating a predictable and secure classroom environment, managing pupil behaviour and holding high expectations all contribute to more successful learning.
 
-### Evidence summary
+## Evidence summary
 
-#### The classroom environment and pupil learning
+### The classroom environment and pupil learning
 
 Effective teaching entails improving pupil achievement, in terms of both academic outcomes as well as other outcomes that matter to their future and success (Coe et al., 2014). Improving pupil achievement means generating a lasting change to pupils’ capabilities or understanding. Pupil behaviour, the learning environment and how teachers manage these, all play a critical role in improving pupil learning.
 
@@ -39,7 +39,7 @@ In addition to improving pupil behaviour, over time effective learning environme
 - Pupil wellbeing: Pupils who perceive that their teachers are in control of the class and are able to include them in activities are also more likely to feel satisfied in life and have better school outcomes (Rathmann et al., 2018).
 - Wider outcomes: In addition to generating high academic outcomes for pupils, effective environments can also improve wider outcomes such as university entrance and graduation rates, higher wages, and lower chances of becoming pregnant as a teenager (Chetty et al., 2014).
 
-#### Effective behaviour management
+### Effective behaviour management
 
 Part of creating an effective learning environment entails managing pupil behaviour. Effective behaviour management happens best when teachers anticipate challenging pupil behaviours and modify the classroom environment to prevent or mitigate them (IES, 2008). Behaviour management strategies typically fall into one of three categories:
 
@@ -62,7 +62,7 @@ Part of effective behaviour management involves setting clear rules and consiste
 
 - Self-regulation: The ability to steer our own behaviour and learning – is a strong predictor of attainment and future success. A key aspect of this is emotional regulation (Gutman & Schoon, 2013). This is important because negative pupil emotions can lead to pupils avoiding a task (Kluger & DeNisi 1996) and also because the ability to regulate one’s emotions affects pupils’ ability to learn, success in school and future life (EEF, 2017). Effective self-regulation also requires pupils to develop metacognitive strategies – how they plan, monitor and evaluate their approaches to specific tasks. Teacher support for pupil metacognition is likely to increase pupil self-regulation, success and therefore motivation (EEF, 2017).
 
-#### Behaviour that fosters effective learning
+### Behaviour that fosters effective learning
 
 In the second half of the _Behaviour_ strand, we will explore ways that teachers can foster effective learning. This part of the strand has lots of connections with the _Instruction_ strand. Evidence suggests that there are several specific ideas and practices that teachers can use to generate behaviours that further foster effective learning in the classroom. These include:
 
@@ -71,13 +71,13 @@ In the second half of the _Behaviour_ strand, we will explore ways that teachers
 
 Holding high expectations is one particularly important yet hard-to-pin-down part of creating an effective learning environment. When we talk about teacher expectations we mean: the beliefs that teachers hold and the messages that they communicate regarding what their pupils are capable of, both in terms of behaviour and learning. In turn, this influences the levels of classroom challenge and support that teachers provide (Coe et al., 2014). Inadvertently communicating low expectations can lead to a ‘self-fulfilling prophecy’, where pupils behave and learn in line with what the teacher expects rather than what they are capable of (Murdock-Perriera et al., 2018; Tsiplakides & Keramida, 2010).
 
-#### Nuances and caveats
+### Nuances and caveats
 
 Behaviour is only one piece of the effective teaching puzzle. Effective instruction and sound teacher subject knowledge are also critical (Coe et al., 2014). And perhaps most importantly, these different dimensions of effective teaching influence each other – it is only when they are aligned that effective teaching can flourish (IES, 2008).
 
 So, while Ms Foden must work hard to develop her understanding and approach around behaviour, she must also recognise that this needs to go hand-in-hand with things like providing the right balance of challenge and support for helping her pupils to experience regular success in the classroom. It is little wonder that becoming a great teacher takes time and continued learning.
 
-### Key takeaways
+## Key takeaways
 
 Ms Foden can promote positive pupil behaviour and an effective learning environment
 by understanding that:
