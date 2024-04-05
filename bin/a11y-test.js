@@ -52,6 +52,8 @@ program
     )
     .parse(process.argv);
 
+const projectKey = 'Support for early career teachers';
+
 const loadConfig = (configPath) => {
     const fullConfigPath = path.resolve('.', configPath);
 
@@ -155,6 +157,8 @@ const createHtmlSummaryReport = (jsonSummaryReport) => {
 
     summaryReport.unshift(`\
         <div style="padding: 2rem">\
+            <h3>AXE Accessibility Results for ${projectKey} project</h3>\
+            <h5>axe-core found <span class="badge badge-warning">${jsonSummaryReport.violations.length}</span> violations</h5>\
             <table class="table table-striped table-bordered">\
                 <thead>\
                     <tr>
@@ -192,21 +196,33 @@ class AxeTester {
         };
 
         const tempFile = './tmp/axe-results.json';
-        execSync(`npx axe ${url} --save ${tempFile} ${ignoreRules}`, childProcessOptions);
+        try {
+            execSync(`npx axe ${url} --save ${tempFile} ${ignoreRules}`, childProcessOptions);
+        }
+        catch(err)
+        {
+            console.error(err.message);
+        }
+
+        if (!fs.existsSync(tempFile))
+            return;
 
         const resultsData = fs.readFileSync(tempFile, 'utf8');
         fs.unlinkSync(tempFile);
+
         const results = JSON.parse(resultsData)[0];
         results.reportFileName = `${safeFileName(results.url)}.html`;
 
         createHtmlReport({
             results,
             options: {
-                projectKey: 'Support for early career teachers',
+                projectKey,
                 outputDir: './a11y-ci-report',
                 reportFileName: results.reportFileName
             }
         });
+
+        console.log('\n---------------------------\n');
 
         return results;
     }
@@ -214,6 +230,9 @@ class AxeTester {
     runAll(urls) {
         return urls.reduce((summary, url) => {
                 const report = this.run(url);
+
+                if (!report)
+                    return summary;
 
                 return mergeReportIntoSummary(summary, report);
             },
