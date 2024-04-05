@@ -4,7 +4,7 @@ previous_title: "What you will learn"
 previous_path: "/education-development-trust/year-1-developing-effective-classroom-practice/intro-ect-what-you-will-learn"
 ---
 
-### Instructions
+## Instructions
 
 Watch the video. The video outlines what you will cover in this Block.
 
@@ -31,22 +31,26 @@ In this Block, we will look at some more of the fundamental techniques which lea
 - Scaffolding and guiding learning
 - Practice
 - Teaching pupils metacognitive strategies.
-  We will also be looking at what it means to “adapt your teaching”. At the heart of
-  this is recognising that pupils, like the rest of us, have differences. It is important
-  to understand that our classrooms are diverse places and it is our responsibility
-  as teachers to ensure that all pupils learn and make progress. This is not about
-  providing different lessons for different pupils – it is about knowing your pupils
-  and having sufficient tools in your toolbox to be able to respond and meet their
-  needs.
+  
+We will also be looking at what it means to “adapt your teaching”. At the heart of
+this is recognising that pupils, like the rest of us, have differences. It is important
+to understand that our classrooms are diverse places and it is our responsibility
+as teachers to ensure that all pupils learn and make progress. This is not about
+providing different lessons for different pupils – it is about knowing your pupils
+and having sufficient tools in your toolbox to be able to respond and meet their
+needs.
 
 In this Block you will look at:
 
 - How to effectively monitor pupils’ progress in lessons
 - Knowing when to intervene or adapt lessons “in the moment” whilst maintaining high expectations, so that all pupils make great progress
 - Knowing approaches for scaffolding learning for pupils who are making slower progress or struggling to engage.
-  Becoming an effective teacher is not a quick tick-list of techniques and approaches
-  you can use in the classroom. Each of the techniques you will explore in this Block
-  require practice and you will refine them over time. You should be sure to make good
-  use of the observation opportunities in this Block to both see the approaches being
-  used by more experienced teachers and to receive feedback as you develop your own
-  teaching craft. {/details}
+
+Becoming an effective teacher is not a quick tick-list of techniques and approaches
+you can use in the classroom. Each of the techniques you will explore in this Block
+require practice and you will refine them over time. You should be sure to make good
+use of the observation opportunities in this Block to both see the approaches being
+used by more experienced teachers and to receive feedback as you develop your own
+teaching craft.
+
+{/details}

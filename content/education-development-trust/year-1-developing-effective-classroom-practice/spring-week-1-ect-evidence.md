@@ -4,7 +4,7 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-1-ect-learning-outcomes"
 ---
 
-### Effective teaching can transform pupils’ knowledge, capabilities and beliefs about learning
+## Effective teaching can transform pupils’ knowledge, capabilities and beliefs about learning
 
 Did you realise that you, the teacher, are regarded as the biggest in-school factor which will influence your pupils’ learning and consequently their life chances?
 
@@ -12,7 +12,7 @@ John Hattie (2009), through a massive review of hundreds of other pieces of rese
 
 So what techniques and strategies do effective teachers use? Let’s find out.
 
-### Effective teachers introduce material in steps
+## Effective teachers introduce material in steps
 
 In Block 2, you learned that our working memory is a short-term store for the information that you use during thought processes (Braddeley, 2003) and that our long-term memory is a vast storehouse where you retain your knowledge about the world (Willingham, 2009). Long-term memory has no known limit to its capacity.
 
@@ -24,7 +24,7 @@ In this regard, effective teaching might look something like this:
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.1-Opt-1.png" alt="The diagram is a flowchart showing how a teacher could present information in small sections so that pupils are more likely to understand and remember what is being taught. The teacher introduces a small section of content, explaining the idea and modelling an example.Pupils independently practise a similar task with guidance and support from the teacher as required, before discussing what they have just learned and explaining it in their own words. The teacher checks for understanding, using verbal questioning or mini whiteboards. Once the teacher is happy, they move on to the next section." />
 </figure>
 
-### Example mini lesson plan and script – Year 2
+## Example mini lesson plan and script – Year 2
 
 Consider the following example:
 
@@ -32,14 +32,16 @@ Consider the following example:
 - how do they make sure that pupils master the content before moving on?
 - how has the teacher built up to the more complex task of writing your own sentences?
 
-#### Teaching sentence structure
+### Teaching sentence structure
+
 Start by introducing the rules of a simple sentence.
 
 Show a sentence on the board: ’the boy threw the ball.’
 
 Read the sentence together.
 
-##### Model aloud my thinking as I identify the subject of the paragraph
+#### Model aloud my thinking as I identify the subject of the paragraph
+
 “OK so we know that a simple sentence needs to contain a verb, a subject and an object. I am going to look at the sentence here and identify these things.
 
 "Hmmm, so I know that a verb is a doing word. So the verb in this sentence must be ‘threw’. Am I right? Yes, ‘throw’ is a doing word so that is a verb.
@@ -50,7 +52,8 @@ Read the sentence together.
 
 “The boy threw the ball.”
 
-##### Check for understanding ‒ questioning
+#### Check for understanding ‒ questioning
+
 Teacher: "Michael what three things do I need to include in my simple sentence?"
 
 Michael: "A verb, an object and a subject."
@@ -69,16 +72,17 @@ Jakob: "The subject is doing the verb and the object is receiving?"
 
 Teacher: "Excellent."
 
-##### Task 1
+#### Task 1
 
 <ol>
-<li>Handout sheet with simple sentence examples.</li>
-<li>Pupils work in pairs to identify the verb, action and subject of the sentences.</li>
-<li>Teacher circulates, questions pupils and offers feedback.</li>
-<li>Pupils write own simple sentences.</li>
-<li>Peer assess.</li>
+    <li>Handout sheet with simple sentence examples.</li>
+    <li>Pupils work in pairs to identify the verb, action and subject of the sentences.</li>
+    <li>Teacher circulates, questions pupils and offers feedback.</li>
+    <li>Pupils write own simple sentences.</li>
+    <li>Peer assess.</li>
+</ol>
 
-### Effective teachers explicitly link new ideas to what has been previously studied and learned
+## Effective teachers explicitly link new ideas to what has been previously studied and learned
 
 Another way of reducing the load on working memory is to draw upon schemata in the long-term memory (see Block 2) as this allows information to be processed more efficiently. In other words, if pupils can draw on existing knowledge, it helps them to process new knowledge. In fact, with enough practice, schemas can “become automatic… automatic processing of schemas requires minimal working memory resources and allows problem solving to proceed with minimal effort” (Kalyuga, 2003).
 
@@ -90,7 +94,7 @@ An effective teacher will make this connection explicit, linking new material to
 - Demonstrating how the new idea links to previously studied material with examples: “The first step I use is to make sure my sentence is an independent clause which we practised in last week’s lesson.”
 - Using “link” activities which remind pupils of the learning from previous lessons: “You are going to write four simple sentences about your trip to the zoo. First, we are going to make a bullet point list of what to include ‒ you will need 1) subject 2) verb 3) object.
 
-### Effective teachers use modelling to help pupils understand new processes and ideas
+## Effective teachers use modelling to help pupils understand new processes and ideas
 
 When we teach, we ask pupils to undertake tasks. These tasks should make pupils actively process (i.e. think hard about) the material. With cognitive load theory in mind, it is important that we make tasks easy to understand, so that pupils can use their processing power on the content rather than trying to work out what it is they are expected to do.
 
@@ -105,21 +109,21 @@ Here are some ways that you might do this:
 - Showing pupils how you expect them to record and present their work.
 - Demonstrating how pupils should participate in an activity or use resources.
 
-### Video
+## Video
 
-#### Title
+### Title
 
 Modelling how to plot points on a graph, Year 5
 
-#### Video type
+### Video type
 
 Classroom practice
 
-#### Short description
+### Short description
 
 A teacher explaining to his class how to plot points on an axis
 
-#### What should you focus on in this video?
+### What should you focus on in this video?
 
 - How does the teacher communicate how to plot points on a graph?
 - How does he show his pupils what he wants them to do?
@@ -138,13 +142,21 @@ Pupil: It is zero zero.
 
 Teacher: Yes, this is co-ordinate zero, zero and this is where you will always start from. To start, I am going to hold my pen on the coordinate zero zero like this.
 
-[Teacher holds marker on zero zero.] The coordinate we will plot is (3, 5). Who remembers which axis the 3 tells us to move on?
+[Teacher holds marker on zero zero.] 
+
+The coordinate we will plot is (3, 5). Who remembers which axis the 3 tells us to move on?
 
 Pupil: The X axis, so sideways!
 
-Teacher: Correct. The 3 is first so it tells me to move 3 steps on the X axis. Watch carefully as I move my pen 1, 2, 3. [Teacher models jumping each step and counting out loud as they go.]
+Teacher: Correct. The 3 is first so it tells me to move 3 steps on the X axis. Watch carefully as I move my pen 1, 2, 3. 
 
-Now, I need to move 5 places in the Y axis so holding my pen really steady where I have landed I now go up for 5. 1, 2, 3, 4, 5. [Teacher models pen jumping up 5 steps.] Why am I doing it this way? I know that I should use the values on the X and the Y axes as these two scales represent the values of different coordinates.
+[Teacher models jumping each step and counting out loud as they go.]
+
+Now, I need to move 5 places in the Y axis so holding my pen really steady where I have landed I now go up for 5. 1, 2, 3, 4, 5. 
+
+[Teacher models pen jumping up 5 steps.] 
+
+Why am I doing it this way? I know that I should use the values on the X and the Y axes as these two scales represent the values of different coordinates.
 
 I’ve now moved 3 across and 5 up from the starting point of (0,0). This is where I draw my X. It should be in line with the number 3 on the X axis and the number 5 on the Y axis. Look at how I check by drawing an invisible line with my finger to each axis to check.
 
@@ -154,9 +166,9 @@ Ben: Right – first thing is you have to start on zero zero so put your pen the
 
 {/details}
 
-### Effective teachers use good models which make abstract ideas concrete and accessible
+## Effective teachers use good models which make abstract ideas concrete and accessible
 
-#### What is meant by an “abstract idea”?
+### What is meant by an “abstract idea”?
 
 An abstract idea or concept is one which can be difficult to grasp.
 
@@ -173,43 +185,44 @@ Models are an essential part of developing and sharing knowledge. Evidence sugge
 
 The table below shows the different strategies you can use to make abstract ideas accessible.
 
-#### Strategy: Using a range of examples to demonstrate the abstract idea
+### Strategy: Using a range of examples to demonstrate the abstract idea
 
-##### Example
+#### Example
 
 “Here are three different examples of when someone was considered ‘brave’.”
 
-#### Strategy: Facilitate discussion around an abstract idea to let pupils relate it to their own experiences
+### Strategy: Facilitate discussion around an abstract idea to let pupils relate it to their own experiences
 
-##### Example
+#### Example
 
 “When was a time that you felt ‘free’?”
 
-#### Strategy: Provide opportunities for pupils to experience an abstract concept for themselves
+### Strategy: Provide opportunities for pupils to experience an abstract concept for themselves
 
-##### Example
+#### Example
 
 “This morning, I am going to give all of the ‘power’ of deciding what we do in PE to you.”
 
-#### Strategy: Use concrete models or examples to make abstract ideas accessible | “We are going to count out the number 12 using cubes.”
+### Strategy: Use concrete models or examples to make abstract ideas accessible | “We are going to count out the number 12 using cubes.”
 
-##### Example
+#### Example
 
 “We are going to count out the number 12 using cubes.”
 
-#### Strategy: Provide a graphical representation to make abstract ideas accessible
+### Strategy: Provide a graphical representation to make abstract ideas accessible
 
-##### Example
+#### Example
 
 “Take a look at the bar graph to compare the speed of the two cars.”
 
-#### Strategy: Provide a visual example to make abstract ideas accessible
+### Strategy: Provide a visual example to make abstract ideas accessible
 
-##### Example
+#### Example
 
 “The pictures in front of you show each stage of the evaporation cycle.”
 
-### Using concrete examples to make abstract ideas accessible
+## Using concrete examples to make abstract ideas accessible
+
 How do objects help to make abstract ideas accessible?
 
 How might this relate to your subject? Is there a physical representation of an abstract idea?
@@ -235,7 +248,7 @@ Examples of different forms include:
 - a probability distribution presented in a table or represented as a
   histogram
 
-#### Concrete examples in use
+### Concrete examples in use
 
 The teacher wants to show an abstract rule (10t – t = (10 – 1)t = 9t) through a
 concrete example.
@@ -298,7 +311,7 @@ The pupils discussed what was going on here, before the teacher concluded with t
 
 Reproduced from: Education Endowment Foundation (2017) <i>Improving Mathematics in Key Stages Two and Three Guidance Report</i>. [Online] Accessible from: [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/tools/guidance-reports)
 
-### Using modelling to make abstract ideas accessible in Year 4
+## Using modelling to make abstract ideas accessible in Year 4
 
 In a Year 4 lesson pupils are learning about discrimination. The teacher has planned
 three different ways they will model the concept of discrimination during the lesson.
@@ -309,7 +322,7 @@ discrimination is?
 How does modelling help to make an abstract idea accessible for their
 pupils?
 
-#### Activity 1
+### Activity 1
 
 1. As pupils enter the room, those whose names start with A‒M get a high-five
    and are told to take their seat.
@@ -318,7 +331,7 @@ pupils?
 4. Ask other pupils: Is this fair? How does it feel to be treated this way?
 5. Ask pupils to take their seats and start the lesson.
 
-#### Activity 2
+### Activity 2
 
 1. Show pupils a picture of a segregated bus in America, 1950s.
 2. Explain that this was a real policy and that black people were forced to
@@ -329,7 +342,7 @@ pupils?
 4. Facilitate a discussion on types of discrimination pupils have heard about
    or seen and generate a class list.
 
-#### Activity 3
+### Activity 3
 
 1. Present a newspaper report about discrimination on the board.
 2. Read it aloud and teacher identifies why this person has been treated
@@ -339,9 +352,9 @@ pupils?
    whether this is discrimination and second what type of discrimination is
    taking place.
 
-### Effective teachers use guides, scaffolds and worked examples to help pupils apply new ideas
+## Effective teachers use guides, scaffolds and worked examples to help pupils apply new ideas
 
-#### Guidance
+### Guidance
 
 Pupils benefit from guidance when applying new ideas. The most effective teachers often spend longer guiding practice of new material than less effective teachers. When guided practice is too short, pupils make more errors during independent work.
 
@@ -354,7 +367,7 @@ Teachers can guide pupils as they rehearse new content by:
 
 Initially this guidance is likely to come from the teacher, but our ultimate aim is for pupils to be able to practise and perform a skill independently. As pupils undertake guided practice and move towards independent practice, resources (such as graphic organisers, pictures, tables, graphs and charts) and teacher action (such as the questioning shown above) can provide them with additional support or guidance without the need to rely so heavily on the teacher. Our task is always to move them from where they are to where they need to be.
 
-#### Scaffolds
+### Scaffolds
 
 The metaphor of scaffolding is derived from construction work where it represents a temporary structure that is used to erect a building. In education, scaffolding refers to support that is tailored to students’ needs.
 
@@ -376,17 +389,17 @@ You can use this series of questions to help guide your decisions:
 
 The following examples show this in practice:
 
-### Video
+## Video
 
-#### Video type
+### Video type
 
 Classroom practice
 
-#### Short description
+### Short description
 
 A Year 2 class having a discussion
 
-#### What should you focus on in this video?
+### What should you focus on in this video?
 
 - What scaffolds does the teacher provide?
 - How effective are these in facilitating the discussion?
@@ -416,11 +429,11 @@ Teacher: Some really great conversations there. I liked Georgia’s question abo
 
 You can also use resources to scaffold learning. These can include pictures, graphic organisers, charts and graphs which can all help guide pupil thinking.
 
-### Example writing frame to support KS2 persuasive writing
+## Example writing frame to support KS2 persuasive writing
 
-#### Title
+### Title
 
-##### Introduction
+#### Introduction
 
 What is the key point you want to make? Why are you writing?
 
@@ -453,17 +466,17 @@ Techniques to use:
 - Facts/evidence
 - Emotive language
 
-### Video
+## Video
 
-#### Video type
+### Video type
 
 Classroom practice
 
-#### Short description
+### Short description
 
 A Year 1 class drawing a dog
 
-#### What should you focus on in this video?
+### What should you focus on in this video?
 
 - What scaffolds does the teacher provide?
 - How effective are these in supporting pupils?
@@ -491,11 +504,11 @@ Teacher: Good idea! I will get the toy dog and sit him on my desk to help you. O
 
 {/details}
 
-### Worked examples
+## Worked examples
 
 Worked examples are another great way of helping pupils to apply new ideas. You explored these in depth in Block 2 and they can be thought of as a tool for scaffolding and guiding student practice. By showing each step of a solution, you free up pupils’ working memory so that they can focus on the content and new ideas.
 
-#### Calculating the smallest angle of a right-angled triangle
+### Calculating the smallest angle of a right-angled triangle
 
 <img
   class="alignnone size-full wp-image-1901"
@@ -505,28 +518,26 @@ Worked examples are another great way of helping pupils to apply new ideas. You 
   height="657"
 />
 
-#### How to structure a paragraph
+### How to structure a paragraph
 
-<br>
-
-##### Key point
+#### Key point
 A key issue in our school is that in the school canteen there is the
         lack of seating for pupils.
 
-<h5>Explain</h5>
+#### Explain
 The number of pupils choosing to have school lunches has increased since
         the quality of the food has gone up. This means that there are now too
         many pupils for the number of seats available and so pupils have to wait
         until a seat becomes available and miss out on play time.
 
-<h5>Examples</h5>
+#### Examples
 For example, last week Year 4 were last to the lunch queue because they
         were getting changed after PE. The queue was so long and they had to
         wait until all other year groups have eaten, so they only got served and
         to sit down five minutes before the end of lunch! Whoever is last to
         lunch each day always misses out on outside time.
 
-<h5>Link back to the question</h5>
+#### Link back to the question
  As you can see, not having enough seating is a key issue in our school
         because pupils have a lot of energy at lunchtime which they need to run
         off outside. If all they do is queue, then they won’t work as hard when
@@ -540,7 +551,7 @@ You could:
 - Include worked examples at the start of homework or independent tasks for pupils to refer back to.
 - Ask pupils to come to the board to work through an example, discussing their process as they go.
 
-### Effective teachers realise that practice is an integral part of effective teaching
+## Effective teachers realise that practice is an integral part of effective teaching
 
 As noted by McNamara (2010), “there is an overwhelming assumption in our educational system that the most important thing to deliver to students is content” (McNamara in Dunlosky et.al., 2013). Teachers tend to place a premium on content delivery instead of supporting pupils to practise applying new ideas effectively.
 
@@ -556,7 +567,7 @@ Breaking a complex skill or procedure into smaller parts also enables us to pinp
 
 You will look at “Retrieval practice” specifically in Block 8.
 
-### Effective teachers recognise that support should be gradually removed as pupil expertise increases
+## Effective teachers recognise that support should be gradually removed as pupil expertise increases
 
 The levels of support discussed above should not be maintained forever. You won’t be following your pupils into their exams or beyond the school gates, so at some point you need to begin gradually removing support.
 

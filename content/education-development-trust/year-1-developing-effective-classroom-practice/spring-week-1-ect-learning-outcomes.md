@@ -6,9 +6,9 @@ next_title: "Evidence"
 next_path: "/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-1-ect-evidence"
 ---
 
-### The intended outcomes of this activity are for you to:
+## The intended outcomes of this activity are for you to:
 
-#### Learn that:
+### Learn that:
 
 - Effective teaching can transform pupils’ knowledge, capabilities and beliefs about learning.
 - Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned.
@@ -16,7 +16,7 @@ next_path: "/education-development-trust/year-1-developing-effective-classroom-p
 - Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases.
 - Practice is an integral part of effective teaching; ensuring pupils have repeated opportunities to practise, with appropriate guidance and support, increases success.
 
-### In your notepad
+## In your notepad
 
 As you work this through activity try to answer the following questions:
 

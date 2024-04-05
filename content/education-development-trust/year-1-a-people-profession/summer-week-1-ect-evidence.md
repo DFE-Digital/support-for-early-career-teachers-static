@@ -12,7 +12,7 @@ There are of course other adults involved in a pupil’s education. You will kno
 
 In this activity, we focus on working with the other adults who have relationships with the pupils you teach. These include parents, carers and families, and teaching assistants, pastoral leaders and other professionals. There is a specific section on working with your SENCO later in this Block.
 
-### Effective relationships with parents, carers and families
+## Effective relationships with parents, carers and families
 
 Parents, carers and families have a significant influence on pupils’ education. As Hattie states, “parents can have a major effect in terms of the encouragement and expectations that they transmit to their children” (Hattie, 2009). You can play a direct role in this through actively seeking to engage the parents, carers and families of individual pupils.
 
@@ -20,7 +20,7 @@ By this point, you may have already seen the impact of building positive relatio
 
 Your school will have its own communications policy and agreed ways for communicating with parents and carers. As a teacher, you should seek ways to reach out to families proactively. A useful way to establish these relationships is by engaging with parents, carers and families to support their children’s learning. Some ideas for doing this are exemplified in the following video.
 
-#### Communicating with parents, carers and families
+### Communicating with parents, carers and families
 
 Watch this video of teachers explaining specific ways that they help parents, carers and families to support their children’s learning.
 
@@ -51,7 +51,7 @@ Teacher 6: “Each week I send a positive postcard home for three pupils who hav
 
 Proactively seeking to highlight pupil successes to parents and carers is another great way of engaging families in their child’s learning and helps establish and build relationships. By contacting parents and carers with positive feedback, even on a minor level, you will have set the tone for your relationship and it will make it far easier if you ever need to contact home with any negative feedback.
 
-### In your notepad
+## In your notepad
 
 Sentence frames you could use to proactively highlight successes:
 
@@ -73,25 +73,25 @@ Plan potential steps you could take to resolve the tension.
 
 The table below shows some of the strategies you can use to build effective relationships with the parents/carers of pupils that you teach.
 
-#### Strategies to use: Make contact early in the school year
+### Strategies to use: Make contact early in the school year
 
-##### What this looks like in practice
+#### What this looks like in practice
 
 - If time allows, call parents/carers to introduce yourself.
 - Make positive phone calls home about how well pupils have settled in.
 - Invite parents in to meet you.
 
-#### Strategies to use: Open a dialogue with parents/carers
+### Strategies to use: Open a dialogue with parents/carers
 
-##### What this looks like in practice
+#### What this looks like in practice
 
 - Make regular contact with parents/carers.
 - Attempt to contact parents/carers of all pupils.
 - Use phone calls, postcards home, blogs, email.
 
-#### Strategies to use: Ask questions and take an interest
+### Strategies to use: Ask questions and take an interest
 
-##### What this looks like in practice
+#### What this looks like in practice
 
 - Show parents/carers that you understand that they know their child best.
 
@@ -101,9 +101,9 @@ The table below shows some of the strategies you can use to build effective rela
   - “Is this the best way of contacting you?”
   - “What can we do together to support your child?”
 
-#### Strategies to use: Make sure parents/carers feel that you listen to them
+### Strategies to use: Make sure parents/carers feel that you listen to them
 
-##### What this looks like in practice
+#### What this looks like in practice
 
 - Listen and respond to parents/carers concerns:
 
@@ -113,7 +113,7 @@ The table below shows some of the strategies you can use to build effective rela
 
 You will likely have been involved in parent-teacher interviews or parents’ evenings. These are one way of communicating with parents/carers and can be effective in engaging them in their children’s schooling. Teachers who use these events effectively prepare in advance and think hard about the information they will share. They also use the opportunity to communicate their belief in the academic potential of each child. Being positive about the successes experienced, as well as focusing on improvement and next steps, is an important factor in doing this.
 
-#### Making the most of parents’ evenings
+### Making the most of parents’ evenings
 
 Watch the following video and consider the way in which the two teachers approach and prepare for parents’ evening.
 
@@ -179,7 +179,7 @@ Video transcript.
      which you couldn’t answer.
 {/details}
 
-### In your notepad
+## In your notepad
 
 How do both teachers plan for parents’ evening?
 
@@ -198,7 +198,7 @@ The knowledge you gain will help you to:
 
 Teachers need to seek opportunities to engage parents, carers and families in the education of their children. You should not expect these relationships to just happen naturally or take them for granted. To be successful, they need to be built, developed and maintained. You can use small, deliberate actions to build these relationships so that they are positive and productive.
 
-#### Building effective relationships
+### Building effective relationships
 
 Watch this video of a primary teacher talking about how they get to know the parents/carers of their class.
 
@@ -252,7 +252,7 @@ able to ask parents about their e-scooters or how their elderly relative who
 lives with them is doing.
  {/details}
 
-### In your notepad
+## In your notepad
 
 What specific action does the first teacher take to build relationships
 with the parents and carers of their class?
@@ -261,7 +261,7 @@ What impact do you think this would have?
 
 Keep in mind that high-quality teaching has a long-term positive effect on pupils’ life chances, particularly for children from disadvantaged backgrounds. The work you do building relationships and learning about a pupil’s individual circumstances will positively influence your practice as you will be able to effectively plan and adapt your teaching to suit the individual needs of your pupils.
 
-### Working with teaching assistants
+## Working with teaching assistants
 
 Teaching assistants (TAs) are a valuable resource in schools. When deployed and trained effectively, TAs can have a positive impact on pupil attainment and engagement, as well as reducing classroom disruption and allowing teachers more time to teach (Blatchford et al., 2009; Education Endowment Foundation, 2015). TAs can also provide benefits to pupils with special educational needs when they are appropriately supported to do so (Carroll et al., 2017).
 
@@ -273,7 +273,7 @@ There can be a temptation to allow TAs to support pupils with more complex addit
 
 Teacher quality matters most for the most vulnerable pupils. Teachers who are more effective overall tend to be even more effective at improving outcomes for pupils with low prior attainment, from disadvantaged backgrounds and those with behavioural difficulties.
 
-### Try this
+## Try this
 
 Over the course of the week keep a log as to how much time you as teacher and
 your TA spend with SEND learners.
@@ -284,60 +284,60 @@ support and expertise within your classroom.
 
 We will look in more detail later at specific activities you can practise in your work with your TA and other specialist colleagues. For now, here are some initial suggestions for you to consider planning for.
 
-#### Recommendation: The teacher should prepare the TA for lessons
+### Recommendation: The teacher should prepare the TA for lessons
 
-##### Practice
+#### Practice
 
 Plan time to briefly discuss lesson plans with the TA in advance of lessons. It would be useful to have planning meetings about whole units so that the TA has time to look ahead and read up on the topic. You could provide them with some source materials or places where they could do this.
 
 This should not increase your workload. Try inviting the TA to pre-existing planning meetings or give your prepared plan to your TA so that they can read it in their own time and come back to you with any questions.
 
-#### Recommendation: Focus the TA on whole-class learning outcomes
+### Recommendation: Focus the TA on whole-class learning outcomes
 
-##### Practice
+#### Practice
 
 Make sure the TA is aware of the learning outcomes of the lesson and give them specific tasks related to this. This could include them working with specific pupils in relation to the learning outcomes or circulating and supporting the whole class with reaching the learning outcomes.
 
-#### Recommendation: The TA could support pupils with special educational needs
+### Recommendation: The TA could support pupils with special educational needs
 
-##### Practice
+#### Practice
 
 Set up regular meetings with support staff to discuss personalised plans and strategies for pupils with special educational needs.
 
 Make sure the TA has relevant understanding of the pupil’s strengths and weaknesses and time to prepare for the lesson. As the TA is usually able to get to know the individual pupil, they can use this knowledge to inform their planning.
 
-#### Recommendation: Ask the TA for input on designing learning activities, behaviour support plans and ensuring that the environment best meets the needs of an individual pupil
+### Recommendation: Ask the TA for input on designing learning activities, behaviour support plans and ensuring that the environment best meets the needs of an individual pupil
 
-##### Practice
+#### Practice
 
 Support staff will regularly see things in the classroom from a different perspective so ask for their input to support your planning to ensure an inclusive, positive classroom for all.
 Ensure that your TA is included in and plays a key role in any meetings about individual pupils they support, such as Annual Reviews.
 
-#### Recommendation: The TA could support improving literacy for all pupils
+### Recommendation: The TA could support improving literacy for all pupils
 
-##### Practice
+#### Practice
 
 The TA could have a specific literacy focus in each lesson and move around the room supporting pupils with this.
 
-#### Recommendation: Use the TA’s expertise to identify pupils who need more support in lessons
+### Recommendation: Use the TA’s expertise to identify pupils who need more support in lessons
 
-##### Practice
+#### Practice
 
 The TA could move around the class whilst pupils are working to identify those who need more support from the teacher.
 
-#### Recommendation: Rotate support
+### Recommendation: Rotate support
 
-##### Practice
+#### Practice
 
 Alternate support for particular pupils or groups of pupils from lesson to lesson or week to week between teacher and TA. The teacher should always spend time with the least able pupils in the class to teach the core concepts, knowledge and skills whilst the TA can address a specific focus such as literacy, exploring a common misconception or reinforcing an idea.
 
-#### Recommendation: The teacher should ensure they spend equal time with pupils
+### Recommendation: The teacher should ensure they spend equal time with pupils
 
-##### Practice
+#### Practice
 
 The TA could work with different pupils at different times so that the teacher can support all pupils in the class equally.
 
-### Working with other professionals
+## Working with other professionals
 
 Many other professionals work in schools. Developing effective working relationships with these colleagues is a way you can make a positive contribution to the wider life of the school, helping to create a sense that as a community of professionals you are working together to improve the lives of all pupils. Working with other staff in school can also lead to positive effects on teachers’ job satisfaction and decreases in stress and workload (Blatchford et al., 2009). Support staff and other specialist colleagues have valuable expertise, which you can draw on and learn from to help you improve your teaching, whether this is working with particular pupils or developing your teaching.
 
@@ -361,7 +361,7 @@ Many other professionals work in schools. Developing effective working relations
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-5.png" alt="Image show a Science/D&T/Art/ICT technician preparing equipment in a laboratory. The speech bubble says: I organise equipment for the teachers. I support teachers in planning new activities, troubleshoot when things aren’t working, and often work as part of the team developing new approaches to learning." />
 </figure>
 
-### Remember
+## Remember
 
 The time you spend building effective relationships with parents, carers,
 families and specialist colleagues will pay you back. You will:

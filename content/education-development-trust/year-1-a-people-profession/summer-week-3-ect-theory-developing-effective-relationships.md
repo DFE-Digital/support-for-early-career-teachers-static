@@ -6,7 +6,7 @@ next_title: "Instructions: working with the SENCO"
 next_path: "/education-development-trust/year-1-a-people-profession/summer-week-3-ect-instructions-working-with-the-senco"
 ---
 
-### Effective professional relationships between all adults working in a school underpin school communities
+## Effective professional relationships between all adults working in a school underpin school communities
 
 These relationships:
 
@@ -28,7 +28,7 @@ Effective relationships are built on a culture of mutual trust and respect. Some
 - Saying please and thank you when receiving help or advice
 - Dedicating sufficient time to conversations
 
-### In your notepad
+## In your notepad
 
 1. In what ways have your mentor and colleagues demonstrated through their communications with you that you are a trusted and respected member of the school community?&nbsp;
 2. What have you noticed about the communication skills of the teachers in your school?
@@ -37,7 +37,7 @@ Effective relationships are built on a culture of mutual trust and respect. Some
 
 It is important to remember that you can take steps to contribute positively to the wider school culture; there is a shared responsibility to improve the lives of all pupils. You should seek to give and receive support to individual colleagues and to work as part of a team.
 
-### In your notepad
+## In your notepad
 
 Consider the following colleagues:
 
@@ -52,17 +52,17 @@ Consider the following colleagues:
 
 Supporting and developing effective relationships with your colleagues is an important way of making a positive contribution to the school culture. Collaborating and being a part of the wider school community will contribute to student learning, the school culture and your own wellbeing. Read the table below to see strategies that you can use.
 
-#### Strategies to try: Stay positive
+### Strategies to try: Stay positive
 
-##### In practice
+#### In practice
 
 - Remain upbeat and positive when interacting with colleagues.
 - When dealing with difficult conversations, try to focus on the resolution.
 - Try not to get drawn in to negative conversations, instead focus on the positives.
 
-#### Strategies to try: Ask for help and support
+### Strategies to try: Ask for help and support
 
-##### In practice
+#### In practice
 
 - Seek advice whenever you need it.
 - Talk to colleagues from every part of the school and seek help/advice from them in their area of expertise.
@@ -70,9 +70,9 @@ Supporting and developing effective relationships with your colleagues is an imp
 - If you are struggling with a pupil, consider the different people who can support you and seek them out.
 - Actively ask other teachers if you can informally observe their lessons and vice versa.
 
-#### Strategies to try: Offer help and support
+### Strategies to try: Offer help and support
 
-##### In practice
+#### In practice
 
 - Talk to different colleagues from all over the school. Keep building connections.
 - If a colleague is struggling, offer support. This could be academic, emotional or practical support.

@@ -9,7 +9,7 @@ next_path: "/education-development-trust/year-1-a-people-profession/summer-week-
 - At the end, answer the key questions below.
 - You will need to take your answers with you to your mentor session for discussion with your mentor.
 
-### Key questions
+## Key questions
 
 Consider the following questions:
 

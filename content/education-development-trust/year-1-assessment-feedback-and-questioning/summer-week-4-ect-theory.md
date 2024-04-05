@@ -4,7 +4,7 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-4-ect-learning-outcomes"
 ---
 
-### Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems
+## Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems
 
 The ability to ask good questions is – arguably – the most important tool in a teacher’s toolkit. We use them a lot – questioning is the most widely used form of teacher-pupil interaction (Muijs & Reynolds, 2017). Significantly, more effective teachers “ask a large number of questions and check the responses of all students” (Rosenshine, 2012). Rosenshine’s research findings concluded that “the most successful teachers in these studies spent more than half the time lecturing, demonstrating, and asking questions” (ibid).
 
@@ -16,7 +16,7 @@ fewer questions and almost no process questions," Rosenshine (2012).
 
 Thinking back to what you learned in Block 2 about memory, you already know that learning happens when we are able to connect new knowledge to prior knowledge and present new concepts in easy to understand steps. Questions support both of these things. We can use them to check what pupils already know. We can use them to check that pupils are following our explanations and are ready for us to move on. And where they don’t understand, we can use questions to break these problematic concepts down further. They can also encourage pupils to think hard – a key factor in learning. With our prompting, pupils can be encouraged to articulate their understanding of key ideas, summarising and reformulating them in order to reinforce their knowledge.
 
-#### Case study – using questions
+### Case study – using questions
 In one classroom-based experimental study, one group of teachers was taught to follow
 the presentation of new material with lots of questions. They were taught to increase
 the number of factual questions and process questions they asked during this guided
@@ -25,12 +25,12 @@ practice.
 Test results showed that their students achieved higher scores than did
 students whose teachers did not receive the training.
 
-##### Factual questions
+#### Factual questions
 Tests pupils on their knowledge of key information,
 these questions have one correct answer. “What date did World War One begin?” “What
 is 3x5?” “What is one stage of the water cycle?”
 
-##### Process questions:
+#### Process questions:
 Tests pupils on their depth of knowledge and
 understanding. They require analysis/opinion from the pupil. “How does the reader
 feel about Lennie at this point in the novel?” “What is the best way to solve this
@@ -60,13 +60,13 @@ In addition to asking questions, the more effective teachers facilitated their s
 
 Rosenshine (2012)
 
-### The section that follows describes some of the key types of questions and how they can be used to achieve these goals
+## The section that follows describes some of the key types of questions and how they can be used to achieve these goals
 
-#### 1. Open versus closed questions
+### 1. Open versus closed questions
 
 In broad terms, we can think of two main types of questioning: closed questions and open questions. When teachers ask a question with a relatively straightforward answer such as, “In the novel, did George shoot Lennie?”, this is considered a closed question. An open question typically elicits longer responses where students need to reflect and use more complex reasoning, such as “Was George justified in shooting Lennie?”. While it may be tempting to think that open questions are “better” than closed questions, both play an important role in the overall learning process.
 
-### Closed and open questions
+## Closed and open questions
 Closed questions can be useful for checking recall of facts or
 to check simple understanding. They can be asked at pace and keep pupils focused
 on the lesson.
@@ -81,7 +81,7 @@ Consider these questions:
   <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Screenshot-2020-08-18-at-09.11.10.png" alt="Image shows three speech bubbles containing the following questions:&lt;p>&lt;/p>a) has everybody understood&lt;p>&lt;/p>b) Charles Dickens wrote Great Expectations in 1860. Who was the Queen at that time?&lt;p>&lt;/p>c) What are the similarities and differences between verbs and adverbs" />
 </figure>
 
-### In your notepad
+## In your notepad
 Which of these questions provide the teacher with information that they can
 use to provide feedback?
 
@@ -104,21 +104,21 @@ Other starting points for open questions include:
 - How do you know that…?
 - Why did you choose…?
 
-### Video
+## Video
 
-#### Title
+### Title
 
 Closed and open questions
 
-#### Video type
+### Video type
 
 Classroom practice
 
-#### Short description
+### Short description
 
 A Year 8 English teacher poses several closed and open questions.
 
-#### What should you focus on in this video?
+### What should you focus on in this video?
 
 As you watch the video below, count how many closed or open questions were asked in the lesson segment. Choose two of each and explain why the teacher has used one rather than the other in that place.
 
@@ -159,13 +159,13 @@ Teacher: “Excellent. We’re now going to read Chapter 1. These are the follow
     What is your evidence for your view?”
   </li>
 </ol>
- {/details}
+{/details}
 
-### In your notepad
+## In your notepad
 
 Can you write five open questions for an upcoming lesson?
 
-### 2. Hinge questions
+## 2. Hinge questions
 
 We often want to assess whether pupils understand a key idea before we move on. When this is the case, we can use a hinge question. These are questions that reliably check pupils’ knowledge or understanding and quickly give teachers information to decide whether and how to move on with the topic being taught.
 
@@ -176,8 +176,10 @@ Hinge questions often take the form of multiple-choice questions. Multiple-choic
 - Are written to focus on “troublesome” knowledge, i.e. things that pupils are known to find difficult or common misconceptions that pupils may hold.
 - Indicate both correct thinking and gaps in pupils’ knowledge or misconceptions.
 
-#### Hinge question examples
-##### 1. Science
+### Hinge question examples
+
+#### 1. Science
+
 In which part of a daffodil does photosynthesis occur?
 
 <ol>
@@ -187,12 +189,16 @@ In which part of a daffodil does photosynthesis occur?
   <li>The leaves and stem.</li>
   <li>Just the leaves.</li>
 </ol>
+
 Photosynthesis occurs in the chloroplasts, which are found in green leaves and
 stems of plants. Pupils will need to understand that this is not restricted to
 the leaves (E) and that petals and roots do not contain chloroplasts (B/C).
-##### 2. French
+
+#### 2. French
+
 Which of these translations is/are correct for the text below? L’été dernier, ma
 sœur avait un petit job donc elle est restée chez nous.
+
 <ol>
   <li>Last summer, my sister had a small job so stayed at our house.</li>
   <li>Last summer, my sister had a part-time job so stayed at our house.</li>
@@ -200,13 +206,16 @@ sœur avait un petit job donc elle est restée chez nous.
   <li>This summer, my sister has a part-time job so stayed at our house.</li>
   <li>This summer, my sister had a part-time job so stayed at our house.</li>
 </ol>
+
 The correct answer here is B – Last summer, my sister had a part-time job so
 stayed at our house. This checks that pupils have a good understanding of tense
 (this is in the past) so “last summer” not “this summer”. It checks that pupils
 understand that "chez nous" means “our house”. It also checks that “petit job”
 is understood as a part-time job as opposed to the literal translation of a
 small job.
-##### 3. History
+
+#### 3. History
+
 Which of these pairs of dates in ordinary numerals and Roman numerals is/are
 correct?
 
@@ -215,7 +224,9 @@ correct?
   <li>1332 – MCCCXXXII</li>
   <li>1514 – MDXVI</li>
   <li>2019 – MIIXIX</li>
-</ol>A and B are correct. 1514 is actually 1516, which checks that pupils
+</ol>
+
+A and B are correct. 1514 is actually 1516, which checks that pupils
 understand that a I before a V means 4 whereas a I coming after a V means 6. The
 last one is incorrect as it uses MII instead of MM.
 
@@ -223,21 +234,21 @@ Hinge questions can be used before, during or following exposition. Pupils may r
 
 For example, with the questions above, the teacher could ask pupils to raise their hands when the teacher says the correct answer. If they don’t want pupils to copy others’ answers, they could ask pupils to close their eyes while answering or answer electronically.
 
-### Video
+## Video
 
-#### Title
+### Title
 
 Hinge questions
 
-#### Video type
+### Video type
 
 Classroom practice
 
-#### Short description
+### Short description
 
 Teacher asks pupils hinge questions and gets responses.
 
-#### What should you focus on in this video?
+### What should you focus on in this video?
 
 Hinge questions can be a useful way to quickly assess pupil understanding.
 How does the teacher use hinge questions?
@@ -265,18 +276,21 @@ Which object can be picked up with a magnet?
   <li>A piece of wood.</li>
   <li>A piece of glass.</li>
 </ol>
+
 Harry, I saw you put your hand up for (A) an iron nail. Can you tell me why you think
-that is correct?  {/details}
+that is correct?
+
+{/details}
 
 You will have further opportunities to practise hinge questions with your mentor in Session 5.3.
 
-### 3. Follow-on questions
+## 3. Follow-on questions
 
 We can scaffold, extend or challenge pupils’ thinking by reframing questions. One way to do this is to use follow-on questions. The type of follow-on question, and how much guidance it offers to pupils, will depend on pupils’ knowledge and understanding.
 
 For pupils who need more support, more scaffolding is appropriate and the form is more likely to be a closed question; for those who need further stretch, we can ask open questions that encourage them to explore their answers further or respond to each other’s answers.
 
-#### Example: forces
+### Example: forces
 Pupils are going to be studying the topic “forces” and learning how balanced and
 unbalanced forces affect an object. This learning will then be built on to develop
 an understanding about Newton’s laws of motion, with quantitative approaches to calculating
@@ -340,41 +354,41 @@ So perhaps the key question then is: what makes classroom talk “high quality�
 
 Robin Alexander, a well-known proponent of dialogic teaching (2004), distinguishes five central elements of effective classroom talk as being “collective, reciprocal, supportive, cumulative and purposeful.”
 
-#### Element of classroom talk: Collective
+### Element of classroom talk: Collective
 
-##### What does it look like in the classroom?
+#### What does it look like in the classroom?
 
 - Teacher and pupils engage together in dialogue as opposed to the teacher doing all of the talking.
 - Anyone in the classroom can offer ideas, agree or disagree, ask questions or extend thinking.
 - The teacher must set up the expectations and encourage pupils to engage in active dialogue rather than passive listening.
 
-#### Element of classroom talk: Reciprocal
+### Element of classroom talk: Reciprocal
 
-##### What does it look like in the classroom?
+#### What does it look like in the classroom?
 
 - Pupils must listen to each other so they can respond.
 - Pupils might react to each other’s ideas with their own viewpoint or a different suggestion.
 - Answers should be justified and built upon by other pupils.
 
-#### Element of classroom talk: Supportive
+### Element of classroom talk: Supportive
 
-##### What does it look like in the classroom?
+#### What does it look like in the classroom?
 
 - All contributions should be valued and respected.
 - The teacher might introduce group discussion guidelines for pupils to adhere to.
 - Even better, the pupils could negotiate these themselves so they have greater ownership and agency of the classroom talk.
 
-#### Element of classroom talk: Cumulative
+### Element of classroom talk: Cumulative
 
-##### What does it look like in the classroom?
+#### What does it look like in the classroom?
 
 - In contrast to closed questions and recall, open-ended questions allow ideas to be explored and built upon.
 - The teacher might help link previous learning and ideas to deepen understanding.
 - It may be thought of as a continuous conversation throughout a lesson, a scheme of work or over an academic year – new ideas build on previous contributions.
 
-#### Element of classroom talk: Purposeful
+### Element of classroom talk: Purposeful
 
-##### What does it look like in the classroom?
+#### What does it look like in the classroom?
 
 - The teacher should have a goal in mind for any classroom talk – is it to explore a new idea, deepen understanding, reflect or clarify? - The talk should be well planned, including protocols such as how to contribute, length of time for the discussion and what happens next. - The teacher plays an important role to skillfully manage any classroom talk and keep it focused on the purpose intended – this might include giving sentence stems or facilitating the discussion.
 

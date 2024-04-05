@@ -31,7 +31,7 @@ Consider how you communicate with parents and carers of SEND pupils and capture 
 
 Some parents of SEND pupils may have faced negative experiences in communications with their child’s school previously. Some may themselves have additional needs. This might result in them finding it difficult to engage with teachers and school leaders and will require a personalised approach. For example, a parent may find meeting in a classroom or office intimidating. Instead, you could arrange to conduct a meeting in a soft-seating area in the school or build up to face to face meetings in the school after you have built a strong relationship through phone calls and email.
 
-### In your notepad
+## In your notepad
 
 1. How many parents/carers of the pupils with SEN have you had conversations with?
 2. What have these conversations told you?
@@ -47,13 +47,13 @@ The four broad areas of need and support are:
 
 Examples of the different types of need and potential classroom strategies are listed below. You will need to liaise with your school SENCO or other specialist colleagues to identify how best to use these types of strategies with individual pupils:
 
-#### Type of need: Communication and interaction
+### Type of need: Communication and interaction
 
 - Pupils with speech language and communication needs (SLCN)
 - Pupils with communication and interaction difficulties
 - Pupils with Autistic Spectrum Disorders (ASD)
 
-##### Classroom strategies
+#### Classroom strategies
 
 - Use visual supports around the classroom to support communication. These could be pictures/symbols/
   Makaton signs or a combination of them all.
@@ -62,11 +62,11 @@ Examples of the different types of need and potential classroom strategies are l
 - Make sure you give pupils the appropriate time to process a question or instruction (this will be different for all pupils). Teachers often fail to provide enough processing time.
 - Graphic organisers can support pupils to become more independent by presenting information through a combination of images and key words.
 
-#### Type of need: Cognition and learning
+### Type of need: Cognition and learning
 
 - Pupils who have difficulties with attention, memory, problem solving, reasoning, transfer of learning, language or literacy
 
-##### Classroom strategies
+#### Classroom strategies
 
 - Explicit teaching of reading. Teach pupils the different aspects of reading and explicitly teach the link between reading, spelling and writing.
 - Use of visual support / key words and cues to help students to be more independent in their learning, e.g. a wall display to show you to layout writing.
@@ -77,12 +77,12 @@ Examples of the different types of need and potential classroom strategies are l
 - Graphic organisers. Use graphical organisers such as cognitive maps or story frames to teach story structure and help reading comprehension.
 - Creating “sticky knowledge” books can support students in making links in their learning and develop their ability to transfer and generalise learning.
 
-#### Type of need: Behavioural, emotional and social development
+### Type of need: Behavioural, emotional and social development
 
 - Pupils who have social, emotional and behavioural difficulties (SEBD)
 - Pupils with attention deficit/hyperactivity disorder (ADHD)
 
-##### Classroom strategies
+#### Classroom strategies
 
 - Develop routines and use positively reinforcing language around behaviour. See Block 1 for more information on this.
 - Work with pupils and families to identify key motivators and design high-interest activities that you know will be engaging.
@@ -95,23 +95,23 @@ Examples of the different types of need and potential classroom strategies are l
 - Pupil logs. Provide pupils with a log to identify and write down preparation/behaviour difficulties. Reflect and review together.
 - Prompts. Provide pupil with prompts they can refer to or tick off, e.g. Did I get my pen out? Did I remember by reading book? Did I write my homework down?
 
-#### Type of need: Sensory and/or physical
+### Type of need: Sensory and/or physical
 
 - Pupils with visual impairments (VI)
 - Pupils with hearing impairments (HI)
 - Pupils with multi-sensory impairments (MSI)
 - Pupils who are physical disabled (PD)
 
-##### Classroom strategies
+#### Classroom strategies
 
 - Talk with your pupils and their families to discover their sensory preferences and how they respond to different stimuli.
 - Create multi-sensory areas in your classroom and a portable sensory suitcase that can follow a student around school.
 - Adapt the environment to increase access to and participation in learning. You might need to adapt seating plans, desk layout and organisation so that specific needs are met.
 - Explore and research different technology that can support sensory learners.
 
-#### Type of need:
+### Type of need:
 
-##### Classroom strategies
+#### Classroom strategies
 
 It is imperative that you know, understand and are able to action the safeguarding policy your school holds. You should:
 
@@ -119,7 +119,7 @@ It is imperative that you know, understand and are able to action the safeguardi
 - Identify the designated safeguarding lead
 - Familiarise yourself with actions to take if you need to enact safeguarding procedure
 
-### In your notepad
+## In your notepad
 
 1. Who is the designated safeguarding lead?
 2. Where can they be found?
@@ -127,7 +127,7 @@ It is imperative that you know, understand and are able to action the safeguardi
 
 As we have seen, many people in the school community can help you understand barriers and identify effective strategies for teaching pupils with SEND. In particular, the Special Educational Needs Co-ordinator (SENCO), has a vital role in leading schools’ approaches to supporting these pupils. As a teacher, you need to be proactive in establishing a working relationship with the SENCO.
 
-#### Building effective relationships
+### Building effective relationships
 
 Watch this video to hear a SENCO talk about their role.
 
@@ -136,44 +136,39 @@ Watch this video to hear a SENCO talk about their role.
 {details}
 Video transcript.
 
+I am a SENCO of a mainstream primary school with 250 children on roll from
+nursery through to Year 6. I am a class teacher for three days a week and have
+two days a week non-contact time to concentrate on my SENCO leadership and
+management role. There are 62 children on the SEN Register, and many more who
+we are monitoring closely. We follow government and local authority guidance,
+using documents like the SEND Code of Practice to plan our approaches to
+supporting pupils.
 
-  I am a SENCO of a mainstream primary school with 250 children on roll from
-  nursery through to Year 6. I am a class teacher for three days a week and have
-  two days a week non-contact time to concentrate on my SENCO leadership and
-  management role. There are 62 children on the SEN Register, and many more who
-  we are monitoring closely. We follow government and local authority guidance,
-  using documents like the SEND Code of Practice to plan our approaches to
-  supporting pupils. 
+My role is to lead on developing our policies and make sure that teachers are
+supported effectively to follow them. People think that my role is largely to
+do with paperwork: submitting referrals to outside agencies such as Speech and
+Language Therapists, Education Psychology, Autism Outreach, and completing
+applications for Education Health Care Plans, and it is true: this takes up a
+great deal of time. However, I am also here to monitor the quality of
+classroom provision for all children with SEND and advise teachers on how to
+make classrooms, and teaching and learning, more inclusive. I can signpost
+staff to other specialist help on specific needs, e.g. dyslexia and dyspraxia,
+and can also link teachers into CPD activities to support them to develop.
 
+One of the things that is part of my role is to team teach or observe in class
+to look at a specific child or group of children and work with the teacher to
+develop provision for them. This can be helpful if children don’t have a
+diagnosis or any extra hours allocated to them as it is something the teacher
+can do themselves.
 
+{/details}
 
-  My role is to lead on developing our policies and make sure that teachers are
-  supported effectively to follow them. People think that my role is largely to
-  do with paperwork: submitting referrals to outside agencies such as Speech and
-  Language Therapists, Education Psychology, Autism Outreach, and completing
-  applications for Education Health Care Plans, and it is true: this takes up a
-  great deal of time. However, I am also here to monitor the quality of
-  classroom provision for all children with SEND and advise teachers on how to
-  make classrooms, and teaching and learning, more inclusive. I can signpost
-  staff to other specialist help on specific needs, e.g. dyslexia and dyspraxia,
-  and can also link teachers into CPD activities to support them to develop. 
-
-
-
-  One of the things that is part of my role is to team teach or observe in class
-  to look at a specific child or group of children and work with the teacher to
-  develop provision for them. This can be helpful if children don’t have a
-  diagnosis or any extra hours allocated to them as it is something the teacher
-  can do themselves.
-
- {/details}
-
-### In your notepad
+## In your notepad
 
 1. What is the SENCO’s role?
 2. What support does the SENCO provide to teachers?
 
-### In your notepad
+## In your notepad
 
 
   How have you engaged with the SENCO in your school up to now?
@@ -185,9 +180,9 @@ Video transcript.
 
 Read through the following scenarios and potential action steps. Decide which one is closest to your current situation and which actions might be useful for you to implement.
 
-#### Scenario: You have been given a class list and there are three students who have special educational needs
+### Scenario: You have been given a class list and there are three students who have special educational needs
 
-##### Actions you may take
+#### Actions you may take
 
 - Talk to the previous teacher and ask them to share any key insights or strategies that were successful.
 - Contact the SENCO for support and advice.
@@ -195,9 +190,9 @@ Read through the following scenarios and potential action steps. Decide which on
 - Make any necessary adjustments to seating plans. For example, a pupil with a slight visual impairment would need to be moved to sit near the front of the room to be able to see the board clearly.
 - When talking to parents/carers, show awareness and understanding. Ask for any insights or strategies that have been previously successful. - Set up an ongoing dialogue with parents/carers so that you can discuss any issues that arise. - Work with the TA to adapt your approach for each pupil.
 
-#### Scenario: A pupil you teach who has special educational needs is clearly struggling
+### Scenario: A pupil you teach who has special educational needs is clearly struggling
 
-##### Actions you may take
+#### Actions you may take
 
 - Contact home and ask for support.
 - Contact the SENCO for support and advice.
@@ -206,22 +201,22 @@ Read through the following scenarios and potential action steps. Decide which on
 - Talk to the pupil and ask them to share any issues or concerns.
 - If necessary, set up a meeting with all stakeholders to make an action plan.
 
-#### Scenario: You think a pupil might have a special educational need but they have not been flagged to you
+### Scenario: You think a pupil might have a special educational need but they have not been flagged to you
 
-##### Actions you may take
+#### Actions you may take
 
 - Contact the SENCO. There is a chance the pupil is already on their radar. - Ask the SENCO for strategies that you could try putting into place for the pupil to support their learning.
 
-#### Scenario: You are concerned about the safety of a pupil
+### Scenario: You are concerned about the safety of a pupil
 
-##### Actions you may take
+#### Actions you may take
 
 - Immediately contact the Designated Safeguarding Lead.
 - You should familiarise yourself with the safeguarding protocol in your school.
 
-#### Scenario: A pupil makes a disclosure to you
+### Scenario: A pupil makes a disclosure to you
 
-##### Actions you may take
+#### Actions you may take
 
 - Stay calm. - Listen to the pupil.
 - Reassure the pupil that you are taking them seriously.

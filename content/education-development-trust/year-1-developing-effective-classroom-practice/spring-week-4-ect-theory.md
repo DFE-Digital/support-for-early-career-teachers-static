@@ -4,7 +4,7 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-4-ect-learning-outcomes"
 ---
 
-### Pupils learn at different rates
+## Pupils learn at different rates
 
 One of the greatest joys of teaching is getting to know your pupils and what makes them unique. These differences will range from their levels of motivation, attitudes towards school and learning to more fixed variables such as their ethnicity or gender. Some of these factors you can influence, and some of them are outside of your control.
 
@@ -23,7 +23,7 @@ Of course, teachers can certainly impact positively on pupils with special educa
 
 As a consequence of this array of differences, pupils are likely to learn at different rates and require different levels and types of support from teachers to succeed. Pupils need to be treated as individuals and a certain level of personalisation to their education is likely to be beneficial. Your task as a teacher is to work out how to do this in a way which is optimal in terms of pupil learning within the realities of teaching 30 pupils in each class.
 
-### Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching
+## Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching
 
 Understanding pupil differences is fundamental to good teaching. There are a number of ways to go about doing this:
 
@@ -32,7 +32,7 @@ Understanding pupil differences is fundamental to good teaching. There are a num
 - There will be colleagues in the school who know these pupils very well and understand what their barriers to learning might be. These colleagues can be a useful place to find information. In primary, talking to the teacher who taught your class the previous year will be an important part of the handover process, but you should feel that you can continue to ask more experienced colleagues for advice throughout the year. In secondary, it is likely that your school has a “tutor” system. Often the tutor or head of year/phase will know a lot about a pupil.
 - Understanding levels of prior knowledge can be sought through speaking to pupils’ previous teachers and looking at their test scores from the previous year. You will also have a role to play lesson by lesson in understanding levels of prior knowledge by using formative assessment. You will learn more about this in Block 5 on questioning, assessment and feedback.
 
-#### Understanding pupil differences
+### Understanding pupil differences
 
 Watch this video of a teacher talking about how he goes about understanding what the differences are between his pupils.
 
@@ -50,25 +50,25 @@ When I plan for the first day I always start by saying that whoever they were la
 
 {/details}
 
-### Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success
+## Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success
 
 Watch the following video. You will notice that the pupils have all been given the same task. This is not because the pupils are of the same ability. Carefully consider the actions of the teacher. Bring your notes to Mentor Session 6 where you will discuss them.
 
-### Video
+## Video
 
-#### Title
+### Title
 
 Assertive monitoring
 
-#### Video type
+### Video type
 
 Classroom practice
 
-#### Short description
+### Short description
 
 The pupils have all been given the same task. This is not because the pupils are of the same ability.
 
-#### What should you focus on in this video?
+### What should you focus on in this video?
 
 - What is the teacher doing in the lesson to maximise each pupil’s progress during their independent practice?
 - What did the teacher need to think about or prepare before the lesson in order to do this?
@@ -102,7 +102,7 @@ Teacher approaches an individual pupil and reads their work.
 
 You will have the opportunity to practise this technique in Activity 3.5.
 
-### Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils
+## Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils
 
 Until quite recently the prevailing trend was to create distinct tasks for different groups of pupils within the classroom as a differentiation technique, e.g. the teacher producing multiple versions of the same worksheet. Not only did this approach affect teacher workload, activities of this kind can place limits on pupil achievement.
 
@@ -112,7 +112,7 @@ With these strategies, teachers had different expectations of what pupils could 
 
 Your approach should be to have high expectations of every child, looking for ways to support each of them step by step to achieve the learning objectives.
 
-### There is a common misconception that pupils have distinct and identifiable learning styles. This is not supported by evidence and attempting to tailor lessons to learning styles is unlikely to be beneficial
+## There is a common misconception that pupils have distinct and identifiable learning styles. This is not supported by evidence and attempting to tailor lessons to learning styles is unlikely to be beneficial
 
 Learning styles theory was popular in education for some time with many people believing that individuals had a preferred learning style (e.g. auditory, visual, kinesthetic) and that pupils would learn better if taught in that predominant style. This is not supported by any credible evidence (Willingham, 2010) and attempting to tailor lessons to learning styles is unlikely to be beneficial.
 
