@@ -4,7 +4,7 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/spring-week-5-ect-research-and-practice-summary"
 ---
 
-### Review: 10 mins
+## Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
 
@@ -12,9 +12,9 @@ Read the Research and Practice Summary on this week’s topic. As you read, refl
 2. the practices you are doing some of the time, but could do more of/more consistently
 3. the practices you don’t use in your teaching yet
 
-### Plan: 10 mins
+## Plan: 10 mins
 
-#### Self-assessment
+### Self-assessment
 
 In your context, consider how effectively you use classroom talk and how effective your guidance of paired/group activities is. For each of the statements in the list below, reflect on your current practice and consider whether you do these things rarely, always or somewhere in between. You could either do this for a single lesson/single class or for your teaching as a whole.
 
@@ -25,9 +25,9 @@ In your context, consider how effectively you use classroom talk and how effecti
 
 Summarise your reflections from this activity. If you have considered one class or group of pupils, do you think that your responses would be the same when considering a different group?
 
-### Theory to Practice: 20 mins
+## Theory to Practice: 20 mins
 
-#### 1. Independent planning
+### 1. Independent planning
 
 Planning for different groupings. Perhaps, in your self-assessment above, you said you ‘rarely’ give opportunities for structured classroom talk, or for collaborating in different grouping; or perhaps you said you ‘always’ do. You are now going to plan a lesson in two different ways. Use this opportunity to experiment a little:
 
@@ -38,6 +38,6 @@ Planning for different groupings. Perhaps, in your self-assessment above, you sa
 
 An interesting development here would be to try and create the worst possible groupings and explain why these groupings might not work – in doing this you will be considering (and then ignoring) all of the key considerations for effective group work. We are not suggesting that you should teach this deliberately poorly grouped lesson!
 
-### Next Steps: 5 mins
+## Next Steps: 5 mins
 
 Be ready to share this, and your other learning from this session, with your mentor in your next meeting with them.

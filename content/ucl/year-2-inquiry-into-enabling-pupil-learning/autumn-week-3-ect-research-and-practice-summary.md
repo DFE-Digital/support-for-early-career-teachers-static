@@ -6,13 +6,13 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-2-inquiry-into-enabling-pupil-learning/autumn-week-3-ect-self-study-activities"
 ---
 
-### Case Studies
+## Case Studies
 
 These case studies explore how two teachers developed their own teaching and conducted their own practitioner inquiries into setting high expectations and managing behaviour effectively. Both are interesting but you should focus on the one most closely related to the exploratory question you are working on. The case studies set out the issue the teacher was interested in, how they gathered evidence about the impact upon pupils of their own normal practice and how they used the research embedded in the ECF to decide how to introduce an alteration to the way they taught.
 
 When studying these case studies, you will need to take account of your own pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Setting high expectations
+## Setting high expectations
 
 Sam, a Year 5 teacher, believes that he is good at forming positive relationships
 with his class. He has a proactive approach to behaviour management, and he encourages
@@ -45,7 +45,7 @@ of one week. The data Sam collected suggested the following:
   What alteration to his teaching might Sam make to improve the levels of
   challenge, support and feedback he provides for pupils?
 
-### A multifaceted approach to setting high expectations
+## A multifaceted approach to setting high expectations
 
 Reflecting on the data he had collected, Sam looked again at the research on high expectations in the Early Career Framework to help him plan an intervention based around setting high expectations. He realised that setting high expectations is a complex process, with many moving parts. Sam therefore decided to create a multifaceted ‘high expectations plan’, comprising the following elements:
 
@@ -54,7 +54,7 @@ Reflecting on the data he had collected, Sam looked again at the research on hig
 - he wanted to model for them how pupils like them might respond to a classroom environment where the expectations were high – he invented a fictional pupil, ‘risk-taking Sam’, but told them that Sam was based on himself; he did this to a) model what it looks like to take risks and push yourself out of your comfort zone; b) model common mistakes and misconceptions made by pupils in the class; c) help pupils anticipate common misconceptions and identify solutions before they arise; and d) create an environment where risk-taking and mistake-making are embraced as a part of the learning process – he hoped in this way to influence the attitudes of his pupils
 - contact the parents and carers of three pupils each week to celebrate success where pupils have reached or exceeded expectations in maths
 
-### Managing behaviour effectively
+## Managing behaviour effectively
 
 Meera knows that behaviour in her Year 8 classes needs to improve. Each week, she
 spends several hours setting, running and chasing up detentions. Often, these detentions
@@ -113,7 +113,7 @@ as an Additional Language (EAL) in Year 8.
 What alterations to her practice might Meera begin to try to improve the
 behaviour of pupils in her lessons?
 
-### A multifaceted approach to managing behaviour effectively
+## A multifaceted approach to managing behaviour effectively
 
 After she had pulled together all her evidence, Meera identified a number of strategies she wanted to try in order to improve behaviour in her Year 8 lessons, centred around memorable behaviour routines:
 

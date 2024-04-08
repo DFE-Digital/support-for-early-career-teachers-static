@@ -8,9 +8,9 @@ next_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-2-ect-se
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
-#### Questioning for assessment in a Year 11 history lesson
+### Questioning for assessment in a Year 11 history lesson
 
 Seda wants to introduce a topic on the Puritan Threat, part of a unit on Elizabethan
 England. Pupils have already studied the Religious Settlement and Catholic Threat,
@@ -38,7 +38,7 @@ To support pupil learning through effective formative assessment, you could draw
 - activating students as learning resources for one another (e.g. by explicitly teaching strategies such as peer-assessment)
 - activating students as owners of their own learning (e.g. by explicitly teaching pupils strategies to monitor and regulate their own learning)
 
-### Case study: part 2
+## Case study: part 2
 
 Seda could use these strategies with her class by planning some activities at the beginning of the topic which encourage pupils to share their current understanding about the core ideas. This would give her the information she needs to plan the rest of the topic.
 
@@ -73,7 +73,7 @@ To use questions to support the accurate and productive use of assessment, you c
 - use multiple-choice questions to identify knowledge gaps and misconceptions during lessons (a good source of well-constructed multiple-choice questions can be past examination papers, if these are available in your phase and specialism)
 - prompt pupils to elaborate when responding to questioning to check that correct answers stem from secure understanding (e.g. ‘tell me how you reached that answer’, ‘what tells you that this is the correct answer?’ or ‘can you explain to me why this answer is incorrect?’)
 
-### Case study: part 3
+## Case study: part 3
 
 High-quality multiple-choice questions make use of all options to tell the teacher something about pupils’ understanding:
 
@@ -87,9 +87,9 @@ In Seda’s case, she could use her knowledge of the typical errors that pupils 
 
 Performance is used to describe ‘what a pupil can do at a given moment.’ How well they do in a test, for example, can be described as their performance. Teachers draw inferences about what pupils have learned by looking at their performance in assessments. Externally validated assessment instruments – exams and standardised tests – are useful for determining a pupil’s current level of performance within a particular domain. However, there are disadvantages to the use of high-stakes tests, since a single point of assessment (performance) is, by definition, not a reliable measure of what a pupil has really learned. It is therefore more valid and reliable to draw conclusions about what pupils have learned by looking at patterns of performance over a number of assessments. You will explore this idea further in the ECT training session for this module.
 
-### Case study: part 4
+## Case study: part 4
 
-#### What did Seda do? The principles of assessment in practice
+### What did Seda do? The principles of assessment in practice
 
 Seda decides to write several multiple-choice questions as a starter activity, with
 common misconceptions built into the distractors (wrong answers). Pupils quickly

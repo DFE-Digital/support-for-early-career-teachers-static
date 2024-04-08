@@ -4,7 +4,7 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-2-inquiry-into-enabling-pupil-learning/autumn-week-3-ect-research-and-practice-summary"
 ---
 
-### Review: 5 mins
+## Review: 5 mins
 
 Read the case studies on this week’s topic, or the one that is most relevant to the exploratory question you are investigating. As you read, reflect on:
 
@@ -12,9 +12,9 @@ Read the case studies on this week’s topic, or the one that is most relevant t
 2. how, despite any differences there may be to your own context, this case study may still be relevant to you
 3. what lessons there might be for the way you conduct your own inquiry
 
-### Plan: 5 mins
+## Plan: 5 mins
 
-#### Action planning
+### Action planning
 
 At the conference, you decided with your mentor what your exploratory question would be and how you would collect evidence of the impact upon your pupils of your normal practice.
 
@@ -25,11 +25,11 @@ Plan out how you are going to do that; for example:
 
 Remember, this is a very short inquiry, so you should not attempt to collect large amounts of data. However, do try to ensure that the data you collect are valid for your inquiry (i.e. that they offer evidence to help you answer your question).
 
-### Theory to Practice: 40 mins
+## Theory to Practice: 40 mins
 
 How you collect your evidence will depend upon the area of practice you are developing. However, it is likely to include the following:
 
-#### 1. Analyse artefact and reflection
+### 1. Analyse artefact and reflection
 
 Your question may have been something like:
 
@@ -43,21 +43,21 @@ Schools retain data on all sorts of aspects pertaining to the behaviour of pupil
 
 When collecting these sorts of data, it is helpful to bear in mind:
 
-##### Validity
+#### Validity
 
 The sources you analyse will contain much more data than you need for your inquiry. It may be interesting, but don’t be distracted: only collect the evidence that helps answer your question. For example, if you are investigating the boys in a class, look for the data only on them.
 
-##### Reliability
+#### Reliability
 
 The data you find might be true for a particular time in the past – are they still true now? For example, is a pupil’s past behaviour record reliable evidence of their behaviour patterns now?
 
-##### Manageability
+#### Manageability
 
 For a short inquiry such as this, you must be selective: don’t attempt to analyse all possible sources. Look first for the naturally occurring data: those which are available to you as a normal part of your job.
 
 Meera looked at the behaviour data on the school’s system relating to all her classes but noticed that most problems were occurring in her Year 8; hence, she decided to look further only at those data. By doing so, she noticed a pattern that most of the pupils she regularly set detentions for were boys who speak English as an Additional Language (EAL).
 
-#### 2. Discuss with pupils
+### 2. Discuss with pupils
 
 Your question may have been something like:
 
@@ -67,18 +67,18 @@ Your question may have been something like:
 
 When collecting evidence of pupils’ attitudes in a short inquiry, it is helpful to bear these three rules in mind when asking your questions:
 
-##### Are they valid?
+#### Are they valid?
 Only ask the questions that you need the answers to for your inquiry.
 
-##### Are they reliable?
+#### Are they reliable?
 Make sure your pupils understand the questions and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…
 
-##### Is it manageable?
+#### Is it manageable?
 Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them. When can you collect pupil voice data? Can you do it in your lesson by a show of hands, or by speaking to a small group for 3 minutes while their classmates get on with independent learning? Do you need 5 minutes of a break time? don’t use up more of your – or their – time than is strictly necessary.
 
 Sam decided to give his class a short, hand-up survey. Because he wanted to be sure he understood those findings and could rely on them, he then interviewed a small, representative sample of pupils in focus groups over three morning breaks.
 
-#### 3. Self-assessment
+### 3. Self-assessment
 
 In preparation for your mentor meeting, write a simple evidence statement to describe what the evidence seems to be saying about your normal practice. This does not have to be definitive: it just describes what you think the evidence is saying about your practice now.
 
@@ -92,6 +92,6 @@ Meera, in Case Study B, said:
 
 > ‘I am exhausted after every lesson with this class because I am struggling to manage their behaviour effectively. I had the impression that every pupil was misbehaving but, of course, that wasn’t true. Our data management system tracks the behaviour points and merits for all pupils. I realised that my difficulties were mainly in Year 8. I noticed that, for this class, 90% of the behaviour points I was logging was for boys, often boys with EAL. Also, other teachers were not logging so many behaviour points for the same boys. This seems to suggest that there are things I could do to more effectively manage their behaviour, which would help the whole class.’
 
-### Next Steps: 5 mins
+## Next Steps: 5 mins
 
 Bring your simple evidence statement and any supporting data to your next mentor meeting. Be ready to discuss this with your mentor. In that meeting, you will discuss with your mentor any alteration to your practice that might make a positive difference to your pupils.

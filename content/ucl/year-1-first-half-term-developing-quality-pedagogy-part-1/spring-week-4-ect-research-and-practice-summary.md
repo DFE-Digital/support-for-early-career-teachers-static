@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/sprin
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Modelling metacognitive strategies – Year 1 Science
+## Modelling metacognitive strategies – Year 1 Science
 
 Christine is teaching science to her Year 1 class. She wants them to be able to name
 a variety of common animals including fish, amphibians, reptiles, birds and mammals,
@@ -50,7 +50,7 @@ Will any of these strategies be useful for Christine?
 
 Modelling is an instructional strategy in which the teacher demonstrates a new concept or approach to learning and pupils learn by observing. It describes the process of learning or acquiring new information, skills, or behaviour through observation, rather than through direct experience or trial-and-error efforts. Modelling involves using a new method or concept as part of the instruction process, so that pupils can hear or see what you intend them to do. It helps them to understand more clearly how to solve a problem or construct a sentence, for example, by seeing it being done. It also enables them to practise more effectively, and therefore encode and consolidate the new learning in the long-term memory. Examples of modelling include written, visual or video guides, scaffolding, and worked examples.
 
-### What Christine did – a script of her lesson
+## What Christine did – a script of her lesson
 
 "I want to see if I can remember the names of the different animal groups. I have
 a cool way of remembering them. It’s linked to a pet shop I go to called FARM B.

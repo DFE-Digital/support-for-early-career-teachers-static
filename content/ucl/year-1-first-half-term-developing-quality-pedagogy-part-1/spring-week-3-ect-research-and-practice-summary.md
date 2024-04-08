@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/sprin
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Exposition and questioning – ‘How books work’ in Early Years
+## Exposition and questioning – ‘How books work’ in Early Years
 
 As an Early Years teacher, Jo needs to teach her pupils how written language works.
 This includes how books work. There is a lot of knowledge pupils need to acquire
@@ -70,7 +70,7 @@ Recording key questions in schemes of work also encourages teachers to identify 
 
 Jo will certainly be asking lots of questions, to check her pupils’ understanding and to help her break down the problems for them.
 
-### What did Jo do?
+## What did Jo do?
 
 Jo decided to ‘chunk’ the knowledge and understanding of how written language in
 books works. She also chose to give the pupils repeated exposure to the steps, so

@@ -8,9 +8,9 @@ next_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-4-ect-se
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts. You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
-#### Giving high-quality feedback
+### Giving high-quality feedback
 
 Helen and Aaron have been marking their Year 3 English books together and are really
 pleased with how much their pupils have improved since September. They have been
@@ -44,7 +44,7 @@ There is no one ‘best’ approach to giving feedback. When providing any feedb
 
 Using the categories above may help you to think more critically about the options available to you, and the choices you make, as you plan and teach lessons.
 
-### Case study: part 2
+## Case study: part 2
 
 Helen’s belief that ‘written feedback is more powerful than verbal feedback’ is clearly incorrect. We could re-write this as ‘sometimes, written feedback is more powerful than verbal feedback’.
 
@@ -56,7 +56,7 @@ Too much feedback, especially focusing on weaknesses, can be dispiriting.
 
 Providing excessive feedback can also cause cognitive overload, reducing pupils’ ability to process the feedback successfully. Even if pupils can process a lot of feedback at once, excessive volume can be overwhelming and confusing, meaning that pupils struggle to separate out, and take on board, key messages. Therefore, when giving feedback, you should consider what to prioritise and what may more helpfully be left out. It may be helpful to consider, ‘what is the best next step in learning?’
 
-### Case study: part 3
+## Case study: part 3
 
 Helen’s belief that ‘the more feedback you give, the better’ is also incorrect.
 
@@ -72,9 +72,9 @@ To ensure that your use of feedback contributes to pupils’ learning, you shoul
 - provide opportunities to act on feedback – this requires allocating lesson time or incorporating it into home learning
 - know your pupils – tailor your language, feedback and tone to the characteristics of your specific pupils, while maintaining and demonstrating high expectations of all
 
-### Case study: part 4
+## Case study: part 4
 
-#### Improving feedback
+### Improving feedback
 
 Aaron and Helen shared some examples of feedback that they’d written for pupils recently
 on some English homework.
@@ -117,9 +117,9 @@ Peer relationships may influence the effectiveness of peer-assessment. Teachers 
 
 Self-assessment is when pupils work with their teachers to agree a set of success criteria against which they can assess their current performance. It is most useful when deployed formatively (while a task is ongoing). Self-assessment will be allied with a set of ‘targets-for-self’, steps the pupil sets themselves to improve upon their work. Self-assessment has similar benefits as peer-assessment and is a key element in formative assessment. It is good way of teaching pupils to monitor and regulate their own learning.
 
-### Case study: part 5
+## Case study: part 5
 
-#### Supporting pupils in monitoring and regulating their own learning
+### Supporting pupils in monitoring and regulating their own learning
 
 Helen is pleased with the quality of her class’s writing so far. Now she wants them
 to do more to monitor and regulate their own learning. Specifically, she would like
@@ -143,9 +143,9 @@ To help you to improve the quality of peer- and self-assessment, you should:
 - explain to your pupils that there are benefits to giving feedback as well as receiving it - it can help the assessor to develop a better understanding of the most effective approaches to take to complete a task well
 - invite your pupils to feed back to each other on how it felt to be peer assessed (this can build mutual trust and cooperation)
 
-### Case study: part 6
+## Case study: part 6
 
-#### Combining feedback approaches as part of a learning cycle in GCSE business
+### Combining feedback approaches as part of a learning cycle in GCSE business
 
 Alessia has a clear structure to the feedback that she provides on substantial pieces
 of pupils’ work. She makes sure that her feedback covers the following, using the

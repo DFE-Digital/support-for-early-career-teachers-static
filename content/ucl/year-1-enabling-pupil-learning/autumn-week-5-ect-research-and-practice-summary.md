@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-5-ect-self-study-act
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Observations and conclusions
+## Observations and conclusions
 
 After another difficult Year 8 geography lesson, Amy is concerned about her pupils.
 She hoped that her enthusiasm for geography would quickly develop pupils’ love of
@@ -41,7 +41,7 @@ Resilience refers to the ability to cope with and overcome challenges. Supportin
 
 Resilience is linked to pupils’ beliefs about their ability to succeed – they are more likely to persist in the face of challenge or adversity if they believe that they will, eventually, achieve their goal. An important way that teachers can influence their pupils’ beliefs in this area is to create regular opportunities for pupils to experience meaningful success. ‘Meaningful success’ could mean different things to different pupils – for some it will be working through a tricky activity on their own; others may value answering questions correctly in front of their peers. Where challenge is too low, success is unlikely to be meaningful. Challenge is a function of the learning goal of the lesson and the degree of support available to help reach this goal.
 
-### To help all of your pupils experience meaningful success on a regular basis, and develop resilience, you should:
+## To help all of your pupils experience meaningful success on a regular basis, and develop resilience, you should:
 
 - pitch the learning goals of your lessons to be challenging enough for pupils that success has meaning (i.e. that it’s not too easy to succeed), but not so challenging that success seems out of reach
 - adapt the level of support, or scaffolding, available to all pupils – including both lower and higher attainers. This will help all pupils to master the challenge in the lesson, with sufficient effort to make success meaningful, and learn what you want them to learn
@@ -49,7 +49,7 @@ Resilience is linked to pupils’ beliefs about their ability to succeed – the
 - be specific in your use of praise so that it is clear to pupils when and how they are ‘succeeding’ (e.g. ‘that was an excellent answer because…’ or ‘what an improvement since last week. You’ve really improved your…’)
 - praise pupils’ attitude and effort as well as outcomes of their work – emphasise the importance of learning behaviours that lead to success in the longer term
 
-### Supporting pupils’ resilience and beliefs about success
+## Supporting pupils’ resilience and beliefs about success
 
 Amy reflected on her mentor’s feedback and decided to explore her pupils’ behaviour
 some more. She observed them with another teacher and was impressed at how engaged
@@ -75,13 +75,13 @@ In any scenario pupils will be influenced by both types of motivation, but devel
 
 It is important to recognise that motivation is not visible, and that it is easy to make assumptions about the motivations behind pupil behaviours that may not be correct. It is helpful to remain mindful of the difference between observable actions and hypotheses about the drivers of these actions. For example, a pupil who appears ‘lazy’ may in fact by struggling to focus because of events happening outside school in their family or friendship group, or because the work they are completing is not sufficiently challenging.
 
-### To increase pupils’ motivation, you can support them to:
+## To increase pupils’ motivation, you can support them to:
 
 - master challenging content, which builds towards long-term goals – success is motivating, especially when it is challenging to achieve and links with pupils’ long-term goals. For instance, accurately and judiciously using challenging, technical vocabulary in writing will motivate an aspiring journalist
 - explore their long-term goals – whether or not they articulate them freely, most pupils have long-term goals. However, there is often a mismatch between these goals and what pupils think they need to do to achieve them. Discussing long-term goals with pupils and linking this to their learning can be highly motivational. For instance, you may be able to make connections between pupils’ goals and their current learning that they are not aware of such as between the digestive system in biology and a pupil interested in becoming a chef. You might also highlight to pupils the value of transferable skills that they are developing, and where qualifications are a prerequisite to the career path that they wish to follow
 - develop intrinsic motivation – extrinsic motivation can be a very powerful driver, but it is not always sustainable for pupils in the long term – into adulthood – because it relies on an external source of reward and sanction. You should help your pupils to journey from needing extrinsic motivation towards having the intrinsic motivation to work without external input. As well as supporting pupils to master challenging content and connect learning to personal goals, you can help them to find interest and enjoyment in their studies. For instance, by demonstrating your own enthusiasm for what you are teaching, or through the pedagogical approaches you use
 
-### Motivating reluctant learners
+## Motivating reluctant learners
 
 Much of what Amy is now doing will help to increase her pupils’ motivation as well
 as their resilience and self-belief. As pupils experience meaningful success more

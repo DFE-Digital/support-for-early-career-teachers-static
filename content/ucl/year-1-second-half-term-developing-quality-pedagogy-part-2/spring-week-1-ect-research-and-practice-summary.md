@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spri
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
 Molly is a Year 8 pupil with a moderate learning difficulty.
 
@@ -31,7 +31,7 @@ To help you identify and overcome pupils’ barriers to learning, you should:
 - learn more about your pupils’ barriers by liaising with their families and other colleagues
 - if you have them, talk to teaching assistants or learning support advisors who may be keyworkers for the pupils you teach
 
-### Case study: part 2
+## Case study: part 2
 
 Molly’s teachers know that she has a moderate learning difficulty but they may not all understand what strategies have proven to work well for her.
 
@@ -69,7 +69,7 @@ To help your pupils with specific learning needs to learn through practice you s
 - design practice tasks to ensure a high success rate for your pupils, but
 - over time, increase the challenge, for example by removing scaffolding or by increasing the length of time between visits to the topic
 
-### Case study: part 3
+## Case study: part 3
 
 Mr Andrews planned a Year 8 lesson on the ‘problems of living in a city’.
 

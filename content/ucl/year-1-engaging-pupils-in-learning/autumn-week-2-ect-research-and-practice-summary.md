@@ -8,9 +8,9 @@ next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-2-ect-self-study
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
-#### Drawing on long-term memory to support working memory in Year 9 English
+### Drawing on long-term memory to support working memory in Year 9 English
 
 Hasan is teaching Macbeth to a Year 9 English class of mixed attainment. He wants
 his pupils to be able to explain the likely impact upon an Elizabethan audience of
@@ -24,7 +24,7 @@ Knowledge can be defined as familiarity, awareness or understanding of facts, in
 
 If a pupil has a poor store of prior knowledge in their long-term memory (i.e. if they are a novice), they are likely to struggle to acquire new knowledge in lessons because their grasp of foundational concepts will not be secure and their working memory can become overloaded.
 
-### Case study: part 2
+## Case study: part 2
 
 Hasan suspects that some of his pupils have poor or inaccurate knowledge of attitudes towards witches in the Jacobean period. What techniques could Hasan use to get a better idea of where pupils’ inaccuracies lie?
 
@@ -55,9 +55,9 @@ To help your pupils avoid cognitive overloading their working memory, you can:
 - reduce distractions that take attention away from what is being taught (e.g. removing unnecessary animation or images from a PowerPoint slide or simplifying and sequencing instructions so that they are clearly and logically stated)
 - remind pupils of what they have already been taught and how the new information that they are being introduced to relates to this (e.g. by explicitly comparing content in the current lesson to that in past lessons)
 
-### Case study: part 3
+## Case study: part 3
 
-#### What did Hasan do?
+### What did Hasan do?
 
 In today’s lesson, Hasan set up table discussions with these two questions: Why did
 people believe in witches in the 16th century? What did people believe about a witch’s

@@ -8,9 +8,9 @@ next_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-5-ect-se
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
-#### Reducing the opportunity cost of marking
+### Reducing the opportunity cost of marking
 
 Sara stretched her stiff neck and arms and put down her pen. Finally, she had finished
 marking her pupils’ books.
@@ -45,9 +45,9 @@ An important strategy for maximising efficiency when marking is to prioritise th
 
 Mistakes are usually accidental – the pupil could identify and self-correct the mistake if prompted to. Errors can be more serious for learning because they arise from a lack of knowledge or misunderstanding. Although it can be tempting to point out to pupils the full range of mistakes across a task, this has two potentially negative consequences - the time it takes you to mark and the chance of overwhelming pupils with comments across their work. Aim to focus feedback on errors relating to the core concepts of the lesson. To reinforce the importance of good literacy across all subjects, you might correct the first three mistakes of general spelling, punctuation and grammar in a piece of work, then focus only on errors related to misunderstandings in the rest of the task. A general prompt to proof-read work carefully might be useful if careless mistakes are a common occurrence, but the focus of your feedback time can then be dedicated to securing and deepening pupils’ understanding of the concepts most central to their learning.
 
-### Case study: part 2
+## Case study: part 2
 
-#### Using codes to improve Sara’s approach to marking
+### Using codes to improve Sara’s approach to marking
 
 What could Sara do differently in the situation described above?
 

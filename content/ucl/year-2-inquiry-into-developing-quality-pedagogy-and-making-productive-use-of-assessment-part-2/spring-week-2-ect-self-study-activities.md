@@ -4,7 +4,7 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-2/spring-week-2-ect-research-and-practice-summary"
 ---
 
-### Review: 5 mins
+## Review: 5 mins
 
 Read the case studies on this week’s topic, or the one that is most relevant to the exploratory question you are investigating. As you read, reflect on:
 
@@ -12,9 +12,9 @@ Read the case studies on this week’s topic, or the one that is most relevant t
 2. how, despite any differences there may be to your own context, this case study may still be relevant to you
 3. what lessons there might be for the way you conduct your own inquiry
 
-### Plan: 5 mins
+## Plan: 5 mins
 
-#### Action planning
+### Action planning
 
 Take a few minutes to plan how you will use your self-directed study time this week. Think about:
 
@@ -31,11 +31,11 @@ Take a few minutes to plan how you will use your self-directed study time this w
 
 So, this week you might divide your time between analysing evidence you already have and designing a collection tool for evidence you don’t.
 
-### Theory to Practice: 40 mins
+## Theory to Practice: 40 mins
 
 How you collect your evidence will depend upon the area of your practice that you are seeking to improve and the evaluative inquiry question you are asking. However, it is likely to include the following:
 
-#### 1. Analyse artefacts and data
+### 1. Analyse artefacts and data
 
 Remind yourself of the area of your practice that you are trying to improve and of your evaluative inquiry question, and think again about the sources of evidence that might shed light upon it. These might include ‘artefacts’ such as the following:
 
@@ -67,7 +67,7 @@ Mo filmed a second lesson to compare it with the first, and likewise watched it 
 
 All of these methods were manageable and gave them a reliable insight into the emerging effects of the alterations to their practice and their evaluative inquiries.
 
-#### 2. Discuss with pupils
+### 2. Discuss with pupils
 
 Remind yourself of the area of your practice that you are trying to improve and of your evaluative inquiry question and think again about the sources of evidence that might shed light upon it. These might include examples of pupil voice such as the following:
 
@@ -94,7 +94,7 @@ Vashti also carried out individual interviews with each of the 4 target pupils a
 
 Louise carried out a hands-up pupil survey with her experimental class (before and after the half-term), to capture their thoughts on marking, and followed this up with a focus group conversation with a small group of pupils for 10 minutes at lunchtime.
 
-#### 3. Self-assessment – making the claim
+### 3. Self-assessment – making the claim
 
 In preparation for your mentor meeting next week (where you will revisit your Module 8 audit), write a ‘claim’ to describe what the evidence seems to be saying about the impacts of your alteration to practice. This will still not be definitive: there are still some weeks to go before your inquiry is finished. It is useful to get into the habit of evaluating the impact of what you are doing, to help you decide in the future what you will continue to do, what you will do more of, and perhaps what you will stop doing.
 
@@ -132,7 +132,7 @@ Through expanding his range of questioning approaches, Mo learned better how to 
 
 And because he has developed his questioning practice to this extent, Mo has decided to apply the same approaches to his other classroom-based lessons.
 
-### Next Steps: 5 mins
+## Next Steps: 5 mins
 
 Bring your claim to your mentor meeting next week and be ready to discuss this with them.
 

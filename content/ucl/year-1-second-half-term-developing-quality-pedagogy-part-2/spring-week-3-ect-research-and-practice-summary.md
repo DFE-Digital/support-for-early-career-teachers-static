@@ -8,9 +8,9 @@ next_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spri
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
-#### Making new concepts accessible through targeted support: Year 12 Psychology
+### Making new concepts accessible through targeted support: Year 12 Psychology
 
 Conn is struggling with his Year 12 A Level Psychology class.
 
@@ -41,7 +41,7 @@ To help your pupils make progress you should:
 - change your groups frequently
 - rather than plan different tasks and lessons, intervene within lessons with individuals and small groups
 
-### Case study: part 2
+## Case study: part 2
 
 Conn changed his approach. Alongside better scaffolding of information, the teacher decided to group his pupils based on current assessment data.
 
@@ -59,7 +59,7 @@ To help your pupils master foundational concepts, you should:
 - with your colleagues, identify the likely common misconceptions that can hamper understanding of the important concepts
 - give concrete examples and metaphors as these are often useful in helping pupils understand abstract concepts (e.g. stories and narratives, sayings, rules, mnemonics, equations and models)
 
-### Case study: part 3
+## Case study: part 3
 
 Conn’s pupils were able to use the scaffolds and prompts to access their prior understanding and work collaboratively to produce a labelled diagram of nature versus nurture.
 
@@ -71,7 +71,7 @@ He didn’t produce a different lesson plan or resources for them or have a sepa
 
 During the lesson, the teacher moved around the room and used questioning to check individual pupils’ understanding. By doing this, he was able to identify where additional/less scaffolding was required and adapt his intervention accordingly.
 
-#### What did Conn learn about making new concepts accessible through targeted support?
+### What did Conn learn about making new concepts accessible through targeted support?
 
 Conn saved time by not producing extra resources for the class, instead refocusing
 his attention in lesson to target his support where it was needed.

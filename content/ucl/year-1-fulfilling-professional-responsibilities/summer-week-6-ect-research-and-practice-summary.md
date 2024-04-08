@@ -8,9 +8,9 @@ next_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week-6-e
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions on how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
-#### Improving Harry’s questioning
+### Improving Harry’s questioning
 
 Harry is a very effective teacher who works hard to keep improving. His pupils are
 doing well and enjoy their English lessons, and Harry’s colleagues recognise the
@@ -41,9 +41,9 @@ Other sources of information to guide your professional development:
 - feedback from colleagues – colleagues can bring a fresh perspective and may have specialist knowledge that can help you to improve. Seeking their constructive challenge, feedback and critique can help you to improve
 - pupil data and views – ultimately, effective teacher professional development is about improving pupil outcomes. Therefore, it is important to use information about pupils, including their views, to inform your reflections. However, it is important to be mindful of the limitations of the data you are using and to exercise professional judgement in interpreting this data, as you would in all cases
 
-### Case study: part 2
+## Case study: part 2
 
-#### Harry’s professional development
+### Harry’s professional development
 
 Harry knows that effective questioning can fulfil many different purposes, including
 checking pupils’ prior knowledge. Therefore, questioning is a powerful way of supporting

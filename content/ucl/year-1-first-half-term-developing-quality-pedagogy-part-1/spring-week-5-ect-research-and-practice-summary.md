@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/sprin
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Collaborative classroom talk – Year 11 geography
+## Collaborative classroom talk – Year 11 geography
 
 In Sarah’s Year 11 geography lesson, she wanted her pupils to think hard about different
 economic and social measures of development (gross national income (GNI) per head,
@@ -42,7 +42,7 @@ To help develop quality classroom talk, you should:
 - create shared expectations and routines, such as listening to and respecting everyone, to support high-quality classroom talk (e.g. introducing specific frameworks and approaches that pupils can use to guide their talk. This may be as simple as providing specialist vocabulary or sentence stems to develop pupils’ thinking)
 - model polite, constructive talk by insisting on rules for turn-taking. (This can be more than ‘hands up’ – for example, it could include handovers such as ‘I agree with Sara because... I would like to challenge what Sami said...’)
 
-### What Sarah did with her Year 11 geographers
+## What Sarah did with her Year 11 geographers
 
 Sarah explains her thinking: "I have been trying to encourage effective collaborative talk throughout a range
 of different tasks during the year. In GCSE geography, it’s a great way to get pupils
@@ -61,16 +61,16 @@ because they have to explain their thinking to their peers.
 
 "Once they had developed their understanding of these concepts, I questioned the different groups about each measure of development to further embed their understanding. In the second phase of the lesson I told them to move into their away groups. At this point I gave a series of differentiated questions set to challenge the different prior attainment groups in the class. In the final stages of the lesson, I asked them to create their own ‘best’ measure of development."
 
-### Ben, an A-Level history teacher, shares another approach to high-quality group talk
+## Ben, an A-Level history teacher, shares another approach to high-quality group talk
 
-#### The issue
+### The issue
 
 In A-Level history, pupils are required to make judgements
 about the validity of general statements and the claims of other historians. My Year
 12s were preparing for an essay answering the question ‘Was Henry VIII’s foreign
 policy from 1509-1527 a success?’
 
-#### How he grouped them
+### How he grouped them
 
 I put pupils into groups of mixed ability based on how they had tackled their previous essay. Person 1 in each group had the weakest skills in this area, Person 4 had the strongest.
 
@@ -84,7 +84,7 @@ We used the following scaffold to structure discussion. ‘What would success lo
    definition which the whole group should then agree before all writing down
    an answer.
 
-#### How he modelled group talk
+### How he modelled group talk
 
 As this was a skill that was not yet
 totally embedded with this class, I had already scripted an exemplar discussion using
@@ -93,7 +93,7 @@ of the groups. This helped to re-activate prior knowledge, provided some guidanc
 about the types of comments that could be made and gave additional support to pupils
 who were not confident about the process.
 
-#### Why it was successful
+### Why it was successful
 
 The success of the essay would rely on
 pupils understanding the different concepts involved in this task. It doesn’t

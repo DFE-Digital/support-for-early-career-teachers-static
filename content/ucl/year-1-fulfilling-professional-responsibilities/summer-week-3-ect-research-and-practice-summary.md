@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week-3-e
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Engaging with research evidence
+## Engaging with research evidence
 
 Stephen and Becky are both interested in research evidence in education. They agree that engaging critically with research can help them to become more effective teachers, but they disagree about the types of research that are useful.
 
@@ -47,7 +47,7 @@ To determine how applicable research is, consider the following:
 - does the evidence address a problem or issue that you have? If a study found that mentoring was effective for teachers struggling with behaviour management, the findings are probably not applicable to teachers who have few difficulties managing behaviour
 - is the approach likely to be suitable and feasible for your own context? If an approach does not fit with the culture of your own school, it is unlikely to be applicable
 
-### Using the right evidence to answer the right questions
+## Using the right evidence to answer the right questions
 
 High quality research evidence is becoming increasingly available and can be a powerful complement to your professional judgement. Professional debate in education, as you saw with Becky and Stephen, often focuses on the merits of particular types of research.
 
@@ -62,7 +62,7 @@ The table below summarises some common questions that you might want to answer a
 | How does this approach improve learning?             |                             | ✓          |        | ✓         | ✓                 |
 | What do pupils think about the new approach?         |                             | ✓          | ✓      | ✓         |                   |
 
-### Bringing it all together
+## Bringing it all together
 
 After careful thought, Becky and Stephen realised that they had more in more in common than they first thought, and they could both see how different types of research answered different kinds of questions.
 

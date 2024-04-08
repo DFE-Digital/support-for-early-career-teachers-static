@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-5-ect-self-study
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Critical thinking, transfer and schemata in a values-led Year 6 PE lesson
+## Critical thinking, transfer and schemata in a values-led Year 6 PE lesson
 
 Rachel passionately believes that PE is a great way to inculcate important life-skills
 and values in her pupils. She must also keep to the National Curriculum.
@@ -35,7 +35,7 @@ To help you address the prior knowledge needs of your pupils, you should:
 - identify likely misconceptions and plan to prevent them from occurring (e.g. by pre-teaching concepts or by using classroom display to reinforce foundational ideas that are prone to misconception)
 - give them regular purposeful practice (by setting aside time in each lesson) so they can consolidate learning in their long-term memory
 
-### How should Rachel take account of her pupils’ prior knowledge?
+## How should Rachel take account of her pupils’ prior knowledge?
 
 A mental model or schema (plural schemata) is a pattern or network of thoughts, beliefs, knowledge and understanding that organise categories of information and the relationships between them. Schema can be simple (e.g. cars are a kind of vehicle) or complex (e.g. to drive a car, you need to start the ignition, apply the clutch, put it in gear, check the mirrors, and so on).
 
@@ -57,7 +57,7 @@ To help your pupils think critically, you should:
 - ensure they have a secure understanding of the subject area knowledge you want them to think critically about
 - invite them to think critically by sharing their reasoning and challenging the reasoning of others (e.g. by asking ‘What is your main reason for agreeing with Bilal?’, ‘Why might Leon have arrived at a different judgement?’)
 
-### Why might Rachel want her pupils to do some critical thinking in her lesson?
+## Why might Rachel want her pupils to do some critical thinking in her lesson?
 
 The question of transfer is also an important one in education: to what extent are knowledge and skills transferable from one subject to another? To what extent can pupils transfer their learning in one context (e.g. drawing graphs in maths) to another (e.g. drawing graphs in science)? To what extent are pupils able to apply the knowledge and skills they learn in school to their lives beyond the school gates? Research suggests that to a significant degree, knowledge and skills are context-dependent, that is, they tend to remain rooted in the contexts in which they were learned. This does not mean that transfer is not possible, but it does not tend to occur automatically, or naturally. It is therefore important that teachers support pupils in transferring knowledge and skills from one domain to another and provide them with opportunities to practise transfer themselves.
 
@@ -67,7 +67,7 @@ To help you to support pupils to transfer their knowledge, you should:
 - model the connections yourself (e.g. by saying how you use the knowledge or ideas in your own life)
 - draw comparisons between the subjects your pupils learn, whether you teach them across subjects or the teaching is shared by colleagues (e.g. a history teacher could refer to the war poetry their class had studied in English)
 
-### Transfer: Helen, a Pupil Referral Unit teacher explains her thinking
+## Transfer: Helen, a Pupil Referral Unit teacher explains her thinking
 
 "Many of the PRU pupils initially struggle to see the point in learning.
 
@@ -86,17 +86,17 @@ complete the graph element independently with little help.”
 
 How might this apply equally to Rachel?
 
-### What did Rachel do?
+## What did Rachel do?
 
 Here is a recreation of Rachel’s lesson plan, with a commentary about why it worked
 well.
 
-#### Aim
+### Aim
 
 To teach the 3Cs (co-operation, communication,
 collaboration) through an uneven-sided invasion game.
 
-#### Initial instruction
+### Initial instruction
 
 "Cooperation, communication and
 collaboration are really important in life and in sport.
@@ -105,7 +105,7 @@ collaboration are really important in life and in sport.
 a plan to help you achieve success in a game of ‘pass/head/kick’. In your team,
 discuss and make a list of what helps you to achieve success in a team game."
 
-#### Explanation of rules
+### Explanation of rules
 
 Teams are 4 attackers ‘v’ 2 defenders.
 
@@ -118,17 +118,17 @@ Defence: teams of 2 have to try to intercept
 the ball to prevent the attackers from getting the ball to the opposite end of
 the court.
 
-#### Warm-up
+### Warm-up
 
 Practise throwing, catching and heading the ball
 between pairs.
 
-#### Play the game
+### Play the game
 
 Rachel monitors the play and keeps a record of
 how her pupils show the 3Cs.
 
-#### Plenary
+### Plenary
 
 Rachel often uses the ‘Evaluate Act Reflect (EAR)’ method so the pupils have a framework for their thinking. Rachel stops the lesson for the ‘EAR’ part of the
 lesson:

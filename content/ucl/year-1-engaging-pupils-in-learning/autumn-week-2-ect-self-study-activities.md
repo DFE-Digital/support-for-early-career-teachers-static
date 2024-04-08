@@ -4,7 +4,7 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-2-ect-research-and-practice-summary"
 ---
 
-### Review: 10 mins
+## Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
 
@@ -13,9 +13,9 @@ Read the Research and Practice Summary on this week’s topic. As you read, refl
 3. the practices you don’t use in your teaching yet
 4. which, if any, of the practices in Hasan’s lesson that you could adopt in your own
 
-### Plan and Theory to Practice: 30 mins
+## Plan and Theory to Practice: 30 mins
 
-#### 1. Practical exercise
+### 1. Practical exercise
 
 Think about the following story, which is about the interplay of long-term and working memory. What might be happening mentally at each point:
 
@@ -45,7 +45,7 @@ These activities also have the added benefit of securing knowledge in long-term 
 
 You will revisit some of these points in your next mentor meeting.
 
-#### 2. Independent planning
+### 2. Independent planning
 
 Consider your lesson plans for the forthcoming week and identify one context where you can try to make deliberate use of the relationship between working memory and long-term memory, similar to the kinds illustrated by the activity above and in Hasan’s lesson about Macbeth’s witches:
 
@@ -53,6 +53,6 @@ Consider your lesson plans for the forthcoming week and identify one context whe
 - write a simple plan for how you will make use of your learning about the relationship between working memory and long-term memory in this lesson or part of a lesson
 - annotate your plan to show why you have designed it in this way, including where you anticipate pupils’ misconceptions, and discuss these with your mentor when you show them your plan; where you can, connect your annotations to the Research and Practice Summary above
 
-### Next Steps: 5 mins
+## Next Steps: 5 mins
 
 Bring your planning from this session to your next mentor meeting. Be ready to discuss this activity with your mentor, including raising any questions that have come to mind while completing this task.

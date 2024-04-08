@@ -8,9 +8,9 @@ next_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spri
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts. You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
-#### High-quality expositions and efficiency: Year 9 English
+### High-quality expositions and efficiency: Year 9 English
 
 Mrs Turner has found that her Year 9 English class are struggling to grasp some foundational
 concepts in the current scheme of learning on War Poetry. They produce a lot of written
@@ -38,7 +38,7 @@ And you can make planning manageable by:
 - making use of existing well-designed resources (e.g. textbooks, exam board-approved exemplars, online stores of graphics and animations, carefully selected commercial schemes of work)
 - doing it collaboratively with colleagues (e.g. during shared PPA time or during time set aside for department/phase development)
 
-### Which strategies might be effective in reducing wasted time both in and out of lessons?
+## Which strategies might be effective in reducing wasted time both in and out of lessons?
 
 It is important that the curriculum is carefully sequenced so that pupils learn foundational concepts first – concepts that are needed in order to understand more complex information. Examples of foundational concepts include learning the alphabet and phonetic sounds in literacy; learning to count, add and subtract in mathematics; and learning about cells and atoms in science. Over time, building up foundational understanding can help pupils develop confidence in their ability to recall relevant information while their knowledge gradually becomes more complex, and external support (or scaffolding) is gradually withdrawn.
 
@@ -48,7 +48,7 @@ To help your pupils to master foundational concepts, you should:
 - with your colleagues, identify the likely common misconceptions that can hamper understanding of the important concepts
 - give concrete examples and metaphors as these are often useful in helping pupils understand abstract concepts (e.g. stories and narratives, sayings, rules, mnemonics, equations and models)
 
-### Case study: part 2
+## Case study: part 2
 
 Mrs Turner decided to take a look at the scheme of learning and identify where there may be misconceptions and misunderstandings in future lessons.
 
@@ -65,9 +65,9 @@ To help your pupils learn through more effective exposition, you should:
 - be prepared to break down your expositions further for those pupils who may need it
 - allow time also for pupils to practise: don’t simply rely upon exposition (in your plan, allot a time limit to your expositions; this will help you keep to your point)
 
-### Case study: part 3
+## Case study: part 3
 
-#### What Mrs Turner did
+### What Mrs Turner did
 
 Mrs Turner showed the five-minute video she had borrowed from her history colleague
 to her class, at the end of the previous lesson. She said she would be quizzing them

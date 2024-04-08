@@ -4,7 +4,7 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-1/spring-week-2-ect-research-and-practice-summary"
 ---
 
-### Review: 5 mins
+## Review: 5 mins
 
 Read the case studies on this week’s topic, or the one that is most relevant to the exploratory question you are investigating. As you read, reflect on:
 
@@ -12,9 +12,9 @@ Read the case studies on this week’s topic, or the one that is most relevant t
 2. how, despite any differences there may be to your own context, this case study may still be relevant to you
 3. what lessons there might be for the way you conduct your own inquiry
 
-### Plan: 5 mins
+## Plan: 5 mins
 
-#### Action planning
+### Action planning
 
 In your mentor meeting at the start of this module, you decided with your mentor what your exploratory question would be and how you would collect evidence of the impact upon your pupils of your normal practice.
 
@@ -26,11 +26,11 @@ Plan out how you are going to do that, e.g.
 
 The exploratory phase of your inquiry – just like with Modules 6 and 7 – is very short, so you should not attempt to collect large amounts of data. However, do try to ensure that the data you collect is valid for your inquiry, i.e. that it offers evidence to help you answer your question.
 
-### Theory to Practice: 40 mins
+## Theory to Practice: 40 mins
 
 How you collect your evidence will depend upon the exploratory question you are asking and the sources of evidence you decided you needed. However, it is likely to include the following:
 
-#### 1. Analyse artefact and data
+### 1. Analyse artefact and data
 
 Your question may have been something like:
 
@@ -52,7 +52,7 @@ Vashti analysed progress data to identify particular pupils who needed support w
 
 All of these methods were manageable and gave them a reliable snapshot of their (or their colleagues’) normal practice.
 
-#### 2. Discuss with pupils
+### 2. Discuss with pupils
 
 Your question may have been something like:
 
@@ -68,7 +68,7 @@ For all of these questions, it would be useful to make pupil voice part of your 
 | Are they reliable? | Make sure your pupils understand the questions, and that you understand their answers. Can you trust the answers they give you? Pupils might give you more honest answers if they can do it anonymously. Are you asking the ‘right’ pupils? Try to ensure that they are representative of the group you are interested in. Ask enough pupils, but…                                                                                                                                                |
 | Is it manageable?  | Don’t collect more data than you can handle in the time. If you teach 30 pupils, it might be sufficient to ask 5 of them; if you teach 7 classes, you could collect data from one of them. Open questions may give you rich data, but it can be arduous to analyse; closed questions (or ones when you ask pupils to place themselves on a 1-5 scale) are easy to analyse but might tell you less than you wish to know. Some combination of open and closed might be a good way forward for you. |
 
-#### 3. Self-assessment
+### 3. Self-assessment
 
 In preparation for your mentor meeting, write a simple evidence statement to describe what the evidence seems to be saying about your normal practice. This does not have to be definitive.
 
@@ -82,7 +82,7 @@ Louise, in Case Study C, said:
 
 > ‘I teach 9 different history classes so it can take me up to 10 hours a week to mark their books according to the department policy. I spoke to the other teachers in my department and found that they were keeping within their policies but taking other approaches, like whole-class verbal feedback. They also told me about something they called ‘minimal marking’ whereby the teacher provides feedback in the form of abbreviations and codes, rather than making corrections and writing out ‘what went well / even better if’ comments in longhand. I definitely need to try methods like these, to see if my pupils can maintain their current progress without me marking so much.’
 
-### Next Steps: 5 mins
+## Next Steps: 5 mins
 
 Bring your simple evidence statement and any supporting data to your mentor meeting next week and be ready to discuss this with them.
 

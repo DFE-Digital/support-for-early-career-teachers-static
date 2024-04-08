@@ -10,7 +10,7 @@ This reading will help you understand some of the theory behind this week’s to
 
 We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Behaviour in KS3 design technology
+## Behaviour in KS3 design technology
 
 Toby teaches design technology and only teaches each of his Key Stage 3 classes once
 per week. Behaviour is especially important in design technology, both for pupils’
@@ -31,7 +31,7 @@ To consistently demonstrate high behavioural expectations, you should:
 - use school policies – schools typically have detailed policies and procedures, especially relating to rules, sanctions and rewards. Ensure that you understand and apply these policies consistently and fairly. This will support pupils to understand your high expectations, provide predictability, and support your colleagues in using the same policies
 - acknowledge pupil effort and progress – maintaining appropriate behaviour is harder for some pupils than others. Therefore, it is important to acknowledge and praise when pupils are making an effort and to try to link this to the progress pupils are making. For instance, ‘Lucy, well done for focusing and settling down to work quickly today. I can see how hard you’re trying to follow the rules. You’re getting faster at this, which means more time for your learning’
 
-### Using school systems and colleagues for support
+## Using school systems and colleagues for support
 
 As Toby has limited time with each of his classes, it is harder for him to demonstrate
 and rigorously reinforce his high behavioural expectations.
@@ -57,7 +57,7 @@ To create a positive learning environment, you can:
 - be aware – awareness is important for preventing low-level disruption as well as for quickly managing bullying or other behaviours that threaten pupils’ emotional safety. To maintain awareness, you should position yourself physically so that you can visually monitor the whole class even when speaking to an individual or small group, and frequently ‘be seen looking’ so that pupils know you are aware of what they are doing
 - be responsive – responding early to low-level disruption usually helps to shut it down quickly. ‘Least-intrusive’ approaches – i.e. those which limit disruption to learning, including non-verbal signals – can be appropriate at this stage, such as pausing abruptly, moving physically closer to disruptive students, or looking at pupils to show that you know what they are doing and that it is not acceptable (the ‘teacher glare’)
 
-### Responding early using the least-intrusive interventions
+## Responding early using the least-intrusive interventions
 
 Muhammad invited Toby to come and see one of his own classes where he was working
 hard to reinforce positive behaviours. Toby watched intently as Muhammad explained
@@ -79,7 +79,7 @@ Instructions given to pupils should be:
 - check understanding – after giving instructions, it can be helpful to briefly check that pupils understand by asking questions such as, ‘what should you do if/when…?’ This should be given higher priority in the case of complicated instructions and for pupils who frequently struggle to understand instructions
 - consistent – there are some instructions that you will give often, such as getting the attention of a class to ‘bring them back’ from independent or group work. It can help to use consistent signals for this. For instance, you might use a specific phrase, a countdown or a non-verbal instruction such as raising your hand to gain attention
 
-### Give better instructions
+## Give better instructions
 
 Giving clear instructions is a really essential part of Toby’s job. After examining
 the evidence about clear instructions, Toby gave much more consideration to how he
@@ -89,7 +89,7 @@ Toby thought it was particularly important to give clear instructions when pupil
 
 Toby decided to script out some instructions that he would give ahead of beginning practical work. As he often needed to give instructions like this, he decided having a consistent approach would be useful, and that he could adapt this approach to the context of each lesson. ‘Victorian society became incre…’
 
-#### Sample script
+### Sample script
 
 Thanks everyone [pause for silence]. Today we are going to [e.g. begin
 painting our birdhouses]. There are [e.g. three] stages to what you need to

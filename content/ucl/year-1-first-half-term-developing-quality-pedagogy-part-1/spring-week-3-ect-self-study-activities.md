@@ -4,7 +4,7 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/spring-week-3-ect-research-and-practice-summary"
 ---
 
-### Review: 10 mins
+## Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
 
@@ -12,7 +12,7 @@ Read the Research and Practice Summary on this week’s topic. As you read, refl
 2. the practices you are doing some of the time, but could do more of/more consistently
 3. the practices you don’t use in your teaching yet
 
-### Plan: 10 mins
+## Plan: 10 mins
 
 Reflection
 
@@ -25,13 +25,13 @@ Use these prompts to help you to reflect on your classroom practice over the pas
 
 You could record your most important reflections in your Learning Log.
 
-### Theory to Practice: 20 mins
+## Theory to Practice: 20 mins
 
 You have a choice of activities now. The reflection exercise you just did will help you choose, as will your self-audit from the start of this module.
 
 _Either:_
 
-#### 1. Independent planning
+### 1. Independent planning
 
 Use your learning from this session to plan a lesson that you will shortly be teaching. You may choose to focus on a specific part of the lesson, if this best suits your context. Annotate your plan to show how you have drawn on your learning from this self-study session. It is best if you produce a lesson plan where you will be introducing new material to the pupils. Consider as much of the following as you can in your planning:
 
@@ -45,7 +45,7 @@ Use your learning from this session to plan a lesson that you will shortly be te
 
 _Or:_
 
-#### 2. Observe a colleague
+### 2. Observe a colleague
 
 Ask permission to observe part of a colleague’s lesson, where they will be introducing new material to the pupils. Be sure to tell them what the focus of your observation is, so that you can be there at the right time. You should aim to observe a colleague who is known to be good at introducing new material. But remember, you are not there to judge them.
 
@@ -66,6 +66,6 @@ N.B. Don’t expect to see all of this in one lesson.
 
 After the observation, annotate your notes to show how they reflect your reading around expositions and questioning.
 
-### Next Steps: 5 mins
+## Next Steps: 5 mins
 
 Be ready to share this, and your other learning from this session, with your mentor in your next meeting with them.

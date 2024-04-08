@@ -8,9 +8,9 @@ next_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-3-ect-se
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Case study: part 1
+## Case study: part 1
 
-#### Improving assessment in Year 4 science
+### Improving assessment in Year 4 science
 
 Robbie recently taught a series of lessons about the digestive system to his Year
 4 class and was really pleased with how things went. However, he was surprised when
@@ -37,7 +37,7 @@ Making a fair assessment of where pupils are in their learning is often complex,
 5. curriculum has been ‘covered’ (i.e. presented to students in some form)
 6. (at least some) students have supplied correct answers (whether or not they really understood them or could reproduce them independently)
 
-### Case study: part 2
+## Case study: part 2
 
 Robbie was misled by his students completing lots of work and appearing engaged and enthusiastic.
 
@@ -57,7 +57,7 @@ To prompt pupils to elaborate further, you could say:
 
 You could also repeatedly ask ‘why?’ as a prompt to elaboration.
 
-### Case study: part 3
+## Case study: part 3
 
 Robbie noticed that his pupils were ‘enthusiastic’ during class discussions and made the inference that this meant they were learning. Instead of making this inaccurate inference, Robbie could have asked pupils to elaborate on the points they were contributing, using some of the prompts above.
 
@@ -67,9 +67,9 @@ Hinge questions are a type of question that teachers use to learn more about pup
 
 The pupils’ responses to the hinge question should provide the teacher with valuable evidence about what their pupils know, don’t know and need to do next. The teacher should be able to collect (view) and interpret responses from all pupils in less than 30 seconds - e.g. by glancing at each mini-whiteboard or traffic-light card. Teachers will then make adjustments to their teaching to respond to any misconceptions.
 
-### Case study: part 4
+## Case study: part 4
 
-#### Developing a hinge question
+### Developing a hinge question
 
 This is Robbie’s first attempt at a hinge question.
 
@@ -115,9 +115,9 @@ To help you anticipate and overcome misconceptions, you should:
 - structure tasks and questions to enable the identification of knowledge gaps and misconceptions (e.g. by using common misconceptions within multiple-choice questions and by targeting areas that you know pupils typically find particularly tricky)
 - prompt pupils to elaborate when responding to questioning to check that correct answers stem from secure understanding
 
-### Case study: part 5
+## Case study: part 5
 
-#### What did Robbie do next? Applying good assessment practice
+### What did Robbie do next? Applying good assessment practice
 
 After learning more about good assessment, Robbie realised that he had been focusing
 too much on things that were not directly related to learning.

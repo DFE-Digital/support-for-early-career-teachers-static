@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-4-ect-self-study
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Consolidation, coding, retrieval and spaced practice
+## Consolidation, coding, retrieval and spaced practice
 
 Do you remember that two weeks ago you met Bob, who was learning about cells in his
 biology lessons? After initially introducing cells and tackling problems linked to
@@ -41,7 +41,7 @@ To help with your pupils’ progress using spacing, you should:
 - make sure you enable your pupils to master foundational concepts first
 - combine with retrieval practice activities, such as low-stakes testing, to improve their recall
 
-### What did Bob’s teacher do?
+## What did Bob’s teacher do?
 
 Sarah, who teaches Bob biology, carefully considered how she would teach Bob’s class
 about the structure and function of cells. This is foundational knowledge that Bob

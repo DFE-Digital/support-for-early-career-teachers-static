@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/sprin
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Modelling and scaffolding for structured writing in a pupil referral unit
+## Modelling and scaffolding for structured writing in a pupil referral unit
 
 Helen wants her small group of Key Stage 3 pupils to write some paragraphs on ‘What
 does it mean to be British?’
@@ -34,7 +34,7 @@ To help you use worked examples to aid your pupils’ progress, you should:
 - guide them through the process of following the worked example (e.g. highlighting the criteria that made it successful, and how you achieved them)
 - this provides the pupils with a guide for how to solve other, similar problems ensure that the range of tasks available to pupils with lower and higher prior attainment are appropriately pitched, to ensure that all pupils are able to push themselves to meet their ‘challenge target’ in each lesson
 
-### Questions to consider
+## Questions to consider
 
 Would you recommend that Helen use a worked example for her class?
 
@@ -77,7 +77,7 @@ To help your pupils understand the discipline-specific aspects of literacy in yo
 
 Extensive practice is also important, and gradually reducing the amount of support and scaffolding that is given will enable pupils to become more confident and independent. It can also allow pupils to master and build up individual aspects of learning without having to do everything at once.
 
-### What did Helen do? In her own words:
+## What did Helen do? In her own words:
 
 "I use scaffolding techniques a lot, especially if I want a considered piece of writing
 completed. With one group, I was looking at British values: ‘What does it mean to

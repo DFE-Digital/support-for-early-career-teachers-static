@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-3-ect-self-study
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Every teacher is a teacher of literacy
+## Every teacher is a teacher of literacy
 
 As you read this summary, consider your own pupils in your school.
 
@@ -42,7 +42,7 @@ To help you to develop your pupils’ reading comprehension, you should:
 - ‘think out loud’ when reading to help pupils to internalise strategies to help when reading independently
 - support pupil engagement and reading for pleasure (e.g. by reading with the whole class high-quality texts that you or they have chosen)
 
-### Case study 1: how Imogen teaches Year 3 reading comprehension
+## Case study 1: how Imogen teaches Year 3 reading comprehension
 
 Imogen is working with a group of Year 3 pupils on reading comprehension, building
 on strategies she has previously introduced.
@@ -83,7 +83,7 @@ To help develop quality oral language, you should:
 - carefully consider how ground rules and pupil reflection can help build a supportive environment for talk (e.g. circle time is a good opportunity for developing such rules) -- a useful rule to consider is the expectation that pupils respond in full sentences and use subject-specific vocabulary for certain activities
 - also improve your pupils’ skills in listening (e.g. by framing discussion where each person must respond to the previous speaker before making their own point)
 
-### Case study 2: Tom discusses teaching vocabulary in a special school
+## Case study 2: Tom discusses teaching vocabulary in a special school
 
 “Some of my pupils are at the earliest stages of learning to talk. It’s important
 for them to have basic vocabulary to get their needs met, such as being able to ask

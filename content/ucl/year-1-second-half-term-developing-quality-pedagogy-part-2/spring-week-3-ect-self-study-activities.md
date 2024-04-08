@@ -4,7 +4,7 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spring-week-3-ect-research-and-practice-summary"
 ---
 
-### Review: 10 mins
+## Review: 10 mins
 
 Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
 
@@ -12,7 +12,7 @@ Read the Research and Practice Summary on this week’s topic. As you read, refl
 2. the practices you are doing some of the time but could do more of/more consistently
 3. the practices you don’t use in your teaching yet
 
-### Plan: 10 mins
+## Plan: 10 mins
 
 Analyse artefacts
 
@@ -20,7 +20,7 @@ Conn adapted his teaching, and avoided having to produce separate lesson resourc
 
 Think of a lesson that you have coming up, or a topic that you will need to teach soon. Find a single rich resource that you can use to teach your whole class. It might be a textbook or a curriculum resource that already exists in a shared staff area; alternatively, it could be an online resource such as a video or animation.
 
-### Theory to Practice: 20 mins
+## Theory to Practice: 20 mins
 
 1. Independent planning
 
@@ -33,6 +33,6 @@ You should think about what you have learned about adaptive teaching, e.g.,
 - how you give the extra support, without creating additional resources and tasks but by adapting the single rich resource for all pupils
 - how you might use more intensive pre-teaching, peer-assisted learning, small group discussions or additional homework and questions
 
-### Next Steps: 5 mins
+## Next Steps: 5 mins
 
 Arrange to record 15 minutes of this lesson or for your mentor or another colleague to observe 15 minutes of it. If neither is possible, make sure you write a detailed lesson plan, and then annotate it later with notes on how the strategies you tried succeeded or not.

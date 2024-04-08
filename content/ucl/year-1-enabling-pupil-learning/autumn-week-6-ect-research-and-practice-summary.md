@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-6-ect-self-study-act
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Overcoming a difficult few weeks
+## Overcoming a difficult few weeks
 
 James started in his new school in September. He is delighted with how effectively
 he has established his high expectations and how well pupils have responded to these.
@@ -43,9 +43,9 @@ Responding consistently to pupil behaviour is important for two reasons:
 - reinforcing expectations – if you only sometimes reinforce your expectations in how you use sanctions and rewards, then pupils quickly learn that your expectations are optional. Over time, you will likely find that pupils adhere less and less to your high behavioural expectations
 - fairness – pupils have a strong sense of fairness, so if they notice (or perceive) they are being treated differently than their peers this can undermine your relationship with them. Therefore, it is important to ‘be fair’ and to ‘be seen to be fair’. This can include, for example, using least-intrusive interventions (see week 3 of Module 1) so that pupils don’t feel that they are being singled out in front of their peers, and linking your use of rewards and sanctions to the school behaviour policy. By being explicit like this, you make it clear to pupils why they are being sanctioned and others know what they need to do to achieve the rewards that their peers receive
 
-### Case study
+## Case study
 
-#### Setting pupils up to succeed: consistency and persistence
+### Setting pupils up to succeed: consistency and persistence
 
 James was coming to dread his Friday afternoon lessons. It seemed that pupils could
 sense the weekend coming and were especially tricky to teach at this time. He felt

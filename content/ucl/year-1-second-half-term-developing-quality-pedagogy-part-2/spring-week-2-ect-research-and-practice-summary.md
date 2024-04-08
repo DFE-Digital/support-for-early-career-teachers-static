@@ -8,7 +8,7 @@ next_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spri
 
 This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts. You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
 
-### Teaching new vocabulary to a group with a wide range of needs: a Year 5 class
+## Teaching new vocabulary to a group with a wide range of needs: a Year 5 class
 
 Miss Gascoigne has a Year 5 class consisting of pupils with a variety of learning
 needs. She is beginning a new topic – the Ancient Egyptians – which will require
@@ -39,7 +39,7 @@ To help you address the prior knowledge needs of your pupils, particularly as th
 - identify likely misconceptions and plan to prevent them from occurring (if you are able to co-plan with colleagues, that will help here)
 - give them regular purposeful practice so they can consolidate learning in their long-term memory
 
-### Pre-teaching example
+## Pre-teaching example
 
 Before beginning the topic, Miss Gascoigne does a word reading test to identify vocabulary that is familiar to pupils and to what extent they understand it.
 
@@ -88,7 +88,7 @@ To help you to build effective relationships with parents, carers and families, 
 
 Schools work with parents/carers in diverse ways depending upon the community in which they serve. The Education Endowment Foundation’s (2015) ‘Working with parents to support children’s learning’ is a very useful guidance report.
 
-### Mastering complex vocabulary
+## Mastering complex vocabulary
 
 After the pre-lesson word reading test, Miss Gascoigne sent the test home with the pupils with a request that parents rehearse the words with their children.
 
