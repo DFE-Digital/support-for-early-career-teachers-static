@@ -4,11 +4,11 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-4-ect-theory"
 ---
 
-### High Expectations
+## High Expectations
 
 1.5 A culture of mutual trust and respect supports effective relationships.
 
-### Managing Behaviour
+## Managing Behaviour
 
 7.5 Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
 

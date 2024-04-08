@@ -14,7 +14,7 @@ An important factor in learning is memory. Over the past 25 years, significant b
 
 Listen to the module expert Ben Riley, the Executive Director of Deans for Impact, as he explains what we know about how pupils learn best, and the role that memory plays in this process.
 
-#### How pupils learn – Benjamin Riley
+### How pupils learn – Benjamin Riley
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FMlIBrKpKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

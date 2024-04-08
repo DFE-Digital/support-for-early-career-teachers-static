@@ -53,25 +53,25 @@ Watch the video below of a teacher using ‘Everybody Writes’ or talk partners
 - what impact did ‘Everybody Writes’ or talk partners have on the quality of
   the answers?
 
-#### Talk partners – Early Years – Reach Academy
+### Talk partners – Early Years – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56JL9UMdbq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Talk partners – Early Years [AD]](https://youtu.be/wK4JdJkTjzU)
 
-#### Talk partners - Primary - Reach Academy
+### Talk partners - Primary - Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KJzNaJhNmyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Talk partners - Primary [AD]](https://youtu.be/qjzKUbQXXoA)
 
-#### Talk partners – Secondary – Reach Academy
+### Talk partners – Secondary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbtvC-MWa_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Talk partners – Secondary [AD]](https://youtu.be/L2ulgc_4FFM)
 
-#### Everybody Writes – Secondary - Phil Fowkes at Reach Academy
+### Everybody Writes – Secondary - Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1nvdr6f3WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -224,15 +224,15 @@ In your next mentor session, you will be observed using strategies that help to 
 
 You will also have the opportunity to discuss how to build the intrinsic motivation of any disengaged learners you may teach.
 
-#### Additional resources
+### Additional resources
 
 Choose one of the videos below to hear how teachers developed pupils’ intrinsic motivation
 
-#### Developing pupils’ intrinsic motivation - Primary
+### Developing pupils’ intrinsic motivation - Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H8Ijg9_fly4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Developing pupils’ intrinsic motivation - Secondary
+### Developing pupils’ intrinsic motivation - Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NR15c0n5WUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -241,15 +241,14 @@ Video Transcript.
 
 Pupil motivation is a key driver in pupil progress, attainment and outcomes. Teachers have the ability to influence the academic potential of their classes by raising their expectations of them and expecting more. By holding high expectations, you encourage pupils to work harder, do more and thus achieve more.  It is clear that pupils with high levels of motivation are more likely to step out of their comfort zones and take risks in order to make improvements in their work. Conversely, pupils with low levels of motivation are likely to give up easily, leave work incomplete or refuse to answer questions in lessons because they think they “do not know”.  
 
-#### So, what impacts pupils’ motivation?
+### So, what impacts pupils’ motivation?
 
 Pupils’ levels of motivation can be a product of their own experiences for example if a pupil has always struggled with algebra in maths for example this may then impact their level of motivation when studying algebra as they assume it will be difficult and therefore it becomes more difficult. Pupils can also be influenced by parental views of certain subjects. 
 
 As a languages teacher I have experienced many occasions where at parents’ evenings, parents have explained how much they struggled in French, didn’t like speaking out loud and could not understand the grammatical concepts – this has then influenced their child’s motivation and therefore success in languages.  
 
-#### How can you develop pupils' motivation?
+### How can you develop pupils' motivation?
 
 Creating pupil buy-in during lessons can motivate them to engage with learning. One way to do this is to share the learning objectives and make sure they are clearly explained, so that pupils are aware of what they are going to be doing, why they are doing that and how this links to their long-term goals.  Embedding pupil success during lessons is also vital in developing pupil motivation. However, there is a balance to be struck between challenging pupils “to think hard”, supporting pupils with scaffolding and modelling, and increasing levels of pupil independence. It is also important for pupils to feel supported in their learning environment so that it becomes accepted that all learners make mistakes. A key strategy is to circulate the room during independent practice. Where common misconceptions have been identified, you can stop the class and address the issue there and then in order to prevent the error from being learnt. When doing so, it is important to thank the pupil for sharing with the rest of the class to help maintain a safe and positive learning culture. 
-
 
 {/details}

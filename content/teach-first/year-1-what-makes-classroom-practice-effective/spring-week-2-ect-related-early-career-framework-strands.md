@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-2-ect-theory"
 ---
 
-### Classroom practice
+## Classroom practice
 
 4.2 Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned.
 

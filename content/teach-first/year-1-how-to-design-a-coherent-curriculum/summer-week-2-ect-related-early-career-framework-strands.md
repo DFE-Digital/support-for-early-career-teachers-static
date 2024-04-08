@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-2-ect-theory"
 ---
 
-### Subject and curriculum
+## Subject and curriculum
 
 3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.
 

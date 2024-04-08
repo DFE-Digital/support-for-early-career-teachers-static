@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-6-ect-theory"
 ---
 
-### Adaptive teaching
+## Adaptive teaching
 
 5.1 Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.
 
@@ -28,7 +28,7 @@ _5e. Adapting lessons, whilst maintaining high expectations for all, so that all
 
 _5g. Making effective use of teaching assistants._
 
-### Professional behaviours
+## Professional behaviours
 
 8.5 Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers.
 

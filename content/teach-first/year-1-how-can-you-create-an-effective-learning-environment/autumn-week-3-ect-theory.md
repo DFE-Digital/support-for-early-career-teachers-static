@@ -106,7 +106,7 @@ Creating a calm and respectful classroom environment is a bedrock on which you c
 
 Research shows that teachers developing trusting relationships with pupils is critical for pupils’ enjoyment of school and for their academic progress. For example, [a 2015 PISA study](https://www.oecd-ilibrary.org/education/do-teacher-student-relations-affect-students-well-being-at-school_5js391zxjjf1-en;jsessionid=Tle2wVAsHg1cYXJtlp08_K89.ip-10-240-5-189) found that teacher-pupil relations are strongly associated with performance in mathematics as well as pupils’ happiness and sense of belonging at school.
 
-#### Empathy-based classrooms – Bea Stevenson at Family Links
+### Empathy-based classrooms – Bea Stevenson at Family Links
 
 Building effective relationships is easier when pupils believe that their feelings will be considered and understood. Listen to Bea Stevenson talk here about the role that respect and empathy play in this process and consider the following questions:
 
@@ -244,7 +244,7 @@ We come to our first point – that
 
  {/details}
 
-### Reflection
+## Reflection
 
 Think about your teaching practice and consider the following questions. Record your
 reflections:

@@ -127,19 +127,19 @@ How is the consequence delivered?
 - depersonalised
 - deferred
 
-#### Issuing a consequence – Early Years - Maria Craster at One Degree Academy
+### Issuing a consequence – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eLs3aLf6D90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Issuing a consequence – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/hbuejQ3a6Yw)
 
-#### Issuing a consequence – Primary – Reach Academy
+### Issuing a consequence – Primary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ihjfhfkr0uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Issuing a consequence – Primary [AD]](https://youtu.be/bb0vn3Kdlzk)
 
-#### Issuing a consequence – Secondary – Reach Academy
+### Issuing a consequence – Secondary – Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CaEyn3_HoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -214,7 +214,7 @@ It’s important that you don’t feel alone in dealing with challenging behavio
 
 Some consequences or sanctions can have a negative impact upon your relationship with your pupils depending on how they have been issued or what the circumstances were. On these occasions, it is important to find time to follow these interactions up with a restorative conversation. This enables you to discuss the incident, reinforce your expectations and demonstrate that you have considered and understood your pupils’ feelings.
 
-#### How do you repair and build relationships? – Tom Bennett
+### How do you repair and build relationships? – Tom Bennett
 
 Listen to Tom Bennett in the video below talking about the importance of repairing relationships and holding restorative conversations to improve pupils’ behaviour.
 

@@ -23,7 +23,7 @@ Effective worked examples often share the following features:
 
 Partially completed examples are worked examples that have had some steps left blank for pupils to complete. They allow the teacher to direct the pupil to where the practise needs to take place. The idea behind a partially completed example is that you are directing pupils to where you want them to focus their thinking.
 
-#### Worked examples - Benjamin Riley
+### Worked examples - Benjamin Riley
 Listen to Ben Riley from Deans for Impact talk about why worked examples can be so effective in reducing the risk of overloading the working memory. He also talks through a worked example of how to solve a crossword puzzle, modelling how he would share his thought process aloud as he would do with his pupils.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dhJkSX-BBUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ So, thanks for listening and try out a worked example with your students when yo
 
 In this section you will hear from teachers explaining why they have found worked and partially complete examples useful for focusing pupil thinking and sharing their expert knowledge. You can also see examples of teachers using worked examples in action in their classroom. Select videos to view that are most appropriate to your phase.
 
-#### Using worked examples
+### Using worked examples
 Hear from English Teacher Joseph Craven as he talks through how he incorporated a worked example into an end of unit lesson to support pupils to effectively answer an exam question.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyduPIjvdvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

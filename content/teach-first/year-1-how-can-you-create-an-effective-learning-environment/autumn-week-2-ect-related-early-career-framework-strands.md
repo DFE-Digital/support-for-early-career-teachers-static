@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-2-ect-theory"
 ---
 
-### High Expectations
+## High Expectations
 
 1.5 A culture of mutual trust and respect supports effective relationships.
 
@@ -12,7 +12,7 @@ previous_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-env
 
 _1d. Seeking opportunities to engage parents and carers in the education of their children (e.g. proactively highlighting successes)._
 
-### Managing behaviour
+## Managing behaviour
 
 7.1 Establishing and reinforcing routines, including through positive reinforcement, can help create an effective learning environment.
 
@@ -30,7 +30,7 @@ _7i. Practising routines at the beginning of the school year._
 
 _7j. Reinforcing routines (e.g. by articulating the link between time on task and success)._
 
-### Professional behaviours
+## Professional behaviours
 
 8.4 Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success.
 

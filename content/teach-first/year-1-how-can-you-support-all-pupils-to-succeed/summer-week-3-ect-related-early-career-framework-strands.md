@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-3-ect-theory"
 ---
 
-### Adaptive teaching
+## Adaptive teaching
 
 5.1 Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.
 
@@ -28,7 +28,7 @@ _5i. Planning to connect new content with pupils’ existing knowledge or provid
 
 _5j. Building in additional practice or removing unnecessary expositions._
 
-### Professional behaviours
+## Professional behaviours
 
 _8i. Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching._
 

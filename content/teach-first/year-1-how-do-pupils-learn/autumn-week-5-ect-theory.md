@@ -55,19 +55,19 @@ An example of a memory that has high retrieval and high storage strength is your
 
 ## Retrieval practice in action
 
-#### Retrieval of prior learning - Early Years
+### Retrieval of prior learning - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eekjJznYXSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Retrieval of prior learning - Early Years [AD]](https://youtu.be/k7fPhpvgueM)
 
-#### Retrieval of prior learning - Primary - Alanah Harris at Reach Academy
+### Retrieval of prior learning - Primary - Alanah Harris at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/os1zwmdWAoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Retrieval of prior learning - Primary - Alanah Harris at Reach Academy [AD]](https://youtu.be/caFVwDvNQTE)
 
-#### Retrieval of prior learning – Secondary – Phil Fowkes at Reach Academy
+### Retrieval of prior learning – Secondary – Phil Fowkes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XzeqRoQ01PI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -176,7 +176,7 @@ When you entered the teaching profession, you came with your own established men
 
 The aim of this module is to share with you the most recent research on how pupils learn best. It is important to acknowledge that claims of strategies based on the mind and how pupils learn are not new. In the recent past, some of these strategies have not been based on robust evidence, resulting in teacher practice that does not always have maximum impact for pupils. However, some of these strategies may be very familiar to you and your colleagues, and they may even be established in your mental model of what a ‘teacher’ does.
 
-#### Mental models – Benjamin Riley
+### Mental models – Benjamin Riley
 
 Listen again to Ben Riley, CEO of Deans for Impact, talking about why it is important for teachers to have a mental model that contains knowledge of research-driven teaching methods, and how to work with your colleagues to implement these into the wider school practice.
 

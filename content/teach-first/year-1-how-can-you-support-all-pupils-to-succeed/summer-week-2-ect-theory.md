@@ -4,7 +4,7 @@ previous_title: "Topic overview"
 previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-2-ect-topic-overview"
 ---
 
-### How do pupils learn to read?
+## How do pupils learn to read?
 
 Reading ability can pose a barrier to many pupils in accessing the curriculum. Therefore, in order to support all pupils to succeed, you should develop their ability to read so they can meaningfully engage with the curriculum.
 
@@ -64,7 +64,7 @@ This is particularly important for pupils who are _struggling_ with reading as t
 
 {/details}
 
-### Word recognition
+## Word recognition
 
 Early reading should be taught using systematic phonics. Systematic phonics is part of the National Curriculum as it is underpinned by extensive research that shows it is the most effective way to teach pupils to read words (EEF, 2016).
 
@@ -83,15 +83,15 @@ If you wish, you can watch Sophie teaching phonics to year 2 pupils to see what 
 Teaching phonics - Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching phonics - Reach Academy [AD]](https://youtu.be/vCcd9DErBqQ)
 
-#### Summary
+### Summary
 
 Phonics helps pupils to read unfamiliar words, but word recognition is only a part of the skill of reading. Pupils need to be able to understand what they read, which is why it is important to develop their comprehension in any phase or subject.
 
-### Language comprehension
+## Language comprehension
 
 A balanced approach comprising of teaching both phonics and comprehension should be taken when teaching pupils to read. For pupils to understand words and sentences that they have decoded, they need to have good comprehension, but how can you support this development as a teacher?
 
-### Comprehension strategies
+## Comprehension strategies
 
 Prior knowledge and understanding key vocabulary are essential for pupils’ comprehension. However, they are not the only factors that are important. Pupils need to be able to monitor their understanding of a text as they read, ensuring they remain focused while processing the text.
 
@@ -127,13 +127,13 @@ Summarising – pupils succinctly describe the meaning of sections of the text. 
 - After reading Little Red Riding Hood, pupils might tell their partner the key events that happened. A teacher might scaffold this using picture prompts
 - After reading a text on photosynthesis, pupils might write a summary of this process
 
-### Teaching comprehension strategies
+## Teaching comprehension strategies
 
 It is important that pupils are explicitly taught these strategies. Detailed explanations and high-quality modelling, such as ‘Think Alouds’, should be used to teach pupils how to apply each strategy when reading. This helps to make the implicit strategies of a good reader explicit to pupils, providing them with techniques they can apply independently.
 
 Before pupils are expected to apply these strategies independently, they must be given multiple opportunities to try out each one during guided practice, with a partner, or in a small group. Their independent use of these strategies should be built up gradually, until they are able to apply multiple strategies at once. The level of independence that pupils are expected to achieve when using these comprehension strategies will depend on the phase you are teaching, as well as any specific barriers to learning for a child.
 
-### Subject specific comprehension strategies
+## Subject specific comprehension strategies
 
 The five strategies outlined can be used on both fiction and non-fiction texts. However,
 the subject does matter, especially in Secondary school. Therefore, it is important
@@ -145,7 +145,7 @@ You might also include additional subject specific reading strategies. For examp
 
 Supporting reading in your subject is vital, and therefore, it will form part of the focus of your next training session.
 
-### Engaging parents and carers
+## Engaging parents and carers
 
 To help pupils develop their reading ability, it is important that they get as many opportunities to practise reading as possible. You can encourage pupils to utilise their time outside of school to develop their reading further. One way to do this is to engage parents, carers or families in their child’s reading development, which may increase the amount of time a pupil spends engaging with texts at home.
 
@@ -204,13 +204,13 @@ All children can benefit from shared reading regardless of their age or reading 
 
 As Kelly said, there are strategies that you can share with parents or carers to support them when reading with their children at home. In addition to this, it is important that you promote reading for pleasure to both your pupils and their parents or carers. You can do this in the classroom by reading a range of high-quality texts to pupils.
 
-### Building relationships
+## Building relationships
 
 Another benefit to engaging parents and carers in their child’s reading development is that it creates an opportunity for you to build effective relationships with them. This can improve a pupil’s motivation, behaviour and academic success.
 
 One way to do this is by sharing children’s reading successes with their parents. For example, if you have been working with a parent to improve their child’s reading, or if reading is their child’s area of development, you could seek an opportunity to speak to parents/carers or send home a message in a journal to inform them of their child’s achievements. The message could say something like “Zack tried really hard to sound out the words ‘elements’ and ‘atomic’ in his science lesson today. He is working hard and making good progress in his reading.”
 
-### Reflection
+## Reflection
 
 Consider the following questions and record your response in your notebook:
 
@@ -221,7 +221,7 @@ Every school will have different policies on how to engage parents and how to su
 reading at home, so this is something you should consult with your mentor about in
 your next session.
 
-### Developing writing
+## Developing writing
 
 It is important that you invest time in developing pupils’ literacy skills in the phase or subject that you teach as part of a whole school approach to literacy.
 

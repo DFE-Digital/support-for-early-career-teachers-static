@@ -6,7 +6,7 @@ next_title: "Related Early Career Framework strands"
 next_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-2-ect-related-early-career-framework-strands"
 ---
 
-### Planning for effective assessment
+## Planning for effective assessment
 
 One way to ensure your assessment is effective is to plan for it to be a strong bridge between teaching and learning.
 
@@ -27,7 +27,7 @@ In the following videos, teachers have explained how they maximised some of thes
 
 Select the video(s) that you feel are appropriate to your development. You can make notes in your notebook if you wish.
 
-#### Planned assessment opportunities - Early Years
+### Planned assessment opportunities - Early Years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XbnDpntOks8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ This evidence is only recorded when it is necessary. My knowledge of the childre
 
 {/details}
 
-#### Planned assessment opportunities - Primary
+### Planned assessment opportunities - Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G76i_hc6wWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -109,7 +109,7 @@ An example of this would be:
 I find it helpful to anticipate potential misconceptions and be conscious and explicit
 about them when I teach.  {/details}
 
-#### Planned assessment opportunities - Secondary
+### Planned assessment opportunities - Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xnfGkXTXMGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -132,7 +132,7 @@ This is where the teacher moves around the class while the pupils are individual
 
 {/details}
 
-### Questions to consider
+## Questions to consider
 
 Think back to a previous lesson you have taught. What methods did you use to assess the following?
 
@@ -142,7 +142,7 @@ Think back to a previous lesson you have taught. What methods did you use to ass
 
 Could you include any of the methods you have heard from fellow teachers into your practice?
 
-### Anticipating misconceptions
+## Anticipating misconceptions
 
 When planning for effective assessment, all teachers in the previous section mentioned questioning and the planning of questions to check for pupil understanding at points across the lesson.
 
@@ -161,7 +161,7 @@ A question type that can be a useful tool for identifying knowledge gaps and mis
 
 The results of the hinge question will determine whether you move on to the next chunk of learning, or work to consolidate, practise or reteach the previous concept further. They are also very useful for helping you to determine whether a pupil has met the lesson objective or not.
 
-### Hinge question example
+## Hinge question example
 
 Here is an example of a hinge question for a primary science lesson.
 
@@ -178,7 +178,7 @@ This is an effective hinge question because:
 - it enables the teacher to be highly responsive to pupil needs and make a quick decision about next steps
 - the question would also not take long for the pupils to responds to and would not impact the pace of a lesson
 
-### Anticipating misconceptions
+## Anticipating misconceptions
 
 One useful feature of hinge questions, particularly those structured as a multiple-choice question, is that they can be designed to anticipate and monitor potential misconceptions in pupil understanding.
 
@@ -195,13 +195,13 @@ A hinge point question is designed to be a quick and accurate snapshot of unders
 
 In the clip below, you will see a primary teacher ask a hinge question around money. From the way he has designed the task and asked the question, it is evident that he has anticipated the class may have a misconception around coin size. In asking this question, and through the subsequent class discussion, he is attempting to address this misconception before independent practice begins.
 
-#### Anticipating misconceptions - Reach Academy
+### Anticipating misconceptions - Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bifSUpxDS7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Anticipating misconceptions - Reach Academy [AD]](https://youtu.be/auiWIjL_lRo)
 
-### Encouraging deeper thinking
+## Encouraging deeper thinking
 
 A concern sometimes voiced over multiple choice questions is that they are highly effective at assessing some knowledge, but less effective at assessing higher order thinking skills.
 
@@ -215,19 +215,19 @@ Which of these is the most immediate cause of Hitler becoming chancellor?
 
 With each answer being a correct cause of Hitler becoming chancellor, the question encourages deeper thinking, taking away a pupil’s immediate desire to identify the correct answer and move on, and instead prompting them to examine their knowledge and identify which answer was the most immediate cause.
 
-#### Pedagogical subject knowledge
+### Pedagogical subject knowledge
 
 Structuring your questions to anticipate and identify misconceptions will not only give you useful assessment information on your pupils’ knowledge and understanding, but it can be a useful barometer as to your own level of understanding of a concept.
 
 The ease with which you can anticipate a misconception is directly related to how familiar you are with the subject matter. Being aware of common misconceptions and discussing with experienced colleagues how to help pupils master important concepts should be an ongoing exercise for you in your early teaching career.
 
-### Structuring questions to enable to enable the identification of knowledge
+## Structuring questions to enable to enable the identification of knowledge
 
-#### Activity
+### Activity
 
 To consolidate your learning from this session, complete the two short activities below to support your recall of key concepts.
 
-### Activity 1
+## Activity 1
 
 Consider the following hinge-question.
 
@@ -241,7 +241,7 @@ Hinge-question feedback
 It is an effective hinge question because it can be answered quickly, it will allow the teacher to gather assessment information from the whole class at once, the other question options are plausible, and it would highlight misconceptions in pupil thinking.
 {/Details}
 
-### Activity 2
+## Activity 2
 
 Select an upcoming lesson and identify a hinge-point within the lesson.
 

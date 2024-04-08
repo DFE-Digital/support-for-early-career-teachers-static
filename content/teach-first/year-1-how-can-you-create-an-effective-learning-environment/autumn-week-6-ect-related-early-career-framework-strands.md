@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-6-ect-theory"
 ---
 
-### High expectations
+## High expectations
 
 1.1 Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils.
 
@@ -20,11 +20,11 @@ _1c. Creating a positive environment where making mistakes and learning from the
 
 _1d. Seeking opportunities to engage parents and carers in the education of their children (e.g. proactively highlighting successes)._
 
-### Classroom Practice
+## Classroom Practice
 
 _4p. Providing scaffolds for pupil talk to increase the focus and rigour of dialogue._
 
-### Managing behaviour
+## Managing behaviour
 
 7.7 Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure.
 
@@ -38,7 +38,7 @@ _7n. Providing opportunities for pupils to articulate their long-term goals and 
 
 _7o. Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically._
 
-### Professional Behaviours
+## Professional Behaviours
 
 _8h. Communicating with parents and carers proactively and making effective use of parents’ evenings to engage parents and carers in their children’s schooling._
 

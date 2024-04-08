@@ -6,7 +6,7 @@ next_title: "Related Early Career Framework strands"
 next_path: "/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-6-ect-related-early-career-framework-strands"
 ---
 
-### Revisiting how pupils learn
+## Revisiting how pupils learn
 
 Take some time now to review the following content from module 2:
 

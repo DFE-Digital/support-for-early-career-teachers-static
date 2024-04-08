@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-5-ect-theory"
 ---
 
-### Adaptive teaching
+## Adaptive teaching
 
 5.2 Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
 
@@ -18,7 +18,7 @@ _5d. Using the SEND Code of Practice, which provides additional guidance on supp
 
 _5e. Adapting lessons, whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations._
 
-### Professional behaviours
+## Professional behaviours
 
 _8i. Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching._
 

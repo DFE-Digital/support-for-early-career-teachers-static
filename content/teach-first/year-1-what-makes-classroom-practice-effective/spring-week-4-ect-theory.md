@@ -354,7 +354,7 @@ I find collaboration a great way to scaffold pupils’ learning and have noticed
 
 {/details}
 
-## Gradually removing scaffolding
+### Gradually removing scaffolding
 
 Whilst it is important to provide scaffolds when first setting up independent practice, it is important that you remove those scaffolds over time to increase the challenge and ensure pupils develop complete independence.
 

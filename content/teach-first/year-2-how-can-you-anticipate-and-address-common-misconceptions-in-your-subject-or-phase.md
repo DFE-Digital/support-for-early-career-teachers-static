@@ -4,7 +4,6 @@ heading: "Second half term: revisit how to anticipate and address common misconc
 caption: "Year 2"
 ---
 
-### ECTs
 In this module you'll:
 
 - revisit some self-study materials from Year 1

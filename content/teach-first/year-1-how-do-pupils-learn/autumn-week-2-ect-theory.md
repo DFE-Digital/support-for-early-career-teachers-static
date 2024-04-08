@@ -96,7 +96,7 @@ Combining a verbal explanation with a relevant diagram or visual representation 
 
 This course took advantage of this principle when you were introduced to the Willingham model of the mind. As the concept is not linear and relies on the relationship between the different elements of the mind, if this model was explained using only text, the concept would have been harder to explain and understand.
 
-#### Combining verbal and graphical representation – John Hutchinson
+### Combining verbal and graphical representation – John Hutchinson
 
 Listen to teacher Jon Hutchinson talk about how he has learnt to effectively combine verbal explanations and graphical representation in order to support teaching and learning.
 
@@ -115,7 +115,7 @@ In the video, Jon shared some examples of how his school has combined verbal exp
 
 See some phase specific examples in action:
 
-#### Combining verbal and graphical representation - Early Years
+### Combining verbal and graphical representation - Early Years
 
 This Early Years teacher is using graphics to support her explanation of how to do ‘good sitting’ on the carpet.
 
@@ -123,7 +123,7 @@ This Early Years teacher is using graphics to support her explanation of how to 
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Early Years [AD]](https://youtu.be/ACQe5bDwYtM)
 
-#### Combining verbal and graphical representation - Primary
+### Combining verbal and graphical representation - Primary
 
 This KS2 teacher uses a timeline to help place the Vikings in their historical context.
 
@@ -131,7 +131,7 @@ This KS2 teacher uses a timeline to help place the Vikings in their historical c
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Primary [AD]](https://youtu.be/8i5Y_F_07ds)
 
-#### Combining verbal and graphical representation - Secondary
+### Combining verbal and graphical representation - Secondary
 
 See how the teacher helps organise pupil thinking and makes connections using a diagram in this KS3 science lesson.
 
@@ -139,13 +139,13 @@ See how the teacher helps organise pupil thinking and makes connections using a 
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Secondary [AD]](https://youtu.be/cSblnDhG2rA)
 
-#### Combining verbal and graphical representations - Specialist setting
+### Combining verbal and graphical representations - Specialist setting
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8W_nYqvHhP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representations - Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/36Ta6gK0vGw)
 
-### Activity
+## Activity
 
 Consider an upcoming explanation, or an explanation that you have recently done with
 a class.

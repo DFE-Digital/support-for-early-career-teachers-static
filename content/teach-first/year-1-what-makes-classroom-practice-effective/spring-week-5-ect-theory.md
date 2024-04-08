@@ -13,7 +13,7 @@ High-quality classroom talk is a powerful tool for learning (EEF, 2019). It can 
 - It enables you to assess pupils’ understanding to determine whether there is a need for additional instruction
 - It enables you to provide pupils the opportunity to practise what is being taught to consolidate and extend learning
 
-#### The importance of questioning - Claire Stoneman
+### The importance of questioning - Claire Stoneman
 
 In this section, you will explore how questioning can be used to check for pupil understanding and build learning. Start by listening to Claire Stoneman talk about using questioning as part of effective classroom practice and answer the questions in your notepad:
 
@@ -389,25 +389,25 @@ Watch these videos of teachers challenging pupils with follow-up questions to ex
 - what type(s) of follow-up questions were used?
 - how did this impact pupils’ responses?
 
-#### Ask follow-up questions – Early Years - Maria Craster at One Degree Academy
+### Ask follow-up questions – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZrVh0JSxnD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Ask follow-up questions – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/8AIgnb4ssn0)
 
-#### Ask follow-up questions - Primary at Reach Academy
+### Ask follow-up questions - Primary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/StSpQViqrhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Ask follow-up questions - Primary at Reach Academy [AD]](https://youtu.be/L76nGADqy94)
 
-#### Ask follow-up questions - Secondary at Reach Academy
+### Ask follow-up questions - Secondary at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1D122ip6wgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Ask follow-up questions - Secondary at Reach Academy [AD]](https://youtu.be/2jB0mtvcsg4)
 
-#### Ask follow-up questions – Specialist setting - Ellen Tinkham School
+### Ask follow-up questions – Specialist setting - Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJSv_UnTL9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -432,7 +432,7 @@ In the following week, you will then be observed using questioning to assess pup
 
 Below are some additional resources that you might find useful in supporting your classroom practice:
 
-#### Scaffolding learning - Primary
+### Scaffolding learning - Primary
 
 Listen to Katherine Fas talk about scaffolding, how she has used it to support pupils and how to gradually reduce it in Primary
 
@@ -465,7 +465,7 @@ The first thing I would say when removing scaffolds is, it’s really important 
 
 {/details}
 
-#### Scaffolding learning - Secondary
+### Scaffolding learning - Secondary
 Kelly Challis talks about scaffolding and why it is so important when planning, drafting and editing writing in Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SmtFQE8698I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

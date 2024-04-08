@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-1-ect-theory"
 ---
 
-### Assessment
+## Assessment
 
 6.1 Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs.
 

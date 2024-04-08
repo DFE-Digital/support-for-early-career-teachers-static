@@ -4,19 +4,19 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-2-ect-theory"
 ---
 
-### How pupils learn
+## How pupils learn
 
 _2g. Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed._
 
-### Subject and curriculum
+## Subject and curriculum
 
 _3e. Being aware of common misconceptions and discussing with experienced colleagues how to help pupils master important concepts._
 
-### Classroom practice
+## Classroom practice
 
 4.4 Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases.
 
-### Assessment
+## Assessment
 
 6.2 Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear.
 

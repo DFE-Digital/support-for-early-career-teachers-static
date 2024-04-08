@@ -4,17 +4,17 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-4-ect-theory"
 ---
 
-### How pupils learn
+## How pupils learn
 
 _2k. Increasing challenge with practice and retrieval as knowledge becomes more secure (e.g. by removing scaffolding, lengthening spacing or introducing interacting elements)._
 
-### Subject and curriculum
+## Subject and curriculum
 
 3.5 Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial.
 
 _3k. Ensuring pupils have relevant domain-specific knowledge, especially when being asked to think critically within a subject._
 
-### Classroom practice
+## Classroom practice
 
 4.4 Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases.
 
@@ -36,6 +36,6 @@ _4l. Planning activities around what you want pupils to think hard about._
 
 _4o. Considering the factors that will support effective collaborative or paired work (e.g. familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped)._
 
-### Managing behaviour
+## Managing behaviour
 
 _7d. Checking pupils’ understanding of instructions before a task begins._

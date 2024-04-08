@@ -4,7 +4,6 @@ heading: "First half term: revisit how to use structured talk to develop pupils'
 caption: "Year 2"
 ---
 
-### ECTs
 In this module you'll:
 
 - revisit some self-study materials from Year 1

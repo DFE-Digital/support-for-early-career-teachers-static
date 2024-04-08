@@ -225,19 +225,19 @@ Having heard from Kelly, now think of a pupil in your class who has a learning n
 
 Note down how you would help this pupil using some or all of the following graduated approach prompts (you can <a href="/assets/materials/teach-first-Module-5-graduated-approach-example.docx">download this example to help you with this activity</a>).
 
-#### Assess
+### Assess
 
 Build a holistic picture of the pupil’s learning needs by gathering information from several sources.
 
-#### Plan
+### Plan
 
 Using the information gathered above, generate a hypothesis about the type of support that could work.
 
-#### Do
+### Do
 
 Implement the planned support.
 
-#### Review
+### Review
 
 Did the support work?Any information gathered in response to the testing of a hypothesis is useful.
 
