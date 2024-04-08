@@ -4,7 +4,7 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-1-how-pupils-learn/autumn-week-1-ect-learning-outcomes"
 ---
 
-### Learning involves a lasting change in pupils’ capabilities or understanding
+## Learning involves a lasting change in pupils’ capabilities or understanding
 
 “Much of teaching is about helping students master new knowledge and skills and then helping students not to forget what they have learned.” (Pachler et al., 2007)
 
@@ -14,7 +14,7 @@ However frustrating, the fact is that if your pupils do not remember the new kno
 
 An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory
 
-### In your notepad
+## In your notepad
 
 Look at the definitions below for long-term memory and working memory.
 
@@ -36,7 +36,7 @@ New information that we notice in our environment (e.g. what the teacher is teac
 
 When the pupil learns the definition of symmetry and how to recognise lines of symmetry in shapes this new knowledge will either be forgotten or begin its journey to move into their long-term memory where it can be called upon when needed - in other words it has been learnt.
 
-### Long-term memory
+## Long-term memory
 
 Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge
 
@@ -49,7 +49,7 @@ Of course, not all information that makes its way into our long-term memory will
 - retrieval strength, or how often you access the memory over time; and
 - storage strength, or how deeply embedded the information was in your long-term memory including how many schemata the individual item is linked to.
 
-### Example
+## Example
 
 In the example below, the teacher applies their understanding of long-term memory,
 schema and working memory when introducing new content:
@@ -81,7 +81,7 @@ Teacher: “Now, have a look around the room and you can see lots of different i
 
 Teacher: “Wow, we have so many amazing words for everyone here! I am now going to put these up on the wall so you can look up and use both the pictures and now our word banks to inspire your writing! Let’s read and talk about them as we put them up”.
 
-### Working memory
+## Working memory
 
 Working memory is where information that is being actively processed is held, but its capacity is limited and can be overloaded
 
@@ -104,21 +104,21 @@ Sweller (2016) tells us that since working memory has a limited capacity, instru
 
 There are several techniques which are useful in the classroom for reducing the cognitive load on the working memory.
 
-### 1. Take into account pupils’ prior knowledge when planning how much new information to introduce and link what pupils already know to what is being taught
+## 1. Take into account pupils’ prior knowledge when planning how much new information to introduce and link what pupils already know to what is being taught
 
 Helping pupils to draw on prior knowledge – linking to existing schemata - when they encounter new knowledge will reduce the burden on the working memory. For teachers this has two implications. Firstly, you should think carefully about what pupils already know about the area of learning. If their knowledge is limited, you should be especially careful when introducing new material and be very conscious of the risk of overloading pupils with too much information. Secondly, you should _link_ the new learning to what you believe they already know. We will look in more detail at the role of prior knowledge in Activity 2.3.
 
-### Video
+## Video
 
-#### Video type
+### Video type
 
 Classroom practice
 
-##### Short description
+#### Short description
 
 An Early Years classroom, the video shows how a teacher takes prior knowledge into account when introducing content and directly links what pupils already know to what is being taught.
 
-##### What should you focus on in this video?
+#### What should you focus on in this video?
 
 - What do you notice about how the teacher links the new material to pupils’ prior knowledge to help them learn the new word?
 - How does the teacher take into account prior knowledge before introducing the new word?
@@ -156,11 +156,11 @@ At the end of the day, the practitioner talks to the children about their plans 
 
 {/details}
 
-### 2. Avoid overloading the working memory by considering how much new material to introduce at one time and breaking complex material into smaller steps
+## 2. Avoid overloading the working memory by considering how much new material to introduce at one time and breaking complex material into smaller steps
 
 Another practical way you can avoid overloading working memory is to only introduce new material in small, manageable steps (Rosenshine, 2012). Ensuring pupils master foundational material and that it has had time to embed in the long-term memory before moving on will prevent working memory from becoming overloaded and support pupils to engage with more complex material. This is also true when teaching complex material to pupils: breaking it down and supporting pupils’ working memory with partially completed examples can help avoid cognitive overload.
 
-### Example
+## Example
 
 In the examples below, both teachers want their pupils to learn some complex material
 about the effects of war on a country. Think about these questions:
@@ -206,7 +206,7 @@ Example B:
   workbook after each factor is introduced before continuing.
 - this takes up the entire lesson
 
-### 3. Reduce distractions which take attention away from what is being taught so that attention is focused on the content
+## 3. Reduce distractions which take attention away from what is being taught so that attention is focused on the content
 
 Because working memory is limited, it is important that you avoid overloading it with unnecessary information that doesn’t directly contribute to pupil learning. It can be easy to mistake engagement and enjoyment for learning. Activities must be centered around what we want pupils to learn. While superficially appealing, it is easy to get carried away planning ‘fun’ activities that actually take pupils’ attention away from the content. For example, in a game to complete as many questions in the time as possible, pupils are likely to be thinking about the time limit and how many questions they complete at the expense of thinking hard about the content.
 
@@ -224,7 +224,7 @@ Some things you can do to reduce distractions include:
 - For more complicated tasks, write the steps which pupils need to remember on the board and leave them there so pupils can refer back to them during the task.
 - Use short, clear explanations and examples to demonstrate your points - plan these in advance so they are high quality and concise.
 
-#### Reducing distractions
+### Reducing distractions
 
 Watch this video of a GCSE Biology lesson. A science teacher is trying to teach their class about DNA and chromosomes.
 
@@ -250,7 +250,7 @@ Teacher: Right, let’s go back to the start…
 
 {/details}
 
-#### Reducing distractions
+### Reducing distractions
 
 Watch this video of the same GCSE Biology content being taught differently by the teacher.
 
@@ -287,7 +287,7 @@ Teacher: Interesting you should ask… there is a very rare condition…
 
 {/details}
 
-### Remember
+## Remember
 
 You can reduce cognitive overload in the classroom using some of these techniques:
 

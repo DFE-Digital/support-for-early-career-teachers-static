@@ -4,15 +4,15 @@ next_title: "Video introduction"
 next_path: "/education-development-trust/year-1-how-pupils-learn/intro-ect-video-introduction"
 ---
 
-### Instructions
+## Instructions
 
 - Look over the statements covered in this Block.
 - Watch the video, which introduces what you will learn in this Block and why it is important.
 - Take your reflections, and any questions you have, to discuss in your first mentor session.
 
-### In this Block, you will learn the following:
+## In this Block, you will learn the following:
 
-#### Learn that:
+### Learn that:
 
 - Learning involves a lasting change in pupils’ capabilities or understanding. - Prior knowledge plays an important role in how pupils learn; committing some key facts to their long-term memory is likely to help pupils learn more complex ideas.
 - An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory.
@@ -22,13 +22,13 @@ next_path: "/education-development-trust/year-1-how-pupils-learn/intro-ect-video
 - Worked examples that take pupils through each step of a new process are also likely to support pupils to learn.
 - In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or “schemata”); carefully sequencing teaching to facilitate this process is important.
 
-#### Learn how to avoid overloading working memory, by:
+### Learn how to avoid overloading working memory, by:
 
 - Taking into account pupils’ prior knowledge when planning how much new information to introduce.
 - Breaking complex material into smaller steps (e.g. using partially completed examples to focus pupils on the specific steps).
 - Reducing distractions that take attention away from what is being taught (e.g. keeping the complexity of a task to a minimum, so that attention is focused on the content).
 
-#### Learn how to build on pupils’ prior knowledge, by:
+### Learn how to build on pupils’ prior knowledge, by:
 
 - Identifying possible misconceptions and planning how to prevent these forming.
 - Linking what pupils already know to what is being taught (e.g. explaining how new content builds on what is already known).

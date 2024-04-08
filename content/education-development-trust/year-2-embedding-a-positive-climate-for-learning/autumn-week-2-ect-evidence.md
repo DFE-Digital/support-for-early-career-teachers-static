@@ -4,32 +4,32 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-2-ect-learning-outcomes"
 ---
 
-### Pupils are motivated by intrinsic factors and extrinsic factors
+## Pupils are motivated by intrinsic factors and extrinsic factors
 
 Why are you reading this today? Maybe your mentor has been reminding you for the last week or so, and you felt you couldn’t put it off any longer. It’s hard to get started with a new piece of learning and you needed a push from someone to get going. Or maybe you’re feeling pretty excited about it. You’ve been seeing the improvement in your practice over the last few months and really want to be the best teacher possible. Perhaps it’s a bit of both.
 
 Either of these feelings are recognised and valid reasons for doing this work – motivation is often considered to be either:
 
-#### Intrinsic motivation
+### Intrinsic motivation
 
 From internal sources, such as the pure enjoyment of task engagement.
 
-#### Extrinsic motivation
+### Extrinsic motivation
 
 From external sources such as receiving financial compensation.
 
 (Lazowski & Hullman, 2016)
 
-### In the classroom this could look like:
+## In the classroom this could look like:
 
-#### Intrinsic motivation
+### Intrinsic motivation
 
 - Pupils reading for enjoyment
 - Pupils wanting to try new things because they want to learn
 - Revising work to improve it because they want to do better
 - Seeing feedback as a learning opportunity
 
-#### Extrinsic motivation
+### Extrinsic motivation
 
 - Reading because parents/carers/teachers have said you should
 - Working hard to get a reward
@@ -46,37 +46,37 @@ Willingham (2009) considers the use of rewards in the classroom, citing conflict
 
 There is no right or wrong answer as to whether to use rewards, but rather it is how we use rewards in our classrooms that matters. Used well, rewards (an extrinsic motivation) can be used to develop some of the behaviours which may lead to intrinsic motivation such as perseverance, effort and seeking challenge:
 
-#### Teachers should: Use rewards for a specific reason, such as encouraging appropriate behaviours
+### Teachers should: Use rewards for a specific reason, such as encouraging appropriate behaviours
 
-##### The reason why
+#### The reason why
 
 Rewards can be used effectively to encourage a desired behaviour, which might be seen as dull, but mastering the foundational concepts and knowledge will aid long-term success.
 
-##### Exemplification
+#### Exemplification
 
 For example, teachers might reward consistently good behaviour, ‘You have really persevered with this task, I am going to give you a merit, well done.’
 
-#### Teachers should: Use rewards in the moment and avoid giving them too regularly
+### Teachers should: Use rewards in the moment and avoid giving them too regularly
 
-##### The reason why
+#### The reason why
 
 If used for too long, it is more likely that use of a reward will actually have negative implications: rewards with novelty are more appealing. Pupils should not complete tasks expecting a reward at the end.
 
-##### Exemplification
+#### Exemplification
 
 For example, if a teacher gives out a small reward each time their pupils put their hands up to answer a question, they will soon run out of rewards, and pupils will lose interest in them (or worse, see this as an enjoyable game). Instead, offer rewards infrequently and try to make them unexpected. This will help pupils view their work as something to complete for their own benefit rather than for a reward. ‘I am so impressed with the effort you have shown in this task, I am going to phone home and tell your parents how hard you have worked today.’
 
-#### Teachers should: Beware of rewarding pupils for tasks they (should) enjoy
+### Teachers should: Beware of rewarding pupils for tasks they (should) enjoy
 
-##### The reason why
+#### The reason why
 
 For pupils who already enjoyed doing the task when the reward was offered, it may result in them enjoying the task less than they did at the start: the reward has the effect of de-motivating.
 
-##### Exemplification
+#### Exemplification
 
 For example, if pupils are rewarded for the number of books they read, this may turn reading into a mechanical activity in order to achieve the reward rather than an enjoyable activity in its own right. Instead you might praise the pupil for trying a more challenging book. ‘I am going to give you a merit for your reading today, I know you chose a really challenging book.’
 
-### Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically
+## Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically
 
 Although it is important to acknowledge that all pupils are individuals and will be motivated in different ways and for different reasons, as teachers there are steps we can take to encourage and support pupils to develop an intrinsic love of learning and an understanding that effort and the process of learning are crucial for success. This will hold them in good stead in their life beyond school.
 
@@ -84,7 +84,7 @@ And developing a sense of personal, intrinsic motivation is a vital goal of a pu
 
 One of the main ways you can influence pupil motivation is through rewards. Rewards play to pupils’ extrinsic motivation, but they can also be used to ‘nudge’ them towards behaviours which – over time – are representative of more intrinsic motivation.
 
-#### Types of reward
+### Types of reward
 
 - Verbal praise
 - Thumbs-up
@@ -95,7 +95,7 @@ One of the main ways you can influence pupil motivation is through rewards. Rewa
 - Public praise in assembly
 - Certificates
 
-#### How to encourage intrinsic motivation
+### How to encourage intrinsic motivation
 
 - Rewarding effort
 - Rewarding learning strategies
@@ -105,7 +105,7 @@ One of the main ways you can influence pupil motivation is through rewards. Rewa
 - Rewarding good behaviour
 - Rewarding progress rather than attainment
 
-### In your notepad
+## In your notepad
 
 Consider the way that you use rewards to motivate in your lessons by answering the
 questions below:
@@ -117,7 +117,7 @@ questions below:
 
 Often, the policy for pupil rewards will be set at school rather than classroom level. While there may well be significant freedom for you as a teacher within this, what is rewarded and how will be closely linked to the culture and values of the school. The following video explains one school’s approach to this issue.
 
-#### Extrinsic motivation
+### Extrinsic motivation
 
 Watch this video of a school leader talking about how they support development of intrinsic motivation
 
@@ -146,13 +146,13 @@ I like to openly discuss motivation with my pupils and talk about my own persona
 
 {/details}
 
-### In your notepad
+## In your notepad
 
 - what does the school leader do to support motivation in their school?
 - are there any strategies you think might work particularly well? Why?
 - are there any aspects of the classroom level practice which could work well in your context? Why?
 
-### Pupils’ investment in learning is driven by their prior experiences and perceptions of success and failure
+## Pupils’ investment in learning is driven by their prior experiences and perceptions of success and failure
 
 We’ve already seen that there is a strong link between motivation and student success, and so we know that _understanding_ and _developing_ pupil motivation is something we need to focus upon as teachers. Interestingly, it is more likely that pupil success _leads to_ increased motivation, rather than pupils being motivated to succeed in the first place.
 
@@ -166,45 +166,45 @@ Pupils are individuals and will perceive success in different ways. Success coul
 
 Of course, this is a two-way street. Prior experience of _failure_ is also influential on motivation. In your classroom, it is important to avoid things which will lead to pupils to perceive of themselves as ‘failing’.
 
-#### Things that can reduce pupils’ investment in learning: Pupils are scared of failing
+### Things that can reduce pupils’ investment in learning: Pupils are scared of failing
 
-##### Strategies to increase pupils’ investment in learning
+#### Strategies to increase pupils’ investment in learning
 
 - Encourage a sense of self-belief in pupils
 - Avoid creating a negative response to mistakes and errors
 - Encourage pupils to see mistakes as opportunities to learn and improve
 
-#### Things that can reduce pupils’ investment in learning: Pupils unable to see how the task relates to them
+### Things that can reduce pupils’ investment in learning: Pupils unable to see how the task relates to them
 
-##### Strategies to increase pupils’ investment in learning
+#### Strategies to increase pupils’ investment in learning
 
 - Demonstrate and highlight the value in a task
 - Show how the content links to everyday life
 - If possible link the work with the pupils’ understanding of the world
 
-#### Things that can reduce pupils’ investment in learning: Work is too easy
+### Things that can reduce pupils’ investment in learning: Work is too easy
 
-##### Strategies to increase pupils’ investment in learning
+#### Strategies to increase pupils’ investment in learning
 
 - Plan lessons that are suitably challenging
 - Continuously assess what pupils know and are able to do and adjust lessons accordingly
 - Remove scaffolds when necessary
 
-#### Things that can reduce pupils’ investment in learning: Work is too challenging
+### Things that can reduce pupils’ investment in learning: Work is too challenging
 
-##### Strategies to increase pupils’ investment in learning
+#### Strategies to increase pupils’ investment in learning
 
 - Plan lessons that are suitably challenging
 - Be aware of the pupils who need extra support and plan accordingly
 - Scaffold work to support pupils. You can refer back to Block 3 for more detail around scaffolding and there will be an opportunity to explore it in more depth in Activity 7.3
 
-### In your notepad
+## In your notepad
 
 - can you identify any evidence of the ‘things that can reduce pupils’ investment in learning’ in your classes?
 - what does this look like? For example, if a pupil is not putting in effort because they are afraid to fail, how might this present itself?
 - what action will you take? Use the table above to help you.
 
-### Teachers can influence pupils’ resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience meaningful success
+## Teachers can influence pupils’ resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience meaningful success
 
 So how do we steer pupils’ perceptions towards feeling successful? Ideally we want to set up a self-reinforcing cycle: if we hold consistently high expectations for our pupils and ensure that we are teaching them well then pupils can begin to experience success, which in turn can lead to greater motivation to succeed. This often means pushing pupils slightly beyond what they are comfortable with – having high expectations means that all pupils must be expected to participate in challenging tasks – and sometimes success may not be instant. We need to avoid this feeling like ‘failure’. To help maintain their motivation, you should teach pupils that:
 
@@ -228,7 +228,7 @@ A key technique for achieving this positive reinforcement of pupils’ beliefs i
 
 (Willingham, 2009)
 
-#### When giving praise, try to avoid...
+### When giving praise, try to avoid...
 
 - Praising intelligence rather than effort: ‘Well done, you are really clever at mathematics.’
 - Praising the outcome: ‘You got 83%, that is great.’
@@ -238,59 +238,59 @@ A key technique for achieving this positive reinforcement of pupils’ beliefs i
 
 When praise is used effectively it can tell students that they are on the right track and motivate them to continue working. Using praise judiciously and communicating genuine warmth and enthusiasm can have a direct impact on motivation and the learning environment.
 
-#### Strategies to use: Praise the effort.
+### Strategies to use: Praise the effort.
 
 ‘Well done, that was a difficult task and you worked really hard to get that result.’
 
-##### Explanation
+#### Explanation
 
 We want pupils to see that the effort they put in can have an impact on the results they get. Be mindful that the pupil may take this to mean that they have done badly, consider the ways you might mitigate this.
 
-#### Strategies to use: Praise the process.
+### Strategies to use: Praise the process.
 
 ‘You have worked really hard to find a solution to the problem, well done.’
 
-##### Explanations
+#### Explanations
 
 Praising the process pupils have followed acknowledges the work pupils have put in. Even if the outcome is not quite what you or the pupil want, you might praise the thinking skills they have shown.
 
-#### Strategies to use: Attribute success to effort and practice.
+### Strategies to use: Attribute success to effort and practice.
 
 ‘The way you did that showed me how much you have been practising. You have really improved, well done.’
 
-##### Explanations
+#### Explanations
 
 Acknowledging and appreciating the work a pupil has put in conveys the importance of effort and shows that you value hard work and practice. It also demonstrates that results can be improved on through hard work.
 
-#### Strategies to use: Start every class afresh, making it clear that you are looking for every pupil to do well.
+### Strategies to use: Start every class afresh, making it clear that you are looking for every pupil to do well.
 
 ‘Here’s the feedback from the last homework activity. The first thing we are doing to do is improve our work together.’
 
-##### Explanations
+#### Explanations
 
 Pupils’ may come to the lesson with fixed ideas about what you think of them and their abilities. Strive to demonstrate that you are looking for pupils to succeed and do well.
 
-#### Strategies to use: Teach that success usually follows multiple unsuccessful attempts.
+### Strategies to use: Teach that success usually follows multiple unsuccessful attempts.
 
 ‘This is a very challenging task and I am not expecting perfect answers yet. What I do want to see is everyone trying their best and putting in effort.’
 
-##### Explanations
+#### Explanations
 
 Explicitly teaching that it is impossible to get a perfect result the first time you do something and mastering a skill takes practice and hard work will help your pupils see the value in trying hard and practicing.
 
-#### Strategies to use: Teach that errors lead to valuable feedback which can generate improvement.
+### Strategies to use: Teach that errors lead to valuable feedback which can generate improvement.
 
 ‘That is a good error, and lots of people have the same problem. Let’s all go over this now, so we know how to do it next time.’
 
-##### Explanations
+#### Explanations
 
 This shares the idea that making mistakes and errors are an important part of the learning process and one that we should value. Pupils may be afraid to try in case they fail so we want to create a learning environment in which making mistakes are part of learning.
 
-#### Strategies to use: Reinforce the idea that it is never too late to improve.
+### Strategies to use: Reinforce the idea that it is never too late to improve.
 
 ‘We will come back to this next time.’
 
-##### Explanations
+#### Explanations
 
 Show your pupils that they can always improve on something. This emphasises the importance of effort and hard work.
 

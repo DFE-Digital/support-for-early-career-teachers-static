@@ -4,11 +4,11 @@ previous_title: "What you will learn"
 previous_path: "/education-development-trust/year-1-establishing-a-positive-climate-for-learning/intro-ect-what-you-will-learn"
 ---
 
-### Time allocation
+## Time allocation
 
 10 minutes with 1.1a
 
-### Instructions
+## Instructions
 
 Watch the video.
 

@@ -4,13 +4,13 @@ next_title: "Video introduction"
 next_path: "/education-development-trust/year-1-establishing-a-positive-climate-for-learning/intro-ect-video-introduction"
 ---
 
-### Instructions
+## Instructions
 
 - Look over the statements covered in this Block.
 - Watch the video, which introduces what you will learn in this Block and why it is important.
 - Take your reflections, and any questions you have, to discuss in your first mentor session.
 
-### In this Block, you will learn the following:
+## In this Block, you will learn the following:
 
 **Learn that:**
 

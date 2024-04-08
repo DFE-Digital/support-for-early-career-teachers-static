@@ -4,7 +4,7 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-1-ect-learning-outcomes"
 ---
 
-### Over time, feedback should support pupils to monitor and regulate their own learning
+## Over time, feedback should support pupils to monitor and regulate their own learning
 
 You will not be available or able to provide support all of the time to help pupils improve their work. This might be because you are working with a small group during an activity or it is an independent learning task, such as homework or self-study. In the longer term, you won’t be their teacher forever! You want to avoid a situation whereby all learning is dependent on you, the teacher, being available to offer support and guidance. To achieve this, you will need to think about how to support your pupils to self-regulate and to monitor their own learning.
 
@@ -14,21 +14,21 @@ You learned about metacognition and some strategies for teaching it as part of B
 
 There are three aspects to self-regulation; cognition, meta-cognition and motivation (EEF, 2017). All three are important, inter-dependent aspects of the learning process and you will need to consider each one carefully when thinking about how to help pupils monitor and regulate their own learning.
 
-### Key terms
+## Key terms
 
-#### Cognition
+### Cognition
 
 The mental processes involved in knowing, understanding and learning.
 Cognitive strategies include memorisation techniques or subject-specific
 strategies like how to solve an equation.
 
-#### Metacognition
+### Metacognition
 
 The ways learners monitor and purposefully direct their learning.
 Meta-cognitive strategies include planning what technique to use, monitoring
 if it is working and choosing to adapt if it is not.
 
-#### Motivation
+### Motivation
 
 Our willingness to engage in meta-cognitive or cognitive strategies. For
 example, convincing ourselves to revise for a test we have tomorrow.
@@ -45,9 +45,9 @@ When giving feedback to pupils, you should make specific reference to the cognit
 
 Giving feedback on cognitive processes will help expand pupil awareness of which cognitive strategies worked and what they could try next time.
 
-### Video
+## Video
 
-#### Commenting on cognitive strategies
+### Commenting on cognitive strategies
 
 Watch the video below and answer the following questions:
 
@@ -92,7 +92,7 @@ As Wiliam & Christadoulou (2017) tell us, ‘students will only act on feedback 
 | Provide feedback on ways to learn           | - Share the most effective ways to learn with pupils. - Show your pupils what good looks like. - Show pupils the value of putting effort in to improving and editing their work.           |
 | Help pupils set realistic, achievable goals | - Model goal-setting. - Encourage your pupils to reflect on where they are and where they want to be. - Show pupils how to set targets for themselves. - Help pupils track their progress. |
 
-### In your notepad
+## In your notepad
 
 Thinking about the table above, how do you support pupils to monitor their
 own learning?

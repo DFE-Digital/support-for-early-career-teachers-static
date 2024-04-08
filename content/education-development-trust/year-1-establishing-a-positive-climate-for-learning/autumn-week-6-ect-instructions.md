@@ -9,7 +9,7 @@ next_path: "/education-development-trust/year-1-establishing-a-positive-climate-
 - This will require some additional planning either individually or in collaboration with a colleague.
 - You should also evaluate the effectiveness and impact of this in discussion with your mentor.
 
-### Learn how to develop a positive, predictable and safe environment for pupils, by:
+## Learn how to develop a positive, predictable and safe environment for pupils, by:
 
 - Giving manageable, specific and sequential instructions.
 - Checking pupils’ understanding of instructions before a task begins.

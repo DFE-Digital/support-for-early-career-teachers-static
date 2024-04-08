@@ -6,9 +6,9 @@ next_title: "Evidence"
 next_path: "/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-1-ect-evidence"
 ---
 
-### The intended outcomes of this activity are for you to:
+## The intended outcomes of this activity are for you to:
 
-#### Learn that:
+### Learn that:
 
 - A school’s curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning.
 - Secure subject knowledge helps teachers to motivate pupils and teach effectively.
@@ -19,7 +19,7 @@ next_path: "/education-development-trust/year-1-the-importance-of-subject-and-cu
 - In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or “schemata”); carefully sequencing teaching to facilitate this process is important.
 - Pupils are likely to struggle to transfer what has been learnt in one discipline to a new or unfamiliar context.
 
-### In your notepad
+## In your notepad
 
 Keep a note of your responses to the following questions and bring them with you
 to your first mentor session for this module to inform your discussions:

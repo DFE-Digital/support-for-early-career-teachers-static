@@ -10,9 +10,9 @@ next_path: "/education-development-trust/year-1-the-importance-of-subject-and-cu
 - This will require some additional planning either individually or in collaboration with a colleague.
 - You should also evaluate the effectiveness and impact of this in discussion with your mentor.
 
-### The intended outcomes of this activity are for you to:
+## The intended outcomes of this activity are for you to:
 
-#### Learn that:
+### Learn that:
 
 - Secure subject knowledge helps teachers to motivate pupils and teach effectively.
 - Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.
@@ -20,10 +20,10 @@ next_path: "/education-development-trust/year-1-the-importance-of-subject-and-cu
 - Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial.
 - In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or “schemata”); carefully sequencing teaching to facilitate this process is important.
 
-#### Learn how to deliver a carefully sequenced and coherent curriculum, by:
+### Learn how to deliver a carefully sequenced and coherent curriculum, by:
 
 - Being aware of common misconceptions and discussing with experienced colleagues how to help pupils master important concepts.
 
-#### Learn how to support pupils to build increasingly complex mental models, by:
+### Learn how to support pupils to build increasingly complex mental models, by:
 
 - Discussing curriculum design with experienced colleagues and balancing exposition, repetition, practice of critical skills and knowledge.

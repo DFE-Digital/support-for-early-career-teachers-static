@@ -4,7 +4,7 @@ previous_title: "1b Learning outcomes"
 previous_path: "/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-1-ect-1b-learning-outcomes"
 ---
 
-### Setting clear expectations can help communicate shared values that improve classroom and school culture
+## Setting clear expectations can help communicate shared values that improve classroom and school culture
 
 To create a calm, purposeful classroom environment, it is key to focus on the positive behaviours you expect (Coe et al., 2014). You can do this through:
 
@@ -29,7 +29,7 @@ Look at the cartoon below which highlights this.
 
 It is important to maintain a positive, calm climate and we can do this through focusing on what we want to see pupils doing. Teachers can use both verbal and non-verbal prompts to communicate their expectations of behaviour to the pupils. It is also important that you give pupils an opportunity to adjust their behaviour before escalating things.
 
-#### Verbal prompts
+### Verbal prompts
 
 - Instructions
 - Praise
@@ -38,7 +38,7 @@ It is important to maintain a positive, calm climate and we can do this through 
 - Giving pupils choices
 - Reminders of school behaviour policy
 
-#### Non-verbal prompts
+### Non-verbal prompts
 
 - Smiling or frowning
 - Nodding or shaking head
@@ -64,7 +64,7 @@ Once you have given instructions:
 
 Watch the video to see this in practice.
 
-#### Giving instructions and checking understanding
+### Giving instructions and checking understanding
 
 Watch this video of a teacher giving pupils short and clear instructions to complete a task, then in various ways checking that pupils have understood the instructions.
 
@@ -103,14 +103,14 @@ Tom… [Tom is standing up and teacher gestures with her arm for him to sit down
 
 {/details}
 
-### In your notepad
+## In your notepad
 
 - What does the teacher in the video say?
 - What does the teacher do?
 - How do they make their expectations clear?
 - What is the impact of this?
 
-### Teacher expectations can affect pupil outcomes
+## Teacher expectations can affect pupil outcomes
 
 We know that our beliefs can be very influential. What you believe your pupils to be capable of achieving will directly influence what they actually achieve (Murdock-Perriera & Sedlacek, 2018). The Pygmalion or ‘self-fulfilling prophecy’ research (Rosenthal et al.) in the 1960s showed that when teachers (but not their pupils) were told by researchers that a random group of their pupils had achieved high scores on an aptitude test, these pupils did better over the course of the year than the ‘ordinary’ pupils in their classes. In reality, the test was made up. Not knowing this, the teachers were shown to ask more questions, give more thinking time and provide more feedback to the pupils they believed to be more able. Clearly what you think of your pupils’ abilities and how you plan to meet their needs matters hugely. The higher the expectations you have of your pupils, the more you will push and challenge them and the more their outcomes will improve (Murdock-Perriera & Sedlacek, 2018).
 
@@ -128,9 +128,9 @@ The way a pupil views their own ability will be affected by your expectations of
 
 This doesn’t mean that you should have low expectations. You should set learning goals that will challenge your pupils. They should have a level of difficulty that only makes them achievable with sustained effort. You can support your pupils to achieve these by demonstrating your high expectations of them; show pupils that you believe in them and their abilities. We can support and develop pupil attitude towards challenge (Willingham, 2009). Pupils must be encouraged to persevere, even when they find work challenging, as it is this process that will help them learn. The level of challenge will convey your high expectations to your pupils and when they achieve success in meeting those high expectations they will be motivated to work harder and strive to achieve further success (Chapman et al., 2013; Rathmann et al., 2018).
 
-### Strategies to try
+## Strategies to try
 
-#### Set challenging goals for your pupils
+### Set challenging goals for your pupils
 
 What this looks like in practice:
 
@@ -140,13 +140,13 @@ What this looks like in practice:
 - support pupils in setting a timeline and a method of recording progress
 - teach pupils the rationale behind setting their own goals. A goal that they set for themselves can be more empowering than one imposed by somebody else
 
-#### State the outcomes you want to see
+### State the outcomes you want to see
 
 What this looks like in practice:
 
 - avoid statements phrased in negative terms. Use ‘do’ instead of ‘don’t’; ‘can’ instead of ‘can’t’
 
-#### Consistently communicate that pupils are improving and are capable of improving
+### Consistently communicate that pupils are improving and are capable of improving
 
 What this looks like in practice:
 
@@ -155,14 +155,14 @@ What this looks like in practice:
 - encourage pupils when they get stuck: “You can’t do this right now but if you try X I think you will be able to”
 - acknowledge mistakes as part of learning
 
-#### Show all pupils that you believe they are capable of achieving success
+### Show all pupils that you believe they are capable of achieving success
 
 What this looks like in practice:
 
 - use positive language with pupils: “I am really impressed at the way you used quotes to support your ideas”
 - tell pupils when tasks are challenging and explain the purpose in this
 
-#### Highlight successes of all pupils
+### Highlight successes of all pupils
 
 What this looks like in practice:
 
@@ -171,7 +171,7 @@ What this looks like in practice:
 
 Look at the following example of a teacher helping a pupil set a challenging goal.
 
-### Example
+## Example
 
 Pupil: I want to get better at reading.
 
@@ -207,18 +207,18 @@ Teacher: Great. Should we check in again next week and see how you are getting o
 
 Pupil: Yes, that sounds good.
 
-### In your notepad
+## In your notepad
 
 - How does the teacher support the pupil to set a challenging goal?
 - What sort of language does the teacher use to show high expectations?
 
-### Effective relationships are integral to a positive classroom environment
+## Effective relationships are integral to a positive classroom environment
 
 Building positive relationships with the classes and individual pupils you teach is of the utmost importance to both you and your pupils. One of the largest potential mediators of academic outcomes is the extent to which students are motivated and engaged by their interactions with teachers (Allen et al., 2011; Wubbels et al., 2014; PISA, 2015; Valdebenito et al., 2018). When pupils have good relations with their teachers, both their performance and their sense of belonging at school benefit (PISA, 2015). Positive teacher-pupil relations are also associated with higher life satisfaction (Rathmann K et al., 2018) and they can also support the attitudes, behaviours and strategies that facilitate success in school and workplace, such as motivation, perseverance and self-control (EEF, 2019). Secure and positive relationships will also have an impact on the way you feel about your classes and on your own wellbeing. Pupils who want to behave in your lessons will strive to achieve their best and will be motivated and engaged in their learning.
 
 To make a positive start, teachers need to get to know the pupils they teach, for example by using their names and modelling the respectful attitude they expect in return (Muijs & Reynolds, 2017).
 
-#### Learning everyone’s name
+### Learning everyone’s name
 
 Watch this video of a teacher explaining techniques they use to quickly remember pupils’ names.
 
@@ -241,7 +241,7 @@ Of course, in order to do that, you need to learn and remember their names, whic
   thing is not to leave it to chance, but to plan how you are going to make it easy
   for yourself to remember pupils’ names. {/details}
 
-### In your notepad
+## In your notepad
 
 - What is the impact of learning names quickly?
 - What strategies does the teacher use to learn pupils’ names quickly?
@@ -263,7 +263,7 @@ It is particularly important that you respond quickly to any instances of bullyi
 
 The following table shares some of the ways you can build and maintain a culture of trust and respect with your pupils. Read through the suggestions and answer the questions that follow.
 
-### Strategies to use
+## Strategies to use
 
 Learn names quickly:
 
@@ -323,13 +323,13 @@ Be positive:
 - Start each lesson in a positive way.
 - Give meaningful praise often.
 
-### In your notepad
+## In your notepad
 
 - What are three positive impacts of having good relationships with pupils?
 - Which strategies do you feel that you already use successfully? In which areas do you feel you could improve?
 - What steps will you take to do this?
 
-### Remember:
+## Remember:
 
 Focusing on maintaining clear routines, building positive relationships and keeping
 your expectations of all pupils high will reduce the need for behaviour interventions.

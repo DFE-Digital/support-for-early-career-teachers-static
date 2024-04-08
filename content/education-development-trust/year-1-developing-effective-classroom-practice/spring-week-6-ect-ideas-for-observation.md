@@ -4,35 +4,35 @@ previous_title: "Intended outcomes"
 previous_path: "/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-6-ect-intended-outcomes"
 ---
 
-### Observation focus: Introducing material in small steps
+## Observation focus: Introducing material in small steps
 
-#### Possible focus during the observation:
+### Possible focus during the observation:
 
 - How were complex ideas broken down into parts?
 - How did each activity build on the previous one?
 - Did pupils grasp the ideas? How do you know?
 
-### Observation focus: Use of modelling
+## Observation focus: Use of modelling
 
-#### Possible focus during the observation:
+### Possible focus during the observation:
 
 - Did the teacher use modelling?
 - What kind of modelling was used?
 - Did it aid pupils’ understanding?
 - How do you know?
 
-### Observation focus: Understanding pupil differences
+## Observation focus: Understanding pupil differences
 
-#### Possible focus during the observation:
+### Possible focus during the observation:
 
 - Discuss with a colleague how they go about understanding pupil differences and potential barriers to learning in their class(es)
 - What do they do?
 - Who do they speak to?
 - How do they overcome barriers?
 
-### Observation focus: Adapting ‘in the moment’
+## Observation focus: Adapting ‘in the moment’
 
-#### Possible focus during the observation:
+### Possible focus during the observation:
 
 - Did the teacher show that they were ‘adapting in the moment’ to pupils’ needs?
 - How did the teacher know that he/she needed to adapt?
@@ -40,9 +40,9 @@ previous_path: "/education-development-trust/year-1-developing-effective-classro
 - Did it have an impact on the pupils?
 - How does the teacher maintain high expectations for all pupils?
 
-### Observation focus: Teaching metacognitive strategies
+## Observation focus: Teaching metacognitive strategies
 
-#### Possible focus during the observation:
+### Possible focus during the observation:
 
 - Did the teacher support pupils to plan, monitor and evaluate their own learning?
 - How did they do this?

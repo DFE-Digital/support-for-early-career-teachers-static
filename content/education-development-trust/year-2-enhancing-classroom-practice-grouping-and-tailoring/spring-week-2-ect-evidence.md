@@ -4,7 +4,7 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-2-ect-learning-outcomes"
 ---
 
-### Paired and group activities can increase pupil success, but to work effectively pupils need guidance, support and practice
+## Paired and group activities can increase pupil success, but to work effectively pupils need guidance, support and practice
 
 We’ve all sat through training sessions where we are asked to work with a group of people, sometimes strangers, and answer a question on a sheet of flip chart paper. We can remember the awkwardness as we politely, but silently, negotiate who speaks first. There is the sense of danger as you weigh up whether being the person who records the ideas means you are excused from being the person who has to stand up and feed back, or if the fact that no-one can read your handwriting means that you will \_have \_to do it. We also remember the sense of frustration that one person is dominating the discussion, and that what they’re saying seems to be completely missing the point of the task. Bad group work is truly awful.
 
@@ -35,9 +35,9 @@ A number of elements can support group work to be effective. These include:
 - Group goals, in which the group works together towards a shared goal, reward or recognition
 - Individual accountability, in which the success of the group depends on the individual learning of each group member
 
-### Have a look at these two examples
+## Have a look at these two examples
 
-#### Example A
+### Example A
 
 Informal group learning:
 
@@ -53,7 +53,7 @@ Informal group learning:
   completed the task, you need to write it up individually and I will mark
   it"
 
-#### Example B
+### Example B
 
 Structured team learning
 
@@ -75,7 +75,7 @@ Structured team learning
   individually and then combine your scores to see which team has improved
   the most since last time"
 
-####  In your notepad
+###  In your notepad
 
 Answer the following questions:
 
@@ -83,7 +83,7 @@ Answer the following questions:
 - why?
 - what are three implications for your practice?
 
-### How pupils are grouped is also important
+## How pupils are grouped is also important
 
 Care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
 
@@ -118,21 +118,21 @@ You may get ‘free-riders’ within groups (Muijs & Reynolds, 2017). That is, p
 
 One simple way to monitor the impact of groupings on pupil attainment, behaviour and motivation is to ensure that you record how you have grouped pupils and make observations about attainment, behaviour and motivation based on that grouping. You can also give individual and group scores to pupils for work they have carried out in groups thus increasing individual accountability for the work carried out within a group. This should be carried out while pupils are working in groups so that it does not create unnecessary workload for you or take additional time for them.
 
-## Video
+# Video
 
-### Title
+## Title
 
 Setting up a group activity
 
-### Video type
+## Video type
 
 Classroom practice
 
-### Short description
+## Short description
 
 A teacher explains how she would like the groups to be set up for an activity.
 
-### What should you focus on in this video?
+## What should you focus on in this video?
 
 - How does the teacher communicate her expectations of group work?
 - What are the different roles pupils are being asked to take on?
@@ -221,7 +221,7 @@ Each group needs the following resources:
 
 {/details}
 
-## Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low-attaining pupils
+# Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low-attaining pupils
 
 Different schools take different approaches when it comes to how pupils are grouped at the school level. For example, in some schools, pupils are grouped by attainment for classes in ‘core’ subjects such as maths, English and science and in mixed-ability groups for ‘non-core’ subjects (setting) or in all subjects (streaming). In other schools, there is no ability grouping at all. Primary schools may take a similar variety of approaches, grouping pupils by ability for some, all or none of the subjects and lessons throughout the week.
 
@@ -246,13 +246,13 @@ According to Steenbergen et al., 2016, the findings of the research on the effec
 however, was found to be delayed by one or two months each year, and their
 confidence and engagement were undermined (Higgins et al., 2015).
 
-## Homework can improve pupil outcomes, particularly for older pupils, but it is likely that the quality of homework and its relevance to main class teaching is more important than the amount set
+# Homework can improve pupil outcomes, particularly for older pupils, but it is likely that the quality of homework and its relevance to main class teaching is more important than the amount set
 
 Different schools will have different approaches to homework. The most important thing to remember about homework is that it is the _quality_ and not the quantity that counts.
 
-### Potential benefits of homework
+## Potential benefits of homework
 
-#### Short-term:
+### Short-term:
 
 - Better retention of facts and knowledge
 - Increased understanding
@@ -260,7 +260,7 @@ Different schools will have different approaches to homework. The most important
 - Improved critical thinking skills
 - Possibility of extending the curriculum
 
-#### Long term:
+### Long term:
 
 - Development of better study habits
 - Development of better attitudes towards school
