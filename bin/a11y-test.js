@@ -282,8 +282,11 @@ fs.writeFileSync('./a11y-ci-report/index.html', reportSummaryHtml);
 
 // Decide on an exit code based on whether
 // errors are below threshold or everything passes
-if (jsonSummaryReport.violations.length >= parseInt(options.threshold, 10)) {
-    process.exitCode = 2;
-} else {
+const totalViolations = jsonSummaryReport.violations.length;
+if (totalViolations === 0 || totalViolations < parseInt(options.threshold, 10)) {
     process.exitCode = 0;
+} else {
+    process.exitCode = 2;
+
+    console.log(`AXE-CORE found ${totalViolations} violations. For details see the report.`);
 }
