@@ -31,7 +31,7 @@ How do we do this?
 
 It is important to identify the key ideas in a subject. They are the important concepts from which other subject concepts are linked or inferred (Ball et al., 2008), the ones that provide the foundation upon which everything else builds. We know that students learn new ideas by reference to ideas they already know (Deans for Impact, 2015). Mastering the big ideas of a subject will make other knowledge and skills accessible, helping pupils unpick new ideas and think deeply and critically about the subject you are teaching.
 
-#### A planning meeting
+### A planning meeting
 
 Watch this video of a Year 5 teaching team (2 teachers) planning their next term topic on the Vikings.
 
@@ -44,36 +44,29 @@ Watch this video of a Year 5 teaching team (2 teachers) planning their next term
 {details}
 Video transcript.
 
+**Teacher 1:** I really like the idea of us doing all the practical activities
+around Viking clothes, food and settlements but one thing I think we really
+need to emphasise is the theme of invasion. It’s a key concept in history not
+just with the Vikings and it sometimes gets side-lined with all of the other
+activities. Understanding the impact of an invasion is really important.
 
-  Teacher 1: I really like the idea of us doing all the practical activities
-  around Viking clothes, food and settlements but one thing I think we really
-  need to emphasise is the theme of invasion. It’s a key concept in history not
-  just with the Vikings and it sometimes gets side-lined with all of the other
-  activities. Understanding the impact of an invasion is really important. 
+**Teacher 2:** I agree. It links to their topic in year 3 on the Romans so maybe
+we could make a point of asking pupils to think about the Roman invasion and
+what impact that had on daily life – I’m thinking things like religion as well
+as clothes. Then we can set an overall objective for pupils to compare the
+impact of the Viking invasion this term with the impact of the Roman invasion.
+What do you think?
 
+**Teacher 1:** Good idea. We will need to think about how to activate their prior
+knowledge – maybe we can take them to look at the display in the Hall from
+this year 3?
 
+**Teacher 2:** They did a lot of work on cause and effect last term in History so
+it will be really helpful to continue building on that using the same writing
+frames and sentence stems. Comparing impact is going to be hard for some of
+them so we will need to plan carefully around that...
 
-  Teacher 2: I agree. It links to their topic in year 3 on the Romans so maybe
-  we could make a point of asking pupils to think about the Roman invasion and
-  what impact that had on daily life – I’m thinking things like religion as well
-  as clothes. Then we can set an overall objective for pupils to compare the
-  impact of the Viking invasion this term with the impact of the Roman invasion.
-  What do you think?
-
-
-
-  Teacher 1: Good idea. We will need to think about how to activate their prior
-  knowledge – maybe we can take them to look at the display in the Hall from
-  this year 3? 
-
-
-
-  Teacher 2: They did a lot of work on cause and effect last term in History so
-  it will be really helpful to continue building on that using the same writing
-  frames and sentence stems. Comparing impact is going to be hard for some of
-  them so we will need to plan carefully around that...
-
- {/details}
+{/details}
 
 As you established in Block 4, when supporting pupils in mastering these fundamental ideas or concepts it is necessary to be certain they are securely learned. Often this means revisiting these concepts again and again over time, coming at them from different directions. For example, in mathematics place value is a key idea which underpins many other linked topics, such as addition and subtraction. Therefore, place value, once identified as a key idea, would need to be explicitly taught and revisited many times to ensure pupils master this.
 
@@ -145,7 +138,7 @@ understood it. For example, after I’ve been through and explained how I would
 approach a task, we might do two or three more examples with the class telling
 me how they’d do each step."
 
-#### In your notepad
+### In your notepad
 
 Answer the following questions:
 

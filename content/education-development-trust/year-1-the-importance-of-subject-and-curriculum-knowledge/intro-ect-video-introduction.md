@@ -4,7 +4,7 @@ previous_title: "Instructions"
 previous_path: "/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/intro-ect-instructions"
 ---
 
-### Instructions
+## Instructions
 
 Watch the video. The video outlines what you will cover in this Block.
 

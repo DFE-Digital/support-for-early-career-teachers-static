@@ -6,11 +6,11 @@ next_title: "Related Early Career Framework strands"
 next_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-environment/autumn-week-7-ect-related-early-career-framework-strands"
 ---
 
-### The impact of high expectations
+## The impact of high expectations
 
 The expectations you have of your pupils can impact their progress and outcomes. Research has shown that when teachers have high expectations for their pupils, their outcomes are better (Murdock-Perriera & Sedlacek, 2018; Hattie, 2008; Rubie Davis et al, 2014). Therefore, it is important that you hold high expectations for _all_ your pupils.
 
-#### Reflection
+### Reflection
 
 Think about your classroom practice and consider the following questions:
 
@@ -20,7 +20,7 @@ Think about your classroom practice and consider the following questions:
 
 Record your reflection in your notepad.
 
-### Holding high expectations for contributions and engagement
+## Holding high expectations for contributions and engagement
 
 Setting clear expectations helps to communicate to your pupils what you expect of them. Through doing this, you can convey the values of your classroom and school, which can help to improve the learning environment and culture. You should spend some time considering what your behavioural and academic expectations are. It might be useful to discuss these with your mentor to ensure they are fitting and align with your school’s behaviour policy.
 
@@ -45,7 +45,7 @@ In the next part of this session, you will explore some strategies that will hel
 - Using countdowns or timers
 - Making the beginning and end of activities clear
 
-### Holding high expectations for contributions
+## Holding high expectations for contributions
 
 It is important that you communicate your belief in the academic potential of _all_ your pupils. To do this, you should set and maintain clear behavioural expectations for concentration and contributions during a lesson.
 
@@ -59,29 +59,29 @@ If a pupil doesn’t respond or says, “I don’t know”, there are several wa
 
 This helps to build a culture of engagement and inclusion. It also clearly conveys to your pupils that you expect them to remain focused during your lesson so they can be successful in their learning.
 
-### Holding high expectations for contributions in action
+## Holding high expectations for contributions in action
 
 Watch one of the videos below to see how teachers hold and demonstrate high expectations for contributions in the classroom:
 
-#### Holding high expectations for contributions – Early Years – Maria Craster at One Degree Academy
+### Holding high expectations for contributions – Early Years – Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HcG6TeSlPgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Holding high expectations for contributions – Early Years – Maria Craster at One Degree Academy [AD]](https://youtu.be/T2iSCP18w-M)
 
-#### Holding high expectations for contributions – Primary
+### Holding high expectations for contributions – Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IFzVJSLnWsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Holding high expectations for contributions – Primary at Reach Academy [AD]](https://youtu.be/8RiQRnPHaCk)
 
-#### Holding high expectations for contributions – Secondary
+### Holding high expectations for contributions – Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aSzOLKBDkSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Holding high expectations for contributions – Secondary [AD]](https://youtu.be/AQvDUDAgNrE)
 
-#### Reflection
+### Reflection
 
 Think about your classroom practice and consider the following questions:
 
@@ -95,7 +95,7 @@ Think about your classroom practice and consider the following questions:
 
 Record your response in your notepad.
 
-### Using countdowns or timers
+## Using countdowns or timers
 
 It’s important that pupils in your class recognise that learning time is valuable and that you expect them to work purposefully throughout the lesson or day. One way to support you to communicate this to your pupils and help them to stay engaged in activities is to share the duration of time that pupils have to complete certain activities. This has several benefits:
 
@@ -111,7 +111,7 @@ You can use a timer for almost all classroom activities whether they are academi
 - Visibly share the timer and refer to it. For younger pupils this might be in the form of a sand timer and for older pupils this might be in the form of a countdown clock
 - Provide check points along the way e.g. you should be at question 5 by now
 
-#### Using countdowns or timers in action
+### Using countdowns or timers in action
 
 Watch one of the videos below to see teachers using a countdown or timers in the
 classroom and consider the following points. Did the teacher:
@@ -124,25 +124,25 @@ What was the impact of this on pupils?
 
 Record your response in your notepad.
 
-#### Using countdowns or timers – Early Years - Bella Sidenius at Reach Academy
+### Using countdowns or timers – Early Years - Bella Sidenius at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vyCT9rYcfS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Using countdowns or timers – Early Years - Bella Sidenius at Reach Academy [AD]](https://youtu.be/KErunUvIMS4)
 
-#### Using countdowns or timers – Primary
+### Using countdowns or timers – Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qw3rjrFHWMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Using countdowns or timers – Primary [AD]](https://youtu.be/MzRPyjSxcVQ)
 
-#### Using countdowns or timers – Secondary
+### Using countdowns or timers – Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Smw8UGjLY5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Using countdowns or timers – Secondary [AD]](https://youtu.be/-0GcSmF-_II)
 
-#### Reflection
+### Reflection
 
 Think about your teaching practice and consider the following questions:
 
@@ -152,7 +152,7 @@ Think about your teaching practice and consider the following questions:
 
 Record your reflection in your notepad:
 
-### Making the beginning and end of activities clear
+## Making the beginning and end of activities clear
 
 Another way to support pupils to stay focused and engaged during lessons is to make the start and end of activities clear. This can help to keep the pace of the lesson and therefore keep pupils alert and focused. Some ways you can do this are:
 
@@ -163,7 +163,7 @@ Another way to support pupils to stay focused and engaged during lessons is to m
 3. **Provide positive reinforcement.**
    Positively reinforcing your expectations helps to ensure all pupils start and finish the task as and when you directed. For example, when starting a task, you might say, “I can see four tables have started, well done.” Equally, when finishing a task, you might say, “Pencils down, eyes on me, thanks front row, I have all of you looking at me.”
 
-#### Making the beginning and end of activities clear in action
+### Making the beginning and end of activities clear in action
 
 Choose one of the videos below to watch teachers make the beginning and end of activities
 clear. As you are watching, consider the following questions and then record your
@@ -173,31 +173,31 @@ response in your notepad:
 - what did they say to positively reinforce their expectations?
 - what impact did this technique have on engagement?
 
-#### Making the beginning and end of activities clear – Early Years - Bethan Hughes at Reach Academy
+### Making the beginning and end of activities clear – Early Years - Bethan Hughes at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8E6FlubelKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Making the beginning and end of activities clear – Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/YXL7CTd-MOA)
 
-#### Making the beginning and end of activities clear – Primary
+### Making the beginning and end of activities clear – Primary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cV5RPncX0z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Making the beginning and end of activities clear – Primary [AD]](https://youtu.be/ePw-sD3I1pE)
 
-#### Making the beginning and end of activities clear – Secondary
+### Making the beginning and end of activities clear – Secondary
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V7GAzO4tGV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Making the beginning and end of activities clear – Secondary [AD]](https://youtu.be/BC9fDDBfl3A)
 
-#### Making the beginning and end of activities clear – Specialist setting -Helen Colley at Ellen Tinkham School
+### Making the beginning and end of activities clear – Specialist setting -Helen Colley at Ellen Tinkham School
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMV7khEbgjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Making the beginning and end of activities clear – Specialist setting -Helen Colley at Ellen Tinkham School [AD]](https://youtu.be/khJTjLK-pIQ)
 
-#### Reflection
+### Reflection
 
 Think about your teaching practice and consider the following questions:
 
@@ -208,7 +208,7 @@ Think about your teaching practice and consider the following questions:
 Record your
 reflection in your notepad.
 
-### Application to practice
+## Application to practice
 
 In your next mentor meeting, your mentor will observe how you hold high expectations and maintain high levels of engagement.
 

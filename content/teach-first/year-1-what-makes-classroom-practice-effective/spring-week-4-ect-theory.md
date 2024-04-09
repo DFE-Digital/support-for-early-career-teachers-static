@@ -122,77 +122,56 @@ Listen to Elizabeth Arkle talk about how she uses checklists to scaffold pupils 
 {details}
 Video transcript.
 
+This year in English, I really wanted to make children’s planning of their
+writing more meaningful and something that they actually used. I noticed that
+all too often children would plan a piece of writing through a sequence of
+lessons but then almost abandon the plan and just try and write from memory.
+They would frequently go and get a SPAG checklist, or a year group assessment
+grid, and then write something that was often poorly organised and did not
+meet the purpose for the writing.
 
-  This year in English, I really wanted to make children’s planning of their
-  writing more meaningful and something that they actually used. I noticed that
-  all too often children would plan a piece of writing through a sequence of
-  lessons but then almost abandon the plan and just try and write from memory.
-  They would frequently go and get a SPAG checklist, or a year group assessment
-  grid, and then write something that was often poorly organised and did not
-  meet the purpose for the writing.
+I wanted to give children a way to plan ideas for vocabulary and sentence
+structure, but also see clearly what should be in their writing so I decided
+to use a checklist to act as a prompt.
 
+Before a piece of writing, I plan a checklist, together with the children,
+that is specific to that piece of writing. We call it ‘ingredients for
+success’. As it is developed _with_ the children, not just given to them, they take it very seriously. I always
+start the process off by adding some non-negotiables – these will be my
+specific aims for this piece of writing. For example, it might be to include
+speech, or to focus children on expanded noun phrases for description. From
+there the children will start to offer what they think should be included and
+we develop this together. Lastly, if they have been given a next step target
+from their last writing – for example, to remember commas in a list – they
+will add this to their own.
 
+What we include in the checklist varies from piece to piece, but means we have
+a very specific and relevant checklist to guide children through their
+writing. Pupils are encouraged to physically tick things off on their list as
+they go to keep them on track.
 
-  I wanted to give children a way to plan ideas for vocabulary and sentence
-  structure, but also see clearly what should be in their writing so I decided
-  to use a checklist to act as a prompt. 
+It also gives me the chance to give my children writing at greater depth a
+further challenge by adding other elements to their work. Similarly, I can
+remove elements from some children’s checklists to help keep them focused on
+the skills they need to work on.
 
+Planning writing in this way has really helped children to develop
+independence in their writing. It did need a conscious investment of time at
+the outset. To begin with, children would sometimes come up with simple
+punctuation points. Now, however, they are beginning to think for themselves
+about what makes a good piece of writing and will make much more thoughtful
+contributions, such as starting sentences in different ways.
 
+One other advantage of these more specific checklists is I can add specific
+targets for individual children very easily. For example, one child – although
+a good writer – was persistently using ‘and then’ in their writing. By adding
+this to their checklist, over a couple of pieces of writing, they have almost
+completely stopped doing this.
 
-  Before a piece of writing, I plan a checklist, together with the children,
-  that is specific to that piece of writing. We call it ‘ingredients for
-  success’. As it is developed
+I have found checklists to be a vital resource when building pupil
+independence whilst still providing a form of scaffold.
 
-<i>
-  with 
-</i>
-
-  the children, not just given to them, they take it very seriously. I always
-  start the process off by adding some non-negotiables – these will be my
-  specific aims for this piece of writing. For example, it might be to include
-  speech, or to focus children on expanded noun phrases for description. From
-  there the children will start to offer what they think should be included and
-  we develop this together. Lastly, if they have been given a next step target
-  from their last writing – for example, to remember commas in a list – they
-  will add this to their own. 
-
-
-
-  What we include in the checklist varies from piece to piece, but means we have
-  a very specific and relevant checklist to guide children through their
-  writing. Pupils are encouraged to physically tick things off on their list as
-  they go to keep them on track.
-
-
-
-  It also gives me the chance to give my children writing at greater depth a
-  further challenge by adding other elements to their work. Similarly, I can
-  remove elements from some children’s checklists to help keep them focused on
-  the skills they need to work on.
-
-
-
-  Planning writing in this way has really helped children to develop
-  independence in their writing. It did need a conscious investment of time at
-  the outset. To begin with, children would sometimes come up with simple
-  punctuation points. Now, however, they are beginning to think for themselves
-  about what makes a good piece of writing and will make much more thoughtful
-  contributions, such as starting sentences in different ways. 
-
-
-
-  One other advantage of these more specific checklists is I can add specific
-  targets for individual children very easily. For example, one child – although
-  a good writer – was persistently using ‘and then’ in their writing. By adding
-  this to their checklist, over a couple of pieces of writing, they have almost
-  completely stopped doing this.
-
-
-
-  I have found checklists to be a vital resource when building pupil
-  independence whilst still providing a form of scaffold.
-
- {/details}
+{/details}
 
 ## Checklists to scaffold metacognitive processes
 
@@ -283,7 +262,7 @@ One example of when I used collaboration was when my class were looking at ‘Wh
 
 In order to set the ground rules for the lesson I ensured that I had gone over the talk rules and expectations for this lesson. At the time our main focus was to wait for a break in order to give our opinion so that we were not interrupting. My pupils were not used to this, so this was an aspirational and challenging target. Prior to the lesson, I prepared pupils through circle time where we explored appropriate behaviours when discussing a topic, such as waiting for an appropriate gap to speak and listening carefully in order to build on to a point or disagree respectfully.
 
-The children worked in groups of 4 and each was assigned a role.  The group leader directed the conversation and ensured that all children were involved. The scribe participated in the discussion and recorded notes. The group member took part in the discussion and ensured that they were challenging the views of others if they didn’t agree. The reporter shared the group’s ideas with the rest of the class.  I find that groups of 4 are ideal as pupils have a shoulder partner (someone who is sitting next to them) and a face partner (someone who is sitting opposite them) so it makes it easier for them share and communicate their ideas and ensure all pupils’ voices are heard. The pupils had been using this structure for group work for about 4 weeks and were now using it well.
+The children worked in groups of 4 and each was assigned a role. The group leader directed the conversation and ensured that all children were involved. The scribe participated in the discussion and recorded notes. The group member took part in the discussion and ensured that they were challenging the views of others if they didn’t agree. The reporter shared the group’s ideas with the rest of the class.  I find that groups of 4 are ideal as pupils have a shoulder partner (someone who is sitting next to them) and a face partner (someone who is sitting opposite them) so it makes it easier for them share and communicate their ideas and ensure all pupils’ voices are heard. The pupils had been using this structure for group work for about 4 weeks and were now using it well.
 
 Prior learning of the group roles included group role cards to show the children what their expectations were in that role. I had created a video of a group of children executing the roles well from the previous year. This gave the children a good example of what this should look like. We also used the roles regularly in any talk-focused scenario so that they began to build up their confidence in their role.
 
@@ -461,7 +440,7 @@ When planning independent practice remember to:
 
 Below are some additional resources that you might find useful in supporting your classroom practice:
 
-#### The importance of independent practice - Primary
+### The importance of independent practice - Primary
 
 Listen to Sharon Stevenson talk about the importance of independent practice in primary
 
@@ -482,7 +461,7 @@ It is important to review and discuss independent learning with pupils in order 
 
 {/details}
 
-#### Independent practice in secondary - Joanna Macaulay at Northern Education Trust
+### Independent practice in secondary - Joanna Macaulay at Northern Education Trust
 
 Listen to Joanna Macaulay talk about the importance of independent practice in secondary
 

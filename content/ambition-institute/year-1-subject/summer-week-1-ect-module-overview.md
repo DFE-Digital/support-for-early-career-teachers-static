@@ -24,7 +24,7 @@ However, to help you develop a clear understanding, this module begins with topi
 - topics 2 to 6 cover the process of effective planning in your subject/phase
 - topics 7 to 12 cover the process of effective assessment and how this can further enhance subject/phase teaching
 
-### Making it work
+## Making it work
 
 This module will support you to think deeply about your subject and will support you to zoom in on how the nuances of your subject or phase influence your planning and assessment.
 
@@ -41,7 +41,7 @@ For this module more than the others, teachers and mentors will need to draw on 
 
 Talking to your colleagues and your mentor about the ideas and practices you encounter, seeking their assistance, challenge, feedback and critique, will help you to better understand what ‘good’ looks like for your particular context. Participating in wider networks can also strengthen your pedagogical and subject knowledge.
 
-### A reminder of the programme pattern
+## A reminder of the programme pattern
 
 The learning will be structured in the same way as Behaviour and Instruction, following a weekly rhythm:
 
@@ -153,7 +153,7 @@ Teachers can be responsive subject teachers by understanding that:
 
 ### Further reading
 
-Ball, D. L., Thames, M. H., & Phelps, G. (2008). Content knowledge for teachers: What makes it special? _Journal of Teacher Education._ [bit.ly/ecf-bal](http://bit.ly/ecf-bal)
+Ball, D. L., Thames, M. H., &amp; Phelps, G. (2008). Content knowledge for teachers: What makes it special? _Journal of Teacher Education._ <a href="http://bit.ly/ecf-bal" target="_blank" rel="noopener">http://bit.ly/ecf-bal</a>
 
 {details}
 References.

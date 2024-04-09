@@ -6,35 +6,35 @@ next_title: "Related Early Career Framework strands"
 next_path: "/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-2-ect-related-early-career-framework-strands"
 ---
 
-### Gradually build knowledge
+## Gradually build knowledge
 
 When you first introduce new material, pupils need a large amount of support and guidance to understand the ‘what’ and ‘how’ of the material you are teaching them. As they become more proficient, the support can be slowly reduced whilst their independence during practice is increased, until they eventually are able to work independently.
 
 During teaching and learning, the general process for this is to begin with teacher input, followed by guided practice, followed by independent practice. Some people refer to the process of gradually building pupil independence and ownership over their learning as ‘I do (teacher input), we do (guided practice), you do (independent practice)’. This process may happen within one lesson or over a sequence of lessons to gradually build pupil knowledge and help them reach their lesson objective or learning goal. This session will focus on the process within a lesson, but you will explore how this is built in over a sequence of lessons in module 6.
 
-### Start with the lesson objective
+## Start with the lesson objective
 
 When planning your instruction, it is important that you begin by establishing what the lesson objective is. Once you know this, you can identify what the pupils will need to know, or be able to do, in order to achieve the lesson objective. This information should inform the focus of your teaching instruction. The explanations and modelling, guided practice and independent practice that you plan should gradually build pupils’ knowledge, working towards the lesson objective.
 
-### Gradually increase pupil independence
+## Gradually increase pupil independence
 
 The process of gradually increasing pupil independence throughout a lesson can be broken down as follows:
 
-#### Teacher input
+### Teacher input
 
 This occurs when new material is first being introduced. It involves the teacher informing, explaining, modelling and providing examples without pupil input. This is where you might use worked examples to outline the steps of a procedure to pupils.
 
 The reason this is teacher-led without pupil input is because when new material is being introduced, pupils are novices and therefore are unlikely to have the appropriate knowledge to contribute to the process at this stage.
 
-#### Guided practice
+### Guided practice
 
 This involves the teacher and pupils doing a task together. This is where you begin to gradually release the responsibility to your pupils. It involves you completing parts of the process and asking pupils to contribute to the incomplete parts. Here you might use partially completed examples to gradually build pupil independence.
 
-#### Independent practice
+### Independent practice
 
 This is the stage where pupils practise new material without adult support. When first setting up independent practice, you may still provide tasks that scaffold pupils’ learning but over time these should be removed to allow pupils to work entirely independently. Rosenshine (2012) recognises that this is vital for pupils to become fluent or automatic in information retrieval or completing a procedure. During this stage, the teacher monitors pupil practice to identify and address misconceptions to individual pupils or the whole class. They also encourage pupils to use metacognitive strategies to monitor their own learning and develop their ability to self-regulate.
 
-#### Key messages about this process
+### Key messages about this process
 Whilst these stages have been separated into three groups, the process of building
 pupil independence should be viewed as a continuum whereby support gradually reduces
 as pupils become more proficient.
@@ -43,11 +43,11 @@ This will not occur in a linear fashion. In practice, you may have to shift back
 
 Throughout this module, building pupils’ expertise over a lesson has been broken down into different phases which are covered in different sessions. However, it is important that you remember the phases are linked and should build on one another.
 
-### Explanations and modelling – why are they so important?
+## Explanations and modelling – why are they so important?
 
 High-quality instruction enables the expert teacher to impart knowledge to the novice learner. When teaching new material, this can be done through effective explanations and modelling.
 
-#### Explanations and modelling – what’s the difference?
+### Explanations and modelling – what’s the difference?
 
 Explanations are used to introduce new material to pupils in small sequential steps, which you will have already explored in module two. During an explanation, the teacher will talk through the new material and ask pupils lots of questions to check their understanding.
 
@@ -81,7 +81,7 @@ In this session, you’ll learn to start making links between what you know abou
 
 {/details}
 
-### Explanations
+## Explanations
 
 As Claire Stoneman highlights, Rosenshine (2012) explains that in order to address the limitations of the working memory, teachers should introduce material in small steps. This is something you previously explored in module two. But, as Claire states, some material being taught can be hard to comprehend even when it is broken down and taught in small steps. This normally occurs when the material you are teaching is abstract.
 
@@ -91,7 +91,7 @@ Examples and non-examples will be explored further in your next training session
 
 Ashley Philipson shares an example of when she has used an example and a non-example to teach an abstract concept.
 
-#### Using a concrete example by Ashley Philipson
+### Using a concrete example by Ashley Philipson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/skBKiNtKejA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -110,7 +110,7 @@ After I explained the concept using concrete examples, I checked pupils’ under
 
 {/details}
 
-#### Using a non-example by Ashley Philipson
+### Using a non-example by Ashley Philipson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fNEy08QiU7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -146,7 +146,7 @@ In this case pupils will have a deeper understanding of more than just that one 
 
 {/details}
 
-#### Using a non example to expose misconceptions
+### Using a non example to expose misconceptions
 
 As Ashley states, non-examples are a great way to show what something isn’t; therefore, they are an effective way of exposing potential pitfalls and explaining how to avoid them. Listen to Elizabeth Arkle talk about when she has used a non-example to develop pupils’ reasoning skills by encouraging them to identify and explain common misconceptions.
 
@@ -177,27 +177,27 @@ As a teacher, I have become much more aware of reserving time for children to th
 
 {/details}
 
-### Modelling
+## Modelling
 
 Modelling is an essential part of the teaching and learning process. Rosenshine (2012) found that the most effective teachers guided pupils’ practice for longer during teaching instruction, using modelling and scaffolds. This ensured pupils were confident and able to work independently later in their learning. Whereas teachers who gave less guidance to pupils during their explanations spent more time correcting individual errors because not enough time was spent ensuring pupils had a good understanding before being asked to work independently.
 
 There are different ways you can model to support pupil understanding, but this session will focus on ‘Think Aloud’.
 
-### Using ‘Think Aloud’
+## Using ‘Think Aloud’
 
 ‘Think Aloud’ is a form of live modelling which makes the implicit process of completing a task explicit. It is when a teacher narrates their thoughts, questions or corrections as they complete an activity, so that the pupils have a clear example of how to think and what to consider when approaching a certain task. This type of modelling helps to make abstract ideas or processes concrete and accessible. It is also a good strategy to use to expose potential pitfalls to pupils and explain how to avoid them.
 
 This process is used to demonstrate an expert’s (the teacher’s) cognition and metacognition.
 
-### Modelling cognition and metacognition using ‘Think Aloud’
+## Modelling cognition and metacognition using ‘Think Aloud’
 
-#### Modelling cognition
+### Modelling cognition
 
 In simple terms, cognition is the thinking you do when completing a task. Teachers can model their thinking about their knowledge to demonstrate how to draw on cognitive strategies when completing a task.
 
 Below is an example of a teacher using ‘Think Aloud’ to model their cognitive process by engaging their prior knowledge when performing a forward roll safely in PE. This has been taken from the [Metacognition and Self-regulated Learning Guidance Report](https://educationendowmentfoundation.org.uk/public/files/Publications/Metacognition/EEF_Metacognition_and_self-regulated_learning.pdf) (EEF, 2017):
 
-#### Using the ’think aloud’ model: example 1
+### Using the ’think aloud’ model: example 1
 
 Preparing for the roll: _“I don’t want to hurt my neck and want to do this neatly. So first, to protect my neck, I need to tuck my chin to my chest like this.”_
 
@@ -209,7 +209,7 @@ Checking pupils’ understanding: _“Now, who can remember what I did first to 
 
 In this example, the teacher has broken down completing a forward roll into constituent components (outlined above) and is narrating the important points pupils need to consider at each stage. Without this narration, the pupils might not know how to break the task down or how to replicate the roll safely and successfully.
 
-#### Modelling metacognition
+### Modelling metacognition
 
 Metacognition can be broken down into three different stages:
 
@@ -219,11 +219,11 @@ Metacognition can be broken down into three different stages:
 
 Below is an example of a teacher using ‘Think Aloud’ to model their metacognitive processes when planning how to answer a History question:
 
-### Using the ’think aloud’ model: example 2
+## Using the ’think aloud’ model: example 2
 
 ‘The main reason why the League of Nations could not stop aggression in the 1930s was because the USA was not a member. Do you agree?’
 
-#### Planning
+### Planning
 
 “How am I going to approach answering this? Well firstly, I must ensure I understand the question. To do that, I am first going to read it. (teacher models reading it). Then I am going to underline key words that help me understand how I should answer the question. I can see at the end, it asks, ‘Do you agree?’, so what does that mean? It means I am going to have to give an opinion.
 
@@ -261,23 +261,23 @@ Would using my notes from previous lessons help me in the planning stage?
 
 How successful was I at staying focused on answering the question when writing my essay? What could I do next time to support me with this?
 
-### Making ‘Think Aloud’ successful
+## Making ‘Think Aloud’ successful
 
-#### Starting narration at the point of pupil understanding
+### Starting narration at the point of pupil understanding
 
 When talking through your thinking, it is important that you consider what the pupils’ prior knowledge is. For example, if pupils have never seen a forward roll before, the teacher would need to demonstrate this first so pupils could attach the teacher’s narrated cognition to something concrete. If they don’t know what a forward roll is, the rest of the narration is less meaningful.
 
-#### Focus the narration around key teaching points
+### Focus the narration around key teaching points
 
 What you say is very important and should be carefully planned out. The narration should be focused around the objectives or key teaching points that you want pupils to focus on. If you narrate everything you are thinking, this could cognitively overload pupils, preventing them from following the key features you want them to learn or consider themselves.
 
-### Why is this such an important way of modelling?
+## Why is this such an important way of modelling?
 
 The EEF (2017) highlights that modelling of this type is often not planned into explanations because the thinking processes occur ‘naturally’ to the expert (teacher), which is a risk because such thought processes are vital for breaking down a task so that it can be better understood or completed successfully.
 
 To move from novice to expert, pupils need to know how an expert habitually thinks and acts (EEF, 2017). By modelling these thought processes, you make the implicit or hidden parts of a process explicit and exposed, helping to build the novice’s mental model of what they should be doing in similar situations.
 
-### Which narration is most effective?
+## Which narration is most effective?
 
 To ensure ‘Think Aloud’ is successful, you should:
 
@@ -286,7 +286,7 @@ To ensure ‘Think Aloud’ is successful, you should:
 
 Look at the following scripts of a teacher using ‘Think Aloud’ to model using adjectives in a sentence. Identify which one is more effective and why.
 
-#### Example 1:
+### Example 1:
 “I want to describe what the emperor penguin looks like. How will I start my sentence?
 Hmm, I’ll start with ‘The’ – as it’s the beginning of a sentence I must use a capital
 letter” (_teacher scribes as they speak_) “emperor penguin – now I am going
@@ -297,7 +297,7 @@ down his back – I must remember to separate two adjectives in a list with a co
 ‘and’ – and snowy, white feathers covering its front. Let’s check, have I used two
 adjectives together to improve my description?” (_Teacher models re-reading sentence to check it makes sense and to check for the use of adjectives_).
 
-#### Example 2:
+### Example 2:
 
 “I want to describe what the emperor penguin looks like. How will I start my sentence?
 Hmm, I’ll start with ‘The’” (_teacher scribes as they speak_) – “The emperor
@@ -307,34 +307,34 @@ front. Let’s check my work.” (_Teacher models re-reading sentence to check i
 
 Which one do you think is better and why?
 
-### Feedback
+## Feedback
 
 Both examples demonstrate the teacher modelling through Think Aloud, but Example 1 is better as the narration links back to the key teaching points by explicitly using the terminology of the focus of the lesson – adjectives - whereas example two does not.
 
-## ‘Think Aloud’ in action
+# ‘Think Aloud’ in action
 
 Watch the videos below and answer the following questions in your notepad:
 
 - what did the teacher focus their narration on and why do you think this was?
 - how might this impact pupils’ learning?
 
-#### Think Aloud – Early Years - Maria Craster at One Degree Academy
+### Think Aloud – Early Years - Maria Craster at One Degree Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNrEYWQZ8B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Think Aloud – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/Y-ZO9yPfx3w)
 
-#### Think Aloud – Primary – Alanah Harris at Reach Academy
+### Think Aloud – Primary – Alanah Harris at Reach Academy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lAQCn7BQ-80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Think Aloud – Primary – Alanah Harris at Reach Academy [AD]](https://youtu.be/T13W7K6FAkQ)
 
-## Summary
+# Summary
 
 Explanations and modelling are vital for building a strong foundational understanding of key knowledge or procedures in pupils. However, merely showing pupils new information or processes is not enough. Pupils need to be given the opportunity to practise new material in order to store it in their long-term memory (Rosenshine, 2012). When introducing material in small steps, pupils need to practise after each step. Providing opportunities for practise is something that will be explored in the next session.
 
-### Application of modelling
+## Application of modelling
 
 In your next meeting, your mentor will observe you using ‘think aloud’ to make your implicit thought processes explicit.
 

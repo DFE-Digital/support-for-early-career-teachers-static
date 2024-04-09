@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-6-ect-theory"
 ---
 
-### Subject and curriculum
+## Subject and curriculum
 
 3.6 In order for pupils to think critically, they must have a secure understanding of knowledge within the subject area they are being asked to think critically about.
 

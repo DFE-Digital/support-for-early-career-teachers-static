@@ -151,19 +151,22 @@ Alessia has a clear structure to the feedback that she provides on substantial p
 of pupils’ work. She makes sure that her feedback covers the following, using the
 acronym SIT.
 
-<h5>Strengths</h5>
+#### Strengths
+
 These are elements of the work that are good.
 
 Alessia highlights strengths throughout the text using yellow highlighter, then writes a summary at the end which helps pupils to understand why they are strengths. For example, ‘This is a strong evaluation because you are using key concepts (elasticity and demand) to justify why the business should take a particular action in this situation (reduce costs rather than raise prices).’
 
-<h5>Improvements</h5>
+#### Improvements
+
 Alessia highlights one part of the text in green and writes guidance at the end of the work for pupils which tells them how and why this section needs improving.
 
 Pupils are expected to re-work this part of the text during dedicated classroom time. For example, ‘Improve your analysis in this paragraph by explaining the steps in your reasoning that link raising prices to falling overall revenue. Use connectives such as ‘this should lead to’ and ‘as a consequence’ to build your chain of reasoning.’
 
-Alessia keeps the improvements focused and manageable so she doesn’t overwhelm pupils.
+Alessia keeps the improvements focused and manageable so she does not overwhelm pupils.
 
-<h5>Targets</h5>
+#### Targets
+
 Alessia identifies a target that each pupil should address in future work. For example, ‘Extend lines of reasoning so that you always develop your arguments fully. Aim for at least 3 steps in each chain of analysis.’
 
 When pupils start their next substantial piece of work, Alessia asks them to write their previous target at the top of their work. When they have finished the task, pupils write a comment next to the target to self-assess the extent to which they have met it. They also circle the part of their work where they feel they have best demonstrated this target.

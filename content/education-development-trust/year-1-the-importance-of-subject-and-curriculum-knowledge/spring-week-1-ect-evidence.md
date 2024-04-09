@@ -137,7 +137,7 @@ Each group shares with the class but their responses are not well
 developed, focusing on things like how difficult it was to read the
 handwriting and understand the language of Elizabethan writers.
 
-### Example B:
+#### Example B:
 
 Before the lesson, the teacher identifies that for pupils to be successful
 analysing the usefulness of a text they need to know certain information
