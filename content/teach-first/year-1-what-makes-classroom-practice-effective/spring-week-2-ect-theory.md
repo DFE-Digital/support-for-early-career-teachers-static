@@ -311,7 +311,7 @@ Which one do you think is better and why?
 
 Both examples demonstrate the teacher modelling through Think Aloud, but Example 1 is better as the narration links back to the key teaching points by explicitly using the terminology of the focus of the lesson – adjectives - whereas example two does not.
 
-# ‘Think Aloud’ in action
+## ‘Think Aloud’ in action
 
 Watch the videos below and answer the following questions in your notepad:
 
