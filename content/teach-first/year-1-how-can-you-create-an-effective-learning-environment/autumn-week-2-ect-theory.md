@@ -115,7 +115,7 @@ Here’s a reminder of the success criteria:
 
 #### Greeting pupils at the door and settling task – Early Years – Jane Garrard at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aC_fE27byqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aC_fE27byqc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Greeting pupils at the door and settling task – Early Years \[AD\]](https://youtu.be/1wEPjTizX8A)
 

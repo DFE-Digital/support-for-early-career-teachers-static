@@ -117,7 +117,7 @@ These questions should be modelled by you during guided practice using ‘Think 
 
 Listen to Elizabeth Arkle talk about how she uses checklists to scaffold pupils during independent practice.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SUqnQuR50cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SUqnQuR50cg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -231,13 +231,13 @@ practice. Consider the following questions and record your response in your note
 
 #### Collaborative practice – Early Years - Bethan Hughes at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9RgT8AYLLOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RgT8AYLLOk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Collaborative practice – Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/Li2PfDr7Lyk)
 
 #### Collaborative practice – Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2DHaa1YISHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2DHaa1YISHM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Collaborative practice – Primary [AD]](https://youtu.be/IlZLgcRaej8)
 
@@ -251,7 +251,7 @@ the classroom and answer the following questions in your notebook:
 
 #### Collaborative learning – using roles
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T714LRwSzoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T714LRwSzoA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -278,7 +278,7 @@ Collaborative learning is something that I ensure is at the heart of every lesso
 
 #### Using groups of four for collaborative learning - Robert Gardner at Bishop Chadwick Catholic Education Trust
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Q_h_eNOlAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Q_h_eNOlAg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -312,7 +312,7 @@ There are lots of different ways you can actually group students. I would tend t
 
 #### Using multiple groupings during collaboration - Joseph Craven at Northern Education Trust
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oMbiVyt2Hms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oMbiVyt2Hms?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -341,7 +341,7 @@ Choose one of the videos below to listen as a teacher talks through an example o
 
 #### Removing scaffolding in Primary maths - Debra Ridley at Extol Academy Trust
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rC3NGjx-LFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rC3NGjx-LFY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -364,7 +364,7 @@ After independent practice, the pupils were able to be confident in multiplying 
 
 #### Removing scaffolding in Secondary MFL - Joanna Macaulay at Northern Education Trust
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BIhJP3lg_38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BIhJP3lg_38?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -385,7 +385,7 @@ What is important to note in this example is that the principle of progression f
 
 #### Removing scaffolding in Secondary history - Alex Fairlamb at Bishop Chadwick Catholic Education Trust
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/52TAHDyMsPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/52TAHDyMsPw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -444,7 +444,7 @@ Below are some additional resources that you might find useful in supporting you
 
 Listen to Sharon Stevenson talk about the importance of independent practice in primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XK27caSBbTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XK27caSBbTQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -465,7 +465,7 @@ It is important to review and discuss independent learning with pupils in order 
 
 Listen to Joanna Macaulay talk about the importance of independent practice in secondary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6CGY6VyXby4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6CGY6VyXby4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

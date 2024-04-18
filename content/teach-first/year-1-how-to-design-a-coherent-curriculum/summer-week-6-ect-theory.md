@@ -23,7 +23,7 @@ Now watch the video of either Emily (Primary and Secondary) or Maria (Early Year
 
 Record your answers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E0s05gKtTLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E0s05gKtTLE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Developing pupils’ mental models across a scheme of work – Emily Maule
 

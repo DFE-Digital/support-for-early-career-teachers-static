@@ -19,7 +19,7 @@ Listen to Claire Stoneman talk about the important of practise and answer the fo
 - what can you provide to fuel motivation when pupils practise?
 - why is it important to begin to remove scaffolds?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LzpNY1w_B3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LzpNY1w_B3k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Importance of Practice - Claire Stoneman
 
@@ -103,25 +103,25 @@ pupils’ independence and answer the following questions:
 
 #### Forms of guided practice – Early Years at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grrqvBA9lDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grrqvBA9lDg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Early Years at Reach Academy [AD]](https://youtu.be/AuTNvUrHeOY)
 
 #### Forms of guided practice – Primary at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EjejRnXwd4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EjejRnXwd4o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Primary at Reach Academy [AD]](https://youtu.be/Vd0kDnWdm-Y)
 
 #### Forms of guided practice – Secondary at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dbJhvKLRK5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dbJhvKLRK5w?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Secondary at Reach Academy [AD]](https://youtu.be/LuABgJ7NQO4)
 
 #### Forms of guided practice – Specialist setting - John Reed at Ellen Tinkham School
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9A1F6OCGY_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9A1F6OCGY_g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Forms of guided practice – Specialist setting - John Reed at Ellen Tinkham School [AD]](https://youtu.be/BP-czP_B1CU)
 
@@ -163,19 +163,19 @@ questions in your notepad:
 
 #### Shared writing – Early Years - Bella Sidenius at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6v3OWqqLO8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6v3OWqqLO8s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Shared writing – Early Years - Bella Sidenius at Reach Academy [AD]](https://youtu.be/fF5Z5TZYRhA)
 
 #### Shared writing – Primary at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wR38LtjSQG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wR38LtjSQG0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Shared writing – Primary at Reach Academy [AD]](https://youtu.be/-wcQo6XpEus)
 
 #### Shared writing – Secondary - Phil Fowkes at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNDodhg4tes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BNDodhg4tes?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Shared writing – Secondary - Phil Fowkes at Reach Academy[AD]](https://youtu.be/hAAg9wJ2rxA)
 

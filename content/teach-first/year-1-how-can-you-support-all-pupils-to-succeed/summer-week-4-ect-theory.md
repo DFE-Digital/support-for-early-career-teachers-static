@@ -156,7 +156,7 @@ Pupil 1: Right… why is Macbeth trying to hide from his fate if it’s his fate
 
 {/details}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ca4SfFmHrW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ca4SfFmHrW0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -209,14 +209,14 @@ I find that pupils benefit from having the layered escalation from short, closed
 
 Choose one video below to watch teachers as they scaffold learning through questioning:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0-Ut6qqZPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0-Ut6qqZPs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jR1JbyXUPWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jR1JbyXUPWM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Scaffolding questioning - Primary
 If you require an audio description over the video, please watch this version: [Scaffolding questioning - Primary \[AD\]](https://youtu.be/RNEopCVtfL4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjSSJW_qTZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjSSJW_qTZE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Scaffolding questioning - Secondary
 If you require an audio description over the video, please watch this version: [Scaffolding questioning - Secondary \[AD\]](https://youtu.be/i1sRN6s-lAk)
@@ -235,7 +235,7 @@ Research has found that teaching assistants (TAs) can have a positive impact on 
 
 Listen as Kenny from the Driver Youth Trust talks about how you can effectively work with TAs and make notes on the five strategies he discusses.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OM6a4bUYwp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OM6a4bUYwp0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -289,7 +289,7 @@ Teaching assistants can support pupils more effectively when they are prepared f
 
 Both you and your TA should aim to deliver quality additional support that builds pupils’ independent learning skills. Listen as Kenny talks through ways to build pupil independence when working with a group of pupils to scaffold learning. Make notes on the different stages of the scaffolding framework that he discusses.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b70w2U2TDa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b70w2U2TDa8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -433,7 +433,7 @@ Choose one of the videos below to listen to a teacher talk through an example of
 - how do they assess pupils’ understanding?
 - how do they adapt their lesson as a result?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u3s_fWEH_po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u3s_fWEH_po?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -452,7 +452,7 @@ I find that by working with different pupils throughout the week, I can meet the
 
 {/details}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CDWF9FM17vQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDWF9FM17vQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -475,7 +475,7 @@ Through that use of flexible grouping, the identified pupils were able to succes
 
 {/details}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uGMjtunlyu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uGMjtunlyu4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -523,7 +523,7 @@ Mathematics activities are often given additional practice after being introduce
 
 {/details}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2hZjFkeFueM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2hZjFkeFueM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

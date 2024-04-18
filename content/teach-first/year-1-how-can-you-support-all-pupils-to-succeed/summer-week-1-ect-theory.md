@@ -16,7 +16,7 @@ Therefore, developing pupils’ general and subject specific oracy skills should
 
 During lessons, pupils need receptive and expressive language to access the curriculum. Listen to Kelly Challis, from the Driver Youth Trust, talk about the difference between expressive and receptive language, and ways you can develop both in the classroom.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeqxZ_8d2oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeqxZ_8d2oc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Developing high-quality oral language - Kelly Challis
 
@@ -103,7 +103,7 @@ Isabel Beck and Margaret McKeown (2013) have created a helpful model that splits
 
 Listen to Kelly Challis explain how each tier is different, and how you might teach them in the classroom. Record notes in your notebook.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJ9qciOOtuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJ9qciOOtuw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Tiers of vocabulary – Kelly Challis
 
@@ -161,7 +161,7 @@ Sustained Shared Thinking is when two or more people work together to solve a pr
 - reminding – ‘Don’t forget that you said we should wear coats in case it rains’
 - asking open questions – ‘How did you?’, ‘Why does this…?’, ‘What happens next?’
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/91BSUnDYlvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/91BSUnDYlvM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Sustained shared thinking - Early Years at Reach Academy
 If you require an audio description over the video, please watch this version: [Sustained shared thinking - Early Years at Reach Academy [AD]](https://youtu.be/dnU8JyewEjU)
@@ -307,17 +307,17 @@ When teaching any vocabulary, it is helpful to ensure that it is related to the 
 
 There are many ways that vocabulary can be explicitly and implicitly taught. Choose one of the videos below to watch this in practice:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GZB9Rx5Upv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZB9Rx5Upv4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Teaching vocabulary - Early Years at Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching vocabulary - Early Years at Reach Academy [AD](https://youtu.be/vY_2TVF1Py4)[]](https://youtu.be/vY_2TVF1Py4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odEsJ4VOUvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odEsJ4VOUvE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Teaching vocabulary - Primary at Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching vocabulary - Primary at Reach Academy [AD]](https://youtu.be/QMLTIVJdpf8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zj-kc1MsGKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zj-kc1MsGKw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Teaching vocabulary - Secondary at Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching vocabulary - Secondary at Reach Academy [AD]](https://youtu.be/3J88bhLh9ig)

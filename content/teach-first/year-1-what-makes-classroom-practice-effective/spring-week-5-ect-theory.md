@@ -22,7 +22,7 @@ In this section, you will explore how questioning can be used to check for pupil
   questioning?
 - how do you think questioning links to effective explanations and modelling?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SvRXqL3G7Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SvRXqL3G7Fw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -115,19 +115,19 @@ Watch one of the videos below of teachers assessing understanding of all pupils.
 
 #### Check whole class understanding - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ILAK7ZJIAcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ILAK7ZJIAcQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Check whole class understanding – Early Years [AD]](https://youtu.be/https://youtu.be/-YUSIZ29tRg)
 
 #### Check whole class understanding - Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxJgFGzVW58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxJgFGzVW58?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Check whole class understanding - Primary [AD]](https://youtu.be/RvqCqcMMCe4)
 
 #### Check whole class understanding - Secondary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r2cXXSKa0Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r2cXXSKa0Vw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Check whole class understanding - Secondary [AD]](https://youtu.be/2Z8PQCvjeEE)
 
@@ -149,7 +149,7 @@ the following question and record your response in your notepad:
 
 #### Wait time – Early Years - Bella Sidenius at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bLi7IgZ1Ips" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bLi7IgZ1Ips?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Wait time – Early Years - Bella Sidenius at Reach Academy [AD]](https://youtu.be/0607VPLAOjc)
 

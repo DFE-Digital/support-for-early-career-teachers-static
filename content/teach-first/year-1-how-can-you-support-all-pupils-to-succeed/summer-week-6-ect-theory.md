@@ -103,7 +103,7 @@ However, it is often forgotten that the pupil themselves is the most important s
 
 In the video below, listen to Kelly Challis from the Driver Youth Trust, as she explains how engaging with stakeholders can make a huge difference in your ability to support a pupil with SEND.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oEzIuComD4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oEzIuComD4s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Working with Stakeholders – Kelly Challis
 
@@ -231,7 +231,7 @@ Video script - 1. Communication is key.
 
 2. Parent Liane Bunn talks about the challenges her family faced when transitioning her son from nursery to primary school.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UpIb6Nxv_Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UpIb6Nxv_Cw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Parent view – Liane Bunn
 
@@ -403,7 +403,7 @@ Below are several case studies of teachers who have used the graduated approach 
 
 Autism spectrum condition case study - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8m5T2ao7EoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8m5T2ao7EoI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Autism spectrum condition case study – Early Years
 

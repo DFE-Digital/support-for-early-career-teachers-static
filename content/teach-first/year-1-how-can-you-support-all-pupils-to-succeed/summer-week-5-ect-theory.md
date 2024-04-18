@@ -16,7 +16,7 @@ There are a number of reasons why a pupil may require further adaptation to prac
 
 Pupils with SEND may need a more personalised level of adaptive practice in order to access and achieve in all areas of the curriculum. [The SEND Code of Practice (2014)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/398815/SEND_Code_of_Practice_January_2015.pdf) is a document that supports teachers and leaders to understand their responsibilities and duty of care towards pupils with a special educational need. The Code of Practice itself is 292 pages long, so how can it be used by teachers to help inform their practice? Hear from Kenny Wheeler, from the Driver Youth Trust, as he highlights key points from the document that every teacher should be aware of.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6cdDHLcx6Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6cdDHLcx6Nc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The SEND Code of Practice – Kenny Wheeler
 
@@ -107,7 +107,7 @@ The cycle is continuous and can span a short period of time (around 2 weeks) or 
 
 Each stage of the approach is outlined in the Code of Practice. However, listen again to Kenny Wheeler as he explains each step of the approach with some tangible examples.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p2UTcJjjbP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2UTcJjjbP0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The graduated approach – Kenny Wheeler
 
@@ -180,7 +180,7 @@ When supporting pupils with additional learning needs, it’s important that you
 
 Watch the video below to hear from Kelly Challis from the Driver Youth Trust, as she explains how she uses the graduated approach to adapt her learning environment and practice to support pupils with dyslexia.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7ognIWQWbGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ognIWQWbGg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Using the Graduated Approach – Kelly Challis
 

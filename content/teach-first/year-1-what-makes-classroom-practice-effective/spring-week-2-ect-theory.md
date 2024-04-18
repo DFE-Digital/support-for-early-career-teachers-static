@@ -61,7 +61,7 @@ Listen to Claire Stoneman talk about explanations and modelling. Consider the fo
 - what makes explanations effective?
 - why is modelling important?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8ue8YBd-vsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ue8YBd-vsA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Explanations and modelling - Claire Stoneman
 
@@ -93,7 +93,7 @@ Ashley Philipson shares an example of when she has used an example and a non-exa
 
 ### Using a concrete example by Ashley Philipson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/skBKiNtKejA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skBKiNtKejA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -112,7 +112,7 @@ After I explained the concept using concrete examples, I checked pupils’ under
 
 ### Using a non-example by Ashley Philipson
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fNEy08QiU7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fNEy08QiU7w?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -150,7 +150,7 @@ In this case pupils will have a deeper understanding of more than just that one 
 
 As Ashley states, non-examples are a great way to show what something isn’t; therefore, they are an effective way of exposing potential pitfalls and explaining how to avoid them. Listen to Elizabeth Arkle talk about when she has used a non-example to develop pupils’ reasoning skills by encouraging them to identify and explain common misconceptions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/okJ5Ykg_6cE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/okJ5Ykg_6cE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -320,13 +320,13 @@ Watch the videos below and answer the following questions in your notepad:
 
 ### Think Aloud – Early Years - Maria Craster at One Degree Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MNrEYWQZ8B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNrEYWQZ8B4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Think Aloud – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/Y-ZO9yPfx3w)
 
 ### Think Aloud – Primary – Alanah Harris at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lAQCn7BQ-80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lAQCn7BQ-80?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Think Aloud – Primary – Alanah Harris at Reach Academy [AD]](https://youtu.be/T13W7K6FAkQ)
 

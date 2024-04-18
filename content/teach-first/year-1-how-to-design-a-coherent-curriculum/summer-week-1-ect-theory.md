@@ -17,7 +17,7 @@ A roadmap is a helpful metaphor when thinking about designing a curriculum: a ro
 In the video below listen to Ed Vainker, Executive Head at Reach Academy Feltham, talk about what
 he thinks the purpose of curriculum is for pupils, teachers and schools
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Er05UFZgSFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Er05UFZgSFA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 What is the purpose of a curriculum? – Ed Vainker
 
@@ -75,7 +75,7 @@ Below are some questions which you could ask yourself when looking through avail
 
 Watch the video of either Emily (Primary and Secondary) or Maria (Early Years) as they share how they sought out the expertise of colleagues and existing resources when designing their scheme of work.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_BkcdqHEUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_BkcdqHEUE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Seeking the expertise of colleagues and existing resources – Emily Maule
 

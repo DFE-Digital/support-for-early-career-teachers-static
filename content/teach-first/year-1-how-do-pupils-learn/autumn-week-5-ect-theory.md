@@ -57,19 +57,19 @@ An example of a memory that has high retrieval and high storage strength is your
 
 ### Retrieval of prior learning - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eekjJznYXSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eekjJznYXSA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Retrieval of prior learning - Early Years [AD]](https://youtu.be/k7fPhpvgueM)
 
 ### Retrieval of prior learning - Primary - Alanah Harris at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/os1zwmdWAoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/os1zwmdWAoo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Retrieval of prior learning - Primary - Alanah Harris at Reach Academy [AD]](https://youtu.be/caFVwDvNQTE)
 
 ### Retrieval of prior learning – Secondary – Phil Fowkes at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XzeqRoQ01PI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzeqRoQ01PI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Retrieval of prior learning – Secondary – Phil Fowkes at Reach Academy [AD]](https://youtu.be/T56Wwrzb4bQ)
 
@@ -127,7 +127,7 @@ An example of a simple low-stakes retrieval quiz can be found below. As you can 
 
 Listen again to teacher Lee Donaghy talk about how he used retrieval practice to secure knowledge into the pupils’ long-term memory.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JxdC9wxm-rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JxdC9wxm-rQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -180,7 +180,7 @@ The aim of this module is to share with you the most recent research on how pupi
 
 Listen again to Ben Riley, CEO of Deans for Impact, talking about why it is important for teachers to have a mental model that contains knowledge of research-driven teaching methods, and how to work with your colleagues to implement these into the wider school practice.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dQ9KnC7PF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dQ9KnC7PF8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

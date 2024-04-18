@@ -16,7 +16,7 @@ Listen to the module expert Ben Riley, the Executive Director of Deans for Impac
 
 ### How pupils learn – Benjamin Riley
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4FMlIBrKpKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FMlIBrKpKs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -124,7 +124,7 @@ When you are deciding how to introduce new knowledge, carefully consider the thr
 
 The answers to these three questions will provide a starting place for your planning, and an understanding of where to pitch new learning. Listen to Teacher Educator and History teacher Lee Donaghy talk through how he assessed his pupils’ prior knowledge, and how he built on this in an effort to avoid overloading the working memory.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OToo6B6DVW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OToo6B6DVW4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
