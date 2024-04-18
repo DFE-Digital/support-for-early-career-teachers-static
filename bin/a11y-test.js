@@ -182,12 +182,18 @@ class AxeTester {
     constructor(options) {
         this.reporters = options.reporters;
         this.ignore = options.ignore;
+        this.rulesets = options.rulesets;
     }
 
     run(url) {
         let ignoreRules = '';
-        if (this.ignore > 0) {
+        if (this.ignore.length > 0) {
             ignoreRules = '--disable ' + this.ignore.map(rule => rule.toLowerCase()).join(',');
+        }
+
+        let rulesets = '';
+        if (this.rulesets.length > 0) {
+            rulesets = '--tags ' + this.rulesets.map(rule => rule.toLowerCase()).join(',');
         }
 
         const childProcessOptions = {
@@ -197,7 +203,8 @@ class AxeTester {
 
         const tempFile = './tmp/axe-results.json';
         try {
-            execSync(`npx axe ${url} --save ${tempFile} ${ignoreRules}`, childProcessOptions);
+            const command = `npx axe ${url} --save ${tempFile} ${rulesets} ${ignoreRules}`;
+            execSync(command, childProcessOptions);
         }
         catch(err)
         {
