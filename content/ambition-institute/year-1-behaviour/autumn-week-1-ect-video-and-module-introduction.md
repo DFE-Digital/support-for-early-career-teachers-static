@@ -4,29 +4,29 @@ next_title: "Module overview"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-1-ect-module-overview"
 ---
 
-<iframe width="560"
+<iframe
+    width="560"
     height="315"
     src="https://www.youtube.com/embed/EpjSlCJtPLo?rel=0"
     title="YouTube video player"
     frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
 
 {details}
 Video transcript.
 
-## Presenter: Peps McCrea
-
+**Presenter: Peps McCrea**  
 We all know teachers who are great at fostering good behaviour. Pupils seem to like
 them, to work hard in their lessons. Perhaps you can remember a favorite teacher
 who neither you nor your classmates would mess around for. It's tempting to think
 that this is down to individual character traits, that good behaviour management
-is just something that teachers can just do.  But in fact, helping pupils to behave
+is just something that teachers can just do. But in fact, helping pupils to behave
 in a way that will support them to learn is something that all teachers can learn
 to do well. As role models for pupils, we can have a big influence over how they
 behave.
 
-## Presenter: Nicholas Hickman
-
+**Presenter: Nicholas Hickman**  
 Behaviour for learning involves putting things in place that will enable your pupils
 to think hard and try their best. Most effective behaviour management strategies are
 proactive, rather than reactive. They involve advance planning. They require teachers
@@ -41,8 +41,7 @@ behavior management doesn't happen by chance or by magic. It happens as a result
 of advance planning and implementing tried and tested strategies over and over again.
 The results will be more than worth the effort.
 
-## Presenter: Peps McCrea
-
+**Presenter: Peps McCrea**  
 Over the course of the behaviour strand, we will help you learn how to shape your
 pupils' behaviour, so that enables them to get the best out of school and beyond.
 The material's based on a growing body of evidence for both outside and inside the

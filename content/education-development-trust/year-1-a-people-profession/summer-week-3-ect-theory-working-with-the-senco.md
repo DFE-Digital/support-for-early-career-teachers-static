@@ -8,7 +8,7 @@ High-quality teaching is a key component to improving life chances for all child
 
 The Department for Education's [SEND Code of Practice](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25) states that:
 
-> _All pupils should have access to a broad and balanced curriculum. […] Teachers should set high expectations for every pupil, whatever their prior attainment. Teachers should use appropriate assessment to set targets which are deliberately ambitious. Potential areas of difficulty should be identified and addressed at the outset. Lessons should be planned to address potential areas of difficulty and to remove barriers to pupil achievement. In many cases, such planning will mean that pupils with SEN and disabilities will be able to study the full national curriculum._
+> All pupils should have access to a broad and balanced curriculum. […] Teachers should set high expectations for every pupil, whatever their prior attainment. Teachers should use appropriate assessment to set targets which are deliberately ambitious. Potential areas of difficulty should be identified and addressed at the outset. Lessons should be planned to address potential areas of difficulty and to remove barriers to pupil achievement. In many cases, such planning will mean that pupils with SEN and disabilities will be able to study the full national curriculum.
 
 Types of need are categorised as:
 

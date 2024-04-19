@@ -14,14 +14,14 @@ next_path: "/ambition-institute/year-1-behaviour/autumn-week-10-ect-teaching-cha
 {details}
 Video transcript.
 
-Presenter intro: Peps McCrea
-
+**Intro: Peps McCrea**  
 To learn effectively, pupils need plenty of opportunities to think hard. Sometimes
 we need to do this thinking on our own. There need to be times during lessons when
 pupils work independently. Pupils are more likely to do this well when teachers give
 clear behavioural expectations for independent practice. We need to provide support
 and guidance when pupils work on their own.
-### Presenter main
+
+**Main**  
 Independent practice is about letting our pupils practice on their own. Our ultimate
 goal is that pupils are able to use their knowledge and skills without teacher input.
 This means free of the support of any teachers or other adults in the room.
@@ -34,16 +34,14 @@ When you're confident that pupils have understood your expectations, there's sti
 
 Setting up independent practice requires a lot of thought. You need to explicitly teach your expectations. It might be easy to assume your pupils should know what is expected of them, but they may well not. Or they simply might've forgotten. Although we call it independent practice, that doesn't mean that teachers don't play an active role. Teachers need to actively monitor and support pupils to enable them to work on their own.
 
-### Presenter exemplification framing
-
+**Exemplification framing**  
 In the next example, you will see a model of how to establish behavioural expectations
 for independent practice. As you watch focus on the following:
 
 - Teaches and rigorously maintains clear behavioural expectations for independent work
 - Monitors pupil work during lessons, including checking for misconceptions
 
-### Exemplification: Ambition Institute coach
-
+**Exemplification: Beth Allwood, Ambition Institute coach**  
 If we want pupils to focus on their learning and do well during independent
 practice, we need to establish clear guidelines. I'm going to model how to share
 behavioural expectations before independent work and how to support them to stay
@@ -53,23 +51,27 @@ I want you to imagine that I am teaching a year six English lesson. Pupils are g
 
 With this preparation, I'm confident that the pupils will be able to complete the task independently, but I still need to support their behaviour.
 
-_“OK, you're now going to spend 15 minutes writing the opening to your story. During that 15 minutes, I need everybody to be working in silence so that you can concentrate really hard. If you get stuck, before asking for help, I want you to look at your storyboards, the model that we've just created together, and the word bank and the sentence starters in your books. If you still feel that you need help, then raise your hands. And either myself or Ms. Stevens will come to you._
+-----
 
-_Ishmael, can you explain to everybody what I'm expecting you to do in the next 15 minutes?_
+OK, you're now going to spend 15 minutes writing the opening to your story. During that 15 minutes, I need everybody to be working in silence so that you can concentrate really hard. If you get stuck, before asking for help, I want you to look at your storyboards, the model that we've just created together, and the word bank and the sentence starters in your books. If you still feel that you need help, then raise your hands. And either myself or Ms. Stevens will come to you.
 
-_[Pupils gives correct response]_
+Ishmael, can you explain to everybody what I'm expecting you to do in the next 15 minutes?
 
-_Great. And Aisha, if you get stuck, before asking for help, what things should you look at?_
+*[Pupils gives correct response]*
 
-_[Pupil gives correct response]_
+Great. And Aisha, if you get stuck, before asking for help, what things should you look at?
 
-_Thank you. OK. Does anyone have any more questions? Nope? Great. So I'm going to put 15 minutes on the timer, off you go._
+*[Pupil gives correct response]*
 
-_[Teacher scans the room and then circulates as pupils practice]_
+Thank you. OK. Does anyone have any more questions? Nope? Great. So I'm going to put 15 minutes on the timer, off you go.
 
-_Everyone should be writing, or reading through their storyboards or the model on the board, or that word bank and the sentence starters in your book. I can see lots of pupils are using really well-chosen adjectives to set the scene, well done._
+*[Teacher scans the room and then circulates as pupils practice]*
 
-_If you've got your hand up, can I ask you to check that you've read through your storyboards or the model on the boards, or those sentence starters and the word bank in your books before asking for help. Thank you. So those of you who are putting your hands down, that's showing really good problem-solving.”_
+Everyone should be writing, or reading through their storyboards or the model on the board, or that word bank and the sentence starters in your book. I can see lots of pupils are using really well-chosen adjectives to set the scene, well done.
+
+If you've got your hand up, can I ask you to check that you've read through your storyboards or the model on the boards, or those sentence starters and the word bank in your books before asking for help. Thank you. So those of you who are putting your hands down, that's showing really good problem-solving.
+
+-----
 
 Let's unpick this model. Firstly, I set clear expectations for behaviour. I stated what I wanted to see and hear from pupils. Pupils were to work on their own in silence for 15 minutes.
 
@@ -79,8 +81,7 @@ During the independent work, I circulated and made sure that most of the time I 
 
 Independent work is critical for pupil learning. However, in order for it to be successful, teachers must be sure that pupils have the knowledge and skills required for the task, be clear on their behavioural expectations before pupils start and circulate to keep pupils on track.
 
-### Presenter key ideas
-
+**Key ideas**  
 In this video, we have looked at how to support pupil behaviour during independent
 practice so that we can help them to stay focused. Now read through the key ideas.
 Which of these ideas does the example illustrate the best?
@@ -89,9 +90,10 @@ Which of these ideas does the example illustrate the best?
 - Check pupils' understanding of instructions before a task begins
 - Monitor pupil work during lessons, including checking for misconceptions
 
-### Presenter summary
-
+**Summary**  
 Independent practice is a skill that pupils need to be shown how to do well. Our
 pupils need support and practice to get the most out of it. When we get this
 right pupils are able to do some of their best thinking on their own and
-strengthen their understanding in the process. {/details}
+strengthen their understanding in the process.
+
+{/details}
