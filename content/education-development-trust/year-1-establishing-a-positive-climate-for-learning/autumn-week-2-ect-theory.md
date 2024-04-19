@@ -193,23 +193,25 @@ When routines do not go to plan, they need to be re-taught.
 {details}
 Video script.
 
-NARRATION
+**Narration**  
 With routines, consistency is key. We should expect pupils to complete the routines we ask of them the same way, every lesson.
 
 We need to demonstrate our high expectations through routines, we should show pupils that we expect them to be completed in a certain way, if they are not then they will need to be redone.
 
-CLASSROOM INTERACTION
+**Classroom interaction**  
 When you entered the classroom just now, I saw half the class doing what was asked of them, which was:
 
 - Entering the room quietly and calmly
 - Taking a seat
 - Starting the task on the board.
-  We are going to go outside and come back in and this time I want to see the whole
-  class following instructions.
+
+We are going to go outside and come back in and this time I want to see the whole class following instructions.
 
 Back outside in 5, 4, 3, 2 and 1.
 
-Ok let's try that again. Well done Lydia that is a much better start, excellent.
+Ok let's try that again. 
+
+Well done Lydia that is a much better start, excellent.
 
 Callum, I can see you are really focused on beginning the task.
 

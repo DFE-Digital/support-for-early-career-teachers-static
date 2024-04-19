@@ -260,26 +260,22 @@ How does the teacher use hinge questions?
 {details}
 Video script.
 
-NARRATION
-
+**Narration**  
 Hinge questions are questions which reliably check pupils' knowledge or understanding and quickly give teachers information to decide whether and how to move on with the topic being taught.
 
 They can be used before, during or following exposition. Pupils may respond verbally, in writing, or through an action or activity of some kind, through individual or whole class responses, for example on whiteboards, on paper, using technology or using hand signals.
 
 Hinge questions are a great way for us to assess whether pupils understand a key idea before we move on.
 
-CLASSROOM INTERACTION
-
+**Classroom interaction**  
 We have been learning about magnetic fields and I want to see how much you know. I am going to ask you a question and read out four potential answers. When you hear the one that you think is correct, put your hand in the air. I will be asking questions after to check your thinking.
 
 Which object can be picked up with a magnet?
 
-<ol>
-  <li>An iron nail.</li>
-  <li>A copper wire.</li>
-  <li>A piece of wood.</li>
-  <li>A piece of glass.</li>
-</ol>
+1. An iron nail.
+2. A copper wire.
+3. A piece of wood.
+4. A piece of glass.
 
 Harry, I saw you put your hand up for (A) an iron nail. Can you tell me why you think
 that is correct?

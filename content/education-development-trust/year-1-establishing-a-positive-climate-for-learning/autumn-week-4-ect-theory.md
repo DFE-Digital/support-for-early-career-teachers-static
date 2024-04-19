@@ -77,10 +77,10 @@ Watch this video of a class getting started on a task in the classroom.
 {details}
 Video script.
 
-NARRATION
+**Narration**  
 Instead of correcting negative behaviour, I want to demonstrate and model positive behaviour. One way of doing this is through praise and verbalising the positive things going on in the room.
 
-CLASSROOM INTERACTION
+**Classroom interaction**
 Mariah, what am I asking you to do in this task? Exactly right, you are going to be working in pairs to answer question 3. Off you go.
 
 I can see that Josh and Harry have made a really great start. Good to see you both on task so quickly.
@@ -93,7 +93,7 @@ Jon and Karl are getting books and pens out of their bags. Nice and quickly now 
 
 Maria and Ryan have made an excellent start, well done you two.
 
-NARRATION
+**Narration**
 By narrating and modelling the positives, everyone will be encouraged to follow the good examples. My high expectations will be evident, and I am more likely to have full co-operation and participation from the class.
 
 {/details}

@@ -84,16 +84,14 @@ It is important that we tell pupils our behavioural expectations when they compl
 {details}
 Video script.
 
-NARRATION
-
+**Narration**  
 Making sure that you are very clear in your instructions and about your expectations when it comes to behaviour is essential. Part of that is checking that pupils have understood your instructions.
 
 You can do this by praising those who follow your instructions. And you can offer polite but firm reminders to pupils who do not follow your instructions.
 
 Remember that in addition to what you say, non-verbal communication can be very effective. Holding a finger to your lips may be just as effective as telling people to be quiet.
 
-CLASSROOM INTERACTION
-
+**Classroom interaction**  
 We are going to look back at the persuasive leaflets we wrote in the last lesson and check that we have used all of the key features of persuasive texts.
 
 Make a note of any features you have not used.

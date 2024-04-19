@@ -300,10 +300,10 @@ When pupils are doing a written task, it can be useful to walk around the room a
 {details}
 Video script.
 
-NARRATION
+**Narration**  
 A practical strategy that you can use to provide high-quality feedback to your pupils is live marking. This will allow in the moment feedback and opportunities for pupils to reflect on their work and improve it.
 
-CLASSROOM INTERACTION
+**Classroom interaction**
 In our last lesson, you prepared your plans for your descriptive writing. You are writing a description of the woods using all the techniques we have been working on over the term. As you are writing, I am going to be walking around and marking your work. This will be an excellent opportunity for you to adapt and improve your work as you go, so make sure you listen carefully and respond to the feedback I give you.
 
 Excellent first line, Abdul, I like that you have used a great adjective to describe the atmosphere.
