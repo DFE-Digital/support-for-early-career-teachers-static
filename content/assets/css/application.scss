@@ -8,6 +8,14 @@
 @import "govuk/overrides/all";
 @import "govuk/settings/all";
 
+.hidden-unless-js-enabled {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
+
 .govuk-footer__link {
   line-height: 1.5;
 }
