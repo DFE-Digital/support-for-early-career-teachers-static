@@ -18,7 +18,7 @@ Look at the cartoon below which highlights this.
 <figure>
   <img
     src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-1.2.1-Calm-vs-chaotic-Opt-1-3.png"
-    alt=""
+    alt="A cartoon illustration showing a calm environment vs a chaotic environment"
     width="100%"
     />
 </figure>
