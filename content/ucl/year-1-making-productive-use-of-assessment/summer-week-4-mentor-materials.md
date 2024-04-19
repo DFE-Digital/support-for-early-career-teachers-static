@@ -19,7 +19,7 @@ Your ECT will learn how to:
 Provide high-quality feedback, by:
 
 - Focusing on specific actions for pupils and providing time for pupils to respond to feedback.
-- Appreciating that pupils’ responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains or the age of the child).
+- Appreciating that pupils' responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains or the age of the child).
 - Scaffolding self-assessment by sharing model work with pupils, highlighting key details.
 - Thinking carefully about how to ensure feedback is specific and helpful when using peer- or self-assessment.
 
@@ -27,9 +27,9 @@ Provide high-quality feedback, by:
 
 In their self-directed study session earlier this week, your mentee extended their knowledge of giving high-quality feedback.
 
-Your mentee will have considered their feedback practice by looking at previous feedback they have given. They may have spoken to pupils to find out their views on feedback they have received, how they interpreted it and what they did with it. They may also have spoken to a colleague to understand more about realistic expectations of students’ independence and self-regulation at different ages.
+Your mentee will have considered their feedback practice by looking at previous feedback they have given. They may have spoken to pupils to find out their views on feedback they have received, how they interpreted it and what they did with it. They may also have spoken to a colleague to understand more about realistic expectations of students' independence and self-regulation at different ages.
 
-This session can build on your mentee’s self-study activity and focus in more detail on its practical implications, such as how to scaffold effective self-assessment and peer-assessment. In this session, you will help your mentee understand the importance of skilled feedback and why developing skills of self-assessment and self-regulation are important to the learning process.
+This session can build on your mentee's self-study activity and focus in more detail on its practical implications, such as how to scaffold effective self-assessment and peer-assessment. In this session, you will help your mentee understand the importance of skilled feedback and why developing skills of self-assessment and self-regulation are important to the learning process.
 
 ### Meeting activities
 
@@ -37,7 +37,7 @@ Throughout the session, try to refer explicitly to the Learning Intentions, and 
 
 Review: 5 mins
 
-1. Start this session by briefly following up the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise:
+1. Start this session by briefly following up the actions that the mentee set at the end of last week's session. Ask your mentee to summarise:
    - what they did
    - the impact of this on pupil learning (including how they are evaluating this)
    - what they will do going forward to build on these actions
@@ -45,7 +45,7 @@ Review: 5 mins
 
 Plan: 5 mins
 
-At the start of this module, you looked at all of the ‘learn how to’ statements for Standard 6 and conducted a module audit with your mentee. In some areas, they will already be confident and skilled; in others, they will want more practice and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
+At the start of this module, you looked at all of the 'learn how to' statements for Standard 6 and conducted a module audit with your mentee. In some areas, they will already be confident and skilled; in others, they will want more practice and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
 
 Theory to Practice 35 mins
 
@@ -69,17 +69,17 @@ You might consider factors such as:
 
 Collaborative planning
 
-Using the characteristics of good self- and peer-assessment outlined in the the research and practice summary in this week’s ECT materials, work with your mentee on one of the two options below to plan how they could build effective self-assessment into a forthcoming lesson that they will be teaching.
+Using the characteristics of good self- and peer-assessment outlined in the the research and practice summary in this week's ECT materials, work with your mentee on one of the two options below to plan how they could build effective self-assessment into a forthcoming lesson that they will be teaching.
 
 If the group has not engaged in self-assessment with your mentee previously, focus planning on:
 
 1. the key details of self-assessment as a learning process that need to be highlighted to pupils, and
-2. creating an example of ‘model work’ which will help pupils to understand the success criteria for self-assessment as a learning process.
+2. creating an example of 'model work' which will help pupils to understand the success criteria for self-assessment as a learning process.
 
 If the group has experienced self-assessment activities previously with the mentee, focus planning on the lesson content which pupils will self-assess against. Help your mentee to:
 
 1. construct clear and detailed success criteria for the task, including a worked model, and
-2. plan for how they will support pupils to identify and act on clear, specific and helpful ‘targets-for-self’ as a result of their self-assessment.
+2. plan for how they will support pupils to identify and act on clear, specific and helpful 'targets-for-self' as a result of their self-assessment.
 
 To support this activity, consider the following:
 
@@ -99,10 +99,10 @@ To support this activity, you could:
 
 Next Steps: 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session(s) into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these action(s) are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these action(s)
+2. what success will 'look like' in relation to these action(s)
 3. how they will evaluate their success in taking these action(s)
 
-Note the date of your next mentor meeting, when you will check on your mentee’s progress.
+Note the date of your next mentor meeting, when you will check on your mentee's progress.

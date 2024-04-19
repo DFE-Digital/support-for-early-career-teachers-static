@@ -6,11 +6,11 @@ previous_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-5-ect-resear
 
 ## Review: 10 mins
 
-Read the Research and Practice Summary on this week’s topic, including the examples from Helen and Rachel. As you read, reflect on:
+Read the Research and Practice Summary on this week's topic, including the examples from Helen and Rachel. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time but could do more of/more consistently
-3. the practices you don’t use in your teaching yet
+3. the practices you don't use in your teaching yet
 
 ## Plan: 10 mins
 
@@ -32,14 +32,14 @@ Now, bring together your appreciation of the values inherent in education with t
 
 1. what core knowledge and skills should be conveyed within this topic?
 2. what opportunities are there to support your educational values in this topic?
-3. draw on your understanding of your pupils’ prior knowledge to sequence the content within the lesson(s) (and any home learning)
+3. draw on your understanding of your pupils' prior knowledge to sequence the content within the lesson(s) (and any home learning)
 4. you do not need to go as far as developing your planning in detail, but at this point, you may have ideas for engaging activities which will support pupil learning, so jot these down
 
 ### 2. Independent planning
 
 With this outline of a teaching sequence in place, now add to your sequence at least one opportunity for pupils to use their learning to think critically. This could be a discussion about a real-world problem, in which they outline their reasoning, or it could be a creative process involving their knowledge. As an extension activity for your pupils, you could ask them to identify how that might apply – transfer – their learning from this to other contexts.
 
-To support your planning, Rachel’s lesson plan might give you a model to follow.
+To support your planning, Rachel's lesson plan might give you a model to follow.
 
 ## Next Steps: 5 mins
 

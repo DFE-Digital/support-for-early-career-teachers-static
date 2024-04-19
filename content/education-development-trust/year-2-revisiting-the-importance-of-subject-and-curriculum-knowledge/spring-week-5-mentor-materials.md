@@ -42,7 +42,7 @@ Together, read [Handout 10.2](/assets/materials/edt-Block-10-mentor-handout-10.2
 
 Pose the questions:
 
-1. What do you understand by ‘domain-specific knowledge?’
+1. What do you understand by 'domain-specific knowledge?'
 2. Why do pupils need to develop domain-specific knowledge before being asked to think critically?
 3. Can you give an example from your subject area?
 
@@ -56,7 +56,7 @@ The mentor and ECT will have already discussed the merits in using concrete exam
 
 Listen to the short podcast of a teacher talking about interleaving.
 
-Interleaving is a strategy that requires learners to switch between concepts when studying or practising material. Switching between ideas can make initial learning more challenging, but leads to enhanced long-term learning when compared to ‘blocking’ learning. Research suggests that when we are introducing a concept to pupils, it can be useful to mix up closely related examples instead of using many examples of the same concept. This helps pupils to distinguish between similar concepts, which they may otherwise muddle.
+Interleaving is a strategy that requires learners to switch between concepts when studying or practising material. Switching between ideas can make initial learning more challenging, but leads to enhanced long-term learning when compared to 'blocking' learning. Research suggests that when we are introducing a concept to pupils, it can be useful to mix up closely related examples instead of using many examples of the same concept. This helps pupils to distinguish between similar concepts, which they may otherwise muddle.
 
 Review the following example with the ECT: Imagine that we wanted to teach students to be able to identify different kinds of clouds.
 
@@ -77,4 +77,4 @@ Possible answers:
 
 ### Moving to action
 
-Agree with your ECT what they will do as a result of today’s topic.
+Agree with your ECT what they will do as a result of today's topic.

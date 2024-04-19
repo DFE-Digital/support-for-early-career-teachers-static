@@ -24,17 +24,17 @@ In the previous term, teachers learnt about effective explanations and how to pr
 - combining a verbal explanation with a relevant graphical representation
 - using worked or partially completed examples
 
-Observe your teacher delivering an explanation. You can focus on one specific area outlined above or multiple areas depending on the needs of your teacher. For example, if your teacher is really struggling with breaking down complex ideas or tasks into smaller steps’, then this should be your sole focus. However, if they are confident with doing that but could improve just slightly, you may want to focus on this area and one other.
+Observe your teacher delivering an explanation. You can focus on one specific area outlined above or multiple areas depending on the needs of your teacher. For example, if your teacher is really struggling with breaking down complex ideas or tasks into smaller steps', then this should be your sole focus. However, if they are confident with doing that but could improve just slightly, you may want to focus on this area and one other.
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study materials to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study materials to support you if needed.
 
 ### Plan and practice ideas
 
 Work with your teacher to support them in developing area(s) of effective explanations.
 
-If focusing on breaking down complex ideas or tasks into smaller steps using ‘Name the Steps’, you should ask your teacher to consider the following questions:
+If focusing on breaking down complex ideas or tasks into smaller steps using 'Name the Steps', you should ask your teacher to consider the following questions:
 
  - What knowledge am I assuming the pupils have?
  - Why have I chosen the steps that I have? Would it be beneficial to break them down further?

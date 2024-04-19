@@ -22,10 +22,10 @@ Observe your teacher deliver an explanation where they pair verbal explanation w
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ###  Plan and practice ideas
-In your teacher’s online study materials, they were asked to Consider an upcoming explanation, or an explanation that they have recently done with a class. They were asked to reflect on they could pair verbal and graphical representations to support understanding. Ask them to share their reflections with you and discuss them.
+In your teacher's online study materials, they were asked to Consider an upcoming explanation, or an explanation that they have recently done with a class. They were asked to reflect on they could pair verbal and graphical representations to support understanding. Ask them to share their reflections with you and discuss them.
 
 Then work with your teacher to plan this strategy either into the lesson that you observed or an upcoming lesson. When doing so consider the following:
 

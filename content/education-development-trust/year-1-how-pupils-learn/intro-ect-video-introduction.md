@@ -6,7 +6,12 @@ previous_path: "/education-development-trust/year-1-how-pupils-learn/intro-ect-w
 
 This video outlines what you will cover in this Block.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4FsOuLuiSls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/4FsOuLuiSls"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -81,13 +86,13 @@ strengthens the prior knowledge we had. 
 
 Well, there are a few reasons:
 
-- It might be that you didn’t have any secure prior knowledge to connect the new learning to and so the new information has nothing to tether it to a schema in your long-term memory.
-- It could be that you weren’t paying attention or actively engaging with the new material ‒ such as that colleague’s name when they introduced themselves.
+- It might be that you didn't have any secure prior knowledge to connect the new learning to and so the new information has nothing to tether it to a schema in your long-term memory.
+- It could be that you weren't paying attention or actively engaging with the new material ‒ such as that colleague's name when they introduced themselves.
 - Another reason might be that there were too many bits of new information in your working memory for you to deal with. We call this “cognitive overload”.
   
   All of this is really important to remember when you are introducing new
   content to pupils. Pupils are constantly encountering new material. It might
-  seem surprising to you, but pupils’ working memory can easily become
+  seem surprising to you, but pupils' working memory can easily become
   overloaded and when that happens, no learning will take place. The same
   applies if pupils do not pay enough attention to the thing being taught, or if
   their prior knowledge is either insufficient or
@@ -101,7 +106,7 @@ Well, there are a few reasons:
 
 
   Luckily, what cognitive science has taught is that there are some
-  well-evidenced techniques which you can use to prevent pupils’ working memory
+  well-evidenced techniques which you can use to prevent pupils' working memory
   becoming overloaded such as:
 
 - Introducing new content in small, manageable steps. 
@@ -111,9 +116,9 @@ Well, there are a few reasons:
 - Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content. 
 - Providing opportunities for pupils to use new content again, spaced across the year.
 
-  If you haven’t come across this before it might feel a bit overwhelming to
+  If you haven't come across this before it might feel a bit overwhelming to
   have to think about cognitive science and how the brain works at this stage in
-  your career, but don’t worry. This Block has been designed to introduce you to
+  your career, but don't worry. This Block has been designed to introduce you to
   the most important aspects of how pupils learn and to provide practical and
   easy to understand examples to translate into your classroom practice. This is
   perhaps the most important professional knowledge you need as a teacher
@@ -121,7 +126,7 @@ Well, there are a few reasons:
 –
 
   
-  if you don’t understand how pupils learn, or what prevents learning, then you
+  if you don't understand how pupils learn, or what prevents learning, then you
   cannot plan and teach effective lessons. Because of this, you will see that
   many of the ideas and concepts which you will begin to explore in this Block
   are repeated and expanded upon as you progress through the next two years. 
@@ -129,7 +134,7 @@ Well, there are a few reasons:
 
 
   You will have plenty of opportunities to work with your mentor to apply the
-  learning from this Block into your lessons. And don’t forget, you can always
-  ask your mentor what that colleague’s name is!
+  learning from this Block into your lessons. And don't forget, you can always
+  ask your mentor what that colleague's name is!
 
  {/details}

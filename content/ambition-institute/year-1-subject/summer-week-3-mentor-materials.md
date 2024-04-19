@@ -45,21 +45,21 @@ Example precise target: Teacher, with the support of a colleague, uses subject r
 
 Consider the following questions based on a short (approximately 15 minute) observation of your teacher.
 
-- What was your teacher’s previous target? Are they meeting it? How do you know?
+- What was your teacher's previous target? Are they meeting it? How do you know?
 
 - Thinking about the development area you have selected for this topic, what is your teacher already doing well in this area? Which focused development area best aligns with what your teacher needs to get better at? What one precise target (bite-sized action) might you work with them on during your mentor meeting?
 
-Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn’t fit your teacher’s needs, you can write your own.
+Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn't fit your teacher's needs, you can write your own.
 
-How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, ‘How it is different from your current practice?’ and ‘What impact might it have on your practice and pupils?’
+How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, 'How it is different from your current practice?' and 'What impact might it have on your practice and pupils?'
 
 Reminder: Your model should help your teacher develop their ability in some of the following:
 
 - Link what pupils already know to what is being taught.
 - Sequence lessons so that pupils secure foundational knowledge before encountering more complex content.
 - Identify essential concepts, knowledge, skills and principles of the subject and provide opportunity for all pupils to learn and master these critical components, drawing explicit links between new content and core concepts.
-- Ensure pupils’ thinking is focused on key ideas within the subject, using retrieval and spaced practice to build automatic recall of key knowledge.
+- Ensure pupils' thinking is focused on key ideas within the subject, using retrieval and spaced practice to build automatic recall of key knowledge.
 - Discuss curriculum design with experienced colleagues and balancing exposition, repetition, practice of critical skills and knowledge.
 - Revisit the big ideas of the subject over time and teach key concepts through a range of examples, using resources and materials aligned with the school curriculum (e.g. textbooks or shared resources designed by experienced colleagues that carefully sequence content).
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
+Next, meet with your teacher to work through the 'feedback' stage of instructional coaching.

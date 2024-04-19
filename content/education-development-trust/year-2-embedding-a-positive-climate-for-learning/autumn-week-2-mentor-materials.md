@@ -22,23 +22,23 @@ Learn how to communicate a belief in the academic potential of all pupils by:
 
 Suggested dialogue for mentors:
 
-Welcome to module 7 called ‘Embedding a positive climate for learning’. As you know, this module builds on your learning from Year 1.
+Welcome to module 7 called 'Embedding a positive climate for learning'. As you know, this module builds on your learning from Year 1.
 
 Guidance to mentors:
 
-The ECT should have read the ‘Understanding the evidence’ section of the self-directed study materials ahead of the topic. The mentor should also read this to familiarise themselves with the content.
+The ECT should have read the 'Understanding the evidence' section of the self-directed study materials ahead of the topic. The mentor should also read this to familiarise themselves with the content.
 
-In this portion of the mentor topic, the mentor will be asking questions to check the ECT’s understanding of what they have read.
+In this portion of the mentor topic, the mentor will be asking questions to check the ECT's understanding of what they have read.
 
 Suggested dialogue for mentors:
 
-You completed Activity 7.2 of the self-directed study materials: ‘Understanding the evidence’ ahead of this topic. Let’s discuss your response to the questions to check your understanding of that material.
+You completed Activity 7.2 of the self-directed study materials: 'Understanding the evidence' ahead of this topic. Let's discuss your response to the questions to check your understanding of that material.
 
 What are intrinsic and extrinsic motivation and what might these look like in the classroom?
 
 Extrinsic motivation is when you are motivated by external sources such as rewards and compensation. In your lessons this might be pupils working hard in order to achieve a reward.
 
-Intrinsic motivation is when you are motivated from internal sources such as the enjoyment of task engagement. This would look like pupil’s putting effort into a task for the love of learning itself. Over time, this becomes part of your identity and values.
+Intrinsic motivation is when you are motivated from internal sources such as the enjoyment of task engagement. This would look like pupil's putting effort into a task for the love of learning itself. Over time, this becomes part of your identity and values.
 
 If pupils are largely motivated by extrinsic reasons, does this mean that they will not do as well? No. It is a fact that a lot of pupils will generally be motivated by extrinsic rewards and we should remember that they are a useful tool. Pupils have better outcomes when they are motivated to learn, all pupils will be motivated by different things. However, we also should remember that we should use extrinsic rewards carefully and cautiously. We want to tell pupils that effort matters more than ability and rewards are not the sole purpose of working hard.
 
@@ -74,7 +74,7 @@ Discussion may include:
 Watch the video together of a teacher talking to her pupils. Note down the language she uses, which promotes challenge and aspiration and communicate a belief in the academic potential of her students, such as:
 
 - Acknowledging the challenge
-- Stating that it will be a ‘tricky task’
+- Stating that it will be a 'tricky task'
 - Asking pupils to use the feedback from the previous task
 - Explaining that it is an opportunity to show off their learning
 - Expressing belief in the pupils.
@@ -101,7 +101,7 @@ Think about:
 
 Consider:
 
-- How to convey belief in pupils’ ability?
+- How to convey belief in pupils' ability?
 - How to share that it is going to be a challenging task?
 - How to show pupils that they will need to work hard?
 - What specific words to include to show challenge and aspiration?

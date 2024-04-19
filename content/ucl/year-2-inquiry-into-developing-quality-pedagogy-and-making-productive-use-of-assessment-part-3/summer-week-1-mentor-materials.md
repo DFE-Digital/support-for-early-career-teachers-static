@@ -16,7 +16,7 @@ Week 12: Inquiry progress: considering the fuller range of emergent evidence
 
 Learning Intentions for this session
 
-The focus of your mentee’s inquiry for Module 8 is on an element of the Early Career Framework (ECF) from Standards 4, 5 or 6. They might have chosen a focus which combines different elements of these standards.
+The focus of your mentee's inquiry for Module 8 is on an element of the Early Career Framework (ECF) from Standards 4, 5 or 6. They might have chosen a focus which combines different elements of these standards.
 
 The case studies are a reminder that:
 
@@ -34,7 +34,7 @@ Case Study B
 
 3s. Teach different forms of writing by modelling planning, drafting and editing
 
-3r. Model and require high-quality oral language, recognising that it underpins the development of reading and writing (e.g. requiring pupils to respond to each other’s questions in full sentences, making use of relevant technical vocabulary)
+3r. Model and require high-quality oral language, recognising that it underpins the development of reading and writing (e.g. requiring pupils to respond to each other's questions in full sentences, making use of relevant technical vocabulary)
 
 4a.Use modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain
 
@@ -46,7 +46,7 @@ Case Study C
 
 6h.Focus on specific actions for pupils and providing time for pupils to respond to feedback
 
-6i.Appreciate that pupils’ responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains…)
+6i.Appreciate that pupils' responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains…)
 
 6n.Use verbal feedback during lessons in place of written feedback after lessons where possible
 
@@ -60,11 +60,11 @@ Case Study D
 
 Introduction
 
-Last week, you looked at your mentee’s interim inquiry claim again and sought to update it by exploring any of the potential negative consequences of the implementation of their inquiry. Together you considered where any further adjustments to their practice or inquiry needed to be made.
+Last week, you looked at your mentee's interim inquiry claim again and sought to update it by exploring any of the potential negative consequences of the implementation of their inquiry. Together you considered where any further adjustments to their practice or inquiry needed to be made.
 
 This week you will consider the fuller range of emergent evidence that might be available: the deliberate (that evidence your mentee collected purposefully); the overheard (evidence your mentee chanced upon); the unexpected (consequences the mentee did not anticipate); the counter-evidence (that which challenges the prevailing findings.)
 
-The good news is that all of this wider evidence is normally readily available: you don’t have to work hard to find it.
+The good news is that all of this wider evidence is normally readily available: you don't have to work hard to find it.
 
 Case Studies
 
@@ -74,11 +74,11 @@ You can read back to Week 3, if you want to remind yourself of the issue they wa
 
 We pick them up here from the point where they have agreed an alteration to their practice and framed this as an evaluative inquiry question. We see the deliberate methods they decide to use to collect evidence and their findings from that so far. Now we also see some of the cautious conclusions they infer from the wider emergent evidence.
 
-When reading these cases, your mentee will need to take account of their own pupils’ characteristics, the context of their classroom and the nature of the material that they are teaching.
+When reading these cases, your mentee will need to take account of their own pupils' characteristics, the context of their classroom and the nature of the material that they are teaching.
 
 Case Study A: Grouping Pupils Effectively
 
-Andy’s approach to grouping pupils effectively in Year 1
+Andy's approach to grouping pupils effectively in Year 1
 
 To evaluate the impact of his pupil grouping intervention, Andy wrote the following evaluative question:
 
@@ -94,7 +94,7 @@ After making small adjustments to his inquiry he was able to draw these insights
 
 1.3.\*\*\*\*Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.
 
-- by repeatedly making his intentions clear, he has been able to ‘bring the children with him’ on this journey to helping them to work productively with any of their peers
+- by repeatedly making his intentions clear, he has been able to 'bring the children with him' on this journey to helping them to work productively with any of their peers
 
   4.9. Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
 
@@ -121,7 +121,7 @@ And he has:
 
 From the wider emergent (overheard and unexpected) evidence, Andy made these additional inferences:
 
-- he overheard his pupils say things like ‘I used to not like working with X, but now I like it’ – the new pupil grouping is having the desired effect
+- he overheard his pupils say things like 'I used to not like working with X, but now I like it' – the new pupil grouping is having the desired effect
 - his Year 1s overall made unexpectedly rapid progress with the accuracy of their mark making – the new pupil grouping improved the pupils socially and with their written literacy
 
 He inferred that this was because he had understood that:
@@ -136,19 +136,19 @@ And he had learned better how to stimulate pupil thinking by:
 
 Case Study B: Modelling and Scaffolding
 
-Vashti’s use of modelling and scaffolds to support writing in Year 4
+Vashti's use of modelling and scaffolds to support writing in Year 4
 
 To ensure she was developing her practice effectively, Vashti devised this evaluative inquiry question:
 
-How can I use ‘speaking sentences’ well, over the space of two terms, to reduce the prevalence of basic errors in written literacy among pupils with a Speech, Language and Communication Need (SpLCN) in Year 4?
+How can I use 'speaking sentences' well, over the space of two terms, to reduce the prevalence of basic errors in written literacy among pupils with a Speech, Language and Communication Need (SpLCN) in Year 4?
 
 Vashti considered the following evidence she already had to hand:
 
 - data from her marking of writing assessments from the target class
-- data from her colleagues’ marking of writing assessments from her control group, the two other Year 4 classes (they record such data centrally in her school)
+- data from her colleagues' marking of writing assessments from her control group, the two other Year 4 classes (they record such data centrally in her school)
 - personal reflections and observations generated through dialogue in her mentor meetings, and recorded in her Learning Log
 
-Additionally, she held a short, 5-minute ‘focus group’ with the 4 target pupils at the start and end of the intervention.
+Additionally, she held a short, 5-minute 'focus group' with the 4 target pupils at the start and end of the intervention.
 
 After making small adjustments to her inquiry she was able to draw these insights from the deliberate evidence:
 
@@ -164,11 +164,11 @@ Reflecting on her findings, Vashti drew the following interim conclusion for her
 
 Classroom talk, combined with scaffolding resources, can be a powerful driver for improving written literacy among pupils with SpLCN in Year 4. (4a, 4p)
 
-She realised that she should continue with this approach to supporting her pupils’ writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
+She realised that she should continue with this approach to supporting her pupils' writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
 
 From the wider emergent (overheard and unexpected) evidence, Vashti made these additional inferences:
 
-- she overheard several of the non-SpLCN pupils, but who also have other additional needs, say that the ‘speaking sentences’ approach made them much more confident when writing – the approach can work with all pupils who have additional needs
+- she overheard several of the non-SpLCN pupils, but who also have other additional needs, say that the 'speaking sentences' approach made them much more confident when writing – the approach can work with all pupils who have additional needs
 - unexpectedly, the oracy of the SpLCN pupils also improved markedly over the period – scaffolds which reduce basic errors in one area of literacy may also have a similar effect in others
 
 She inferred that this was because she had learned better how to:
@@ -179,13 +179,13 @@ She inferred that this was because she had learned better how to:
 
 4d. Provide sufficient opportunity for pupils to consolidate and practise applying new knowledge and skills.
 
-3r. Model and require high-quality oral language, recognising that it underpins the development of reading and writing (e.g. requiring pupils to respond to each other’s questions in full sentences, making use of relevant technical vocabulary)
+3r. Model and require high-quality oral language, recognising that it underpins the development of reading and writing (e.g. requiring pupils to respond to each other's questions in full sentences, making use of relevant technical vocabulary)
 
 4p. Provide scaffolds for pupil talk to increase the focus and rigour of dialogue
 
 Case Study C: Making Marking Manageable
 
-Louise’s new approach to marking in Secondary History
+Louise's new approach to marking in Secondary History
 
 To ensure she was developing her practice effectively, Louise devised this evaluative inquiry question:
 
@@ -220,15 +220,15 @@ Having reviewed her practice in this way, she will use this insight to now apply
 
 From the wider emergent (overheard and unexpected) evidence, Louise made these additional inferences:
 
-- she overheard several high prior attaining girls in her experimental Year 9 class say that they preferred the new form of feedback, because they received it much more quickly – pupils don’t necessarily ‘miss’ having their work marked all of the time
-- she overheard a few pupils in her control Year 9 class say they heard what she was doing in her other class, and ‘why can’t we have that?’ – verbal and coded feedback might be popular with pupils
+- she overheard several high prior attaining girls in her experimental Year 9 class say that they preferred the new form of feedback, because they received it much more quickly – pupils don't necessarily 'miss' having their work marked all of the time
+- she overheard a few pupils in her control Year 9 class say they heard what she was doing in her other class, and 'why can't we have that?' – verbal and coded feedback might be popular with pupils
 - expectedly, she saved time on marking; unexpectedly, she used that gained time to prepare better lessons – reducing unnecessary marking can have an overall positive impact on her teaching
 
 She inferred that this was because she had learned better how to:
 
 6h. Focus on specific actions for pupils and provide time for pupils to respond to feedback
 
-6i. Appreciate that pupils’ responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains…)
+6i. Appreciate that pupils' responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains…)
 
 6n. Use verbal feedback during lessons in place of written feedback after lessons where possible
 
@@ -236,7 +236,7 @@ She inferred that this was because she had learned better how to:
 
 Case Study D: Questioning
 
-Mo’s use of direction and elaboration to improve questioning in GCSE PE
+Mo's use of direction and elaboration to improve questioning in GCSE PE
 
 To ensure he was developing his practice effectively, Mo devised this evaluative inquiry question:
 
@@ -244,7 +244,7 @@ How can I best adapt the way I ask questions, implemented every lesson for one t
 
 To help him answer this question, Mo decided to deliberately collect the following data:
 
-- arrange a follow-up lesson observation with the Assistant Head for Teaching and Learning, using the school’s in-class video technology
+- arrange a follow-up lesson observation with the Assistant Head for Teaching and Learning, using the school's in-class video technology
 - interview a sample of pupils, including Pupil Premium girls, in a focus group lasting 5 minutes after final period on a Wednesday
 - book scrutiny, sampling 6 of the target pupils, compared with a sample of 6 high attaining pupils – Mo marks these books every other week, so this data is near to hand.
 
@@ -273,8 +273,8 @@ And because he had developed his questioning practice to this extent, Mo decided
 
 From the wider emergent (overheard and unexpected) evidence, Mo made these inferences:
 
-- he overheard pupils outside of his focus group comment on his new approach to questioning. ‘Sir makes us think much harder these days.’ – this approach can work for all, not just some, pupils
-- a colleague in the staffroom told him he had heard about Mo’s approach to questioning, and asked for more information – doing an inquiry about an aspect of teaching can improve collaborative relationships with colleagues
+- he overheard pupils outside of his focus group comment on his new approach to questioning. 'Sir makes us think much harder these days.' – this approach can work for all, not just some, pupils
+- a colleague in the staffroom told him he had heard about Mo's approach to questioning, and asked for more information – doing an inquiry about an aspect of teaching can improve collaborative relationships with colleagues
 - the Pupil Premium girls also improved with their practical PE work – although tempted, Mo could not infer from that that his approach to questioning improves their sporting skills
 
 Mentor Meeting Activities
@@ -288,7 +288,7 @@ Review and Plan 5 mins
 - the impact of this on pupil learning (including how they are evaluating this)
 - what they will do going forward to build on these actions
 - Clarify the learning intentions for this session with your mentee.
-- Invite your mentee to read the case studies on this module’s topics, or the one or two that are most relevant to their own chosen area of development and the exploratory question they are investigating. As they read, reflect on:
+- Invite your mentee to read the case studies on this module's topics, or the one or two that are most relevant to their own chosen area of development and the exploratory question they are investigating. As they read, reflect on:
 - how similar this scenario is to their own situation
 - how, despite any differences there may be to their own context, this case study may still be relevant to them
 - what lessons there might be for the way they conduct their own inquiry
@@ -312,7 +312,7 @@ With your mentee, you should now try to draw inferences from this wider evidence
 
 How strong should your inferences be?
 
-Rarely can we say conclusively that there is a causal relationship between a particular action that a teacher takes and a particular consequence for their pupils. Often the true impact of a teacher’s actions will take a long time to emerge. However, we can be confident that teachers _do_ have a direct influence on their pupils’ outcomes and behaviours.
+Rarely can we say conclusively that there is a causal relationship between a particular action that a teacher takes and a particular consequence for their pupils. Often the true impact of a teacher's actions will take a long time to emerge. However, we can be confident that teachers _do_ have a direct influence on their pupils' outcomes and behaviours.
 
 Consider this brief scenario:
 
@@ -320,11 +320,11 @@ A teacher teaches the same way for 4 years, and her pupils over that time have m
 
 In the fifth year she deliberately changes one aspect of her teaching, and she notices that her pupils make much faster progress. She surmises that they made better progress because she changed that one aspect of her teaching.
 
-She then notices that her pupils have improved in other respects too. ‘But,’ she says, ‘I made no other changes to my teaching.’ She infers that changing her teaching in one way may have had multiple consequences, not all of them anticipated.
+She then notices that her pupils have improved in other respects too. 'But,' she says, 'I made no other changes to my teaching.' She infers that changing her teaching in one way may have had multiple consequences, not all of them anticipated.
 
 The teacher has made a reasonable inference, even if she cannot be absolutely sure.
 
-What reasonable inferences can you make from the ‘overheard’ and ‘unexpected’ evidence you listed above?
+What reasonable inferences can you make from the 'overheard' and 'unexpected' evidence you listed above?
 
 (See again the examples in the case studies.)
 
@@ -343,10 +343,10 @@ Responsive questioning is a useful tool for improving the qualityof talk and wri
 
 Next Steps 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these action(s) are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these action(s)
+2. what success will 'look like' in relation to these action(s)
 3. how they will evaluate their success in taking these action(s)
 
 Note that this week your mentee also has an ECT Training session, where they will learn about how to present and share their inquiry findings.

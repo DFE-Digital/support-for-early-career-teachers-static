@@ -18,13 +18,13 @@ To have practised identifying pupils for support and making inferences on their 
 
 ### Stimulus
 
-In the online study material, teachers have been asked to complete an activity to be used as the stimulus for this session. The activity centres around the progress of an individual pupil over time. The teacher will have looked at the pupil’s progress either over time, or in an individual test.
+In the online study material, teachers have been asked to complete an activity to be used as the stimulus for this session. The activity centres around the progress of an individual pupil over time. The teacher will have looked at the pupil's progress either over time, or in an individual test.
 
-Whilst discussing the activity with your teacher, consider together whether their inferences about the pupil’s performance are accurate and consider strategies to support the pupil to make further progress.
+Whilst discussing the activity with your teacher, consider together whether their inferences about the pupil's performance are accurate and consider strategies to support the pupil to make further progress.
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -39,4 +39,4 @@ Select another pupil to reflect upon. Ask the teacher to practise identifying st
 
 ### Additional reading:
 
-Daisy Christodoulou, Making Good Progress – chapter ‘Making Inferences’.
+Daisy Christodoulou, Making Good Progress – chapter 'Making Inferences'.

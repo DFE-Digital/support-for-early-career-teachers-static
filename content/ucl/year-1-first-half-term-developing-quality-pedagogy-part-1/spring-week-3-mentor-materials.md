@@ -27,13 +27,13 @@ Stimulate pupil thinking and check for understanding by:
 
 ### Topic introduction
 
-In their self-directed study session earlier this week, your mentee extended their knowledge of how to introduce new material in steps, making links to pupils’ prior knowledge, with an emphasis on expositions(explanations). They also focused on using questioning for different purposes in order for pupils to secure knowledge and understanding. Your mentee also either created a lesson plan for the coming week or observed a colleague, where they carefully considered expositions and questioning when introducing new material to pupils.
+In their self-directed study session earlier this week, your mentee extended their knowledge of how to introduce new material in steps, making links to pupils' prior knowledge, with an emphasis on expositions(explanations). They also focused on using questioning for different purposes in order for pupils to secure knowledge and understanding. Your mentee also either created a lesson plan for the coming week or observed a colleague, where they carefully considered expositions and questioning when introducing new material to pupils.
 
 The learning outcomes from their self-directed study were to learn that:
 
 4.2 Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned.
 
-4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
+4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils' prior knowledge, assess understanding and break down problems.
 
 And to learn how to*:*
 
@@ -53,7 +53,7 @@ Review and Plan 5 mins
 
 Clarify the Learning Intentions for this session with your mentee.
 
-At the start of this module, you looked at all of the ‘learn how to*’* statements for Standards 4 and 5 and conducted a module audit with your mentee: in some areas they will already be confident and skilled; in others they will want more practice, and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
+At the start of this module, you looked at all of the 'learn how to*'* statements for Standards 4 and 5 and conducted a module audit with your mentee: in some areas they will already be confident and skilled; in others they will want more practice, and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
 
 Theory to Practice 40 mins
 
@@ -65,36 +65,36 @@ Your mentee wrote a lesson plan or took notes when observing a colleague to expl
 
 To support your collective analysis of the lesson plan (or notes from the observation), you may use some of the questions below as a starting point.
 
-- What effect did the introduction of new material in small steps have on the pupils’ learning?
+- What effect did the introduction of new material in small steps have on the pupils' learning?
 - Do you think teaching this way considers the limitations of working memory?
 - Did you identify examples of concrete representation of abstract ideas?
-- How does a verbal explanation and graphical representation of the same concept help to transform pupils’ knowledge?
+- How does a verbal explanation and graphical representation of the same concept help to transform pupils' knowledge?
 - How did it feel when questioning was a central component of the lesson?
 - Did the questioning used promote deeper thinking and exploration?
 - How was wait time between questioning and answering used to ensure thinking time was maximised?
 - Were any barriers to learning removed through explicit planning and use of questioning?
-- How was questioning used for different purposes: checking pupils’ prior knowledge, assessing knowledge or breaking down problems?
+- How was questioning used for different purposes: checking pupils' prior knowledge, assessing knowledge or breaking down problems?
 - How was questioning used effectively to monitor progress at all stages in the lesson?
 
 Sharing of practice
 
 How will your mentee refine their practice following this discussion? In particular, focus on these two areas, which are likely to be the main areas for development.
 
-To support this sharing of practice, there are some ideas already included below, but wherever possible you should draw on examples which are appropriate to your mentee’s pupils’ characteristics, the context of their classroom and the nature of the material that they are teaching.
+To support this sharing of practice, there are some ideas already included below, but wherever possible you should draw on examples which are appropriate to your mentee's pupils' characteristics, the context of their classroom and the nature of the material that they are teaching.
 
 Questioning to break down problems:
 
 - ask pupils to repeat back to me what they have understood
 - ask them to show me in their work what they have tried so far
 - chunk my explanations and ask simple multiple-choice or true/false questions as I go
-- use ‘hands up’ to find a student who is confident they have understood, then they can explain it to another
-- use ‘think, pair, share’ and lots of thinking time to allow pairs to work through a problem, then check it with the whole class
+- use 'hands up' to find a student who is confident they have understood, then they can explain it to another
+- use 'think, pair, share' and lots of thinking time to allow pairs to work through a problem, then check it with the whole class
 
 Verbal, graphical and concrete representations:
 
 - highlight abstract concepts in my curriculum plan
 - discuss with colleagues the ways they have found to explain these to pupils
-- use characters from favourite stories to ‘act out’ the concepts
+- use characters from favourite stories to 'act out' the concepts
 - have graphical examples (e.g. a number line) on permanent display
 
 ---
@@ -110,10 +110,10 @@ Now, with your mentee, refine their lesson plan or write a fresh one. Bear in mi
 
 Next Steps 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session(s) into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these action(s) are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these action(s)
+2. what success will 'look like' in relation to these action(s)
 3. how they will evaluate their success in taking these action(s)
 
-Note the date of your next mentor meeting, when you will check on your mentee’s progress.
+Note the date of your next mentor meeting, when you will check on your mentee's progress.

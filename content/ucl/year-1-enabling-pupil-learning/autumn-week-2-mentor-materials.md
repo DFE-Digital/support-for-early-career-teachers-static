@@ -61,12 +61,12 @@ Plan: 5 mins
 
 In their self-directed study session this week, your mentee drafted a script for an entry routine into their classroom. The instructions for this activity are repeated below. Ask your mentee to briefly explain to you their routine, including what will happen and why.
 
-Scripting – use the ideas in the research and practice summary in this week’s ECT materials, and your notes from this session so far, to script your own routine for how pupils will enter your classroom. If relevant to your setting, you may want to consider the role of parents and carers as part of this, too.
+Scripting – use the ideas in the research and practice summary in this week's ECT materials, and your notes from this session so far, to script your own routine for how pupils will enter your classroom. If relevant to your setting, you may want to consider the role of parents and carers as part of this, too.
 
-Your script should address the ‘clarify’ and ‘model’ stages of the process described in this week’s research and practice summary. Include in this script:
+Your script should address the 'clarify' and 'model' stages of the process described in this week's research and practice summary. Include in this script:
 
-- your expectations about how pupils will enter the room: will they line up? Where? Who decides when pupils enter? What will happen if pupils aren’t following expectations?
-- instructions you will give pupils about what to do on entry: how will they deal with bags and coats? Will they sit down immediately? What are your expectations about how quickly they settle? What should pupils ‘do’ once they are settled?
+- your expectations about how pupils will enter the room: will they line up? Where? Who decides when pupils enter? What will happen if pupils aren't following expectations?
+- instructions you will give pupils about what to do on entry: how will they deal with bags and coats? Will they sit down immediately? What are your expectations about how quickly they settle? What should pupils 'do' once they are settled?
 - how you will model your expectations to your pupils
 - notes for yourself on how you will create opportunities for pupils to practise your new routine
 - notes for yourself on how you will communicate your expectations verbally and non-verbally: what language could you use to greet different pupils? How will you use tone, volume and pitch? How will you use facial expressions and gestures to help reinforce your expectations?
@@ -76,22 +76,22 @@ Be as specific as you can in the detail you give. The purpose of this activity i
 Theory to Practice: 35 mins
 
 1. Discussion with mentor
-   Discuss with your mentee any routines that are mandated by your school’s behaviour policy and teaching and learning policy. Make reference to the relevant policies as appropriate and check that your mentee is clear about what is expected of them. This could include:
+   Discuss with your mentee any routines that are mandated by your school's behaviour policy and teaching and learning policy. Make reference to the relevant policies as appropriate and check that your mentee is clear about what is expected of them. This could include:
    - routines for moving around the school building
    - routines for managing behaviour
    - routines for organising teaching and learning (e.g. required components of lessons)
 2. Analyse artefacts/scripting
-   Work with your mentee to review and refine their scripted entry routine for their classroom, drafted during this week’s self-directed study session.
+   Work with your mentee to review and refine their scripted entry routine for their classroom, drafted during this week's self-directed study session.
    To support this process you could:
-   - cross-reference the script to this week’s research and practice summary, checking to see how the script does/could draw on ideas drawn from best practice
-   - cross-reference the script to your school’s policies and embedded routines
-   - consider the characteristics of your mentee’s pupils and how these influence your mentee’s expectations
+   - cross-reference the script to this week's research and practice summary, checking to see how the script does/could draw on ideas drawn from best practice
+   - cross-reference the script to your school's policies and embedded routines
+   - consider the characteristics of your mentee's pupils and how these influence your mentee's expectations
    - discuss how the routine might be altered to account for differences in pupil characteristics or contexts (e.g. how routines might be different for pupils in different key stages, or in different learning spaces)
    - ensure that the script is sufficiently detailed that it sets out clearly what is expected of pupils and how your mentee will clarify, model and embed these expectations
 3. Rehearsal
-   Having refined your mentee’s script/routine, work with them to rehearse the script in action. To support this process you could:
-   - play the part of a pupil entering your mentee’s classroom
-   - give feedback on how closely your mentee’s enactment of their routine reflects their script
+   Having refined your mentee's script/routine, work with them to rehearse the script in action. To support this process you could:
+   - play the part of a pupil entering your mentee's classroom
+   - give feedback on how closely your mentee's enactment of their routine reflects their script
    - give feedback on how to improve enactment of the routine
    - ask your mentee to repeat the routine until they are able to enact it confidently and accurately
 4. If you have time you may wish to repeat the processes of scripting and rehearsal with another routine relevant to your mentee. This should be selected according to the phase and specialism of your mentee and their personal learning needs.
@@ -100,10 +100,10 @@ Theory to Practice: 35 mins
 
 Next Steps: 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session(s) into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these action(s) are expected to contribute to improved pupil learning
-2. what success will ‘look like’ in relation to these actions(s)
+2. what success will 'look like' in relation to these actions(s)
 3. how they will evaluate their success in taking these action(s)
 
-Note the date of your next mentor meeting, when you will check on your mentee’s progress.
+Note the date of your next mentor meeting, when you will check on your mentee's progress.

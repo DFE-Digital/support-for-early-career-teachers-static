@@ -28,13 +28,13 @@ A variety of strategies can be used to direct pupil attention. These include:
 
 - Modelling: Showing pupils exactly what paying attention looks like.
 - Reinforcing: Acknowledging or praising pupils who are demonstrating good levels of focus, being specific about what they are doing to earn this recognition.
-- Positively framing: Saying what you want to see from pupils rather than what you don’t want to see.
+- Positively framing: Saying what you want to see from pupils rather than what you don't want to see.
 
 One useful distinction here is to appreciate the difference between praise and acknowledgement. Praise entails rewarding a behaviour that exceeds expectations, whereas acknowledgement entails showing that you have noticed a behaviour that meets expectations. Over-praising pupils who are merely following standard rules can inadvertently convey low expectations and hamper learning (Coe et al., 2014).
 
-Pupil capacity to self-regulate their emotions and behaviour influences how well they can direct their attention towards specific tasks. No-one is able to completely self-regulate their attention at all times, and this ability varies between individuals. But self-regulation can be developed, improving pupils’ abilities to learn effectively (EEF, 2017). In addition, our behaviour is influenced by that of our peers. The more pupils that are paying attention, the more others will be encouraged to do so (IES, 2008). Effective teachers take account of these factors to help their pupils focus by using, for example:
+Pupil capacity to self-regulate their emotions and behaviour influences how well they can direct their attention towards specific tasks. No-one is able to completely self-regulate their attention at all times, and this ability varies between individuals. But self-regulation can be developed, improving pupils' abilities to learn effectively (EEF, 2017). In addition, our behaviour is influenced by that of our peers. The more pupils that are paying attention, the more others will be encouraged to do so (IES, 2008). Effective teachers take account of these factors to help their pupils focus by using, for example:
 
-- Brief reminders: Issuing a quick reminder of what is expected, using consistent language and non-verbal signals. “We’re just waiting for one more person to face the front in silence, thank you.”
+- Brief reminders: Issuing a quick reminder of what is expected, using consistent language and non-verbal signals. “We're just waiting for one more person to face the front in silence, thank you.”
 - Private reminders: Having subtle conversations with individuals when it is only a few who need support to stay focused. “Hi Jenny, let me know if there is anything you need to help you get started.”
 - Benefit of the doubt: Communicating a belief that off-task behaviour is a result of enthusiasm for learning rather than purposeful disruption. “I know you are really keen to discuss this task with your partner but, to do a good job of it, first you need to put your pens down and face me.”
 
@@ -42,8 +42,8 @@ Pupil capacity to self-regulate their emotions and behaviour influences how well
 
 Pupils tend to have a more positive classroom experience when they feel that their teacher is effective at managing the attention and behaviour of the class. This is important because pupils who have positive classroom experiences are more likely to feel wider life satisfaction and get better results. Pupils see effective teachers as those who (Rathmann et al., 2018):
 
-- Are aware of everything in class, instantly noticing when pupils aren’t paying attention.
-- Manage to quickly re-involve pupils if they don’t pay attention for a moment.
+- Are aware of everything in class, instantly noticing when pupils aren't paying attention.
+- Manage to quickly re-involve pupils if they don't pay attention for a moment.
 - Have the class under control.
 
 Therefore, as well as directing pupil attention, effective teachers might choose to be highly visible in how they do it. Being seen to actively monitor the room, direct attention and control the lesson can help pupils to feel that they are in a safe environment and pay even more attention.
@@ -84,7 +84,7 @@ Gutman, L. &amp; Schoon, L. (2013). The impact of non-cognitive skills on the ou
 
 IES (2008). Reducing Behavior Problems in the Elementary School Classroom. <a href="http://bit.ly/ecf-ies" target="_blank" rel="noopener">bit.ly/ecf-ies</a>
 
-Rathmann, K., Herke, M., Hurrelmann, K. &amp; Richter, M. (2018). Perceived class climate and school-aged children’s life satisfaction: The role of the learning environment in classrooms. PLOS ONE<a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener"> bit.ly/ecf-rat</a>
+Rathmann, K., Herke, M., Hurrelmann, K. &amp; Richter, M. (2018). Perceived class climate and school-aged children's life satisfaction: The role of the learning environment in classrooms. PLOS ONE<a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener"> bit.ly/ecf-rat</a>
 
 Sweller, J., van Merrienboer, J. J. G., &amp; Paas, F. G. (1998). Cognitive Architecture and Instructional Design. _Educational Psychology Review, 10_(3), 251–296.
 

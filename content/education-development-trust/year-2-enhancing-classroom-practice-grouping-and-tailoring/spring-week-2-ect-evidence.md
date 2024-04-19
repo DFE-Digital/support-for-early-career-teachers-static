@@ -6,20 +6,20 @@ previous_path: "/education-development-trust/year-2-enhancing-classroom-practice
 
 ## Paired and group activities can increase pupil success, but to work effectively pupils need guidance, support and practice
 
-We’ve all sat through training sessions where we are asked to work with a group of people, sometimes strangers, and answer a question on a sheet of flip chart paper. We can remember the awkwardness as we politely, but silently, negotiate who speaks first. There is the sense of danger as you weigh up whether being the person who records the ideas means you are excused from being the person who has to stand up and feed back, or if the fact that no-one can read your handwriting means that you will \_have \_to do it. We also remember the sense of frustration that one person is dominating the discussion, and that what they’re saying seems to be completely missing the point of the task. Bad group work is truly awful.
+We've all sat through training sessions where we are asked to work with a group of people, sometimes strangers, and answer a question on a sheet of flip chart paper. We can remember the awkwardness as we politely, but silently, negotiate who speaks first. There is the sense of danger as you weigh up whether being the person who records the ideas means you are excused from being the person who has to stand up and feed back, or if the fact that no-one can read your handwriting means that you will \_have \_to do it. We also remember the sense of frustration that one person is dominating the discussion, and that what they're saying seems to be completely missing the point of the task. Bad group work is truly awful.
 
-As a classroom teacher, you will probably have considerable control over the way you ask pupils to complete tasks. You will have learned a lot already about the practicalities of managing pupils in the classroom. When you first started teaching last year, you may have had grand plans for complex group activities only to find that managing behaviour and the ‘classroom traffic’ that this can create was a challenge. As a new teacher, this can take up a lot of your planning time and attention in class. You might have recognised that for many tasks, pupils can work effectively when working individually and as a result have minimised group work activities. This Block will give you the chance to think in detail about how to balance the benefits to pupils’ learning with classroom management and efficiency.
+As a classroom teacher, you will probably have considerable control over the way you ask pupils to complete tasks. You will have learned a lot already about the practicalities of managing pupils in the classroom. When you first started teaching last year, you may have had grand plans for complex group activities only to find that managing behaviour and the 'classroom traffic' that this can create was a challenge. As a new teacher, this can take up a lot of your planning time and attention in class. You might have recognised that for many tasks, pupils can work effectively when working individually and as a result have minimised group work activities. This Block will give you the chance to think in detail about how to balance the benefits to pupils' learning with classroom management and efficiency.
 
 The evidence shows that planning opportunities for pupils to work, and in particular to practise, in both pairs and groups can increase their success:
 
-- Group work fosters cooperation between pupils and thereby develops pupils’ social skills.
+- Group work fosters cooperation between pupils and thereby develops pupils' social skills.
 - It supports pupils to develop empathetic abilities and see things from multiple viewpoints.
 - Pupils learn to compromise.
 - Pupils can provide each other with scaffolding.
 - The total sum knowledge of a group is higher than that housed within one individual; this may allow the teacher to set work that is more challenging.
 - Pupils have the opportunity to restructure their own thinking by talking to others (Muijs & Reynolds, 2017).
 
-However, pupils will not automatically be good at this kind of activity and need to be taught how to do it well. You will also need to think carefully in your planning about the purpose of paired or group work in relation to pupils’ learning and the wider benefits to them: doing group work simply for its own sake may not be the best use of classroom time.
+However, pupils will not automatically be good at this kind of activity and need to be taught how to do it well. You will also need to think carefully in your planning about the purpose of paired or group work in relation to pupils' learning and the wider benefits to them: doing group work simply for its own sake may not be the best use of classroom time.
 
 Your role as teacher is to:
 
@@ -30,7 +30,7 @@ Your role as teacher is to:
 A number of elements can support group work to be effective. These include:
 
 - Familiarity with routines
-- Pupils’ prior knowledge in relation to the task
+- Pupils' prior knowledge in relation to the task
 - How pupils are grouped
 - Group goals, in which the group works together towards a shared goal, reward or recognition
 - Individual accountability, in which the success of the group depends on the individual learning of each group member
@@ -45,7 +45,7 @@ Informal group learning:
   task should be performed in a group
 - pupils are given a task to carry out as a group but the teacher does not
   provide specific roles or guidance to the group beyond that they need to
-  work together to complete the task: "You’re going to work together to
+  work together to complete the task: "You're going to work together to
   complete the experiment, off you go"
 - each pupil tends to carry out a separate activity which contributes to the
   completion of the task, but this depends on how functional each group is
@@ -70,8 +70,8 @@ Structured team learning
 - the teacher monitors and provides feedback and guidance on the quality of
   both group work and task progress
 - pupils will also be assessed as individuals so that they take
-  accountability for their role within the team: "Now we’ll have a quick
-  test and see what you have each learned. We’ll mark your tests
+  accountability for their role within the team: "Now we'll have a quick
+  test and see what you have each learned. We'll mark your tests
   individually and then combine your scores to see which team has improved
   the most since last time"
 
@@ -105,11 +105,11 @@ There are many different ways in which pupils can be grouped, for example:
 - Mixed ability trios
 - Larger groups of four or more either of similar or mixed attainment
 
-It is important that you carefully consider how you are going to group pupils for the task you want them to complete. You will need to think about what each person within the group is going to do and why working in that way is likely to yield a benefit. For example, you might be teaching an English lesson which is exploring different characters’ viewpoints. Grouping pupils for this task where they take on the viewpoint of a different character can help to bring the story alive. You might want pupils to complete a difficult piece of work – using mixed attainment groupings in this instance can help to support pupils of lower attainment. However, it is important to be mindful that the higher-attainment pupil doesn’t simply ‘take over’. It seems obvious, but you will also need to think carefully about the likely social dynamics of certain groupings: some pairs will demonstrate excellent social skills without much learning taking place!
+It is important that you carefully consider how you are going to group pupils for the task you want them to complete. You will need to think about what each person within the group is going to do and why working in that way is likely to yield a benefit. For example, you might be teaching an English lesson which is exploring different characters' viewpoints. Grouping pupils for this task where they take on the viewpoint of a different character can help to bring the story alive. You might want pupils to complete a difficult piece of work – using mixed attainment groupings in this instance can help to support pupils of lower attainment. However, it is important to be mindful that the higher-attainment pupil doesn't simply 'take over'. It seems obvious, but you will also need to think carefully about the likely social dynamics of certain groupings: some pairs will demonstrate excellent social skills without much learning taking place!
 
-You may get ‘free-riders’ within groups (Muijs & Reynolds, 2017). That is, pupils who are able to hide within a group situation and avoid completing work. Johnson & Johnson (1994) suggest that one way to mitigate against this is to assign pupils with clear roles. Using the same roles consistently in different group tasks will help pupils to become familiar with the routines of group work. Knowing what the different roles are, how each role contributes to the group task and practically what to do in each role is important pre-knowledge for pupils to be able to perform the roles and therefore the group work successfully. In different activities, these might include:
+You may get 'free-riders' within groups (Muijs & Reynolds, 2017). That is, pupils who are able to hide within a group situation and avoid completing work. Johnson & Johnson (1994) suggest that one way to mitigate against this is to assign pupils with clear roles. Using the same roles consistently in different group tasks will help pupils to become familiar with the routines of group work. Knowing what the different roles are, how each role contributes to the group task and practically what to do in each role is important pre-knowledge for pupils to be able to perform the roles and therefore the group work successfully. In different activities, these might include:
 
-- The summarizer, who will prepare the group’s presentation to the class and summarize conclusions reached to see if the rest of the group agrees.
+- The summarizer, who will prepare the group's presentation to the class and summarize conclusions reached to see if the rest of the group agrees.
 - The researcher, who collects background information and looks up any additional information that is needed to complete the task.
 - The checker, who checks that the facts the group will use are indeed correct and will stand up to scrutiny from the teacher or other groups.
 - The runner, who tries to find the resources needed to complete the task, such as equipment and dictionaries.
@@ -143,7 +143,7 @@ A teacher explains how she would like the groups to be set up for an activity.
 Video script.
 
 
-  Teacher: As you know, this term our topic is ‘The Restless Earth’ and you have
+  Teacher: As you know, this term our topic is 'The Restless Earth' and you have
   been learning about the causes and impacts of volcanic eruptions. In the last
   lesson, we learned about how volcanic eruptions can be predicted. Today we are
   going to be learning about what happened during the Montserrat earthquake. You
@@ -164,7 +164,7 @@ Video script.
   crucial decisions required to manage the situation.
 
 
-Right, so let’s discuss roles.
+Right, so let's discuss roles.
 
 
   I am His Excellency, Frank Savage the Governor of the island. 
@@ -223,17 +223,17 @@ Each group needs the following resources:
 
 # Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low-attaining pupils
 
-Different schools take different approaches when it comes to how pupils are grouped at the school level. For example, in some schools, pupils are grouped by attainment for classes in ‘core’ subjects such as maths, English and science and in mixed-ability groups for ‘non-core’ subjects (setting) or in all subjects (streaming). In other schools, there is no ability grouping at all. Primary schools may take a similar variety of approaches, grouping pupils by ability for some, all or none of the subjects and lessons throughout the week.
+Different schools take different approaches when it comes to how pupils are grouped at the school level. For example, in some schools, pupils are grouped by attainment for classes in 'core' subjects such as maths, English and science and in mixed-ability groups for 'non-core' subjects (setting) or in all subjects (streaming). In other schools, there is no ability grouping at all. Primary schools may take a similar variety of approaches, grouping pupils by ability for some, all or none of the subjects and lessons throughout the week.
 
-This is a hot topic: ‘ability grouping has been one of the most controversial educational practices for more than a century’ (Steenbergen et al., 2016). As a classroom teacher, you may not have full control over the decisions your school makes with respect to this. However, you do have a lot of control over how you group pupils within your classes.
+This is a hot topic: 'ability grouping has been one of the most controversial educational practices for more than a century' (Steenbergen et al., 2016). As a classroom teacher, you may not have full control over the decisions your school makes with respect to this. However, you do have a lot of control over how you group pupils within your classes.
 
-Different forms of grouping seem to create different opportunities for effectively adapting teaching to students’ needs (Deunk et al., 2018). The evidence suggests that grouping pupils flexibly within classes is effective as it enables you to provide tailored support. This might be done in a couple of main ways:
+Different forms of grouping seem to create different opportunities for effectively adapting teaching to students' needs (Deunk et al., 2018). The evidence suggests that grouping pupils flexibly within classes is effective as it enables you to provide tailored support. This might be done in a couple of main ways:
 
 - Homogenous or within-class attainment groupings
 
 This means pupils of very similar prior attainment level working together for specific activities or topics such as literacy. This might involve pupils of similar levels of current attainment being grouped together on specific tables for example, but all pupils being taught by their usual teacher and support staff and following the same curriculum (EEF, 2018).
 
-The aim of this type of grouping is to match tasks, activities and support to pupils’ current capabilities, so that all pupils have an appropriate level of challenge while maintaining high expectations and access to a rich curriculum. This might enable you to spend more time with lower attainment pupils, using in-lesson intervention as an effective and efficient way to support them. The evidence on within-class attainment grouping indicates that it is likely to be beneficial for all learners, providing an average benefit of three months’ additional progress. However, there appears to be less benefit for lower-attaining pupils than for others. In England, within-class attainment grouping tends to be more common in primary than in secondary schools (EEF, 2018).
+The aim of this type of grouping is to match tasks, activities and support to pupils' current capabilities, so that all pupils have an appropriate level of challenge while maintaining high expectations and access to a rich curriculum. This might enable you to spend more time with lower attainment pupils, using in-lesson intervention as an effective and efficient way to support them. The evidence on within-class attainment grouping indicates that it is likely to be beneficial for all learners, providing an average benefit of three months' additional progress. However, there appears to be less benefit for lower-attaining pupils than for others. In England, within-class attainment grouping tends to be more common in primary than in secondary schools (EEF, 2018).
 
 - Heterogeneous or mixed attainment groupings
 
@@ -268,7 +268,7 @@ Different schools will have different approaches to homework. The most important
 - Independent learning
 - Time organisation
 
-Most schools will have a policy in relation to homework in terms of when and how much should be set. As a classroom teacher, you will not have control over this. However, it is likely that you have considerable control over the _type_ of homework set. It is difficult to isolate the effects of homework from other factors that might contribute to pupils’ achievement. The benefits of homework are largely dependent on its _quality_ and the extent to which it relates to what pupils need to learn within the class. For example, if pupils are set an entirely discrete homework project for a term that does not relate to what they are learning in lessons, it is likely that there will be fewer gains in progress.
+Most schools will have a policy in relation to homework in terms of when and how much should be set. As a classroom teacher, you will not have control over this. However, it is likely that you have considerable control over the _type_ of homework set. It is difficult to isolate the effects of homework from other factors that might contribute to pupils' achievement. The benefits of homework are largely dependent on its _quality_ and the extent to which it relates to what pupils need to learn within the class. For example, if pupils are set an entirely discrete homework project for a term that does not relate to what they are learning in lessons, it is likely that there will be fewer gains in progress.
 
 Muijs & Reynolds (2017) exemplify this approach by suggesting several principles to follow, including:
 
@@ -276,7 +276,7 @@ Muijs & Reynolds (2017) exemplify this approach by suggesting several principles
 - Reinforces major curriculum ideas – homework should be challenging but pupils should be able to complete it successfully.
 - Use a homework planner.
 
-Homework is an ideal opportunity to apply what you learnt in Block 8 about effective study habits and increasing the chances of leaning ‘sticking’. Homework should complement your in-class work and your overall goals for what pupils will learn. Some ways you can do this include:
+Homework is an ideal opportunity to apply what you learnt in Block 8 about effective study habits and increasing the chances of leaning 'sticking'. Homework should complement your in-class work and your overall goals for what pupils will learn. Some ways you can do this include:
 
 - Use homework tasks as an opportunity to balance repetition, practice and retrieval of critical knowledge and skills (e.g. include a section on previously learnt material in homework tasks).
 - Plan regular review and practice of key ideas and concepts over time – when you plan a topic or scheme of work, also plan when pupils will revisit it through homework at later points in the year.

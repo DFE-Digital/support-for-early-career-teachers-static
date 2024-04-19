@@ -14,8 +14,8 @@ next_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-5-ect-research-and-p
 
 You will learn that:
 
-- The ability to self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives.
-- Teachers can influence pupils’ resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience meaningful success.
+- The ability to self-regulate one's emotions affects pupils' ability to learn, success in school and future lives.
+- Teachers can influence pupils' resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience meaningful success.
 - Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward).
 
 You will learn how to:
@@ -28,4 +28,4 @@ Motivate pupils, by:
 
 ## Introduction
 
-You have already learnt how teachers can have a dramatic effect on pupils’ success at school and their later life chances, particularly for the most disadvantaged pupils. This week you will see how teachers can influence wider outcomes, which are important both in their own right and because they are associated with long-term success in education. This includes self-regulation, motivation and resilience.
+You have already learnt how teachers can have a dramatic effect on pupils' success at school and their later life chances, particularly for the most disadvantaged pupils. This week you will see how teachers can influence wider outcomes, which are important both in their own right and because they are associated with long-term success in education. This includes self-regulation, motivation and resilience.

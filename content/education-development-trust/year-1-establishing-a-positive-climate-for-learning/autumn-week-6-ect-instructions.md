@@ -12,6 +12,6 @@ next_path: "/education-development-trust/year-1-establishing-a-positive-climate-
 ## Learn how to develop a positive, predictable and safe environment for pupils, by:
 
 - Giving manageable, specific and sequential instructions.
-- Checking pupils’ understanding of instructions before a task begins.
+- Checking pupils' understanding of instructions before a task begins.
 - Using consistent language and non-verbal signals for common classroom directions.
 - Using early and least-intrusive interventions as an initial response to low level disruption.

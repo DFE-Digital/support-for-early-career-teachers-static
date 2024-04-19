@@ -38,14 +38,14 @@ As you start planning, ask yourself:
 
 Novices benefit from explicit instruction. You could:
 
-- Use direct instruction to teach basic knowledge and concepts rather than ‘discovery learning’ or ‘problem solving approaches’.
-- Use modelling and worked examples, including ‘thinking out loud’ (explaining your reasoning/thinking behind what you are doing).
+- Use direct instruction to teach basic knowledge and concepts rather than 'discovery learning' or 'problem solving approaches'.
+- Use modelling and worked examples, including 'thinking out loud' (explaining your reasoning/thinking behind what you are doing).
 - Break up lengthier tasks into smaller steps, making them more achievable.
 
 For example:
 
-- ‘Today we are going to be learning about the Cold War. I am going to start by giving you some key facts.’
-- ‘So I can now see that before I can work out the value of X, I am going to have to go back to the beginning of my equation.’
+- 'Today we are going to be learning about the Cold War. I am going to start by giving you some key facts.'
+- 'So I can now see that before I can work out the value of X, I am going to have to go back to the beginning of my equation.'
 
 #### Using resources
 
@@ -57,9 +57,9 @@ We need to consider the resources we use within lessons and how these can contri
 
 For example:
 
-- ‘In front of you, you can see the spinning top. We are going to use this to explore angular momentum and gyroscopic motion.’
-- ‘Today you are going to write your description of the haunted house. You have a word bank and sentence starters to help you.’
-- ‘I am going to write three key words on your mini-whiteboard, George. I want you to cross off each one as you use it in your paragraph.’
+- 'In front of you, you can see the spinning top. We are going to use this to explore angular momentum and gyroscopic motion.'
+- 'Today you are going to write your description of the haunted house. You have a word bank and sentence starters to help you.'
+- 'I am going to write three key words on your mini-whiteboard, George. I want you to cross off each one as you use it in your paragraph.'
 
 #### Managing cognitive load
 
@@ -73,10 +73,10 @@ When our pupils try to make sense of new information, we can reduce the chances 
 
 For example
 
-- ‘We are going to begin by planning our stories using the building blocks shown on your worksheet.’
-- ‘Firstly, I need you to open your books to page 20. We are going to read the next chapter thinking about how the author presents the character Mr Birling.’
-- ‘Similes use the words like or as. Similes are about comparison and focus on similarities. We can describe something unfamiliar by comparing it to something familiar.’
-- ‘We are all going to begin by writing our opening sentence using an adjective and an adverb.’
+- 'We are going to begin by planning our stories using the building blocks shown on your worksheet.'
+- 'Firstly, I need you to open your books to page 20. We are going to read the next chapter thinking about how the author presents the character Mr Birling.'
+- 'Similes use the words like or as. Similes are about comparison and focus on similarities. We can describe something unfamiliar by comparing it to something familiar.'
+- 'We are all going to begin by writing our opening sentence using an adjective and an adverb.'
 
 In your notepad, reflect on your practice…
 

@@ -10,5 +10,5 @@ It is important to check for understanding throughout your lesson and monitor fo
 
 This session will focus on:
 
-- Monitoring pupils’ independent practice for the development of misconceptions
+- Monitoring pupils' independent practice for the development of misconceptions
 - Deciding when is best to give feedback, and what form that will take

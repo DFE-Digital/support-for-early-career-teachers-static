@@ -23,5 +23,5 @@ next_path: "/education-development-trust/year-1-a-people-profession/summer-week-
 
 ### Learn how to build trusting relationships, by:
 
-- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
+- Liaising with parents, carers and colleagues to better understand pupils' individual circumstances and how they can be supported to meet high academic and behavioural expectations.
 - Responding consistently to pupil behaviour.

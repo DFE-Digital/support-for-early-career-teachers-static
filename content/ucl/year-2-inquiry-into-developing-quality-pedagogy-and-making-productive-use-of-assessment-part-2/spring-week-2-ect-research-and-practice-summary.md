@@ -14,11 +14,11 @@ You can read back to Weeks 3 or 5, if you want to remind yourself of the issue t
 
 We pick them up here from the point where they have framed their evaluative inquiry question. We see the methods they decide to use to collect evidence; we see how some of them choose to make a further adjustment to their practice after starting their inquiries; and we begin to see evidence of impact on them and their pupils as this begins to emerge.
 
-When reading these case studies, you will need to take account of your own pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
+When reading these case studies, you will need to take account of your own pupils' characteristics, the context of your classroom and the nature of the material that you are teaching.
 
 ### Case study A: Grouping pupils effectively
 
-#### Andy’s approach to grouping pupils effectively in Year 1
+#### Andy's approach to grouping pupils effectively in Year 1
 
 To evaluate the impact of his pupil grouping intervention, Andy wrote the
 following evaluative question:
@@ -43,7 +43,7 @@ of working. He made time to listen to any of their concerns at the beginning of 
 and found that after a few days, the complaints dried up as the children adapted
 to this new way of working.
 
-The following half-term as he monitored the impact of the group activities, Andy decided to make a further adjustment, whereby pupils were required to work in near attainment groups for all literacy and numeracy lessons: this would help him to target his and his TA’s support for particular groups of pupils. The pupils would then return to their mixed attainment group tables when studying other topics.
+The following half-term as he monitored the impact of the group activities, Andy decided to make a further adjustment, whereby pupils were required to work in near attainment groups for all literacy and numeracy lessons: this would help him to target his and his TA's support for particular groups of pupils. The pupils would then return to their mixed attainment group tables when studying other topics.
 
 He reminded himself of some of the other reading he had done of research and practice summaries in year 1, this time relating to setting high expectations (Standard 1) and managing behaviour effectively (Standard 7).
 
@@ -56,7 +56,7 @@ The ECF statements, across several standards, helped Andy to make sense of what 
 From the evidence he has collected so far, Andy understands that:
 
 - teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential
-- by repeatedly making his intentions clear, he has been able to ‘bring the children with him’ on this journey to helping them to work productively with any of their peers
+- by repeatedly making his intentions clear, he has been able to 'bring the children with him' on this journey to helping them to work productively with any of their peers
 - paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
 - by using the same method in every literacy lesson for a term, and extending this to numeracy lessons after one half-term, and switching between mixed and near attainment groupings, he has given the children many opportunities to practise working with others, and therefore to get better at doing so over time
 
@@ -81,21 +81,21 @@ And he has:
 
 ### Case study B: Modelling and scaffolding
 
-#### Vashti’s use of modelling and scaffolds to support writing in Year 4
+#### Vashti's use of modelling and scaffolds to support writing in Year 4
 
 To ensure she was developing her practice effectively, Vashti devised this
 evaluative inquiry question:
 
-- how can I use ‘speaking sentences’ well, over the space of two terms, to
+- how can I use 'speaking sentences' well, over the space of two terms, to
   reduce the prevalence of basic errors in written literacy among pupils with a
   Speech, Language and Communication Need (SpLCN) in Year 4?
 
 Vashti considered the following evidence she already had to hand:
 
 - data from her marking of writing assessments from the target class
-- data from her colleagues’ marking of writing assessments from her control group, the two other year 4 classes (they record such data centrally in her school)
+- data from her colleagues' marking of writing assessments from her control group, the two other year 4 classes (they record such data centrally in her school)
 - personal reflections and observations generated through dialogue in her mentor meetings, and recorded in her Learning Log
-  Additionally, she held a short 5-minute ‘focus group’ with the 4 target pupils
+  Additionally, she held a short 5-minute 'focus group' with the 4 target pupils
   at the start and end of the intervention.
 
 #### Further adjustments
@@ -108,12 +108,12 @@ As a result of this mid-cycle analysis, she realised she
 could use her scaffold to more deliberately plan for her pupils to be exposed to
 high-utility, high-frequency vocabulary. She decided to add a table of
 high-frequency words to the laminated scaffold sheet, with the correct spelling
-in the ‘tick’ column, and common mis-spellings in the ‘cross’ column.
+in the 'tick' column, and common mis-spellings in the 'cross' column.
 
 Because
 she was encouraged by her early observations and reflections, she also expanded
-the use of ‘speaking sentences’ to all pupils in her class, with three levels of
-scaffold sheets adapted for her pupils’ prior attainment, monitor their use and
+the use of 'speaking sentences' to all pupils in her class, with three levels of
+scaffold sheets adapted for her pupils' prior attainment, monitor their use and
 withdraw them as her pupils became more successful.
 
 ### Evidence of impact so far
@@ -133,11 +133,11 @@ Reflecting on her findings, Vashti drew the following interim conclusion for her
 Classroom talk, combined with scaffolding resources, can be a powerful
 driver for improving written literacy among pupils with SpLCN in Year 4. (4a, 4p)
 
-She realised that she should continue with this approach to supporting her pupils’ writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
+She realised that she should continue with this approach to supporting her pupils' writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
 
 ### Case study C: Making marking manageable
 
-#### Louise’s new approach to marking in Secondary History
+#### Louise's new approach to marking in Secondary History
 
 To ensure she was developing her practice effectively, Louise devised this
 evaluative inquiry question:
@@ -146,7 +146,7 @@ evaluative inquiry question:
   pupils are able to correct misconceptions and make progress, and I am able to
   reduce the amount of time I spend marking?
 
-To evaluate the impact of her ‘minimal marking’ intervention, Louise decided to
+To evaluate the impact of her 'minimal marking' intervention, Louise decided to
 collect the following naturally occurring data:
 
 - pupil voice – using a hands-up survey in class – with the experimental class (before and after the half-term), to capture how well they felt they had been guided to improve their work
@@ -156,13 +156,13 @@ collect the following naturally occurring data:
 
 #### Further adjustments
 
-After using her new method once, Louise noticed that some of her pupils didn’t seem
+After using her new method once, Louise noticed that some of her pupils didn't seem
 to understand how they were supposed to respond to the coded feedback. She also realised
 that she was not always allowing them enough time in lesson to respond to her feedback.
 
 In the next lesson, she used a visualiser to model how she expected pupils to respond to each of the codes, and gave her pupils a second chance to respond to her feedback.
 
-In addition to the slide, where she had explained the most common codes, she added a ‘Time to Respond’ box – as a reminder both to herself and her pupils.
+In addition to the slide, where she had explained the most common codes, she added a 'Time to Respond' box – as a reminder both to herself and her pupils.
 
 ### Evidence of impact so far
 
@@ -187,7 +187,7 @@ Having reviewed her practice in this way, she will use this insight to now apply
 
 ### Case Study D: Questioning
 
-#### Mo’s use of direction and elaboration to improve questioning in GCSE PE
+#### Mo's use of direction and elaboration to improve questioning in GCSE PE
 
 To ensure he was developing his practice effectively, Mo devised this evaluative
 inquiry question:
@@ -198,7 +198,7 @@ inquiry question:
 
 To help him answer this question, Mo decided to collect the following data:
 
-- arrange a follow-up lesson observation with the assistant head for teaching and learning, using the school’s in-class video technology
+- arrange a follow-up lesson observation with the assistant head for teaching and learning, using the school's in-class video technology
 - interview a sample of pupils, including Pupil Premium girls, in a focus group lasting 5 minutes after final period on a Wednesday
 - book scrutiny, sampling 6 of the target pupils, compared with a sample of 6 high attaining pupils. Mo marks these books every other week, so this data is near to hand
 
@@ -210,7 +210,7 @@ wrote key questions that he would target at particular pupils, to make sure that
 he was able to check understanding and fill gaps as they progress from one lesson
 to the next.
 
-Mo also started using his new approach to ‘responsive questioning’ with his other classes.
+Mo also started using his new approach to 'responsive questioning' with his other classes.
 
 ### Evidence of impact so far
 

@@ -40,11 +40,11 @@ Ask the ECT to identify the strategies that have worked well for them this year 
 
 Ask the ECT how effective they have found these approaches to managing their workload and wellbeing, and what they can do to develop them further so that they continue to manage their time more effectively. Looking ahead to next year, using their timetable if available, the mentor and ECT should identify where the busiest times are in the week, and where time is available for rest and recovery.
 
-Pose the question: How can you manage your time outside these slots to ensure your workload doesn’t become too arduous?
+Pose the question: How can you manage your time outside these slots to ensure your workload doesn't become too arduous?
 
 ### Managing workload and wellbeing: across the year (25 minutes)
 
-Using [Handout 6.4](/assets/materials/edt-Block-6-mentor-handout-6.4.pdf), plot on the chart the key activities that create extra workload intensity throughout the year. This will depend on phase and subject but might include, e.g. parents’ evenings, report writing, exams, school productions, practical assessment points, sports events, etc.
+Using [Handout 6.4](/assets/materials/edt-Block-6-mentor-handout-6.4.pdf), plot on the chart the key activities that create extra workload intensity throughout the year. This will depend on phase and subject but might include, e.g. parents' evenings, report writing, exams, school productions, practical assessment points, sports events, etc.
 
 Looking forward to next year, choose one or two of these activities and reflect on how the workload intensity might be reduced by planning ahead. For example:
 

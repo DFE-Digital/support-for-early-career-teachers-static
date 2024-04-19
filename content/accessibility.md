@@ -34,11 +34,11 @@ We are always looking to improve the accessibility of this service. If you find 
 
 ## Enforcement procedure
 
-The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’).
+The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the 'accessibility regulations').
 
 If you are not happy with how we respond to your complaint, [contact the Equality Advisory and Support Service (EASS)](https://www.equalityadvisoryservice.com/).
 
-### Technical information about this service’s accessibility
+### Technical information about this service's accessibility
 
 The Department for Education is committed to making this service accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No.2) Accessibility Regulations 2018.
 
@@ -64,9 +64,9 @@ Not applicable.
 
 Not applicable.
 
-### What we’re doing to improve accessibility
+### What we're doing to improve accessibility
 
-We have used the government’s fully accessible pattern library, which is optimised for common user tasks, to build this service. This pattern library is built with keyboard accessibility, colour contrast, structural elements and error best practice.
+We have used the government's fully accessible pattern library, which is optimised for common user tasks, to build this service. This pattern library is built with keyboard accessibility, colour contrast, structural elements and error best practice.
 
 Parts of the website are not accessible. Training content has been designed and written by third parties. This content is often interactive, designed to be printed and uses elements not compatible with the GOV.UK design system.
 
@@ -89,7 +89,7 @@ There were instances of images of text, missing alt text descriptions of images 
 We have been:
 
 * re-writing images of text as html
-* adding ‘alt text’ descriptions where images conveyed information so equivalent information is available
+* adding 'alt text' descriptions where images conveyed information so equivalent information is available
 * removing redundant images that added no value
 
 Incorrect use of images affects:
@@ -98,7 +98,7 @@ Incorrect use of images affects:
 * screen magnification users who might see text pixelated
 * users who adapt the visual presentation of text. For example, users with dyslexia who might use a different font and background colour will not get their optimal text styling
 
-### Inconsistent use of the heading ‘h’ tags
+### Inconsistent use of the heading 'h' tags
 
 We fixed multiple instances of incorrect use of heading tags.
 
@@ -144,7 +144,7 @@ The service was last tested on 25 August 2021 for compliance with WCAG 2.1 AA.
 
 Testing was carried out internally by the Department for Education.
 
-We tested the service based on a user’s ability to complete key journeys.
+We tested the service based on a user's ability to complete key journeys.
 
 All parts of the chosen journeys were tested.
 

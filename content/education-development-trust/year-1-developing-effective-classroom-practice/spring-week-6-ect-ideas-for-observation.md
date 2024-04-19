@@ -18,7 +18,7 @@ previous_path: "/education-development-trust/year-1-developing-effective-classro
 
 - Did the teacher use modelling?
 - What kind of modelling was used?
-- Did it aid pupils’ understanding?
+- Did it aid pupils' understanding?
 - How do you know?
 
 ## Observation focus: Understanding pupil differences
@@ -30,11 +30,11 @@ previous_path: "/education-development-trust/year-1-developing-effective-classro
 - Who do they speak to?
 - How do they overcome barriers?
 
-## Observation focus: Adapting ‘in the moment’
+## Observation focus: Adapting 'in the moment'
 
 ### Possible focus during the observation:
 
-- Did the teacher show that they were ‘adapting in the moment’ to pupils’ needs?
+- Did the teacher show that they were 'adapting in the moment' to pupils' needs?
 - How did the teacher know that he/she needed to adapt?
 - What did they do?
 - Did it have an impact on the pupils?

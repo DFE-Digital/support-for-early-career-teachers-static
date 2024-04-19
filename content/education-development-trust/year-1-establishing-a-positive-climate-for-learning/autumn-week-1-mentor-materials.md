@@ -18,7 +18,7 @@ Learn that:
 Learn how to develop a positive, predictable and safe environment for pupils, by:
 
 - Giving manageable, specific and sequential instructions
-- Checking pupils’ understanding of instructions before a task begins
+- Checking pupils' understanding of instructions before a task begins
 - Using consistent language and non-verbal signals for common classroom directions
 - Using early and least-intrusive interventions as an initial response to low level disruption
 
@@ -28,13 +28,13 @@ Learn how to develop a positive, predictable and safe environment for pupils, by
 
 Guidance to mentors:
 
-- The ECT should have read the ‘Understanding the evidence’ section of the self-directed study materials ahead of the topic.
+- The ECT should have read the 'Understanding the evidence' section of the self-directed study materials ahead of the topic.
 - The mentor should also read them to familiarise themselves with the content.
 - When discussing the importance of building an effective climate for learning, the ECT might present the following misconceptions that new teachers can hold about the professional relationship they have with pupils:
-  - As a teacher I should strive to be liked by all pupils or be the pupils’ friend
-  - If I am ‘strict’ I cannot be caring
+  - As a teacher I should strive to be liked by all pupils or be the pupils' friend
+  - If I am 'strict' I cannot be caring
 - It is important that these are addressed and clarified. Use the materials from the subject study materials to support with this.
-- In this portion of the mentor topic, the mentor will ask questions to check the ECT’s understanding of what they have read. The guidance below provides a full range of responses that show understanding. However, the mentor should not treat this as a ‘test’ of the ECT’s knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
+- In this portion of the mentor topic, the mentor will ask questions to check the ECT's understanding of what they have read. The guidance below provides a full range of responses that show understanding. However, the mentor should not treat this as a 'test' of the ECT's knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
 
 In this first session, the mentor should explain to the ECT the importance of beginning the mentor sessions
 with a shared understanding of this Block. Go through the questions with the ECT:
@@ -46,7 +46,7 @@ Why is it important to create a predictable learning environment?
 - Reduces pupil anxiety
 - Pupils understand expectations
 - Especially important for SEND pupils – gives them routine and stability
-- Reduces pupils’ cognitive load and frees space for learning
+- Reduces pupils' cognitive load and frees space for learning
 - Maximises learning time.
 
 How can the climate for learning support good pupil behaviour?
@@ -96,9 +96,9 @@ Pose the question: How can you use positive reinforcement to support behaviour?
 
 Mentor and ECT to have a go at re-writing the following sentences to make them focus on the behaviour you want to see. The first one is an example to discuss together.
 
-1. I can’t hear silence – I want to hear silence in 3, 2, 1.<br>
+1. I can't hear silence – I want to hear silence in 3, 2, 1.<br>
 2. Stop talking <br>
-3. I can’t see you doing your work <br>
+3. I can't see you doing your work <br>
 
 ### Making our instructions clear (20 minutes)
 
@@ -125,7 +125,7 @@ Watch the video in the self-directed study materials together and consider:
 
 ### Practice (10 minutes)
 
-With an upcoming lesson in mind, the ECT and mentor should script and practise a clear ‘What to do’, which supports clarity of expectations and instructions. The ECT should try this twice:
+With an upcoming lesson in mind, the ECT and mentor should script and practise a clear 'What to do', which supports clarity of expectations and instructions. The ECT should try this twice:
 
 - First time imagining that the pupils do what they are supposed to.
 - Do it again but dealing quickly and early with two pupils who are whispering to each other instead of starting their work.

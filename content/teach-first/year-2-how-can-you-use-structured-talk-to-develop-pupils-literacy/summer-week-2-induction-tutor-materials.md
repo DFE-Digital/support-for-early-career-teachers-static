@@ -4,7 +4,7 @@ heading: "Induction tutor materials"
 caption: "Summer week 2"
 ---
 
-## Training session - using structured talk to develop pupils’ literacy
+## Training session - using structured talk to develop pupils' literacy
 
 Duration: 90 minutes
 
@@ -22,7 +22,7 @@ By the end of the session early career teachers (ECTs) will:
 
 Settling task: As ECTs arrived have the settling task presented. Ask ECTs to reflect on: 
 
-- what does ‘talk’ currently look like in your classroom? 
+- what does 'talk' currently look like in your classroom? 
 - how do you currently support pupils to engage in purposeful talk?
 
 Facilitator to explain the purpose of the training session, session outcomes and the related ECF statements.
@@ -36,14 +36,14 @@ Facilitator to explain the purpose of the training session, session outcomes and
 #### Disciplinary literacy and talk (5 minutes)
 
 1. Recap on disciplinary literacy from Year 1 of the programme. 
-2. Link this to domain-specific talk; for example evaluating looks and sounds that are different in different subjects. Provide an example specific to the subject of the ECTs you’re working with. 
+2. Link this to domain-specific talk; for example evaluating looks and sounds that are different in different subjects. Provide an example specific to the subject of the ECTs you're working with. 
 3. Ask ECTs to reflect on other areas where talk might be specific to their subject (for example, reasoning, arguing, vocabulary). 
 
 #### High quality and structured talk (10 minutes)
 
 1. Explain the importance of quality of talk over quantity of talk. 
-2. Explain and model the importance of setting up a ‘talk culture’. For example: 
-    - setting clear ‘talk norms’ or guidelines with your pupils 
+2. Explain and model the importance of setting up a 'talk culture'. For example: 
+    - setting clear 'talk norms' or guidelines with your pupils 
     - ensuring talk activities have a clear goal 
     - where appropriate assigning roles for talk (for example, the summariser and questioner), and the importance of changing these cognitive roles so pupils are not always assigned to the same one 
 
@@ -73,7 +73,7 @@ Facilitator to explain the purpose of the training session, session outcomes and
 
 #### Subject and curriculum  
 
-- 3.10 Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.   
+- 3.10 Every teacher can improve pupils' literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.   
 
 - 3o Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.   
 

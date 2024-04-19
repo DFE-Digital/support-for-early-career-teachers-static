@@ -11,9 +11,9 @@ next_path: "/education-development-trust/year-1-assessment-feedback-and-question
 
 What is the difference between closed and open questions?
 
-How can questioning be used to check pupils’ prior knowledge?
+How can questioning be used to check pupils' prior knowledge?
 
-How can questioning be used to assess pupils’ understanding?
+How can questioning be used to assess pupils' understanding?
 
 What constitutes high-quality classroom talk?
 

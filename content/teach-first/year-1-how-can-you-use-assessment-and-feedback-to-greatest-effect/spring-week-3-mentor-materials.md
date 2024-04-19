@@ -21,7 +21,7 @@ Despite careful planning and sequencing of knowledge, and in spite of checking f
 
 A good strategy to help monitor independent practice is to circulate around the class during the session.
 
-Some teachers move around the classroom checking to make sure pupils are ‘on track’. However, this can often mean they are focusing on completion of work, as opposed to mastery of skills.
+Some teachers move around the classroom checking to make sure pupils are 'on track'. However, this can often mean they are focusing on completion of work, as opposed to mastery of skills.
 
 When circulating effectively, the teacher will notice two things:
 
@@ -32,12 +32,12 @@ Teachers are encouraged to consider what the common mistakes/errors may be ahead
 
 Observe your teacher as they circulate and subsequently act on the information it gives them. Focus on the following:
 
-- How have they shared what ‘success’ looks like with their pupils before the independent practice begins?
+- How have they shared what 'success' looks like with their pupils before the independent practice begins?
 - Could they pick out examples of success that they had observed, and who had specific mistakes/errors?
 - How did they respond when they spotted an example of a mistake/error? (e.g. stopping the class/individual correction). Did you agree with their feedback decision?
 
 ###  Praise, probe and set precise actions
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -53,5 +53,5 @@ OR
 
 ### Key questions and talking points
 
-1. How do you share what success ‘looks like’ in a task with your pupils?
+1. How do you share what success 'looks like' in a task with your pupils?
 2. What would be the advantages of using a code system for monitoring independent practice? (An example of a simple code can be seen in Module 4: Session 3)

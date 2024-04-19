@@ -4,11 +4,11 @@ heading: "First half-term: developing effective classroom practice"
 caption: "Year 1"
 ---
 
-In this module you’ll focus on the fundamental techniques you can use to become a more effective teacher.
+In this module you'll focus on the fundamental techniques you can use to become a more effective teacher.
 
 ## Module introduction
 
-Go through the module introduction to see what you’ll be learning.
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -21,10 +21,10 @@ Go through the module introduction to see what the ECT will be learning.
 
 ## Week 1: becoming an effective teacher
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- catch up with your mentor to reflect on what you've learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 50 minutes.
 
@@ -36,15 +36,15 @@ Duration: 50 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
-- catch up with the ECT to reflect on what they’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
-- briefly watch them putting this week’s development focus into action in the classroom
+- read the ECT's study materials below
+- catch up with the ECT to reflect on what they've learnt, discuss any issues or concerns, and decide what actions to take going forward
+- briefly watch them putting this week's development focus into action in the classroom
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-1-mentor-materials)
 
 ## Week 2: structuring lessons
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -59,7 +59,7 @@ Duration: 25 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-2-mentor-materials)
@@ -71,13 +71,13 @@ There are no self-study materials this week. Instead, your mentor will lead the 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them ECT about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them ECT about this topic.
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-3-mentor-materials)
 
 ## Week 4: adapting teaching
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -92,14 +92,14 @@ Duration: 45 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-4-mentor-materials)
 
 ## Week 5: putting it into practice
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -113,7 +113,7 @@ Duration: 50 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-5-mentor-materials)

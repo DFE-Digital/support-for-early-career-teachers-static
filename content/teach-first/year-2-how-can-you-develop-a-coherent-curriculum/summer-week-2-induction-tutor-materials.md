@@ -14,7 +14,7 @@ By the end of the session early career teachers (ECTs) will:
 
 - recapped the importance of foundational concepts, sequencing, prior knowledge and building mental models in curriculum   
 - reviewed a subject-specific example of a concept that reoccurs throughout a key stage 
-- thought critically about how the curriculum builds pupils’ mental models through identifying the core topics within the concept and sequencing these effectively 
+- thought critically about how the curriculum builds pupils' mental models through identifying the core topics within the concept and sequencing these effectively 
 - considered an example from their own practice   
 
 ### Session structure
@@ -23,7 +23,7 @@ By the end of the session early career teachers (ECTs) will:
 
 Settling task: Ask ECTs to reflect on: 
 
-When have you noticed pupils being able to make links back to something they’ve previously been taught?  
+When have you noticed pupils being able to make links back to something they've previously been taught?  
 
 - What was the example?  
 - What do you think facilitated this?  
@@ -34,7 +34,7 @@ Explain the purpose of the training session, session outcomes and the related EC
 #### Core principles of curriculum (15 minutes)
 
 1. Recap on the purpose of a curriculum and key ideas that underpin an effective curriculum.  
-2. Explain how a well-planned curriculum can develop pupils’ mental models of the subject through: 
+2. Explain how a well-planned curriculum can develop pupils' mental models of the subject through: 
     - identifying a concept that reoccurs throughout a key stage   
     - identifying the topics within the concept  
     - model how these core concepts should be sequenced and why 
@@ -49,7 +49,7 @@ Explain the purpose of the training session, session outcomes and the related EC
 
 #### What does this look like in practice? (55 minutes)
 
-1. Share a subject-specific example of a curriculum map of an identified core concept. Do a ‘think aloud’ exercise, sharing the thought processes behind the decisions that went into the planning of this curriculum map. Also share things that were not chosen for inclusion and explain the reason why. Through your example explore: 
+1. Share a subject-specific example of a curriculum map of an identified core concept. Do a 'think aloud' exercise, sharing the thought processes behind the decisions that went into the planning of this curriculum map. Also share things that were not chosen for inclusion and explain the reason why. Through your example explore: 
     - how you identified a core concept that reoccurs throughout the curriculum 
     - how you identified the topics within the core concept, sharing why they have been chosen and other topics excluded 
     - modelling how these topics should be sequenced and why, plus the pros and cons of flexing the sequence 
@@ -71,7 +71,7 @@ ECTs to reflect on the learning from the session and record their actions and ne
 
 #### Subject and curriculum  
 
-- 3.3. Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.  
+- 3.3. Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils' confidence and help them succeed.  
 - 3.7 In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or 'schemata'); carefully sequencing teaching to facilitate this process is important. 
 - 3g. Revisiting the big ideas of the subject over time and teaching key concepts through a range of examples.    
 - 3h. Drawing explicit links between new content and the core concepts and principles in the subject.  

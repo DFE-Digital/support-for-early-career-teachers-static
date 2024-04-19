@@ -8,7 +8,7 @@ caption: "Autumn week 3"
 
 Duration: 60 minutes.
 
-We recommend attending this week’s training session with an expert colleague for reference.
+We recommend attending this week's training session with an expert colleague for reference.
 
 Use these discussion prompts to deconstruct the training session and help your ECT to understand how the expert teacher supported pupil learning and helped them achieve success.
 

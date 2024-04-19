@@ -10,7 +10,7 @@ next_path: "/education-development-trust/year-1-assessment-feedback-and-question
 
 ### Learn that:
 
-- Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
+- Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils' prior knowledge, assess understanding and break down problems.
 - High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
 
 ### Learn how to meet individual needs without creating unnecessary workload, by:

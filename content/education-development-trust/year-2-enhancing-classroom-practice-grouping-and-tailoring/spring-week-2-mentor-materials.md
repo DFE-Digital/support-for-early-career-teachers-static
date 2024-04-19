@@ -28,12 +28,12 @@ If you were the mentor last year, it may be relevant/appropriate for you to offe
 
 Suggested dialogue for mentors:
 
-Welcome to module 9 called ‘Enhancing your classroom practice’. As you know, this module builds on your learning from Year 1, focusing on pupil grouping and tailoring. In Year 1, you looked at what it means to be an ‘effective teacher’.
+Welcome to module 9 called 'Enhancing your classroom practice'. As you know, this module builds on your learning from Year 1, focusing on pupil grouping and tailoring. In Year 1, you looked at what it means to be an 'effective teacher'.
 
 Some questions for discussion:
 
-- You’ve had a whole year since you learned about what it means to be an effective teacher in module 3. We looked at things such as modelling, scaffolding, effective expositions, breaking materials down into steps and practice. How do you think you have developed in these areas in the last year?
-- Being an effective teacher means being able to influence pupils’ beliefs about learning as well as their grade/outcomes. Have you got any examples where you think that has happened?
+- You've had a whole year since you learned about what it means to be an effective teacher in module 3. We looked at things such as modelling, scaffolding, effective expositions, breaking materials down into steps and practice. How do you think you have developed in these areas in the last year?
+- Being an effective teacher means being able to influence pupils' beliefs about learning as well as their grade/outcomes. Have you got any examples where you think that has happened?
 - What areas do you feel you still need to work on?
 
 
@@ -41,11 +41,11 @@ Some questions for discussion:
 
 Guidance to mentors:
 
-The ECT should have read the ‘Understanding the evidence’ section of the self-directed study materials ahead of the topic. The mentor should also read them to familiarise themselves with the content. In this portion of the topic, the mentor will be asking questions to check the ECT’s understanding of what they have read.
+The ECT should have read the 'Understanding the evidence' section of the self-directed study materials ahead of the topic. The mentor should also read them to familiarise themselves with the content. In this portion of the topic, the mentor will be asking questions to check the ECT's understanding of what they have read.
 
 Suggested dialogue for mentors:
 
-You completed Activity 9.2 of the self-directed study materials ‘Understanding the evidence’ in relation to pupil grouping and homework ahead of this topic. Let’s discuss your response to the questions to check your understanding of that material.
+You completed Activity 9.2 of the self-directed study materials 'Understanding the evidence' in relation to pupil grouping and homework ahead of this topic. Let's discuss your response to the questions to check your understanding of that material.
 
 In what different ways could you group pupils?
 
@@ -56,7 +56,7 @@ In what different ways could you group pupils?
 - Mixed attainment trios
 - Larger groups of four or more either of similar or mixed attainment.
 
-Why is it important that you don’t assume that pupils will be able to do group work?
+Why is it important that you don't assume that pupils will be able to do group work?
 
 - As with anything, pupils need to be taught how to do group work well.
 
@@ -76,7 +76,7 @@ How can you ensure that the homework you set pupils is of high quality and there
 
 ### Reflecting on your own practice – pupil grouping and homework (10 minutes)
 
-The self-directed study materials focus on pupil grouping and homework. Support the ECT to reflect on their own practice in relation to this area. Use the questions below to help identify successes and where development might be needed. The risk for new teachers is that they set up group and pair work, and set homework, just ‘because’. The mentor can help them to think through the purpose of group work and what successful group work achieves. The pupils enjoying the task or appearing engaged are not necessarily bad things, but nor are they a clear indicator that learning is taking place (see Coe’s ‘poor proxies for learning’). Equally, pupils completing homework diligently is not a good marker that it is improving learning.
+The self-directed study materials focus on pupil grouping and homework. Support the ECT to reflect on their own practice in relation to this area. Use the questions below to help identify successes and where development might be needed. The risk for new teachers is that they set up group and pair work, and set homework, just 'because'. The mentor can help them to think through the purpose of group work and what successful group work achieves. The pupils enjoying the task or appearing engaged are not necessarily bad things, but nor are they a clear indicator that learning is taking place (see Coe's 'poor proxies for learning'). Equally, pupils completing homework diligently is not a good marker that it is improving learning.
 
 Suggested dialogue for mentors:
 
@@ -89,10 +89,10 @@ Questions to ask ECT:
 - What resources did you draw on? Did you work with any colleagues? How did this help?
 - What has it been like setting homework? Have you been consistent?
 - How have you achieved a link between classwork and homework?
-- What aspects of this example represent ‘quality’ homework?
+- What aspects of this example represent 'quality' homework?
 
 ### Planning for action
 
-Ask the ECT what they will do differently as a result of today’s topic? When will they do this by?
+Ask the ECT what they will do differently as a result of today's topic? When will they do this by?
 
 In the next topic you will be looking at paired and group work and how to facilitate it successfully. Ask the ECT to reflect on what group work they use already in their classroom? Ask them to be particularly observant of any paired or group work between now and the next topic so they can reflect with you on what works well and what the main challenges are.

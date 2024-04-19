@@ -6,19 +6,19 @@ previous_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/
 
 ## Review: 10 mins
 
-Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
+Read the Research and Practice Summary on this week's topic. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time, but could do more of/more consistently
-3. the practices you don’t use in your teaching yet
+3. the practices you don't use in your teaching yet
 
-As you work through the activities in this week’s self-directed study session and mentor meeting, aim to both refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
+As you work through the activities in this week's self-directed study session and mentor meeting, aim to both refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
 
 ## Plan: 10 mins
 
 ### Self-assessment
 
-Which aspects of the research and practice summary – or of the example of Molly’s geography teacher – are most relevant to the challenges you are experiencing in your teaching at the moment?
+Which aspects of the research and practice summary – or of the example of Molly's geography teacher – are most relevant to the challenges you are experiencing in your teaching at the moment?
 
 Note in your Learning Log the two or three key messages you are taking away for your own teaching. For example, what insights has it given you for how you support pupils with specific needs through:
 
@@ -33,7 +33,7 @@ Note in your Learning Log the two or three key messages you are taking away for 
 
 ### 1. Practical exercise
 
-Focus on a specific group of pupils or a class. Below are a set of ‘challenges’, for which you have to plan your practical response. You may want to dwell on some more than others. Some hints are given.
+Focus on a specific group of pupils or a class. Below are a set of 'challenges', for which you have to plan your practical response. You may want to dwell on some more than others. Some hints are given.
 
 ### Challenge: What are the potential barriers to effective collaboration in your classroom?
 

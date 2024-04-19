@@ -18,11 +18,11 @@ You will learn that:
 - Regular, purposeful practice of what has previously been taught can help consolidate material and help pupils remember what they have learned.
 - Requiring pupils to retrieve information from memory and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall.
 - Worked examples that take pupils through each step of a new process are also likely to support pupils to learn.
-- Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.
+- Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils' confidence and help them succeed.
 
 ## Introduction
 
-In the training session from Week 2 and follow-up meeting with your mentor, you looked at the impact of pupils’ prior knowledge on their learning and how knowledge changes through the cooperation of working and long-term memory. These link information related to a current activity to what pupils already know. As part of this, you examined how weak prior knowledge and misconceptions can have a negative effect on subsequent learning. You also looked at how you can take into account pupils’ prior knowledge when planning how much new information to introduce.
+In the training session from Week 2 and follow-up meeting with your mentor, you looked at the impact of pupils' prior knowledge on their learning and how knowledge changes through the cooperation of working and long-term memory. These link information related to a current activity to what pupils already know. As part of this, you examined how weak prior knowledge and misconceptions can have a negative effect on subsequent learning. You also looked at how you can take into account pupils' prior knowledge when planning how much new information to introduce.
 
 Using techniques such as breaking complex material into smaller steps and reducing distractions, you saw how you can design lessons so that working memory is not overloaded, i.e. avoiding cognitive overload. This means that your pupils can focus their attention on what is relevant in the lesson. You discussed with your mentor how to identify misconceptions and sequence lesson content to provide a more secure base for future learning.
 

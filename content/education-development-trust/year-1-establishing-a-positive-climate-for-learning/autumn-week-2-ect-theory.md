@@ -16,7 +16,12 @@ Watch the video of a teacher talking about how they establish their routines wit
 - How do they teach the routines? What information do they give pupils?
 - Is there anything that you can take to use in your practice?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/snUwV3K8rxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/snUwV3K8rxU"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -62,11 +67,11 @@ Routines will become part of your classroom culture. You want them to be effecti
 
 Good routines should:
 
-- Be in line with your school’s ethos and rules
+- Be in line with your school's ethos and rules
 - Maximise time for learning
 - Work for you and for your pupils.
 
-You should always follow your school’s behaviour policy. This is designed to ensure fair and consistent practice across the whole school, and it makes it easier for pupils to comply with expectations. Your mentor will help you implement and establish your own routines, which fit with the ethos of your school.
+You should always follow your school's behaviour policy. This is designed to ensure fair and consistent practice across the whole school, and it makes it easier for pupils to comply with expectations. Your mentor will help you implement and establish your own routines, which fit with the ethos of your school.
 
 For example, your school policy may be for pupils to line up in silence outside the door before each lesson. Your own classroom routine for the start of the lesson needs to align with the school policy, so you should plan to be outside the door to bring the pupils into the classroom, supporting the school in ensuring a smooth start to each lesson and maximising learning time. Following this, you need to teach your pupils your expected routine for beginning the lesson. Sometimes this will require you to think carefully about how to align what you want with what happens in the wider school.
 
@@ -76,18 +81,23 @@ Watch this video of a teacher and their mentor talking about a routine they want
 
 You should work with your mentor to get support with ensuring routines fit school policy or if you are struggling with embedding any of your routines.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hsq3T4PBb9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/hsq3T4PBb9Q"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
 
 Teacher: I would like my pupils to get started on the task on the board straight away, but I know I need to follow school policy.
 
-Mentor: Ok so let’s see how we can work this out. So, the school policy says that all pupils should line up outside the classroom before lessons start?
+Mentor: Ok so let's see how we can work this out. So, the school policy says that all pupils should line up outside the classroom before lessons start?
 
 Teacher: Yes. But I would like to have my pupils starting their work quickly.
 
-Mentor: It is really important that all teachers follow the policy. This doesn’t mean you have to change your expectations though. I can tell you want to get pupils started on their work quickly to make sure that you make the most of learning time. Let’s have a think about how you can make the policy work for you.
+Mentor: It is really important that all teachers follow the policy. This doesn't mean you have to change your expectations though. I can tell you want to get pupils started on their work quickly to make sure that you make the most of learning time. Let's have a think about how you can make the policy work for you.
 
 Teacher: I guess I could be at the door to greet pupils and send them in to get started when they are all lined up?
 
@@ -145,7 +155,7 @@ Hold up your copy of the book. Fingers to lips to indicate quiet.
 
 #### Example
 
-“I think we can get the books handed out much quicker than that, I am going to time us, let’s see how quickly we can do it.”
+“I think we can get the books handed out much quicker than that, I am going to time us, let's see how quickly we can do it.”
 
 ### Establishing effective routines : Provide pupils with feedback if the routine is not performed correctly.
 
@@ -155,9 +165,9 @@ Hold up your copy of the book. Fingers to lips to indicate quiet.
 
 ## Reinforcing routines helps to create an effective learning environment
 
-We know from our own lives that establishing good habits and routines can take work. Think about your own experiences of making a positive change like doing more exercise or eating more healthily. You are far more likely to succeed if you plan carefully, thinking about how you will make the change work for you. When you repeat it often enough (practise it) it becomes habit. You’ll also know how easily your good routines can slip.
+We know from our own lives that establishing good habits and routines can take work. Think about your own experiences of making a positive change like doing more exercise or eating more healthily. You are far more likely to succeed if you plan carefully, thinking about how you will make the change work for you. When you repeat it often enough (practise it) it becomes habit. You'll also know how easily your good routines can slip.
 
-It’s the same in school. It is valuable to practise routines at the beginning of the school year. The time you invest in this early on will benefit you and your pupils in the long run, making more time available for learning. But it doesn’t stop there. If your pupils do not follow the routine, you will need to reteach it. Even a well-established routine needs positive reinforcement and practice. Being consistent will have a huge impact on your classroom.
+It's the same in school. It is valuable to practise routines at the beginning of the school year. The time you invest in this early on will benefit you and your pupils in the long run, making more time available for learning. But it doesn't stop there. If your pupils do not follow the routine, you will need to reteach it. Even a well-established routine needs positive reinforcement and practice. Being consistent will have a huge impact on your classroom.
 
 How do we know we have established our routines successfully?
 
@@ -173,7 +183,12 @@ Watch this video. In it, pupils do not follow the required routine (entering the
 
 When routines do not go to plan, they need to be re-taught.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/35NaB4fWOB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/35NaB4fWOB4"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.
@@ -194,7 +209,7 @@ When you entered the classroom just now, I saw half the class doing what was ask
 
 Back outside in 5, 4, 3, 2 and 1.
 
-Ok let’s try that again. Well done Lydia that is a much better start, excellent.
+Ok let's try that again. Well done Lydia that is a much better start, excellent.
 
 Callum, I can see you are really focused on beginning the task.
 
@@ -255,13 +270,13 @@ How do they convey their expectations of the class?
 
 "That is everyone facing the front. Well class, that took us 2 minutes and 10 seconds. Now I think we can do it much quicker than that. The quicker we move from the carpet to our chairs, the more learning time we will have.
 
-"Let’s try it again. 3, 2, 1 go!
+"Let's try it again. 3, 2, 1 go!
 
 "Fantastic start, I can see Molly and Cameron moving so fast! Well done. Excellent, this table here are all in their seats waiting to start.
 
 "Ok so we did that in 1 minute and 10 seconds. That is a real improvement. Well done class!"
 
-Let’s take a closer look at the example and pick out the ways the teacher has managed the transition:
+Let's take a closer look at the example and pick out the ways the teacher has managed the transition:
 
 ## Script analysis
 
@@ -292,7 +307,7 @@ Demonstrating high expectations.
 "The quicker we make moving from the carpet to our chairs, the more learning time we will have."
 Explaining the rationale behind the routine.
 
-"Let’s try it again. 3, 2, 1 go!"
+"Let's try it again. 3, 2, 1 go!"
 Economy of language.
 
 "Fantastic start, I can see Molly and Cameron moving so fast! Well done. Excellent, this table here are all in their seats waiting to start."

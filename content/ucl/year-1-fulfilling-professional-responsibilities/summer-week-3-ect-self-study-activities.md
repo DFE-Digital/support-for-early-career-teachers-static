@@ -6,13 +6,13 @@ previous_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week
 
 ## Review: 10 mins
 
-Read the research and practice summary on this week’s topic. As you read, reflect on:
+Read the research and practice summary on this week's topic. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time, but could do more of / more consistently
 3. the practices you do not use in your teaching yet
 
-As you work through the activities in this week’s self-directed study session and mentor meeting, aim to both refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
+As you work through the activities in this week's self-directed study session and mentor meeting, aim to both refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
 
 ## Theory to Practice: 30 mins
 
@@ -20,7 +20,7 @@ Analyse artefact and reflection – Find a piece of research evidence that inter
 
 You may want to make brief notes as you go through this process as this will help you when you share your reflections at your next mentor meeting.
 
-Interpret the term ‘research evidence’ broadly. It does not have to be an original piece of research, but it should be clearly linked to research evidence: an article in a reputable journal for teachers would be suitable, for example.
+Interpret the term 'research evidence' broadly. It does not have to be an original piece of research, but it should be clearly linked to research evidence: an article in a reputable journal for teachers would be suitable, for example.
 
 The purpose of this activity is to support you to engage critically with research and discuss evidence with colleagues. In particular, the activity will support you to access research evidence and appraise it using the principles outlined in the research and practice summary.
 

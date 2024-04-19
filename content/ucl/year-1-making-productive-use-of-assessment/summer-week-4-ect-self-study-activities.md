@@ -6,13 +6,13 @@ previous_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-4-ec
 
 ## Review: 10 mins
 
-Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
+Read the Research and Practice Summary on this week's topic. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time but could do more of/more consistently
 3. the practices you do not use in your teaching yet
 
-As you work through the activities in this week’s self-directed study session and mentor meeting, aim to both refine and extend what you already do well and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
+As you work through the activities in this week's self-directed study session and mentor meeting, aim to both refine and extend what you already do well and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
 
 ## Plan: 5 mins
 
@@ -34,14 +34,14 @@ You have a range of activities to engage with this week. Choose one or two of th
 
 ### 1. Analyse artefacts / reflect
 
-Collect a few samples of written feedback that you have given recently. If you do not give written feedback often in your phase/specialism, briefly note the details of some verbal feedback that you have given recently. Review these samples of your own feedback on pupils’ work and note where they reflect characteristics of high-quality feedback.
+Collect a few samples of written feedback that you have given recently. If you do not give written feedback often in your phase/specialism, briefly note the details of some verbal feedback that you have given recently. Review these samples of your own feedback on pupils' work and note where they reflect characteristics of high-quality feedback.
 
 1. Connect these characteristics to the Research and Practice Summary for this session and to the guide questions in the previous activity. Where can you see opportunities to further improve your feedback?
 2. Having analysed some physical examples of your own feedback, consider how accurate you were in your reflections on feedback practice in the Review activity. Do you want to modify your self-assessment now that you have looked as samples of your feedback? What does this tell you about reflecting on and self-assessing your own practice, if anything?
 
 ### 2. Discuss with pupils
 
-If possible, arrange to talk to a few pupils in your school about their views on feedback. They don’t have to be pupils that you teach.
+If possible, arrange to talk to a few pupils in your school about their views on feedback. They don't have to be pupils that you teach.
 
 You might explore:
 

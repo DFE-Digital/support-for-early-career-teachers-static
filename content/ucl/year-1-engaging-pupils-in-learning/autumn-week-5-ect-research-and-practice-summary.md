@@ -6,7 +6,7 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-engaging-pupils-in-learning/autumn-week-5-ect-self-study-activities"
 ---
 
-This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
+This reading will help you understand some of the theory behind this week's topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils' characteristics, the context of your classroom and the nature of the material that you are teaching.
 
 ## Critical thinking, transfer and schemata in a values-led Year 6 PE lesson
 
@@ -17,7 +17,7 @@ As you read this summary, think about how Rachel can use an invasion game
 lesson to teach her pupils important values that they can think critically
 about and apply elsewhere.
 
-A school’s curriculum sets out its vision for the knowledge, values and skills that it wishes its pupils to learn. Since the 1988 Education Reform Act, there has been a National Curriculum in England and Wales which specifies the core of what should be covered within the state education sector. At GCSE and A level, the National Curriculum also forms the basis for the specifications written by examination boards. Contemporary curriculum guidance makes clear that schools are expected to go beyond the core curriculum. In particular, schools have a responsibility to identify the specific knowledge, skills and values that will benefit their pupils. At all stages of education, therefore, teachers and school leaders determine the details of what is taught and how this content is sequenced. In order to teach a carefully sequenced and coherent curriculum, teachers need a sound knowledge of the essential concepts, skills and principles of the subject. It is therefore essential that teachers develop and maintain a high level of subject knowledge through initial and continuing professional development.
+A school's curriculum sets out its vision for the knowledge, values and skills that it wishes its pupils to learn. Since the 1988 Education Reform Act, there has been a National Curriculum in England and Wales which specifies the core of what should be covered within the state education sector. At GCSE and A level, the National Curriculum also forms the basis for the specifications written by examination boards. Contemporary curriculum guidance makes clear that schools are expected to go beyond the core curriculum. In particular, schools have a responsibility to identify the specific knowledge, skills and values that will benefit their pupils. At all stages of education, therefore, teachers and school leaders determine the details of what is taught and how this content is sequenced. In order to teach a carefully sequenced and coherent curriculum, teachers need a sound knowledge of the essential concepts, skills and principles of the subject. It is therefore essential that teachers develop and maintain a high level of subject knowledge through initial and continuing professional development.
 
 Subject knowledge encompasses what a teacher knows about the nature of a subject, the appropriate pedagogies to teach that subject and an expert awareness of how that subject appears in the curriculum (i.e. what needs to be taught). A teacher will continue therefore to expand their subject knowledge throughout their career. It is essential to effective teaching, for motivating and inspiring pupils, and for helping them to succeed academically.
 
@@ -27,7 +27,7 @@ You should aim to improve your subject knowledge by:
 - participating in wider networks of fellow professionals, such as the Chartered College of Teaching
 - building a repertoire of resources, illustrations and explanations by working with experienced colleagues – these colleagues may be in your school or members of networks (including online networks) which generate, share and critique such resources
 
-One of the most important aspects of teaching is the ability to establish an accurate understanding of the pupils’ prior knowledge within a given subject or domain. In this way, the teacher can start with where their pupils are and help them from there rather than working backwards from a long-term learning goal. It is also understood that increased prior knowledge reduces working memory load.
+One of the most important aspects of teaching is the ability to establish an accurate understanding of the pupils' prior knowledge within a given subject or domain. In this way, the teacher can start with where their pupils are and help them from there rather than working backwards from a long-term learning goal. It is also understood that increased prior knowledge reduces working memory load.
 
 To help you address the prior knowledge needs of your pupils, you should:
 
@@ -35,7 +35,7 @@ To help you address the prior knowledge needs of your pupils, you should:
 - identify likely misconceptions and plan to prevent them from occurring (e.g. by pre-teaching concepts or by using classroom display to reinforce foundational ideas that are prone to misconception)
 - give them regular purposeful practice (by setting aside time in each lesson) so they can consolidate learning in their long-term memory
 
-## How should Rachel take account of her pupils’ prior knowledge?
+## How should Rachel take account of her pupils' prior knowledge?
 
 A mental model or schema (plural schemata) is a pattern or network of thoughts, beliefs, knowledge and understanding that organise categories of information and the relationships between them. Schema can be simple (e.g. cars are a kind of vehicle) or complex (e.g. to drive a car, you need to start the ignition, apply the clutch, put it in gear, check the mirrors, and so on).
 
@@ -44,7 +44,7 @@ By encouraging pupils to think about how concepts relate to one another, teacher
 To help your pupils develop their schemata and build increasingly complex mental models, you can:
 
 - revisit the big ideas of the subject over time and teach key concepts through a range of examples
-- draw explicit links between new content and the core concepts and principles in the subject (e.g. by asking pupils to arrange ideas into categories - ‘Put together all the words that are about weather’, ‘Arrange the images by the places you would expect to find them’)
+- draw explicit links between new content and the core concepts and principles in the subject (e.g. by asking pupils to arrange ideas into categories - 'Put together all the words that are about weather', 'Arrange the images by the places you would expect to find them')
 - carefully sequence teaching to facilitate the process of organising knowledge into increasingly complex mental models (e.g. in primary maths, you might organise a sequence of lessons where you introduce progressively less familiar quadrilaterals, always pointing out their common features)
 - when you want to get your pupils to think about how they learn (metacognition), adopt a simple approach and repeat it often (e.g. use an acronym to help your pupils recall the steps)
 
@@ -55,7 +55,7 @@ In order for critical thinking to take place, pupils must first have a secure kn
 To help your pupils think critically, you should:
 
 - ensure they have a secure understanding of the subject area knowledge you want them to think critically about
-- invite them to think critically by sharing their reasoning and challenging the reasoning of others (e.g. by asking ‘What is your main reason for agreeing with Bilal?’, ‘Why might Leon have arrived at a different judgement?’)
+- invite them to think critically by sharing their reasoning and challenging the reasoning of others (e.g. by asking 'What is your main reason for agreeing with Bilal?', 'Why might Leon have arrived at a different judgement?')
 
 ## Why might Rachel want her pupils to do some critical thinking in her lesson?
 
@@ -63,7 +63,7 @@ The question of transfer is also an important one in education: to what extent a
 
 To help you to support pupils to transfer their knowledge, you should:
 
-- frequently ask the question ‘Where else do you use these ideas?’ (e.g. while teaching graphs in maths, you might ask them how they would apply the same knowledge to geography or science)
+- frequently ask the question 'Where else do you use these ideas?' (e.g. while teaching graphs in maths, you might ask them how they would apply the same knowledge to geography or science)
 - model the connections yourself (e.g. by saying how you use the knowledge or ideas in your own life)
 - draw comparisons between the subjects your pupils learn, whether you teach them across subjects or the teaching is shared by colleagues (e.g. a history teacher could refer to the war poetry their class had studied in English)
 
@@ -88,7 +88,7 @@ How might this apply equally to Rachel?
 
 ## What did Rachel do?
 
-Here is a recreation of Rachel’s lesson plan, with a commentary about why it worked
+Here is a recreation of Rachel's lesson plan, with a commentary about why it worked
 well.
 
 ### Aim
@@ -102,12 +102,12 @@ collaboration) through an uneven-sided invasion game.
 collaboration are really important in life and in sport.
 
 "Working in a team, make
-a plan to help you achieve success in a game of ‘pass/head/kick’. In your team,
+a plan to help you achieve success in a game of 'pass/head/kick'. In your team,
 discuss and make a list of what helps you to achieve success in a team game."
 
 ### Explanation of rules
 
-Teams are 4 attackers ‘v’ 2 defenders.
+Teams are 4 attackers 'v' 2 defenders.
 
 Attack: teams of 4 have to move the ball from one end of the court to the other.
 They can either throw, head or kick the ball in any combination, but they must
@@ -130,7 +130,7 @@ how her pupils show the 3Cs.
 
 ### Plenary
 
-Rachel often uses the ‘Evaluate Act Reflect (EAR)’ method so the pupils have a framework for their thinking. Rachel stops the lesson for the ‘EAR’ part of the
+Rachel often uses the 'Evaluate Act Reflect (EAR)' method so the pupils have a framework for their thinking. Rachel stops the lesson for the 'EAR' part of the
 lesson:
 
 - evaluate. How successful has your strategy been? What could you change to improve
@@ -149,7 +149,7 @@ with each other and evaluate and recognise their own success. They develop
 physical competence in throwing, catching, kicking, controlling and heading the
 ball.
 
-Rachel believes in the 3Cs’ attribute and in the values of fairness and
+Rachel believes in the 3Cs' attribute and in the values of fairness and
 respect, which are built into team games like this. The warm-up enabled Rachel
 to check the prior learning of her pupils in these physical skills. She could
 give feedback on their 3Cs as she monitored them at play.

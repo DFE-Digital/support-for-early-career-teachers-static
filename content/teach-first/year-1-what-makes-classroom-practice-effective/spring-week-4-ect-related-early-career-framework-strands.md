@@ -38,4 +38,4 @@ _4o. Considering the factors that will support effective collaborative or paired
 
 ## Managing behaviour
 
-_7d. Checking pupils’ understanding of instructions before a task begins._
+_7d. Checking pupils' understanding of instructions before a task begins._

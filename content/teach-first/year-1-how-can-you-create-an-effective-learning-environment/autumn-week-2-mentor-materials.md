@@ -21,14 +21,14 @@ To have planned and practised a routine.
 During the online study materials, your teacher was informed that their classroom routines will be observed. They were asked to plan how to teach or improve a routine by scripting exactly what they will say. Based on their developmental needs, it was suggested that they choose one of the routines below (listed in order of highest leverage) to implement or improve:
 
 - Greet at the door and settling routine
-- Getting pupils’ attention
+- Getting pupils' attention
 - Carpet to task or tables
 - Exit routine
   The success criteria for these is in the online study materials. Observe your teacher and their class performing one or more of the above routines with a focus on the success criteria in the online study materials.
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 

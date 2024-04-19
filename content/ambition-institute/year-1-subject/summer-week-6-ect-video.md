@@ -4,7 +4,12 @@ next_title: "Teaching challenge"
 next_path: "/ambition-institute/year-1-subject/summer-week-6-ect-teaching-challenge"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yNjn83sX4uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/yNjn83sX4uM"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -13,7 +18,7 @@ Video transcript.
 
 We want our pupils to remember and use what we teach them in the long term. We want
 them to be able to solve complex problems in the wider world. In order to do that,
-their knowledge needs to be deeply rooted so that they don’t forget it and well connected
+their knowledge needs to be deeply rooted so that they don't forget it and well connected
 so that they can spot when they should use it. To deepen understanding, teachers
 need to give pupils plenty of opportunities to think about new content and help them
 to connect that knowledge together.
@@ -22,7 +27,7 @@ to connect that knowledge together.
 
 Deepening understanding means thinking of ways to ensure that pupils can remember
 and use what they learn in the long term. It means helping pupils to develop knowledge
-that is securely embedded so that they don’t forget it. It also means ensuring that
+that is securely embedded so that they don't forget it. It also means ensuring that
 knowledge is well connected. This makes it more likely that pupils will be able to
 transfer their knowledge from one context to another, which can be hard to do. For
 example, if pupils connect business letters with formal writing and they know the
@@ -52,21 +57,21 @@ examples. As you watch, pay particular attention to the following:
 
 ### Exemplification: Ambition Institute coach
 
-For the purpose of this model, imagine I’m teaching a year seven Geography
-class. I’m going to explain to them what a protective measure is. I’m doing this
+For the purpose of this model, imagine I'm teaching a year seven Geography
+class. I'm going to explain to them what a protective measure is. I'm doing this
 so that I can model how to interleave concrete and abstract examples.
 
-_“We can’t prevent natural hazards from occurring. What we can do is put into place measures to reduce their impact on local populations. We call these protective measures. they’re put in place in advance of a natural hazard in order to reduce the amount of damage the natural hazard causes._
+_“We can't prevent natural hazards from occurring. What we can do is put into place measures to reduce their impact on local populations. We call these protective measures. they're put in place in advance of a natural hazard in order to reduce the amount of damage the natural hazard causes._
 
-_Today, we’re going to look at an example from a country where earthquakes are common. One example of a protective measure against earthquakes is to design our buildings to absorb the earthquake’s energy. One way of doing this is called cross bracing where a structure comprised of steel beams crossing each other is built into the building, supporting the building’s frame [teacher draws example on white board]_
+_Today, we're going to look at an example from a country where earthquakes are common. One example of a protective measure against earthquakes is to design our buildings to absorb the earthquake's energy. One way of doing this is called cross bracing where a structure comprised of steel beams crossing each other is built into the building, supporting the building's frame [teacher draws example on white board]_
 
-_The cross bracing absorbs the energy from the earthquake preventing the building from falling down. So the architects have thought about this while they were designing the building. They thought about it in advance of an earthquake happening. They haven’t prevented the earthquake from occurring, but they’ve reduced the amount of damage that the earthquake does.”_
+_The cross bracing absorbs the energy from the earthquake preventing the building from falling down. So the architects have thought about this while they were designing the building. They thought about it in advance of an earthquake happening. They haven't prevented the earthquake from occurring, but they've reduced the amount of damage that the earthquake does.”_
 
 In this model, there are several examples where I interleaved concrete and abstract content. The original definition of a protective measure is an abstract concept. A protective measure is something we put in place in advance of a natural hazard to reduce the effect it might have. Using cross bracing when designing buildings, so that they absorb energy from an earthquake is a concrete example of this abstract concept. This concrete example helps people as to understand what I mean by a protective measure. It gives them something to hold onto.
 
-Secondly, I drew attention to the underlying structure that is present in both the abstract concept and the concrete example. I did this by using precisely the same language both times. I talked about putting things in place in advance to reduce the effect. By using the same language, I’m repeating the underlying structure which helps people to notice it. It isn’t enough to simply alternate between abstract and concrete concepts. Teachers also need to identify how they are similar. The underlying structure is present in both examples and it has this underlying structure that we want pupils to remember.
+Secondly, I drew attention to the underlying structure that is present in both the abstract concept and the concrete example. I did this by using precisely the same language both times. I talked about putting things in place in advance to reduce the effect. By using the same language, I'm repeating the underlying structure which helps people to notice it. It isn't enough to simply alternate between abstract and concrete concepts. Teachers also need to identify how they are similar. The underlying structure is present in both examples and it has this underlying structure that we want pupils to remember.
 
-To create this example, I came up with a definition of the abstract concept, identified a concrete example, and looked for ways in which the example illustrated key aspects of the concept that I’d included in my definition.
+To create this example, I came up with a definition of the abstract concept, identified a concrete example, and looked for ways in which the example illustrated key aspects of the concept that I'd included in my definition.
 
 This is just one way in which teachers can interleave abstract and concrete examples to deepen understanding. To be effective, teachers need to look for ways to do this across a sequence of learning and gradually reduce the need to rely on concrete examples as a support.
 

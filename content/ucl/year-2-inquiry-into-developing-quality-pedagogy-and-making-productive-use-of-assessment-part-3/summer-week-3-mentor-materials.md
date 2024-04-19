@@ -16,7 +16,7 @@ Week 14: The impacts upon the ECT of their inquiry. Planning to present
 
 Learning Intentions for this session
 
-The focus of your mentee’s inquiry for Module 8 is on an element of the Early Career Framework (ECF) from Standards 4, 5 or 6. They might have chosen a focus which combines different elements of these standards.
+The focus of your mentee's inquiry for Module 8 is on an element of the Early Career Framework (ECF) from Standards 4, 5 or 6. They might have chosen a focus which combines different elements of these standards.
 
 Look at the individual case studies below to see what the featured teachers had learned by this stage of their inquiries, derived from across the ECF Standards, but mainly Standards 4, 5 and 6.
 
@@ -28,7 +28,7 @@ Further learning intentions for this session:
 
 Introduction
 
-Last week during their self-directed study time, your mentee collected and analysed further evidence related to their inquiry, including ‘overheard’ and ‘unexpected’ evidence.
+Last week during their self-directed study time, your mentee collected and analysed further evidence related to their inquiry, including 'overheard' and 'unexpected' evidence.
 
 They also considered the range of impacts the inquiry has had on themselves, and will be ready to discuss this with you this week.
 
@@ -42,21 +42,21 @@ You can read back to Weeks 3 or 5, if you want to remind yourself of the issue t
 
 Here we see the inferences they make from the range of evidence they collected. We also see the range of impacts the inquiries have had upon them personally: on their beliefs, workload and relationships with colleagues. Finally, we see the ideas they had for presenting their findings.
 
-When reading these case studies, your mentee will need to take account of their own pupils’ characteristics, the context of their classroom and the nature of the material that they are teaching.
+When reading these case studies, your mentee will need to take account of their own pupils' characteristics, the context of their classroom and the nature of the material that they are teaching.
 
 Case Study A: Grouping Pupils Effectively
 
-Andy’s approach to grouping pupils effectively in Year 1
+Andy's approach to grouping pupils effectively in Year 1
 
 Andy devised this evaluative inquiry question:
 
 How can I use group activities over two half-terms to improve the engagement and attainment of my Year 1 pupils?
 
-After making small adjustments to his inquiry to account for pupils’ feedback, he was able to draw these insights from the deliberate evidence:
+After making small adjustments to his inquiry to account for pupils' feedback, he was able to draw these insights from the deliberate evidence:
 
 1.3. Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.
 
-- by repeatedly making his intentions clear, he has been able to ‘bring the children with him’ on this journey to helping them to work productively with any of their peers
+- by repeatedly making his intentions clear, he has been able to 'bring the children with him' on this journey to helping them to work productively with any of their peers
 
   4.9. Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
 
@@ -82,7 +82,7 @@ And he has:
 
 From the wider emergent (overheard and unexpected) evidence, Andy made these inferences:
 
-▪ he overheard his pupils say things like ‘I used to not like working with X, but now I like it’ – the new pupil grouping is having the desired effect
+▪ he overheard his pupils say things like 'I used to not like working with X, but now I like it' – the new pupil grouping is having the desired effect
 
 ▪ his Year 1s overall made unexpectedly rapid progress with the accuracy of their mark making – the new pupil grouping improved the pupils socially and in their written literacy
 
@@ -96,7 +96,7 @@ And he had learned better how to stimulate pupil thinking by:
 
 4o. Considering the factors that will support effective collaboration.
 
-The impact the inquiry has had on Andy’s beliefs and professional relationships
+The impact the inquiry has had on Andy's beliefs and professional relationships
 
 The inquiry involved Andy working more productively with his TA. He is now much firmer in his belief that:
 
@@ -104,7 +104,7 @@ The inquiry involved Andy working more productively with his TA. He is now much 
 
 1.3 Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential
 
-4.1 Effective teachers can transform pupils’ knowledge, capabilities and beliefs about knowledge
+4.1 Effective teachers can transform pupils' knowledge, capabilities and beliefs about knowledge
 
 4.7 High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary
 
@@ -122,11 +122,11 @@ A keen blogger, Andy wrote up his findings and published them online, where they
 
 Case Study B: Modelling and Scaffolding
 
-Vashti’s use of modelling and scaffolds to support writing in Year 4
+Vashti's use of modelling and scaffolds to support writing in Year 4
 
 To ensure she was developing her practice effectively, Vashti devised this evaluative inquiry question:
 
-How can I use ‘speaking sentences’ well, over the space of two terms, to reduce the prevalence of basic errors in written literacy among pupils with a Speech, Language and Communication Need (SpLCN) in Year 4?
+How can I use 'speaking sentences' well, over the space of two terms, to reduce the prevalence of basic errors in written literacy among pupils with a Speech, Language and Communication Need (SpLCN) in Year 4?
 
 After making small adjustments to her inquiry – because her pupils were still often mis-spelling high frequency words – she was able to draw these insights from the deliberate evidence. She had learned better how to:
 
@@ -142,11 +142,11 @@ Reflecting on her findings, Vashti drew the following interim conclusion for her
 
 Classroom talk, combined with scaffolding resources, can be a powerful driver for improving written literacy among pupils with SpLCN in Year 4. (4a, 4p)
 
-She realised that she should continue with this approach to supporting her pupils’ writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
+She realised that she should continue with this approach to supporting her pupils' writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
 
 From the wider emergent (overheard and unexpected) evidence, Vashti made these inferences:
 
-▪ she overheard several of the non-SpLCN pupils, but who also have other additional needs, say that the ‘speaking sentences’ approach made them much more confident when writing – the approach can work with all pupils who have additional needs
+▪ she overheard several of the non-SpLCN pupils, but who also have other additional needs, say that the 'speaking sentences' approach made them much more confident when writing – the approach can work with all pupils who have additional needs
 
 ▪ unexpectedly, the oracy of the SpLCN pupils also improved markedly over the period – scaffolds which reduce basic errors in one area of literacy may also have a similar effect in others
 
@@ -162,13 +162,13 @@ She inferred that this was because she had learned better how to:
 
 4p. Provide scaffolds for pupil talk to increase the focus and rigour of dialogue
 
-The impact the inquiry has had on Vashti’s beliefs, workload and professional relationships
+The impact the inquiry has had on Vashti's beliefs, workload and professional relationships
 
 She is now much firmer in her belief that:
 
-3.10 Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
+3.10 Every teacher can improve pupils' literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines
 
-4.1 Effective teachers can transform pupils’ knowledge, capabilities and beliefs about knowledge
+4.1 Effective teachers can transform pupils' knowledge, capabilities and beliefs about knowledge
 
 4.4 Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
 
@@ -186,17 +186,17 @@ She has also saved on her workload because she has learned that:
 
 How Vashti presented her findings
 
-At the end of the summer term, Vashti shared her findings at an academy-wide joint practice development day, where she ran a short workshop on her ‘speaking sentences’ intervention.
+At the end of the summer term, Vashti shared her findings at an academy-wide joint practice development day, where she ran a short workshop on her 'speaking sentences' intervention.
 
 Case Study C: Making Marking Manageable
 
-Louise’s new approach to marking in Secondary History
+Louise's new approach to marking in Secondary History
 
 To ensure she was developing her practice effectively, Louise devised this evaluative inquiry question:
 
 How can I implement codes and verbal feedback well, so that my Year 9 History pupils are able to correct misconceptions and make progress, and I am able to reduce the amount of time I spend marking?
 
-Louise noticed that some of her pupils didn’t seem to understand how they were supposed to respond to the coded feedback. After making small adjustments to her inquiry she was able to draw these insights from the deliberate evidence:
+Louise noticed that some of her pupils didn't seem to understand how they were supposed to respond to the coded feedback. After making small adjustments to her inquiry she was able to draw these insights from the deliberate evidence:
 
 6p. Reduce the opportunity cost of marking by using codes and verbal feedback
 
@@ -220,9 +220,9 @@ Having reviewed her practice in this way, she will use this insight to now apply
 
 From the wider emergent (overheard and unexpected) evidence, Louise made these inferences:
 
-▪ she overheard several high prior attaining girls in her experimental Year 9 class say that they preferred the new form of feedback, because they received it much more quickly – pupils don’t necessarily ‘miss’ having their work marked all of the time
+▪ she overheard several high prior attaining girls in her experimental Year 9 class say that they preferred the new form of feedback, because they received it much more quickly – pupils don't necessarily 'miss' having their work marked all of the time
 
-▪ she overheard a few pupils in her control Year 9 class say they heard what she was doing in her other class, and ‘why can’t we have that?’ – verbal and coded feedback might be popular with pupils
+▪ she overheard a few pupils in her control Year 9 class say they heard what she was doing in her other class, and 'why can't we have that?' – verbal and coded feedback might be popular with pupils
 
 ▪ expectedly, she saved time on marking; unexpectedly, she used that gained time to prepare better lessons – reducing unnecessary marking can have an overall positive impact on her teaching
 
@@ -230,19 +230,19 @@ She inferred that this was because she had learned better how to:
 
 6h. Focus on specific actions for pupils and providing time for pupils to respond to feedback
 
-6i. Appreciate that pupils’ responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains…)
+6i. Appreciate that pupils' responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains…)
 
 6n. Use verbal feedback during lessons in place of written feedback after lessons where possible
 
 6p. Reduce the opportunity cost of marking (e.g. by using abbreviations and codes in written feedback)
 
-The impact the inquiry has had on Louise’s beliefs and workload
+The impact the inquiry has had on Louise's beliefs and workload
 
 She is now much firmer in her belief that:
 
-4.1 Effective teachers can transform pupils’ knowledge, capabilities and beliefs about knowledge
+4.1 Effective teachers can transform pupils' knowledge, capabilities and beliefs about knowledge
 
-6.1 Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs
+6.1 Effective assessment is critical to teaching because it provides teachers with information about pupils' understanding and needs
 
 6.4 To be of value, teachers use information from assessments to inform the decisions they make; in turn, pupils must be able to act on feedback for it to have an effect
 
@@ -256,11 +256,11 @@ She has also saved on her workload because she has learned that:
 
 How Louise presented her findings
 
-Louise shared her findings with her department, who were impressed with the results and with the fact that Louise had been able to spend more time planning lessons and creating resources. Following a presentation to the senior team, the History department’s marking policy was amended to state that teachers can either use written marking, or use verbal feedback, in combination with codes/abbreviations, where appropriate.
+Louise shared her findings with her department, who were impressed with the results and with the fact that Louise had been able to spend more time planning lessons and creating resources. Following a presentation to the senior team, the History department's marking policy was amended to state that teachers can either use written marking, or use verbal feedback, in combination with codes/abbreviations, where appropriate.
 
 Case Study D: Questioning
 
-Mo’s use of direction and elaboration to improve questioning in GCSE PE
+Mo's use of direction and elaboration to improve questioning in GCSE PE
 
 To ensure he was developing his practice effectively, Mo devised this evaluative inquiry question:
 
@@ -294,9 +294,9 @@ And because he had developed his questioning practice to this extent, Mo decided
 
 From the wider emergent (overheard and unexpected) evidence, Mo made these inferences:
 
-▪ he overheard pupils outside of his focus group comment on his new approach to questioning. ‘Sir makes us think much harder these days.’ – this approach can work for all, not just some, pupils
+▪ he overheard pupils outside of his focus group comment on his new approach to questioning. 'Sir makes us think much harder these days.' – this approach can work for all, not just some, pupils
 
-▪ a colleague in the staffroom told him he had heard about Mo’s approach to questioning, and asked for more information – doing an inquiry about an aspect of teaching can improve collaborative relationships with colleagues
+▪ a colleague in the staffroom told him he had heard about Mo's approach to questioning, and asked for more information – doing an inquiry about an aspect of teaching can improve collaborative relationships with colleagues
 
 ▪ the Pupil Premium girls also improved with their practical PE work – although tempted, Mo could not infer from that that his approach to questioning improves their sporting skills
 
@@ -306,15 +306,15 @@ He inferred that this was because he had learned better how to:
 
 8f. Contribute positively to the wider school culture and develop a feeling of shared responsibility for improving the lives of all pupils within the school.
 
-The impact the inquiry has had on Mo’s beliefs and professional relationships
+The impact the inquiry has had on Mo's beliefs and professional relationships
 
 He is now much firmer in his belief that:
 
-4.1 Effective teachers can transform pupils’ knowledge, capabilities and beliefs about knowledge
+4.1 Effective teachers can transform pupils' knowledge, capabilities and beliefs about knowledge
 
 4.5 Explicitly teaching pupils metacognitive strategies linked to subject knowledge, including how to plan, monitor and evaluate, supports independence and academic success
 
-4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems
+4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils' prior knowledge, assess understanding and break down problems
 
 4.7 High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary
 
@@ -339,7 +339,7 @@ Review and Plan 5 mins
 - the impact of this on pupil learning (including how they are evaluating this)
 - what they will do going forward to build on these actions
 - Clarify the learning intentions for this session with your mentee.
-- Invite your mentee to read the case studies on this module’s topics, or the one or two that are most relevant to their own chosen area of development and the exploratory question they are investigating. As they read, reflect on:
+- Invite your mentee to read the case studies on this module's topics, or the one or two that are most relevant to their own chosen area of development and the exploratory question they are investigating. As they read, reflect on:
 - how similar this scenario is to their own situation
 - how, despite any differences there may be to their own context, this case study may still be relevant to them
 - what lessons there might be for the way they conduct their own inquiry
@@ -364,7 +364,7 @@ Practical knowledge – the fluency with which you use your expanded repertoire
 
 Beliefs – in yourself and your pupils
 
-Workload – by learning to do less of what doesn’t (and more of what does) work
+Workload – by learning to do less of what doesn't (and more of what does) work
 
 Professional relationships – what you learn from each other
 
@@ -374,7 +374,7 @@ Action Planning
 
 Your mentee is very near the end of Module 8, where they have focused on one area, or a small number of areas, for development. They have implemented changes to their teaching and monitored the impacts of those changes on themselves and their pupils. They have achieved this mainly by conducting a practitioner inquiry.
 
-In two weeks’ time, your mentee will make the final presentation of their inquiry findings to you. You can see in the case studies some ways other teachers have found of sharing their insights with others. You should encourage your mentee to do likewise. However, for their presentation to you, you should set out these criteria. It should cover:
+In two weeks' time, your mentee will make the final presentation of their inquiry findings to you. You can see in the case studies some ways other teachers have found of sharing their insights with others. You should encourage your mentee to do likewise. However, for their presentation to you, you should set out these criteria. It should cover:
 
 - the issue they chose and how they chose it – what were they trying to learn how to do better?
 - how they gathered evidence and decided on the alteration to their practice
@@ -395,10 +395,10 @@ You might leave this up to them, but different formats have different advantages
 
 Next Steps 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these action(s) are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these action(s)
+2. what success will 'look like' in relation to these action(s)
 3. how they will evaluate their success in taking these action(s)
 
-Note that the next session is the final one, in 2 weeks’ time, where your mentee will present the final outcomes of their Module 8 inquiry.
+Note that the next session is the final one, in 2 weeks' time, where your mentee will present the final outcomes of their Module 8 inquiry.

@@ -26,14 +26,14 @@ previous_path: "/education-development-trust/year-2-enhancing-classroom-practice
 ### If this is successful, you will see…
 
 - Pupils working effectively in different kinds of groupings.
-- Pupils who do not perceive themselves as being in a ‘higher’ or ‘lower’ group.
+- Pupils who do not perceive themselves as being in a 'higher' or 'lower' group.
 - Pupils scaffolding work for each other.
 
 ## Practise…
 
 ### Home and away
 
-In this activity, pupils will be in a ‘Home team’ and an ‘Away team’. It helps if you organise the classroom so that tables are in groups. Pupils should have necessary prior knowledge (such as how to work in a group) to be successful.
+In this activity, pupils will be in a 'Home team' and an 'Away team'. It helps if you organise the classroom so that tables are in groups. Pupils should have necessary prior knowledge (such as how to work in a group) to be successful.
 
 Home team = mixed attainment grouping
 
@@ -53,9 +53,9 @@ Pupils will then return to their Home team and each take a turn at teaching the 
 
 ### Talk partners
 
-Pupil talk is a valuable way to support pupils with being able to write well later down the line. Ensuring high quality pupil talk is something which needs to be taught and practised. Using ‘Talk partners’ in your classroom is one effective way to do this. It’s likely you are already doing this to some extent already because you ask pupils to ‘discuss with the person sat next to you’. ‘Think, pair, share’ is a similar process.
+Pupil talk is a valuable way to support pupils with being able to write well later down the line. Ensuring high quality pupil talk is something which needs to be taught and practised. Using 'Talk partners' in your classroom is one effective way to do this. It's likely you are already doing this to some extent already because you ask pupils to 'discuss with the person sat next to you'. 'Think, pair, share' is a similar process.
 
-Using talk partners explicitly and regularly changes the dynamics of talk in the classroom. In a traditional classroom, talk is often between teacher and pupil. This can lead to some pupils who are confident dominating talk in the classroom and leaves other pupils with an option to ‘opt-out’ if they feel like it. By using talk partners and providing scaffolding (e.g. on key vocabulary or structures) all pupils have the opportunity to practise articulating their ideas.
+Using talk partners explicitly and regularly changes the dynamics of talk in the classroom. In a traditional classroom, talk is often between teacher and pupil. This can lead to some pupils who are confident dominating talk in the classroom and leaves other pupils with an option to 'opt-out' if they feel like it. By using talk partners and providing scaffolding (e.g. on key vocabulary or structures) all pupils have the opportunity to practise articulating their ideas.
 
 When you pose some questions in your next lesson, instead of expecting pupils to respond to you, use talk partners so pupils can first share their thoughts and ideas with each other.
 
@@ -67,7 +67,7 @@ So that you can start to really understand what types of groupings are working w
 
 It would be useful to share your findings (sensitively). If a group activity did not go well, it is not about never doing it again but finding ways to improve performance. One way to do this is to make sure pupils understand what their group could have done better.
 
-For example: ‘I am going to give you some feedback on how we did that group activity. I thought Group X performed really well. I heard them speaking politely to each other. I heard them asking each other good questions. As a result, their work is very good. Group Y did not do so well at supporting each other through the task – you got annoyed with each other when you thought it wasn’t going well. What could you do differently next time?’
+For example: 'I am going to give you some feedback on how we did that group activity. I thought Group X performed really well. I heard them speaking politely to each other. I heard them asking each other good questions. As a result, their work is very good. Group Y did not do so well at supporting each other through the task – you got annoyed with each other when you thought it wasn't going well. What could you do differently next time?'
 
 ### In your notepad
 

@@ -6,7 +6,7 @@ previous_path: "/education-development-trust/year-1-a-people-profession/summer-w
 
 Focus your observations for this module on the following things:
 
-- How pupils respond to teachers’ behaviours.
+- How pupils respond to teachers' behaviours.
 - How teaching assistants and teachers work effectively together.
 
 For each observation, write down:

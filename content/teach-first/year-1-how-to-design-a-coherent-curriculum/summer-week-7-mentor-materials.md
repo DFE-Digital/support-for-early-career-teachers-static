@@ -24,7 +24,7 @@ Discuss whether they would be interested in further opportunities to design curr
 
 Have a reflective conversation with your teacher, using the key questions to guide you.
 
-Where appropriate (or sought by your teacher) share your feedback and observations on your teacher’s development this year.
+Where appropriate (or sought by your teacher) share your feedback and observations on your teacher's development this year.
 
 ### Key questions and talking points
 

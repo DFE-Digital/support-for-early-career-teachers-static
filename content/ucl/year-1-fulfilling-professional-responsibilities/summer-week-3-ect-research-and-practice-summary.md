@@ -6,7 +6,7 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week-3-ect-self-study-activities"
 ---
 
-This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
+This reading will help you understand some of the theory behind this week's topic. We will start by introducing some of the key concepts (these are in bold). You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice you will need to take account of your pupils' characteristics, the context of your classroom and the nature of the material that you are teaching.
 
 ## Engaging with research evidence
 
@@ -16,15 +16,15 @@ Becky values case studies that explore an issue in depth, while Stephen says tha
 
 Who do you think is right? What kinds of research evidence do you think are valuable?
 
-Research evidence can be a very useful tool for helping you to improve. However, it is important to avoid starting with a solution and then looking for a problem. For instance, when it comes to using digital technology, like tablet computers, teachers often ask ‘how can I use this to improve learning?’
+Research evidence can be a very useful tool for helping you to improve. However, it is important to avoid starting with a solution and then looking for a problem. For instance, when it comes to using digital technology, like tablet computers, teachers often ask 'how can I use this to improve learning?'
 
-Instead, it is more appropriate to begin by a careful examination of what your priorities are for improvement and then to see how the ‘tool’ (in this case, the tablet) can help you focus on these priorities. Three factors that can inform this prioritisation include:
+Instead, it is more appropriate to begin by a careful examination of what your priorities are for improvement and then to see how the 'tool' (in this case, the tablet) can help you focus on these priorities. Three factors that can inform this prioritisation include:
 
 - Personal reflection – reflecting on your progress as a teacher, and recognising strengths and weaknesses in your practice, is an important first step. Ideally, you will supplement this with other sources of information
 - Colleagues – can provide invaluable insights through constructive challenge and feedback. For this to be constructive, it is important that it happens within an open and trusting working environment where the emphasis is simply on getting better
 - Networks – collaborating with wider networks of colleagues can help to inform your priorities as well as wider professional development. These networks may focus on different topics, but subject networks beyond your own school may be particularly beneficial to help develop your subject and pedagogical knowledge
 
-Reflecting on your experiences as a teacher is an important way of improving. However, it is critical to recognise the limitations in our own assessment of situations – especially those in which we are personally engaged. For instance, a surprising finding from many tests of approaches to teaching – where the impact of an approach is compared to similar schools continuing as normal – is that there is often a mismatch between teachers’ perceptions of interventions and the overall findings of the research. Teachers are typically much more positive about interventions than the test results are.
+Reflecting on your experiences as a teacher is an important way of improving. However, it is critical to recognise the limitations in our own assessment of situations – especially those in which we are personally engaged. For instance, a surprising finding from many tests of approaches to teaching – where the impact of an approach is compared to similar schools continuing as normal – is that there is often a mismatch between teachers' perceptions of interventions and the overall findings of the research. Teachers are typically much more positive about interventions than the test results are.
 
 Therefore, it is important to draw on a range of sources of information to inform your reflections on practice. These sources may include feedback from and observation of experienced colleagues, professional debate and research evidence. Using a combination of these sources of information is likely to be more powerful than any one source alone.
 
@@ -51,13 +51,13 @@ To determine how applicable research is, consider the following:
 
 High quality research evidence is becoming increasingly available and can be a powerful complement to your professional judgement. Professional debate in education, as you saw with Becky and Stephen, often focuses on the merits of particular types of research.
 
-Unfortunately, it is not particularly useful to try to answer the question ‘what is the best type of research?’ Instead, it is more useful to ask, ‘what kinds of research can answer what types of questions?’
+Unfortunately, it is not particularly useful to try to answer the question 'what is the best type of research?' Instead, it is more useful to ask, 'what kinds of research can answer what types of questions?'
 
 The table below summarises some common questions that you might want to answer alongside some of the types of research that can answer those questions. Notably, Stephen was wrong: randomised controlled trials are not suitable for every research question. They are very good at answering questions about the effectiveness of different approaches to teaching, but they are less suitable to answering other questions. Equally, case studies can provide rich insights, but – alone – they have limited use for answering questions related to impact.
 
 | Research question                                    | Randomised controlled trial | Case study | Survey | Interview | Systematic review |
 | ---------------------------------------------------- | --------------------------- | ---------- | ------ | --------- | ----------------- |
-| Is this approach likely to improve pupils’ learning? | ✓                           |            |        |           | ✓                 |
+| Is this approach likely to improve pupils' learning? | ✓                           |            |        |           | ✓                 |
 | Is this approach right for our school?               |                             | ✓          | ✓      | ✓         |                   |
 | How does this approach improve learning?             |                             | ✓          |        | ✓         | ✓                 |
 | What do pupils think about the new approach?         |                             | ✓          | ✓      | ✓         |                   |

@@ -6,7 +6,7 @@ previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/su
 
 ## Adaptive teaching
 
-5.2 Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
+5.2 Seeking to understand pupils' differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
 
 5.3 Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success.
 

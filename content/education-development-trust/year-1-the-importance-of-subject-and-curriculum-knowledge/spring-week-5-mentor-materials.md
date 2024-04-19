@@ -41,7 +41,7 @@ This topic is designed to support the ECT to build up their collection of powerf
 
 If the mentor is not from the same subject area or phase, in advance of the topic it might be useful to speak with another colleague who can advise on what resources (e.g. textbooks, resource banks, websites etc.) are particularly useful for the ECT.
 
-Pose the question: how do you decide whether a resource or a material is going to help pupils learn so you can add it to your collection? What would make an example, resource or analogy ‘powerful’?
+Pose the question: how do you decide whether a resource or a material is going to help pupils learn so you can add it to your collection? What would make an example, resource or analogy 'powerful'?
 
 Some key points to prompt the ECT with during this activity:
 
@@ -52,7 +52,7 @@ Some key points to prompt the ECT with during this activity:
   - Efficient (does it make the point clearly and easily without distraction?)
   - Source (who wrote this or designed it? Are they someone who can be trusted?)
 
-The mentor and ECT might agree a checklist of ‘quality resources/examples’ that can be used throughout the rest of this topic.
+The mentor and ECT might agree a checklist of 'quality resources/examples' that can be used throughout the rest of this topic.
 
 Ask the ECT to share the examples that they have collated on [Handout 4.5](/assets/materials/edt-Block-4-mentor-handout-4.5.pdf) since the last mentor topic. Go through each example or ask the ECT to pick out a few ones that they think are particularly strong.
 
@@ -74,7 +74,7 @@ If there is an example that the mentor agrees would be good to adapt to use with
 
 ### Resources (20 minutes)
 
-Read this quote together from the Independent Workload Review Group (2016): “High quality resources, including textbooks, can support teaching, reduce workload by teachers not having to ‘reinvent the wheel’, and ensure high expectations of the content of lessons and conceptual knowledge.”
+Read this quote together from the Independent Workload Review Group (2016): “High quality resources, including textbooks, can support teaching, reduce workload by teachers not having to 'reinvent the wheel', and ensure high expectations of the content of lessons and conceptual knowledge.”
 
 Pose the question: what are the benefits of using existing resources and materials?
 
@@ -82,13 +82,13 @@ The mentor may want to draw their attention to the following:
 
 - The value of learning from more experienced colleagues
 - The importance of looking after their wellbeing, perhaps linked to workload especially at the start of their career
-- Using existing resources is often more efficient and they may be high-quality, although do stress the importance of being discerning when using other people’s resources and materials linked to the checklist
+- Using existing resources is often more efficient and they may be high-quality, although do stress the importance of being discerning when using other people's resources and materials linked to the checklist
 - There is a lot to learn for ECTs from existing high-quality resources and materials, such as sequencing and effective tasks and activities
 - Using existing resources in a department or across a school can ensure consistency and quality between different classes and different teachers.
 
 Ask the ECT to share some of the resources or materials that align with the school curriculum (e.g. textbooks, materials created by other members of the team).
 
-Ask the ECT to talk through a lesson or topic that they know they will be teaching soon but haven’t planned for yet. They should explain how they will use the resources available to them to choose appropriate examples or materials for that lesson, narrating their decision making.
+Ask the ECT to talk through a lesson or topic that they know they will be teaching soon but haven't planned for yet. They should explain how they will use the resources available to them to choose appropriate examples or materials for that lesson, narrating their decision making.
 
 Prompts:
 
@@ -105,8 +105,8 @@ Be prepared to give advice and tips to the ECT about how to efficiently search t
 
 ### Planning for action
 
-Pose the question: how has today’s topic influenced your thinking about resources and materials?
+Pose the question: how has today's topic influenced your thinking about resources and materials?
 
-Pose the question: what will you do differently as a result of today’s topic?
+Pose the question: what will you do differently as a result of today's topic?
 
 In advance of the next topic, ECTs should spend an hour observing or being observed by other colleagues. This might be one longer observation or a few shorter, focused ones. There are suggestions about what the observations could focus on in Activity 4.5 from the self-directed study materials. ECTs should bring their notes from the observation(s) to the next mentor topic.

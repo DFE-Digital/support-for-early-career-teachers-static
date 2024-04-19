@@ -18,9 +18,9 @@ To have planned for and practised implicitly and explicitly teaching vocabulary.
 
 ### Stimulus
 
-In your last mentor session, you supported your teacher to plan to develop pupils’ vocabulary. This week you should observe them developing pupils’ vocabulary implicitly and/or explicitly.
+In your last mentor session, you supported your teacher to plan to develop pupils' vocabulary. This week you should observe them developing pupils' vocabulary implicitly and/or explicitly.
 
-What you look for may vary depending on the phase that your teacher teaches. There, suggested focuses have been separated into ‘Early Years’ and Primary and Secondary’.
+What you look for may vary depending on the phase that your teacher teaches. There, suggested focuses have been separated into 'Early Years' and Primary and Secondary'.
 
 ### Early Years
 
@@ -36,7 +36,7 @@ When observing your teacher, consider whether they use elements of Sustained Sha
 - suggesting
 - reminding
 - asking open questions
-- encourage pupils to respond in full sentences (although not included in Sustained Shared Thinking, this is a good way to develop pupils’ language)
+- encourage pupils to respond in full sentences (although not included in Sustained Shared Thinking, this is a good way to develop pupils' language)
 
 ### Primary and Secondary
 
@@ -50,7 +50,7 @@ When observing your teacher consider whether they:
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -59,14 +59,14 @@ Work with your teacher to plan and practise teaching vocabulary implicitly and e
 ### Key questions and talking points
 
 1. What was the impact on implicitly/explicitly developing and/or teaching vocabulary?
-2. How could you have developed pupils’ vocabulary further?
+2. How could you have developed pupils' vocabulary further?
 
 ### Additional resources:
 
-[Education Endowment Foundation’s recommendations to support improving early language and literacy](https://educationendowmentfoundation.org.uk/tools/guidance-reports/preparing-for-literacy/)
+[Education Endowment Foundation's recommendations to support improving early language and literacy](https://educationendowmentfoundation.org.uk/tools/guidance-reports/preparing-for-literacy/)
 
-[Education Endowment Foundation’s improving literacy in key stage 1 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-1/)
+[Education Endowment Foundation's improving literacy in key stage 1 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-1/)
 
-[Education Endowment Foundation’s improving literacy in key stage 2 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-2/)
+[Education Endowment Foundation's improving literacy in key stage 2 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-2/)
 
-[Education Endowment Foundation’s improving literacy in secondary schools guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-literacy-in-secondary-schools/)
+[Education Endowment Foundation's improving literacy in secondary schools guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-literacy-in-secondary-schools/)

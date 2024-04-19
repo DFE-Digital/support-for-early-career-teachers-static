@@ -13,11 +13,11 @@ previous_path: "/education-development-trust/year-1-assessment-feedback-and-ques
 - What benefits does this bring to the pupils?
 - What might you do as a result of this?
 
-## Observation focus: Monitoring pupils’ work during lessons
+## Observation focus: Monitoring pupils' work during lessons
 
 ### Possible focus during the observation
 
-- What does the teacher do to monitor pupils’ work during the lesson?
+- What does the teacher do to monitor pupils' work during the lesson?
 - Does the teacher use verbal or written feedback or both?
 - How do pupils respond?
 - What is the impact of the teacher monitoring during lessons?

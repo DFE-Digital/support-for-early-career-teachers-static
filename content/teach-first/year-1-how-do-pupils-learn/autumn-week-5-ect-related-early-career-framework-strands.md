@@ -26,7 +26,7 @@ _2k. Increasing challenge with practice and retrieval as knowledge becomes more 
 
 3.2 Secure subject knowledge helps teachers to motivate pupils and teach effectively.
 
-3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.
+3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils' confidence and help them succeed.
 
 3.7 In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or “schemata”); carefully sequencing teaching to facilitate this process is important.
 

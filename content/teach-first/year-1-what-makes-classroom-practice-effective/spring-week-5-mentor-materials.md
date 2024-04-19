@@ -24,7 +24,7 @@ In their online study materials, your teacher was asked to insert questions into
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -33,9 +33,9 @@ Work with your teacher to support them to improve their questioning and consider
 - Avoid self-report questions - ask questions that directly assess pupil understanding of the material being taught
 - Check whole class understanding
 - Provide appropriate wait time after asking a question to allow pupils to generate a response
-- Do not complete pupils’ answers
+- Do not complete pupils' answers
 - Ask follow-up questions to extend and challenge pupils
-- Will pupils’ benefit from scaffolds such as sentence frames when answering questions?
+- Will pupils' benefit from scaffolds such as sentence frames when answering questions?
 
 ### Key questions and talking points
 

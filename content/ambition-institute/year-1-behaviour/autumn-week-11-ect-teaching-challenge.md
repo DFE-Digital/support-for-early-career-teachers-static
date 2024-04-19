@@ -21,7 +21,7 @@ At the heart of pair and group work is effective pupil talk. High-quality discus
 However, when pupils work with their peers it can give rise to behavioural issues, as pupils may get distracted or be unable to complete a task. Just as when introducing other classroom routines, teachers should anticipate and plan to avoid behavioural problems (Kern & Clemens, 2007). To promote on-task talk, Ms Silva can:
 
 - Outline behavioural expectations: Where appropriate share specific words to try to use, time limits and rules for turn taking. The EEF (2018) provide an example of rules for discussion.
-- Explain why these behaviours are important: If pupils know _why_ something is effective, they’re more likely to do it properly and be more motivated to do the hard thinking expected of them (Coe et al., 2014; EEF, 2017).
+- Explain why these behaviours are important: If pupils know _why_ something is effective, they're more likely to do it properly and be more motivated to do the hard thinking expected of them (Coe et al., 2014; EEF, 2017).
 - Check understanding: To succeed, pupils need to understand behavioural expectations and task instructions (Rosenshine, 2012).
 - Practise routines: Pupils become more automatic and fluent through practice, so Ms Silva can ensure pupils talk successfully by regularly practising talk routines (Rosenshine, 2012).
 
@@ -29,9 +29,9 @@ Ms Silva should pre-plan groupings, as pupil groupings can affect pupil motivati
 
 ### Preparing talk tasks that support pupil learning
 
-As well as getting the behaviour right, Ms Silva needs to ensure pupils have the best chance of learning successfully from talk. Pupils need to understand the goals of the task in relation to their learning. Because we ‘learn what we think hard about’ (Coe, 2013), Ms Silva’s aim should be to get _all_ pupils to think hard about important content during talk tasks. However, Ms Silva needs to balance this with ensuring that her pupils experience success, as this is critical for motivation and learning (Coe et al., 2014; Rosenshine, 2012).
+As well as getting the behaviour right, Ms Silva needs to ensure pupils have the best chance of learning successfully from talk. Pupils need to understand the goals of the task in relation to their learning. Because we 'learn what we think hard about' (Coe, 2013), Ms Silva's aim should be to get _all_ pupils to think hard about important content during talk tasks. However, Ms Silva needs to balance this with ensuring that her pupils experience success, as this is critical for motivation and learning (Coe et al., 2014; Rosenshine, 2012).
 
-A key factor in ensuring pupils think hard and experience success is teaching in ways that avoid overloading pupil working memory (Dean for Impact, 2015). Ms Silva’s talk tasks are more likely to succeed if she:
+A key factor in ensuring pupils think hard and experience success is teaching in ways that avoid overloading pupil working memory (Dean for Impact, 2015). Ms Silva's talk tasks are more likely to succeed if she:
 
 - Makes the tasks themselves simple, while keeping the content challenging (Gathercole et al., 2006). For example, using tasks with minimal steps.
 - Builds on existing pupil knowledge (Deans for Impact, 2015).
@@ -55,7 +55,7 @@ It is best when pupils are taught new knowledge before introducing pair or group
 
 While it is possible for teachers to pick up on pupil misconceptions during pupil discussions, this is not likely to be the quickest or most efficient way of checking for understanding: strong whole-class questioning might be more effective. Discussions are best used to help pupils organise their knowledge.
 
-Ability grouping shows limited evidence of impact on pupil outcomes (Coe et al., 2014). Ms Silva must ensure the groups pupils are placed in don’t negatively affect pupil attainment, behaviour and motivation. Ms Silva should ensure her within-class pupil groups are flexible and that she continuously considers why pupils are in a group because this is an effective way of tailoring support for identified pupil need(s) e.g. ensuring groups based on attainment are subject specific and changing groups regularly, avoiding the perception that groups are fixed.
+Ability grouping shows limited evidence of impact on pupil outcomes (Coe et al., 2014). Ms Silva must ensure the groups pupils are placed in don't negatively affect pupil attainment, behaviour and motivation. Ms Silva should ensure her within-class pupil groups are flexible and that she continuously considers why pupils are in a group because this is an effective way of tailoring support for identified pupil need(s) e.g. ensuring groups based on attainment are subject specific and changing groups regularly, avoiding the perception that groups are fixed.
 
 ### Key takeaways
 
@@ -104,7 +104,7 @@ that all teachers should know (American Educator)](https://www.aft.org/sites/def
 
 
 Tereshchenko, A., Francis, B., Archer, L., Hodgen, J., Mazenod, A., Taylor,
-B., and Travers, M. C. (2018), [Learners’ attitudes to mixed-attainment
+B., and Travers, M. C. (2018), [Learners' attitudes to mixed-attainment
 grouping: examining the views of students of high, middle and low attainment (Research papers in education)](https://www.tandfonline.com/doi/full/10.1080/02671522.2018.1452962).
 
 Van de Pol, J., Volman, M., Oort, F., and Beishuizen, J. (2015), The effects

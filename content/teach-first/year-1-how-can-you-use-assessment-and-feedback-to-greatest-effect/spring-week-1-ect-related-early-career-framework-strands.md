@@ -6,7 +6,7 @@ previous_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-g
 
 ## Assessment
 
-6.1 Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs.
+6.1 Effective assessment is critical to teaching because it provides teachers with information about pupils' understanding and needs.
 
 6.2 Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear.
 

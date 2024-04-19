@@ -32,6 +32,6 @@ _7o. Helping pupils to journey from needing extrinsic motivation to being motiva
 
 ## Professional Behaviours
 
-8.4 Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success.
+8.4 Building effective relationships with parents, carers and families can improve pupils' motivation, behaviour and academic success.
 
-_8h. Communicating with parents and carers proactively and making effective use of parents’ evenings to engage parents and carers in their children’s schooling._
+_8h. Communicating with parents and carers proactively and making effective use of parents' evenings to engage parents and carers in their children's schooling._

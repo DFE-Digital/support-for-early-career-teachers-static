@@ -51,7 +51,7 @@ Pose the question: what are some of the ways we could assess the learning at the
 Answers might include:
 
 - Do now activity. Advantages: useful to identify pupil starting point, useful as a recall tool. Disadvantages: might need a follow-on to secure learning.
-- Regular low-stake quizzes. Advantages: identifies what pupils know and can do, low-stakes so supportive of pupils’ needs, helps identify next steps. Disadvantage: potentially time-consuming.
+- Regular low-stake quizzes. Advantages: identifies what pupils know and can do, low-stakes so supportive of pupils' needs, helps identify next steps. Disadvantage: potentially time-consuming.
 - Exit tickets. Advantages: identifies what pupils know and can do. Disadvantage: timings – if we use these at the end of the lesson it might be too late to re-teach.
 - Hinge questions. Advantages: can target misconceptions. Disadvantage: pupils may be able to guess the correct answer.
 - Written questions which require short answers. Advantages: more detailed response so pupil understanding can be explored further. Disadvantage: time-consuming to mark.
@@ -68,7 +68,7 @@ Pose the question: why is this a non-example?
 
 Answers might include:
 
-- Not closely linked enough to the objective – we won’t get answers to show whether pupils have really understood how to use apostrophes.
+- Not closely linked enough to the objective – we won't get answers to show whether pupils have really understood how to use apostrophes.
 - Lacks reliability and validity.
 - Lacks structure.
 - What you expect of pupils is unclear.
@@ -80,9 +80,9 @@ End of lesson assessment: Exit ticket.
 
 Tick the following sentences which show apostrophes being used correctly
 
-1. The dog chased it’s tail
-2. It’s going to be a lovely, sunny day
-3. I would like lot’s of ice cream
+1. The dog chased it's tail
+2. It's going to be a lovely, sunny day
+3. I would like lot's of ice cream
 
 Pose the question: what is the issue here?
 
@@ -90,7 +90,7 @@ Answers might include:
 
 - Easy for pupils to guess – not enough items to be a valid assessment.
 - Does not ask much of pupils.
-- Doesn’t reveal anything about pupil thinking.- Answers do not allow for high-quality feedback.
+- Doesn't reveal anything about pupil thinking.- Answers do not allow for high-quality feedback.
 
 Example:
 
@@ -118,14 +118,14 @@ Answers might include:
 - Reliable and valid
 - Will highlight misconceptions.
 
-The ECT should plan out an assessment task to measure pupils’ progress towards the lesson objective/s at the end of the lesson.
+The ECT should plan out an assessment task to measure pupils' progress towards the lesson objective/s at the end of the lesson.
 
 Pose the question: how will you measure progress throughout the lesson towards meeting this objective?
 
 The ECT should use the following information to help them:
 
 - What will measure pupil progress towards achieving the lesson objective?
-- What do I want to know about pupils’ learning?
+- What do I want to know about pupils' learning?
 - What am I going to do with this information?
 - What is the best way of finding this out?
 - When am I going to find this out?

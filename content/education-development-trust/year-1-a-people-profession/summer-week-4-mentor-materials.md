@@ -33,7 +33,7 @@ Start the session by asking the ECT what they learned from their observation of 
 
 Together with the ECT read [Handout 6.2](/assets/materials/edt-Block-6-mentor-handout-6.2.pdf), which summarises evidence from research about teaching assistants. Discuss with the ECT what they think the key points are in the article.
 
-In relation to the ECT’s current practice discuss:
+In relation to the ECT's current practice discuss:
 
 - When have they identified activities where the TA can supplement learning?
 - How have they provided support for the TA so that they understand how they can work together effectively?
@@ -44,12 +44,12 @@ In relation to the ECT’s current practice discuss:
 
 The ECT may have already engaged with Activity 6.5 in the self-directed study materials, where there are ideas for working effectively with teaching assistants. In this part of the session, mentors should support the ECT to plan to try out some of the ideas in practice.
 
-To support this, [Handout 6.3](/assets/materials/edt-Block-6-mentor-handout-6.3.pdf) provides one school’s approach to clarifying the roles a TA could undertake. Before starting planning, rate (using red-amber-green) the suggestions in [Handout 6.2](/assets/materials/edt-Block-6-mentor-handout-6.2.pdf) to identify approaches the ECT is currently using, and strategies they could consider to further develop their working relationships with teaching assistants.
+To support this, [Handout 6.3](/assets/materials/edt-Block-6-mentor-handout-6.3.pdf) provides one school's approach to clarifying the roles a TA could undertake. Before starting planning, rate (using red-amber-green) the suggestions in [Handout 6.2](/assets/materials/edt-Block-6-mentor-handout-6.2.pdf) to identify approaches the ECT is currently using, and strategies they could consider to further develop their working relationships with teaching assistants.
 
 The ECT should understand that:
 
 - It is their responsibility to prepare the TA for their lessons by sharing learning outcomes and learning plans.
-- Joint planning of the TA’s role in the lesson enables the ECT and the TA to use their expertise appropriately.
+- Joint planning of the TA's role in the lesson enables the ECT and the TA to use their expertise appropriately.
 - Support provided by the TA in lessons is in addition to, rather than a replacement for, support from the teacher.
 - The most vulnerable pupils should have access to the most expert teaching (e.g. from the ECT themselves).
 

@@ -26,11 +26,11 @@ _4p. Providing scaffolds for pupil talk to increase the focus and rigour of dial
 
 ## Managing behaviour
 
-7.7 Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure.
+7.7 Pupils' investment in learning is also driven by their prior experiences and perceptions of success and failure.
 
 _7b. Working alongside colleagues as part of a wider system of behaviour management (e.g. recognising responsibilities and understanding the right to assistance and training from senior colleagues)._
 
-_7k. Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations._
+_7k. Liaising with parents, carers and colleagues to better understand pupils' individual circumstances and how they can be supported to meet high academic and behavioural expectations._
 
 _7m. Supporting pupils to master challenging content, which builds towards long-term goals._
 
@@ -40,7 +40,7 @@ _7o. Helping pupils to journey from needing extrinsic motivation to being motiva
 
 ## Professional Behaviours
 
-_8h. Communicating with parents and carers proactively and making effective use of parents’ evenings to engage parents and carers in their children’s schooling._
+_8h. Communicating with parents and carers proactively and making effective use of parents' evenings to engage parents and carers in their children's schooling._
 
 _8n. Understanding the right to support (e.g. to deal with misbehaviour)._
 

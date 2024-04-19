@@ -32,8 +32,8 @@ This week, in advance of your mentor meeting, you should use your self-study tim
 Schools are already data-rich environments.
 
 Practitioner inquiries, first of all,
-make use of what we call here ‘naturally occurring’ evidence. They are in the pupils’
-work and the ECT’s assessment of it. They are in the words and reactions of the pupils
+make use of what we call here 'naturally occurring' evidence. They are in the pupils'
+work and the ECT's assessment of it. They are in the words and reactions of the pupils
 and what the ECT has heard or seen of this.
 
 When we refer to evidence-collection,

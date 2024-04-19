@@ -36,15 +36,15 @@ Research has demonstrated that the higher the expectations that teachers have of
 Communicating expectations around routines are most effective when they are:
 
 - Concise: Communicate the routine using a few clear steps. Complexity can be added as routines get embedded.
-- Positively framed: Say what you want pupils to do rather than what you don’t want them to do.
+- Positively framed: Say what you want pupils to do rather than what you don't want them to do.
 - Modelled: Regularly show your pupils what you want them to do, particularly when you are in the early stages of establishing a routine.
 
 ### Getting routines to stick
 
 As well as setting clear expectations for a routine, we also have to think carefully about how we make that routine last. Routines will simply dissipate as pupils forget and other things interfere, unless we take intentional steps to make them stick. To maintain routines, we can (IES, 2008):
 
-- Revise: Continually repeat our expectations of what we think the routine should be like and why, even after pupils have ‘got it’.
-- Re-practise: Keep getting pupils to do the routine. In the early days, you can even get them to do a ‘rehearsal’ or two.
+- Revise: Continually repeat our expectations of what we think the routine should be like and why, even after pupils have 'got it'.
+- Re-practise: Keep getting pupils to do the routine. In the early days, you can even get them to do a 'rehearsal' or two.
 - Reinforce: Use the school behaviour system (e.g. praise, rewards and sanctions) to help pupils keep to the routine. To be effective, reinforcement should be mostly positive and consistently applied.
 
 When routines are established, not only do they create more time and a better environment for learning, but they can help teachers see and deal with undesirable behaviour as soon as it arises. Routines create predictable patterns of classroom activity and so make it easy to spot when behaviour deviates from what is expected. Catching and correcting challenging behaviour early can make pupils feel safer and creates a warmer classroom environment where learning is more likely to occur (Kern & Clemens, 2007).

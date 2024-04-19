@@ -25,7 +25,7 @@ Google Analytics stores anonymised information about:
     <tr class="govuk-table__row">
       <td class="govuk-table__cell"><code>_ga</code></td>
       <td class="govuk-table__cell">
-        Checks if you’ve visited the service before. This helps us count how many people visit our site.
+        Checks if you've visited the service before. This helps us count how many people visit our site.
       </td>
       <td class="govuk-table__cell">
         2 years
@@ -34,7 +34,7 @@ Google Analytics stores anonymised information about:
     <tr class="govuk-table__row">
       <td class="govuk-table__cell"><code>_gid</code></td>
       <td class="govuk-table__cell">
-        Checks if you’ve visited the service before. This helps us count how many people visit our site.
+        Checks if you've visited the service before. This helps us count how many people visit our site.
       </td>
       <td class="govuk-table__cell">
         24 hours

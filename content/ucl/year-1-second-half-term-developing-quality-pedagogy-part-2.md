@@ -4,11 +4,11 @@ heading: "Second half term: developing quality pedagogy (part 2)"
 caption: "Year 1"
 ---
 
-In this module you’ll extend your knowledge of effective modelling that enables pupils to tackle difficult concepts.
+In this module you'll extend your knowledge of effective modelling that enables pupils to tackle difficult concepts.
 
 ## Week 1: using groupings to support specific needs
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -28,9 +28,9 @@ Use the materials below to:
 
 [View mentor materials](/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spring-week-1-mentor-materials)
 
-## Week 2: building on pupils’ prior knowledge through formative assessment
+## Week 2: building on pupils' prior knowledge through formative assessment
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -52,7 +52,7 @@ Use the materials below to:
 
 ## Week 3: making new concepts accessible through targeted support
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -74,7 +74,7 @@ Use the materials below to:
 
 ## Week 4: meeting individual needs and balancing workload
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor

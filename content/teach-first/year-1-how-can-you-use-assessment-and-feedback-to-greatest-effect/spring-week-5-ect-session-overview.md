@@ -9,4 +9,4 @@ How can we make feedback purposeful and manageable?
 This session will focus on:
 
 - Understanding what effective peer and self-assessment looks like
-- Improving pupils’ metacognitive strategies to support them to be more independent learners
+- Improving pupils' metacognitive strategies to support them to be more independent learners

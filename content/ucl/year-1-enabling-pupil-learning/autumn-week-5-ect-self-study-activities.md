@@ -6,13 +6,13 @@ previous_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-5-ect-research-a
 
 ## Review: 15 mins
 
-Read the research and practice summary on this week’s topic. As you read, reflect on:
+Read the research and practice summary on this week's topic. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time, but could do more of/more consistently
 3. the practices you do not use in your teaching yet
 
-As you work through the activities in this week’s self-directed study session and mentor meeting, aim both to refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
+As you work through the activities in this week's self-directed study session and mentor meeting, aim both to refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
 
 ## Plan and Theory to Practice: 30 mins
 

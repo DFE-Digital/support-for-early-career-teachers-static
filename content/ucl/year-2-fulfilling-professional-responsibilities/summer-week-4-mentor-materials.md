@@ -38,7 +38,7 @@ To support this action-planning process, you could:
 - encourage your mentee to use a planning format that works for them – this could be a standard planning document that you use in your school or a different approach that your mentee is familiar with
 - check that targets are SMART (specific, measurable, achievable, relevant and time-bound) and that clear action steps are identified to work towards each target
 - refer your mentee back to the notes made in each of the sessions in this module to remind them of what was previously discussed
-- use your knowledge and experience to help ensure that the action plan is sufficiently challenging whilst remaining manageable within your mentee’s overall context
+- use your knowledge and experience to help ensure that the action plan is sufficiently challenging whilst remaining manageable within your mentee's overall context
 - recommend that your mentee puts into their diary now a future date on which they will review their progress towards the targets set
 
 Next Steps: 5 mins

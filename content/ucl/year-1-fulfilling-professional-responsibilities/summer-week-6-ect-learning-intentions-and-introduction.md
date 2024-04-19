@@ -24,4 +24,4 @@ Develop as a professional, by:
 
 ## Introduction
 
-In the ECT training session at the beginning of this module, you considered some important aspects of what it means to be (a) professional and approaches to managing your professional development over time. This has been expanded through subsequent sessions in the module. In this week’s self-directed study session, you have the opportunity to revisit your thinking around professional development and to explore opportunities to continue to develop yourself over time.
+In the ECT training session at the beginning of this module, you considered some important aspects of what it means to be (a) professional and approaches to managing your professional development over time. This has been expanded through subsequent sessions in the module. In this week's self-directed study session, you have the opportunity to revisit your thinking around professional development and to explore opportunities to continue to develop yourself over time.

@@ -14,7 +14,7 @@ To support you to do this, in this session you will explore:
 
   - Greeting pupils at the door and settling task
   - Transitioning to and from the carpet
-  - Getting pupils’ attention
+  - Getting pupils' attention
   - Exit routines
 
 - How to plan and teach a routine

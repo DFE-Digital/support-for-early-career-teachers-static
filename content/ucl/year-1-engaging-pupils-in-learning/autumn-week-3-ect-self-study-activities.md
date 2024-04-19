@@ -11,7 +11,7 @@ Read the Research and Practice Summary on literacy, including the 2 case studies
 - Can you give examples from your teaching or where you have observed these aspects of literacy teaching? You can take a note of any you are unsure of to discuss later with your mentor.
 - For each of the key concepts, think of them in terms of your own practice. (You might call to mind a particular pupil or a teaching strategy you like to use or one you have seen another teacher use.)
 
-As you work through the activities in this week’s self-directed study session and mentor meeting, aim to both sharpen and extend what you already do well and to build your skill and confidence in using practices which aren’t yet a regular part of your teaching repertoire.
+As you work through the activities in this week's self-directed study session and mentor meeting, aim to both sharpen and extend what you already do well and to build your skill and confidence in using practices which aren't yet a regular part of your teaching repertoire.
 
 ## Plan: 10 mins
 
@@ -47,8 +47,8 @@ Choose an aspect of literacy outlined below and an area of focus for discussion 
 
 #### Possible foci for observation or discussion
 
-- How is handwriting taught? Is a specific programme used to teach handwriting systematically? E.g. Review children’s writing outcomes together and consider progression in handwriting.
-- How are parents/carers involved in supporting younger pupils’ reading? E.g. School support for parents/carers, such as workshops to develop their understanding of approaches to teaching early reading.
+- How is handwriting taught? Is a specific programme used to teach handwriting systematically? E.g. Review children's writing outcomes together and consider progression in handwriting.
+- How are parents/carers involved in supporting younger pupils' reading? E.g. School support for parents/carers, such as workshops to develop their understanding of approaches to teaching early reading.
 
 ### Learning intention: Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
 
@@ -68,15 +68,15 @@ Choose an aspect of literacy outlined below and an area of focus for discussion 
 
 #### Possible foci for observation or discussion
 
-- How does the teacher engage pupils in reading a wide range of high-quality texts? For example, developing their own knowledge of children’s literature and sharing their own interests with pupils.
+- How does the teacher engage pupils in reading a wide range of high-quality texts? For example, developing their own knowledge of children's literature and sharing their own interests with pupils.
 - How does the school promote reading for pleasure? For example, through the development of reading buddies, book clubs and reading cafes with parents and pupils.
 
 ### Learning intention: Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (e.g. requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
 
 #### Possible foci for observation or discussion
 
-- How does the teacher encourage pupils to build on one another’s responses? For example, use of ground rules to support the creation of a positive climate for constructive dialogue (I like what X said about this, and I would add… I understand the point that Y made, but I think…).
-- To what extent do they use sentence stems to scaffold pupils’ oral responses? For example, use of key phrases to support pupils’ responses to talk partner questions (I agree with… because… I understand what you are saying, but have you considered…?).
+- How does the teacher encourage pupils to build on one another's responses? For example, use of ground rules to support the creation of a positive climate for constructive dialogue (I like what X said about this, and I would add… I understand the point that Y made, but I think…).
+- To what extent do they use sentence stems to scaffold pupils' oral responses? For example, use of key phrases to support pupils' responses to talk partner questions (I agree with… because… I understand what you are saying, but have you considered…?).
 
 ### Learning intention: Teaching different forms of writing by modelling, planning, drafting and editing.
 

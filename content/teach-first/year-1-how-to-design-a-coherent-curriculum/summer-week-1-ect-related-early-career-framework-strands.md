@@ -6,9 +6,9 @@ previous_path: "/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-w
 
 ## Subject and curriculum
 
-3.1 A school’s curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning.
+3.1 A school's curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning.
 
-_3b. Ensuring pupils’ thinking is focused on key ideas within the subject._
+_3b. Ensuring pupils' thinking is focused on key ideas within the subject._
 
 _3c. Working with experienced colleagues to accumulate and refine a collection of powerful analogies, illustrations, examples, explanations and demonstrations._
 

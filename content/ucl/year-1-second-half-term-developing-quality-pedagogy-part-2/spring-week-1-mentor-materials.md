@@ -30,18 +30,18 @@ Molly is a Year 8 pupil with a moderate learning difficulty. She has been identi
 
 ▪ What steps could be put in place during a lesson to ensure information is embedded for Molly?
 
-Barriers to learningare specific factors which prevent pupils from making progress and acquiring new knowledge and skills. These can be additional learning needs, such as dyslexia, or external factors, such as bereavement or challenging home circumstances. There can also be barriers to learning within the classroom, such as poor behaviour or lack of facilities and/or equipment. A pupil’s socio-economic circumstances can also result in significant barriers to learning.
+Barriers to learningare specific factors which prevent pupils from making progress and acquiring new knowledge and skills. These can be additional learning needs, such as dyslexia, or external factors, such as bereavement or challenging home circumstances. There can also be barriers to learning within the classroom, such as poor behaviour or lack of facilities and/or equipment. A pupil's socio-economic circumstances can also result in significant barriers to learning.
 
-To help you to identify and overcome pupils’ barriers to learning, you should:
+To help you to identify and overcome pupils' barriers to learning, you should:
 
 - work closely with the SENCO, your Designated Safeguarding Lead and other special education professionals who work in or visit your school
 - use the SEND Code of Practice, which has guidance on supporting SEND pupils
-- learn more about your pupils’ barriers by liaising with their families and other colleagues
+- learn more about your pupils' barriers by liaising with their families and other colleagues
 - if you have them, talk to teaching assistants or learning support advisors who may be keyworkers for the pupils you teach
 
-Molly’s teachers know that she has a moderate learning difficulty but they may not all understand what strategies have proven to work well for her. Specialist and experienced colleagues can help with this, such as the SENCO; the SEND Code of Practice contains practical guidance. Molly’s family have a lot of insight into what helps their daughter succeed; they can help guide her at home as well as talk to her teachers about these strategies.
+Molly's teachers know that she has a moderate learning difficulty but they may not all understand what strategies have proven to work well for her. Specialist and experienced colleagues can help with this, such as the SENCO; the SEND Code of Practice contains practical guidance. Molly's family have a lot of insight into what helps their daughter succeed; they can help guide her at home as well as talk to her teachers about these strategies.
 
-One of the most important aspects of teaching is the ability to establish an accurate understanding of the pupils’ prior knowledge within a given subject or domain. In this way, the teacher can start with where their pupils are and help them from there rather than working backwards from a long-term learning goal. It is also understood that increased prior knowledge reduces working memory load. When pupils encounter familiar problems, this activates information from long-term memory and supports working memory, where problem-solving occurs. Novice pupils therefore find complex activities like problem-solving, critical thinking and creativity particularly effortful, as they have fewer experiences (and therefore less prior knowledge) and the problems they encounter are more likely to be novel. Where prior knowledge is weak, inaccurate or misapplied, it can have a distorting effect both on the immediate activity and on the learning that results from this.
+One of the most important aspects of teaching is the ability to establish an accurate understanding of the pupils' prior knowledge within a given subject or domain. In this way, the teacher can start with where their pupils are and help them from there rather than working backwards from a long-term learning goal. It is also understood that increased prior knowledge reduces working memory load. When pupils encounter familiar problems, this activates information from long-term memory and supports working memory, where problem-solving occurs. Novice pupils therefore find complex activities like problem-solving, critical thinking and creativity particularly effortful, as they have fewer experiences (and therefore less prior knowledge) and the problems they encounter are more likely to be novel. Where prior knowledge is weak, inaccurate or misapplied, it can have a distorting effect both on the immediate activity and on the learning that results from this.
 
 To help you address the prior knowledge needs of your pupils where they have specific learning needs, you should:
 
@@ -54,7 +54,7 @@ To help you address the prior knowledge needs of your pupils where they have spe
 
 Which of these strategies would be likely to be effective with Molly?
 
-Adaptive teachinginvolves being flexible and responsive about the methods used in lessons to ensure that they can meet the needs of all their pupils and deviate from the lesson plan, where necessary. Adaptive teaching requires a reflective approach, since the teacher needs to be able to acknowledge the need to change the strategy being used. Although adaptive teaching is easier with experience, it can be achieved early in a teacher’s career through careful planning – by anticipating pupil misconceptions before they arise, for example. It is important that this is done in response to pupils’ needs, not as an artificial process which breaks the flow of the lesson.
+Adaptive teachinginvolves being flexible and responsive about the methods used in lessons to ensure that they can meet the needs of all their pupils and deviate from the lesson plan, where necessary. Adaptive teaching requires a reflective approach, since the teacher needs to be able to acknowledge the need to change the strategy being used. Although adaptive teaching is easier with experience, it can be achieved early in a teacher's career through careful planning – by anticipating pupil misconceptions before they arise, for example. It is important that this is done in response to pupils' needs, not as an artificial process which breaks the flow of the lesson.
 
 Adaptive teaching includes providing targeted support to pupils who are struggling, but creating separate distinct tasks for different groups is less likely to be valuable: it risks lowering expectations for some, and it can add unnecessarily to workload.
 
@@ -75,7 +75,7 @@ To help your pupils with specific learning needs to learn through practice, you 
 - design practice tasks to ensure a high success rate for your pupils, but
 - over time, increase the challenge, for example, by removing scaffolding or by increasing the length of time between visits to the topic
 
-Mr Andrews planned a Year 8 lesson on the ‘problems of living in a city’. The pupils were provided with several paragraphs of information on the given topic. Pupils needed to break down the information via a series of small illustrations/symbols, which would later serve as visual memory prompts. Pupils could write only a maximum of four key words to support their work.
+Mr Andrews planned a Year 8 lesson on the 'problems of living in a city'. The pupils were provided with several paragraphs of information on the given topic. Pupils needed to break down the information via a series of small illustrations/symbols, which would later serve as visual memory prompts. Pupils could write only a maximum of four key words to support their work.
 
 - For Molly, the next step to secure this knowledge further was to have her use her illustrations and word prompts to recall this information verbally to a study partner before attempting any comprehension work or written work about the topic.
 - Beforehand, Mr Andrews modelled for them how he wanted them to conduct their paired talk. He knows that pairings such as this can increase success for Molly but also that he needs to give her and her partner clear guidance. He has discovered that, for now at least, this pairing seems to have improved the behaviour and motivation of both Molly and her partner, but he is keeping an eye on this and will assess the impact also on their attainment.
@@ -88,13 +88,13 @@ Throughout the session, try to refer explicitly to the Learning Intentions and e
 
 ### Review and Plan 5 mins
 
-- Start this session by briefly following up the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise
+- Start this session by briefly following up the actions that the mentee set at the end of last week's session. Ask your mentee to summarise
 - what they did
 - the impact of this on pupil learning (including how they are evaluating this)
 - what they will do going forward to build on these actions
 - Clarify the Learning Intentions for this session with your mentee.
 
-At the start of this module, you looked at all of the ‘learn how to’ statements for Standards 4 and 5 and conducted a module audit with your mentee: in some areas they will already be confident and skilled; in others, they will want more practice and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
+At the start of this module, you looked at all of the 'learn how to' statements for Standards 4 and 5 and conducted a module audit with your mentee: in some areas they will already be confident and skilled; in others, they will want more practice and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
 
 ### Theory to Practice 40 mins
 
@@ -123,8 +123,8 @@ You are now going to challenge them to think harder while supporting them with p
 ##### Practical suggestions
 
 - Avoid setting different learning objectives for different pupils – these may signal low expectations for some pupils
-- Teaching the whole class, where you ‘teach to the top’ and scaffold so that all can achieve, means that all pupils should experience the same curriculum
-- Avoid signalling that you are giving ‘easier’ work to some pupils – use language like ‘my challenge for you is...’
+- Teaching the whole class, where you 'teach to the top' and scaffold so that all can achieve, means that all pupils should experience the same curriculum
+- Avoid signalling that you are giving 'easier' work to some pupils – use language like 'my challenge for you is...'
 
 #### Further challenge: Changing groups regularly, thus avoiding the perception that the groups are fixed
 
@@ -138,15 +138,15 @@ You are now going to challenge them to think harder while supporting them with p
 
 ##### Practical suggestions
 
-- Avoid grouping pupils according to your perceptions of their ‘fixed abilities’ or your expectations for their behaviour – doing so lowers expectations
+- Avoid grouping pupils according to your perceptions of their 'fixed abilities' or your expectations for their behaviour – doing so lowers expectations
 - If you teach a number of topics or subjects to the same class, avoid keeping the pupils in the same groups (if you group by attainment)
 
 ### Next Steps 5 mins
 
-Come to an agreement with your mentee as to how they will put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
+Come to an agreement with your mentee as to how they will put their learning from this week's session(s) into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these action(s) are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these action(s)
+2. what success will 'look like' in relation to these action(s)
 3. how they will evaluate their success in taking these action(s)
 
-Note the date of your next mentor meeting, during which you will check on your mentee’s progress.
+Note the date of your next mentor meeting, during which you will check on your mentee's progress.

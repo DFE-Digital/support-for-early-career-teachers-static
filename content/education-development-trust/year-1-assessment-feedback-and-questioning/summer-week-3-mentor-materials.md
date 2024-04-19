@@ -80,13 +80,13 @@ Hinge question during the lesson.
 ##### Decision this will support:
 I want to know whether pupils have grasped the concept so I can move on or whether I need to reteach it.
 
-The ECT should select one misconception from their list and decide how they are going to check pupils’ understanding of this. Together with the mentor they should plan the assessment.
+The ECT should select one misconception from their list and decide how they are going to check pupils' understanding of this. Together with the mentor they should plan the assessment.
 
 ### In class tasks and questioning to enable identification of knowledge gaps and misconceptions (15 minutes)
 
-Together, look back at the ECT’s list of potential misconceptions from an upcoming topic. Select a different one to the previous activity.
+Together, look back at the ECT's list of potential misconceptions from an upcoming topic. Select a different one to the previous activity.
 
-Together, draft two hinge questions that can be used to check for understanding and to identify pupils’ misconceptions and knowledge gaps. Remember, answers should:
+Together, draft two hinge questions that can be used to check for understanding and to identify pupils' misconceptions and knowledge gaps. Remember, answers should:
 
 - Allow you to make inferences about pupils learning
 - Focus on key learning
@@ -154,9 +154,9 @@ Learn how to provide high quality feedback, by:
 
 ### Activating the learning (5 minutes)
 
-This topic focuses on checking pupils’ prior knowledge and understanding during lessons.
+This topic focuses on checking pupils' prior knowledge and understanding during lessons.
 
-Pose the question: from the knowledge you have developed so far, why is checking pupils’ prior knowledge and understanding during lessons important?
+Pose the question: from the knowledge you have developed so far, why is checking pupils' prior knowledge and understanding during lessons important?
 
 Answers might include:
 
@@ -171,7 +171,7 @@ Answers might include:
 
 Read together the extract of a teacher talking about how she supports pupils to elaborate on their responses.
 
-“In my school, one of the strands of our literacy policy is that when pupils are giving verbal responses either to me or when speaking to each other they must use full sentences. This is an idea that is embedded within the school and I reinforce during lessons. For example, I will make sure that I remind pupils that they need to respond in full sentences and I usually model an example of a full sentence. If pupils respond with just one or two words, I ask pupils to rephrase and put their response into a full sentence. This means that pupils tend to respond fairly fully to questioning. However, there are levels of sophistication with full sentences – quite often pupils will respond in a full sentence but won’t have justified their answer for example. So, say I asked the pupils ‘what was the most effective response to the earthquake’, a pupil might answer ‘I think the early warning system was the most effective response’. In this instance, I would prompt a pupil by asking him or her ‘why do you say that?’ or ‘can you say a bit more about that to explain your answer?’. This helps me to establish whether the reasoning behind the answer is sound. It is helpful to remind pupils that the word ‘because’ should feature in their answer because this supports them to provide a justification without a prompt."
+“In my school, one of the strands of our literacy policy is that when pupils are giving verbal responses either to me or when speaking to each other they must use full sentences. This is an idea that is embedded within the school and I reinforce during lessons. For example, I will make sure that I remind pupils that they need to respond in full sentences and I usually model an example of a full sentence. If pupils respond with just one or two words, I ask pupils to rephrase and put their response into a full sentence. This means that pupils tend to respond fairly fully to questioning. However, there are levels of sophistication with full sentences – quite often pupils will respond in a full sentence but won't have justified their answer for example. So, say I asked the pupils 'what was the most effective response to the earthquake', a pupil might answer 'I think the early warning system was the most effective response'. In this instance, I would prompt a pupil by asking him or her 'why do you say that?' or 'can you say a bit more about that to explain your answer?'. This helps me to establish whether the reasoning behind the answer is sound. It is helpful to remind pupils that the word 'because' should feature in their answer because this supports them to provide a justification without a prompt."
 
 1. What strategies does the teacher have to get pupils to elaborate on their responses?
 2. Is this something you are doing?
@@ -205,7 +205,7 @@ Pose the question: can you come up with some more stems that are relevant to you
 
 ### Monitoring pupil work during lessons (25 minutes)
 
-One way that you can check prior knowledge and understanding during lessons is to monitor pupils’ work. This can be done using ‘live marking’ as a strategy. Together, watch the video from the self-directed study materials.
+One way that you can check prior knowledge and understanding during lessons is to monitor pupils' work. This can be done using 'live marking' as a strategy. Together, watch the video from the self-directed study materials.
 
 Questions for discussion:
 
@@ -251,13 +251,13 @@ What will be the highest leverage feedback you can give to each pupil?
 
 Example:
 
-Megan has incorrectly used a simile but also has not used any capital letters. I don’t want to overwhelm her with feedback, so I make the decision to just focus on capital letters for the moment. I put a ‘c’ in the margin of her work which tells her she needs to read through her work and check her capital letters. I will circle back in a few minutes and check she has addressed this.
+Megan has incorrectly used a simile but also has not used any capital letters. I don't want to overwhelm her with feedback, so I make the decision to just focus on capital letters for the moment. I put a 'c' in the margin of her work which tells her she needs to read through her work and check her capital letters. I will circle back in a few minutes and check she has addressed this.
 
 What will you do if you see misconceptions?
 
 - If you see the misconception from one pupil you might want to address it with that pupil.
 
-- If you see the misconception occurring in more than one pupil’s work, you may want to stop the class and address the misconception in the moment.
+- If you see the misconception occurring in more than one pupil's work, you may want to stop the class and address the misconception in the moment.
 
 Example:
 

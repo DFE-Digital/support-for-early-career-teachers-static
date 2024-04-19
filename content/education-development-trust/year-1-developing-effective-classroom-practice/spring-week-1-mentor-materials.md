@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 1"
 ---
 
-## Setting the scene and becoming an ‘effective teacher’
+## Setting the scene and becoming an 'effective teacher'
 
 ### Intended outcomes
 
@@ -12,7 +12,7 @@ The intended outcomes of this session are for Early Career Teachers to:
 
 Learn that:
 
-- Effective teaching can transform pupils’ knowledge, capabilities and beliefs about learning
+- Effective teaching can transform pupils' knowledge, capabilities and beliefs about learning
 - Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned
 - Modelling helps pupils understand new processes and ideas; good models make abstract ideas concrete and accessible
 - Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases
@@ -21,26 +21,26 @@ Learn that:
 
 ### Activities
 
-### Introducing the module: what does it mean to be an ‘effective teacher’? (10 minutes)
+### Introducing the module: what does it mean to be an 'effective teacher'? (10 minutes)
 
 Preparing for this module:
 
 - Each school will have policies in relation to teaching and learning and what in their view constitutes effective teaching.
 - The ECT will need to be aware of these policies as they are likely to be important for performance management purposes.
-- It would be worth the mentor identifying who the school’s most effective teachers are, so that they can guide the ECT towards these colleagues for observations and discussions.
+- It would be worth the mentor identifying who the school's most effective teachers are, so that they can guide the ECT towards these colleagues for observations and discussions.
 
 Some questions for discussion:
 
-- What do you think it means to be an ‘effective teacher’?
+- What do you think it means to be an 'effective teacher'?
 
 You may discuss things like:
 
 - Influence on pupil grades/outcomes
-- Influence on pupils’ beliefs about education and learning, i.e. that it is valuable
-- Influence on pupils’ future choices, e.g. studying your subject at A-level or university
-- Influence over pupils’ enjoyment of school and their wellbeing
-- Influence on pupils’ social skills
-- That ‘being popular/funny/strict’ do not necessarily \_equate with being effective
+- Influence on pupils' beliefs about education and learning, i.e. that it is valuable
+- Influence on pupils' future choices, e.g. studying your subject at A-level or university
+- Influence over pupils' enjoyment of school and their wellbeing
+- Influence on pupils' social skills
+- That 'being popular/funny/strict' do not necessarily \_equate with being effective
 
 Read the following extract from Coe et al (2014) What makes great teaching ([Handout 3.1](/assets/materials/edt-Block-3-mentor-handout-3.1.pdf) could also be used to support the discussion):
 
@@ -50,12 +50,12 @@ Great teaching is defined as that which leads to improved student progress. We d
 
 Guidance for mentors:
 
-- The ECT should have read the ‘Understanding the Evidence’ section of the self-directed study materials ahead of the topic.
+- The ECT should have read the 'Understanding the Evidence' section of the self-directed study materials ahead of the topic.
 - The mentor should also read them to familiarise themselves with the content.
-- In this portion of the mentor topic, the mentor will be asking questions to check the ECT’s understanding of what they have read. The guidance below provides a full range of responses that show understanding. However, the mentor should not treat this as a ‘test’ of the ECT’s knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
+- In this portion of the mentor topic, the mentor will be asking questions to check the ECT's understanding of what they have read. The guidance below provides a full range of responses that show understanding. However, the mentor should not treat this as a 'test' of the ECT's knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
 
 Suggested dialogue for mentors:
-You completed Activity 4.2 of the self-directed study materials ‘Understanding the Evidence’ in relation to what makes effective teaching ahead of this topic. Let’s discuss your response to the questions to check your understanding of that material.
+You completed Activity 4.2 of the self-directed study materials 'Understanding the Evidence' in relation to what makes effective teaching ahead of this topic. Let's discuss your response to the questions to check your understanding of that material.
 
 - Why is introducing new material in steps so important?
 
@@ -71,8 +71,8 @@ You completed Activity 4.2 of the self-directed study materials ‘Understanding
 
   - Effective modelling supports pupils to know both how and what to do.
   - We should model how we want pupils to complete a task, e.g. the way we want the information to be presented.
-  - As an ‘expert’ we should model the thought processes used to arrive at a correct solution e.g. the next thing I would do to solve this problem is….
-  - We help pupils to understand ‘what a good one looks like’.
+  - As an 'expert' we should model the thought processes used to arrive at a correct solution e.g. the next thing I would do to solve this problem is….
+  - We help pupils to understand 'what a good one looks like'.
 
 - Why should you consider when and how you will remove support and/or scaffolding?
 
@@ -81,22 +81,22 @@ You completed Activity 4.2 of the self-directed study materials ‘Understanding
 
 - Why is it important to teach pupils metacognitive strategies?
 
-  - There is evidence to suggest that there is a link between pupils’ thinking skills and achievement.
+  - There is evidence to suggest that there is a link between pupils' thinking skills and achievement.
   - Supporting pupils to understand why and how to make choices about their learning makes them more effective learners.
-  - Pupils do get better at this naturally as they mature, but they don’t spontaneously become excellent at it – that is why we need to teach them explicitly.
+  - Pupils do get better at this naturally as they mature, but they don't spontaneously become excellent at it – that is why we need to teach them explicitly.
 
 - Why is pupil practice important?
-  - The adage ‘practice makes perfect’ is true!
-  - Learning is the ‘residue of thought’ (Willingham), i.e. what we are able to transfer to our long-term memory is information that is ‘learnt’.
+  - The adage 'practice makes perfect' is true!
+  - Learning is the 'residue of thought' (Willingham), i.e. what we are able to transfer to our long-term memory is information that is 'learnt'.
   - We need to support pupils in transferring knowledge from their working memory to their long-term memory and practice is the way to do this.
 
 ### Reflecting on your own practice (20 minutes)
 
-Becoming an ‘effective teacher’ can feel like a daunting task for. By this point in the year, they will already have had some successes and so this task should help them identify what they need to build on.
+Becoming an 'effective teacher' can feel like a daunting task for. By this point in the year, they will already have had some successes and so this task should help them identify what they need to build on.
 
 Use the questions below to help identify successes and where development might be needed. The mentor should introduce the activity and share their own experience:
 
-Mentor: “At the start of your career, it can feel daunting or a lot of pressure to become a really ‘effective teacher’. [The mentor should share some experience of how this was for them when they first started]
+Mentor: “At the start of your career, it can feel daunting or a lot of pressure to become a really 'effective teacher'. [The mentor should share some experience of how this was for them when they first started]
 
 It is important to remember that there are lots of resources available (including more experienced teachers) who can help you to develop the effective teaching practices you need and we will do a lot of this through our weekly topics. You will have already taught something you think has gone really well this year, so I want you to reflect back on that experience, take a moment to appreciate your successes and to recognise the resources that you found useful and why”
 

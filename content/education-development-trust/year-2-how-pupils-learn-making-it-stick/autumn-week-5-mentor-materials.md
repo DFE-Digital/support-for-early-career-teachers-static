@@ -29,7 +29,7 @@ Ask the ECT whether they have used any of the activities that were discussed in 
 
 Pose the question: Why do we want pupils to experience success with challenging work?
 
-The aim is of course that eventually pupils will complete challenging tasks independently but they are still novices and so they may not be able to yet. If pupils failed every time they did challenging work, their levels of motivation would drop. This might mean that they give up and do not want to try again. By experiencing success with challenging work, pupils are able to know what the ‘best’ looks like and what they are striving towards. This can be motivating.
+The aim is of course that eventually pupils will complete challenging tasks independently but they are still novices and so they may not be able to yet. If pupils failed every time they did challenging work, their levels of motivation would drop. This might mean that they give up and do not want to try again. By experiencing success with challenging work, pupils are able to know what the 'best' looks like and what they are striving towards. This can be motivating.
 
 ### Designing practice, generation and retrieval tasks with enough support so pupils experience a high success rate with challenging work (20 minutes)
 
@@ -53,7 +53,7 @@ Ask the ECT to identify what new ideas or solutions the pupils will need to gene
 Some ideas could include:
 
 - Handing out a partially completed mind map with ideas on it
-- Providing a set of prompt questions such as ‘What else could work here?’, ‘What are the benefits of each idea?’
+- Providing a set of prompt questions such as 'What else could work here?', 'What are the benefits of each idea?'
 - Giving pupils a time limit to generate as many ideas as possible individually and then share them with a small group so they build up a bank of great ideas on their table
 - Doing a round robin in the class by asking each pupil to add a new idea onto the list you are collectively generating, keep going until no-one can think of anything new.
 
@@ -70,7 +70,7 @@ Some ideas could include:
 
 ### Increasing challenge with practice and retrieval as knowledge becomes more secure (e.g. by removing scaffolding, lengthening spacing or introducing interacting elements (15 minutes)
 
-Ask the ECT how they would adapt each of the above activities to increase the level of challenge as pupils’ knowledge becomes more secure.
+Ask the ECT how they would adapt each of the above activities to increase the level of challenge as pupils' knowledge becomes more secure.
 
 ### Planning for action
 

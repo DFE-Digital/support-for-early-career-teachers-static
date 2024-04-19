@@ -4,7 +4,7 @@ heading: "First half term: developing quality pedagogy (part 1)"
 caption: "Year 1"
 ---
 
-In this module you’ll extend your knowledge of effective modelling that enables pupils to tackle difficult concepts.
+In this module you'll extend your knowledge of effective modelling that enables pupils to tackle difficult concepts.
 
 ## Week 1: module audit
 
@@ -19,10 +19,10 @@ During the first week of the module, you should take a look at the topics being 
 
 ## Week 2: implementing effective modelling
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- catch up with your mentor to reflect on what you've learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 45 minutes.
 
@@ -41,7 +41,7 @@ Use the materials below to:
 
 ## Week 3: introducing new material in steps using exposition and questioning
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -63,7 +63,7 @@ Use the materials below to:
 
 ## Week 4: modelling metacognitive strategies
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -85,7 +85,7 @@ Use the materials below to:
 
 ## Week 5: developing high-quality classroom talk
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor

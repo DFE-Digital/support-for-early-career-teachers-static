@@ -20,7 +20,7 @@ _4e. Breaking tasks down into constituent components when first setting up indep
 
 ## Subject and curriculum
 
-3.10 Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
+3.10 Every teacher can improve pupils' literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
 
 _3n. Supporting younger pupils to become fluent readers and to write fluently and legibly._
 

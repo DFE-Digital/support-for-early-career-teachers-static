@@ -4,11 +4,11 @@ heading: "Second half-term: how to design a coherent curriculum"
 caption: "Year 1"
 ---
 
-In this module you’ll learn how to design a carefully sequenced and coherent scheme of work, and how this will improve learning for your pupils.
+In this module you'll learn how to design a carefully sequenced and coherent scheme of work, and how this will improve learning for your pupils.
 
 ## Introduction to the module
 
-Go through the module introduction to see what you’ll be learning.
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -23,7 +23,7 @@ Go through the module introduction to see what the ECT will be learning.
 During the first topic of the module you need to:
 
 - work through the self-study materials below
-- meet your mentor to discuss what you’ll be doing in the weeks ahead
+- meet your mentor to discuss what you'll be doing in the weeks ahead
 
 Duration: 25 minutes.
 
@@ -39,7 +39,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 2: identifying concepts, knowledge and skills
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -58,7 +58,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 3: sequencing teaching and learning
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -77,7 +77,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 4: helping pupils master important concepts, knowledge and skills – part 1
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -96,7 +96,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 5: helping pupils master important concepts, knowledge and skills – part 2
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -115,7 +115,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 6: supporting pupils to build increasingly complex mental models
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor

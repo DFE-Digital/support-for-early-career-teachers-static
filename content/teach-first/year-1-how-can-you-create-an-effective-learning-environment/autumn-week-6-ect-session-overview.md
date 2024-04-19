@@ -13,5 +13,5 @@ To support you to do this, this session will explore:
 - How can you boost motivation?
 
   - Providing opportunities for pupils to experience meaningful success
-  - Creating a positive learning environment where it’s safe to make mistakes
-  - Generating buy-in by linking success in school to pupils’ long-term goals
+  - Creating a positive learning environment where it's safe to make mistakes
+  - Generating buy-in by linking success in school to pupils' long-term goals

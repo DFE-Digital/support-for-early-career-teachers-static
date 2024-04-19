@@ -18,5 +18,5 @@ To support you to use questioning effectively, in this session you will explore:
 
 - Extending and challenging pupils
 
-  - Do not complete pupils’ answers
+  - Do not complete pupils' answers
   - Ask follow-up questions

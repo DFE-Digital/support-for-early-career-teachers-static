@@ -8,7 +8,7 @@ previous_path: "/teach-first/year-1-how-can-you-create-an-effective-learning-env
 
 1.5 A culture of mutual trust and respect supports effective relationships.
 
-1.6 High-quality teaching has a long-term positive effect on pupils’ life chances, particularly for children from disadvantaged backgrounds.
+1.6 High-quality teaching has a long-term positive effect on pupils' life chances, particularly for children from disadvantaged backgrounds.
 
 _1d. Seeking opportunities to engage parents and carers in the education of their children (e.g. proactively highlighting successes)._
 
@@ -32,6 +32,6 @@ _7j. Reinforcing routines (e.g. by articulating the link between time on task an
 
 ## Professional behaviours
 
-8.4 Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success.
+8.4 Building effective relationships with parents, carers and families can improve pupils' motivation, behaviour and academic success.
 
 _8m. Using and personalising systems and routines to support efficient time and task management._

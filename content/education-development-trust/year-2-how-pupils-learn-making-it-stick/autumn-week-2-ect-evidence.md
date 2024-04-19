@@ -4,7 +4,7 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-2-how-pupils-learn-making-it-stick/autumn-week-2-ect-learning-outcomes"
 ---
 
-## Learning involves a lasting change in pupils’ capabilities or understanding
+## Learning involves a lasting change in pupils' capabilities or understanding
 
 If a tree falls in the woods and nobody is around to hear it, did it happen?
 
@@ -12,9 +12,9 @@ If a pupil can do something in a lesson, with scaffolding and support from an ad
 
 This is one of the challenges you will face as a teacher. It is prudent and right to scaffold learning for pupils, particularly when they are dealing with new or complex material for the first time, but there comes a point where pupils will need to remember what you have taught them and apply their learning independently, for example in tests or in lessons the following year with a different teacher.
 
-When learning has taken place, there is a lasting change. Imagine a toddler learning to walk. They don’t (or rarely) revert back to shuffling on their bum. A lasting change in their capabilities for how to move has taken place and they are able to then build on this new skill to learn more complex movements, such as running or skipping.
+When learning has taken place, there is a lasting change. Imagine a toddler learning to walk. They don't (or rarely) revert back to shuffling on their bum. A lasting change in their capabilities for how to move has taken place and they are able to then build on this new skill to learn more complex movements, such as running or skipping.
 
-Now imagine your pupils. What can they do now that they couldn’t do before?
+Now imagine your pupils. What can they do now that they couldn't do before?
 
 This might be something you have directly taught them, such as how to factorise an equation or write a compelling paragraph. It might be a social skill they have learned through interacting with others, such as waiting their turn or being polite when they encounter other people around the school.
 
@@ -32,7 +32,7 @@ Until relatively recently, this field of expertise – what some now call the sc
 
 ## Regular purposeful practice of what has previously been taught can help consolidate material and help pupils remember what they have learned
 
-When something has been learned, it has been transferred into the long-term memory and is stored in schemata and can therefore be recalled when needed. For example, when you first learned that new sentences start with a capital letter you added this new fact to your schema on ‘writing’, ‘reading’ and ‘grammar’. After you learned this new fact, your teacher probably got you to practise writing sentences. They almost certainly prompted you to retrieve this rule from your long-term memory when you made errors, through feedback or correction, and you understood why you were being asked to practise further. Since then you have regularly practised writing many sentences using capital letters. it is now second nature and seeing a sentence without a capital letter at the start jars! Through regular, purposeful practice you consolidated a piece of new learning.
+When something has been learned, it has been transferred into the long-term memory and is stored in schemata and can therefore be recalled when needed. For example, when you first learned that new sentences start with a capital letter you added this new fact to your schema on 'writing', 'reading' and 'grammar'. After you learned this new fact, your teacher probably got you to practise writing sentences. They almost certainly prompted you to retrieve this rule from your long-term memory when you made errors, through feedback or correction, and you understood why you were being asked to practise further. Since then you have regularly practised writing many sentences using capital letters. it is now second nature and seeing a sentence without a capital letter at the start jars! Through regular, purposeful practice you consolidated a piece of new learning.
 
 Not all new material is something which you can (or should) practise as often as capital letters but if you want your pupils to really remember something which they have learned, they will need to practise it over time. In contrast to the passive study techniques mentioned above, doing something active when reviewing previously taught material – for example practice testing – has been shown to help consolidate material and help pupils remember what they have learned:
 
@@ -52,11 +52,11 @@ Not all new material is something which you can (or should) practise as often as
   - Completing past papers
   - Multiple-choice tests
 
-As Adescope et al. (2017) highlight, ‘the testing effect is a well-known concept referring to gains in learning and retention that can occur when students take a practice test on studied material before taking a final test on the same material. Research demonstrates that students who take practice tests often outperform students in non-testing learning conditions such as restudying, practice, filler activities, or no presentation of the material.’
+As Adescope et al. (2017) highlight, 'the testing effect is a well-known concept referring to gains in learning and retention that can occur when students take a practice test on studied material before taking a final test on the same material. Research demonstrates that students who take practice tests often outperform students in non-testing learning conditions such as restudying, practice, filler activities, or no presentation of the material.'
 
-The quote above refers to tests before tests. It’s likely that if your pupils are preparing for an exam, you will have given them ‘mock’ practice tests for them to complete either as homework or in class so that they practise. This is nothing new. But it is not just in preparation for exams that pupils should practise. Anything which you want pupils to remember needs to be practised.
+The quote above refers to tests before tests. It's likely that if your pupils are preparing for an exam, you will have given them 'mock' practice tests for them to complete either as homework or in class so that they practise. This is nothing new. But it is not just in preparation for exams that pupils should practise. Anything which you want pupils to remember needs to be practised.
 
-You should remember that ‘practice is an important aspect of learning, but not all practice is equal’ (Deans for Impact, 2015). There are a few considerations which you need to make when planning practice activities for pupils:
+You should remember that 'practice is an important aspect of learning, but not all practice is equal' (Deans for Impact, 2015). There are a few considerations which you need to make when planning practice activities for pupils:
 
 - Dosage – how much practice should pupils do of the material?
 - Timing – when should they practise the material?
@@ -83,11 +83,11 @@ Consider your scheme(s) of learning for this year:
 | 5    | Numbers to 20         | Multiplying by 2 and 3           | Multiplying by 7, 8 and 9                   | Measurement     | ...             |
 | 6    | Length                | Multiplying by 4, 5 and 6        | Multiplication problems                     | ...             | ...             |
 
-When planning for pupils to practise material multiple times, you do need to take into account the time between each practice. Several studies have found that practice in quick succession has minimal benefits, compared to sizable benefits which occur when practice is spaced over time (Dunlosky, 2013). In this country, guidance from the Education Endowment Foundation (EEF) states that, ‘[l]earning everything to do with a topic during a single time period is not as effective as distributed learning’ (EEF, 2018).
+When planning for pupils to practise material multiple times, you do need to take into account the time between each practice. Several studies have found that practice in quick succession has minimal benefits, compared to sizable benefits which occur when practice is spaced over time (Dunlosky, 2013). In this country, guidance from the Education Endowment Foundation (EEF) states that, '[l]earning everything to do with a topic during a single time period is not as effective as distributed learning' (EEF, 2018).
 
 As with dosage, where more is better, with spacing, longer is generally better. There are multiple studies which have shown the benefits of delaying reviews of material so pupils have almost forgotten it before they encounter it again (Pachler et al., 2007). While this might seem counterintuitive, spaced learning actually helps pupils with the process of cementing new material into their long-term memory. When it is massed together (think cramming before an exam), the knowledge may be retained for a short while, but is likely to be lost later. As knowledge becomes more secure, you can increase the challenge by extending the time between practice opportunities.
 
-Pachler et al. (2007) recommend that you should ‘space learning over time. Arrange to review key elements of course content after a delay of several weeks to several months after initial presentation.’ To identify these key elements, think back to Block 4 and ask yourself:
+Pachler et al. (2007) recommend that you should 'space learning over time. Arrange to review key elements of course content after a delay of several weeks to several months after initial presentation.' To identify these key elements, think back to Block 4 and ask yourself:
 
 - What key facts would it be helpful for my pupils to commit to their long-term memory so they can easily recall them and use them when learning more complex ideas?
 
@@ -109,14 +109,19 @@ Watch this video of a teacher talking about how they used spaced practice.
 - How are they helping pupils to remember content from last term?
 - Are there ways that you could incorporate spaced practice into your classroom?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NrDDGIX5mA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/NrDDGIX5mA0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
 
 
   In my class, I know that pupils are going to forget previously taught material
-  if I don’t revisit it. When I introduce an important new idea or concept, I
+  if I don't revisit it. When I introduce an important new idea or concept, I
   always plan when I will teach review lessons on it or re-introduce the
   material after a few days or weeks. 
 
@@ -134,20 +139,20 @@ Video transcript.
 
   We also do a weekly spelling test so I will include a few of the vocab words
   in that and rotate them out and back in again. I always include some spelling
-  words from the last term’s topic as well so they don’t forget those while
+  words from the last term's topic as well so they don't forget those while
   learning new ones!
 
  {/details}
 
-What makes practice purposeful? We know from lots of fields that _quality_ of practice is just as important as _quantity_ of practice. If you want to learn to play tennis, you will get better simply by playing a couple of times a week. However, if you really want to improve you will need to identify the key skills of the game and your weaknesses as a player, break the skills down so you understand them and commit to regular, focused practice of the component parts, building the level of difficulty, until they are second nature. You might need to pay a coach to give you feedback and you probably won’t stick to this plan unless you have clear goals for improvement either.
+What makes practice purposeful? We know from lots of fields that _quality_ of practice is just as important as _quantity_ of practice. If you want to learn to play tennis, you will get better simply by playing a couple of times a week. However, if you really want to improve you will need to identify the key skills of the game and your weaknesses as a player, break the skills down so you understand them and commit to regular, focused practice of the component parts, building the level of difficulty, until they are second nature. You might need to pay a coach to give you feedback and you probably won't stick to this plan unless you have clear goals for improvement either.
 
 The same applies to purposeful practice in education. When planning practice activities, you should think about:
 
 - what do I want my pupils to be able to know or do well?
 - what are the stages between where they are now and this objective?
-- how will this help pupils know what they do and don’t remember?
+- how will this help pupils know what they do and don't remember?
 - does the activity include answers so pupils can check?
-- how will pupils know what ‘good’ looks like?
+- how will pupils know what 'good' looks like?
 - does the activity include a model or worked example for pupils to refer back to?
 - will the pupil have access to their classwork or textbook so they can improve their answers?
 - how will pupils identify gaps and where they need more practice?
@@ -193,7 +198,7 @@ Video script.
 
 
   Teacher: OK girls, stop for a moment and watch me. Remember the rule in
-  netball is that you can’t run when you are holding the ball, so when you pass
+  netball is that you can't run when you are holding the ball, so when you pass
   me the ball… go on pass it…
 
 
@@ -224,12 +229,12 @@ Teacher: Can you see the difference?
 
 
 
-  Pupil: When you catch it you have to stop straight away so don’t keep running.
+  Pupil: When you catch it you have to stop straight away so don't keep running.
   Then you can pivot.
 
 
 Teacher: Great – 
-why don’t you try again?
+why don't you try again?
 
 {/details}
 
@@ -256,11 +261,11 @@ learning. For example, you might ask pupils to recall group one of the
 periodic table before introducing group seven, showing its similarities and
 differences.
 
-Retrieval practice is effective because it requires ‘an effort from within’ to call information to mind, as opposed to just reading or hearing it (Roedinger & Butler, 2011). The evidence shows that because retrieval is an active behaviour, as opposed to passive, it stimulates our brains more and in the process helps to strengthen the existing memory. In other words, the more often you retrieve some information from your long-term memory the more likely it is to stay there.
+Retrieval practice is effective because it requires 'an effort from within' to call information to mind, as opposed to just reading or hearing it (Roedinger & Butler, 2011). The evidence shows that because retrieval is an active behaviour, as opposed to passive, it stimulates our brains more and in the process helps to strengthen the existing memory. In other words, the more often you retrieve some information from your long-term memory the more likely it is to stay there.
 
 Retrieval practice also helps us to identify gaps in our knowledge. Through the struggle of trying to recall a piece of information, we are cognisant of what we do not remember. Being aware of what you do and do not know is an important feature of metacognition, which we know is an important part of successful learning (see Block 3).
 
-One way many pupils choose to study is by re-reading notes, listening to explanations on YouTube or watching video animations. While this shouldn’t be discouraged, retrieval practices such as creating flashcards to quiz themselves, answering old exam questions or attempting to list out all of the key dates without looking at the textbook are much more powerful in aiding memory.
+One way many pupils choose to study is by re-reading notes, listening to explanations on YouTube or watching video animations. While this shouldn't be discouraged, retrieval practices such as creating flashcards to quiz themselves, answering old exam questions or attempting to list out all of the key dates without looking at the textbook are much more powerful in aiding memory.
 
 ### Using retrieval practice to promote learning
 
@@ -322,7 +327,7 @@ Cowan, N. (2008) What are the differences between long-term, short-term, and wor
 
 Deans for Impact (2015) The Science of Learning [Online] Accessible from:<a href="https://deansforimpact.org/resources/the-science-of-learning/"> https://deansforimpact.org/resources/the-science-of-learning/</a>. [retrieved 10 October 2018].
 
-Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013) Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. _Psychological Science in the Public Interest, Supplement_, _14_(1), 4–58.<a href="https://doi.org/10.1177/1529100612453266"> https://doi.org/10.1177/1529100612453266</a>.
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013) Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. _Psychological Science in the Public Interest, Supplement_, _14_(1), 4–58.<a href="https://doi.org/10.1177/1529100612453266"> https://doi.org/10.1177/1529100612453266</a>.
 
 Education Endowment Foundation (2018) Improving Secondary Science Guidance Report. [Online] Accessible from:<a href="https://educationendowmentfoundation.org.uk/tools/guidance-reports/"> https://educationendowmentfoundation.org.uk/tools/guidance-reports/</a> [retrieved 21 May 2020].
 

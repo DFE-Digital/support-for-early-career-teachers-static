@@ -22,9 +22,9 @@ Learn how to make good use of expositions, by:
 
 The ECT should have taught the lesson that was used in the previous topic to explore scaffolding. The beginning of this topic is a good time to reflect upon how it went.
 
-Suggested dialogue for mentors: Last topic we looked at effective scaffolding. We worked on a lesson you were going to teach and thought about how the tasks could be scaffolded effectively, what models could support that scaffolding and how your explanations can support pupils move from novice learner to independence. Let’s catch up about that lesson now. How did it go? Did the scaffold support pupils? Was it the right level of scaffold? What have you learned? What will you do the same/differently going forward?
+Suggested dialogue for mentors: Last topic we looked at effective scaffolding. We worked on a lesson you were going to teach and thought about how the tasks could be scaffolded effectively, what models could support that scaffolding and how your explanations can support pupils move from novice learner to independence. Let's catch up about that lesson now. How did it go? Did the scaffold support pupils? Was it the right level of scaffold? What have you learned? What will you do the same/differently going forward?
 
-Explain that the focus of today’s mentor topic is what the ECT can do to plan lessons effectively. It will focus on three key statements of the ECF:
+Explain that the focus of today's mentor topic is what the ECT can do to plan lessons effectively. It will focus on three key statements of the ECF:
 
 - Starting expositions at the point of current pupil understanding.
 - Combining a verbal explanation with a relevant graphical representation of the same concept or process, where appropriate.
@@ -40,9 +40,9 @@ Guidance for mentors:
 
 - Expositions will have been covered already to some extent within other topics.
 - The ECT should know from the self-study materials that breaking down explanations into small steps supports pupils to learn.
-- An exposition is: ‘a comprehensive description and explanation of an idea or theory’ – so it is more than simply an explanation.
+- An exposition is: 'a comprehensive description and explanation of an idea or theory' – so it is more than simply an explanation.
 
-Suggested dialogue for mentor: An exposition is more than simply an explanation – it is a comprehensive description and explanation of an idea or theory. As you develop as a teacher, you will find that you are able to do this more ‘off the cuff’. However, at the beginning of your career, this is difficult. It is important to plan your expositions in advance of lessons, especially when there are difficult concepts to teach. One of the most important things to think about is to make sure you start your exposition at the point of current pupil understanding.
+Suggested dialogue for mentor: An exposition is more than simply an explanation – it is a comprehensive description and explanation of an idea or theory. As you develop as a teacher, you will find that you are able to do this more 'off the cuff'. However, at the beginning of your career, this is difficult. It is important to plan your expositions in advance of lessons, especially when there are difficult concepts to teach. One of the most important things to think about is to make sure you start your exposition at the point of current pupil understanding.
 
 Ask:
 
@@ -66,7 +66,7 @@ Pose the question: For the lesson you have chosen, what is the right starting po
 
 Read the following information together:
 
-- Combining a verbal explanation with a relevant graphical representation of the same concept is known as ‘dual coding’.
+- Combining a verbal explanation with a relevant graphical representation of the same concept is known as 'dual coding'.
 - There are many ways to represent material visually, e.g. infographics, timelines, cartoon strips, diagrams, and graphic organisers.
 - Combining words and visuals can support working memory. “Dual coding and learning styles sound similar but are not quite the same thing. While dual coding has scientific evidence backing its use, learning styles theory has been repeatedly tested and shown not to improve learning.” (The Learning Scientists)
 
@@ -80,7 +80,7 @@ Share the following definitions with the ECT:
 
 An abstract idea or concept is one that can be difficult to grasp and/or vague. Often the definition of the abstract idea or concept is itself full of vague terms.
 
-An abstract idea is one that is removed from what you can see in front of you – a concrete idea. So, while an apple in your hand is concrete, the idea of apples or fruit more generally is abstract. Extending this further, some words don’t actually have a concrete equivalent – bravery, power, justice or freedom for example. Some abstract concepts are symbolic, representing concrete things – while seeing three coins is concrete and visible, the number 3 is an abstraction. Young children will need to learn about ‘threeness’ from the physical world before they can use it in mathematics.
+An abstract idea is one that is removed from what you can see in front of you – a concrete idea. So, while an apple in your hand is concrete, the idea of apples or fruit more generally is abstract. Extending this further, some words don't actually have a concrete equivalent – bravery, power, justice or freedom for example. Some abstract concepts are symbolic, representing concrete things – while seeing three coins is concrete and visible, the number 3 is an abstraction. Young children will need to learn about 'threeness' from the physical world before they can use it in mathematics.
 
 Expecting pupils to understand what an abstract idea is from its definition alone is insufficient to support their understanding. It might help pupils to understand an abstract concept through a concrete example: a beach is a concrete example of the concept of erosion.
 
@@ -118,7 +118,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn how to model effectively, by:
 
-- Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge)
+- Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils' attention to links with prior knowledge)
 - Exposing potential pitfalls and explaining how to avoid them
 
 ### Activities
@@ -127,9 +127,9 @@ Learn how to model effectively, by:
 
 The ECT should have taught the lesson that was used in the previous topic to explore scaffolding. The beginning of this topic is a good time to reflect upon how it went.
 
-Suggested dialogue for mentors: Last topic we looked at effective scaffolding. We worked on a lesson you were going to teach and thought about how the tasks could be scaffolded effectively, what models could support that scaffolding and how your explanations can support pupils move from novice learner to independence. Let’s catch up about that lesson now. How did it go? Did the scaffold support pupils? Was it the right level of scaffold? What have you learned? What will you do the same/differently going forward?
+Suggested dialogue for mentors: Last topic we looked at effective scaffolding. We worked on a lesson you were going to teach and thought about how the tasks could be scaffolded effectively, what models could support that scaffolding and how your explanations can support pupils move from novice learner to independence. Let's catch up about that lesson now. How did it go? Did the scaffold support pupils? Was it the right level of scaffold? What have you learned? What will you do the same/differently going forward?
 
-Explain that the focus of today’s mentor topic is what the ECT can do to plan lessons effectively. It will focus on three key statements of the ECF:
+Explain that the focus of today's mentor topic is what the ECT can do to plan lessons effectively. It will focus on three key statements of the ECF:
 
 - Starting expositions at the point of current pupil understanding.
 - Combining a verbal explanation with a relevant graphical representation of the same concept or process, where appropriate.
@@ -145,9 +145,9 @@ Guidance for mentors:
 
 - Expositions will have been covered already to some extent within other topics.
 - The ECT should know from the self-study materials that breaking down explanations into small steps supports pupils to learn.
-- An exposition is: ‘a comprehensive description and explanation of an idea or theory’ – so it is more than simply an explanation.
+- An exposition is: 'a comprehensive description and explanation of an idea or theory' – so it is more than simply an explanation.
 
-Suggested dialogue for mentor: An exposition is more than simply an explanation – it is a comprehensive description and explanation of an idea or theory. As you develop as a teacher, you will find that you are able to do this more ‘off the cuff’. However, at the beginning of your career, this is difficult. It is important to plan your expositions in advance of lessons, especially when there are difficult concepts to teach. One of the most important things to think about is to make sure you start your exposition at the point of current pupil understanding.
+Suggested dialogue for mentor: An exposition is more than simply an explanation – it is a comprehensive description and explanation of an idea or theory. As you develop as a teacher, you will find that you are able to do this more 'off the cuff'. However, at the beginning of your career, this is difficult. It is important to plan your expositions in advance of lessons, especially when there are difficult concepts to teach. One of the most important things to think about is to make sure you start your exposition at the point of current pupil understanding.
 
 Ask:
 
@@ -171,7 +171,7 @@ Pose the question: For the lesson you have chosen, what is the right starting po
 
 Read the following information together:
 
-- Combining a verbal explanation with a relevant graphical representation of the same concept is known as ‘dual coding’.
+- Combining a verbal explanation with a relevant graphical representation of the same concept is known as 'dual coding'.
 - There are many ways to represent material visually, e.g. infographics, timelines, cartoon strips, diagrams, and graphic organisers.
 - Combining words and visuals can support working memory. “Dual coding and learning styles sound similar but are not quite the same thing. While dual coding has scientific evidence backing its use, learning styles theory has been repeatedly tested and shown not to improve learning.” (The Learning Scientists)
 
@@ -185,7 +185,7 @@ Share the following definitions with the ECT:
 
 An abstract idea or concept is one that can be difficult to grasp and/or vague. Often the definition of the abstract idea or concept is itself full of vague terms.
 
-An abstract idea is one that is removed from what you can see in front of you – a concrete idea. So, while an apple in your hand is concrete, the idea of apples or fruit more generally is abstract. Extending this further, some words don’t actually have a concrete equivalent – bravery, power, justice or freedom for example. Some abstract concepts are symbolic, representing concrete things – while seeing three coins is concrete and visible, the number 3 is an abstraction. Young children will need to learn about ‘threeness’ from the physical world before they can use it in mathematics.
+An abstract idea is one that is removed from what you can see in front of you – a concrete idea. So, while an apple in your hand is concrete, the idea of apples or fruit more generally is abstract. Extending this further, some words don't actually have a concrete equivalent – bravery, power, justice or freedom for example. Some abstract concepts are symbolic, representing concrete things – while seeing three coins is concrete and visible, the number 3 is an abstraction. Young children will need to learn about 'threeness' from the physical world before they can use it in mathematics.
 
 Expecting pupils to understand what an abstract idea is from its definition alone is insufficient to support their understanding. It might help pupils to understand an abstract concept through a concrete example: a beach is a concrete example of the concept of erosion.
 

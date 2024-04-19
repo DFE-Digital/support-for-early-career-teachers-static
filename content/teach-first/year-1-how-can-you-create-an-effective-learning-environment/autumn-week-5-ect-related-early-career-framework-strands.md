@@ -20,7 +20,7 @@ _1g. Applying rules, sanctions and rewards in line with school policy, escalatin
 
 7.2 A predictable and secure environment benefits all pupils, but is particularly valuable for pupils with special educational needs.
 
-7.3 The ability to self-regulate one’s emotions affects pupils’ ability to learn, success in school and future lives.
+7.3 The ability to self-regulate one's emotions affects pupils' ability to learn, success in school and future lives.
 
 7.5 Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
 

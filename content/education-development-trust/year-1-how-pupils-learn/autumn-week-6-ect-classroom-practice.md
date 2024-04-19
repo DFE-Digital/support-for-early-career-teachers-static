@@ -53,7 +53,7 @@ Three strategies which the research literature cites as having beneficial outcom
 - Have a class set or one set per student.
 - Pupils can spend time (in class or at home) using the cards to retrieve knowledge. They ask a question, recall the answer and say it out loud, then flip it over to check whether it is correct.
 - Pupils should only remove a card from the deck when they have seen it come up three times or more and have correctly answered it.
-- Pupils should shuffle the deck in between retrieval practice so the order doesn’t become predictable.
+- Pupils should shuffle the deck in between retrieval practice so the order doesn't become predictable.
 
 #### Quiz, quiz, trade
 
@@ -81,7 +81,7 @@ Three strategies which the research literature cites as having beneficial outcom
 - Pose a question to the class.
 - Give time for pupils to think. This should be on their own. They might write down their ideas or thoughts in their books.
 - After a few minutes, ask pupils to talk in pairs. Pupil A goes first, followed by B. They should compare answers. Did they agree/disagree?
-- During this time, you should circulate and listen in to pairs’ answers to hear what they have understood or not.
+- During this time, you should circulate and listen in to pairs' answers to hear what they have understood or not.
 - Once pupils have had enough time to discuss the answer in pairs, bring the class back together and call on a few pupils to share their ideas from the pair with the class.
 - You can use this information to decide what to do next. If there are misconceptions or misunderstandings, you can intervene and maybe re-teach that part. If everyone has understood, you can move on to the next stage of the lesson.
 

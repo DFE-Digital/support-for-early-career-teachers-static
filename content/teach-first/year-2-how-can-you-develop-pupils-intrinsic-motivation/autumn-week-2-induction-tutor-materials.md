@@ -12,9 +12,9 @@ Duration: 90 minutes.
 
 By the end of the session early career teachers (ECTs) will have: 
 
-- identified what impacts pupils’ motivation  
+- identified what impacts pupils' motivation  
 - identified strategies for helping all pupils to journey from extrinsic to intrinsic motivation in a specific subject  
-- identified 2 strategies they’ll implement to help increase pupil’s motivation 
+- identified 2 strategies they'll implement to help increase pupil's motivation 
 - reflected on their own practice and areas for development
 
 ### Session structure
@@ -26,15 +26,15 @@ Explain the purpose of the training session, session outcomes and the related ea
 As this is the first training session of the year, ask teachers to introduce themselves by sharing their:  
 
 - name 
-- where they’re working 
-- the school or area they’re working in 
-- the subject or year group they’re teaching 
+- where they're working 
+- the school or area they're working in 
+- the subject or year group they're teaching 
 
 #### Why is motivation important? (10 minutes)
 
 1. Explore the link between motivation and academic achievement. 
 2. Identify the difference between extrinsic and intrinsic motivation. 
-3. Activity: Ask ECTs to reflect on some common strategies they use to motivate pupils in their class. Identify whether they’re supporting the development of intrinsic or extrinsic motivation. 
+3. Activity: Ask ECTs to reflect on some common strategies they use to motivate pupils in their class. Identify whether they're supporting the development of intrinsic or extrinsic motivation. 
 
 #### Developing motivation (10 minutes)
 
@@ -42,7 +42,7 @@ As this is the first training session of the year, ask teachers to introduce the
 2. Use the Self Determination Theory framework by Deci and Ryan (as discussed in the Great Teaching Toolkit Evidence Review (Coe, 2020) to explore the influences of autonomy (sense of choice), competence (perceptions of success and failure), and relatedness (feeling connected and supported by others) on motivation. 
 3. Activity: Ask ECTs to reflect on a time they lacked motivation to complete a task, and what influenced this. 
 
-#### Developing pupils’ competency (50 minutes) 
+#### Developing pupils' competency (50 minutes) 
 
 1. Explain how supporting pupils to be successful in their learning can help increase motivation. 
 2. Explore how 2 of the following strategies can support pupils to be successful in their learning, and therefore feel more motivated: 
@@ -70,6 +70,6 @@ Ask ECTs to reflect on the learning from the session and record their actions an
 
 #### Managing behaviour 
 
-- 7.4 Teachers can influence pupils’ resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience meaningful success. 
-- 7.7 Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure. 
+- 7.4 Teachers can influence pupils' resilience and beliefs about their ability to succeed, by ensuring all pupils have the opportunity to experience meaningful success. 
+- 7.7 Pupils' investment in learning is also driven by their prior experiences and perceptions of success and failure. 
 - 7.8 Helping pupils to journey from needing extrinsic motivation to being motivated to work intrinsically. 

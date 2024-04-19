@@ -21,7 +21,7 @@ Build effective working relationships, by:
 
 ### Topic introduction
 
-As part of the self-directed study session, you have explored how research evidence can be used to improve learning. Today, you are going to apply what you have learnt to the evidence about working with TAs to support pupils’ learning.
+As part of the self-directed study session, you have explored how research evidence can be used to improve learning. Today, you are going to apply what you have learnt to the evidence about working with TAs to support pupils' learning.
 
 ### Meeting activities
 
@@ -29,7 +29,7 @@ Throughout the session, try to refer explicitly to the learning intentions, and 
 
 Review and Plan (5 mins)
 
-- Start this session by briefly following up on the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise:
+- Start this session by briefly following up on the actions that the mentee set at the end of last week's session. Ask your mentee to summarise:
 - what they did
 - the impact of this on their workload and wellbeing (including how they are evaluating this)
 - what they will do going forward to build on these actions
@@ -51,7 +51,7 @@ Ask your mentee to share their reflections on this activity. You may find the fo
 
 Analyse artefacts and discuss with mentor
 
-Explore the recommendations in the Education Endowment Foundation’s Guidance Report [Making Best Use of Teaching Assistants](about:blank).
+Explore the recommendations in the Education Endowment Foundation's Guidance Report [Making Best Use of Teaching Assistants](about:blank).
 
 To engage with these recommendations, you could:
 
@@ -79,16 +79,16 @@ How applicable is the evidence?
 
 The answers to these questions are open to professional debate, but you may find the following prompts useful:
 
-Overall, there are a number of different claims made and they are credible. Perhaps the central claim is that TAs can make a big difference to pupils’ learning, but that this requires effective deployment. The report was funded and published by the Education Endowment Foundation, which is an independent charity known for the quality of its work. The report itself describes the rigour of the process used to develop the materials. This includes an evidence review stage and the systematic involvement of a range of professionals to develop the recommendations.
+Overall, there are a number of different claims made and they are credible. Perhaps the central claim is that TAs can make a big difference to pupils' learning, but that this requires effective deployment. The report was funded and published by the Education Endowment Foundation, which is an independent charity known for the quality of its work. The report itself describes the rigour of the process used to develop the materials. This includes an evidence review stage and the systematic involvement of a range of professionals to develop the recommendations.
 
 In terms of applicability, this is open to even more professional judgement, and will depend on your own context. For instance, if you already have very effective practice around TA deployment, then the potential benefits of the recommendations are likely reduced.
 
 Next Steps (5 mins)
 
-Agree with your mentee how they will now put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session(s) into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these actions are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these actions
+2. what success will 'look like' in relation to these actions
 3. how they will evaluate their success in taking these actions
 
-Note the date of your next mentor meeting, when you will check on your mentee’s progress.
+Note the date of your next mentor meeting, when you will check on your mentee's progress.

@@ -6,27 +6,27 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-5-ect-reflect"
 ---
 
-Ms Thomas is confident about what her pupils should learn. However, when she tries to convey new content to pupils, she struggles to keep their attention: if she gives a quick explanation, she gets lots of questions and confusion, but if she goes into a lot of detail, she fears pupils will stop listening. How can Ms Thomas most efficiently support her pupils’ thinking when conveying new ideas in her lessons, and get a sense of whether pupils have understood?
+Ms Thomas is confident about what her pupils should learn. However, when she tries to convey new content to pupils, she struggles to keep their attention: if she gives a quick explanation, she gets lots of questions and confusion, but if she goes into a lot of detail, she fears pupils will stop listening. How can Ms Thomas most efficiently support her pupils' thinking when conveying new ideas in her lessons, and get a sense of whether pupils have understood?
 
 ## Key idea
 
-Effective exposition uses models, concrete examples and is matched to pupils’ needs.
+Effective exposition uses models, concrete examples and is matched to pupils' needs.
 
 ## Evidence summary
 
 ### Effective exposition
 
-Effective teaching takes account of the limits of pupils’ working memories. Pupils may struggle if they experience cognitive overload: this is particularly likely if pupils are exposed to too much new material at once. Ms Thomas can manage pupil thinking effectively by introducing material in stages by:
+Effective teaching takes account of the limits of pupils' working memories. Pupils may struggle if they experience cognitive overload: this is particularly likely if pupils are exposed to too much new material at once. Ms Thomas can manage pupil thinking effectively by introducing material in stages by:
 
 - Drawing on prior knowledge, explicitly linking to what pupils have already been taught.
 - Breaking material up into smaller chunks when introducing it to reduce overload.
-- Structuring her teaching around an ‘I-We-You’ model. This should begin with what pupils already know; provide them with a clear explanation of the key ideas and demonstration of the task (I do); provide an opportunity to practise the task collectively and for the teacher to check pupil understanding (We do); and finally move to pupils working independently (You do) (Lemov, 2015).
+- Structuring her teaching around an 'I-We-You' model. This should begin with what pupils already know; provide them with a clear explanation of the key ideas and demonstration of the task (I do); provide an opportunity to practise the task collectively and for the teacher to check pupil understanding (We do); and finally move to pupils working independently (You do) (Lemov, 2015).
 
-The I-We-You structure provides multiple opportunities for teachers to convey new ideas by using concrete examples, modelling, and worked examples (Lemov, 2015). These place manageable demands on pupils’ working memory, supporting them to actively process and understand new material (Deans for Impact, 2015).
+The I-We-You structure provides multiple opportunities for teachers to convey new ideas by using concrete examples, modelling, and worked examples (Lemov, 2015). These place manageable demands on pupils' working memory, supporting them to actively process and understand new material (Deans for Impact, 2015).
 
 ### Explanations
 
-When should Ms Thomas give explanations? Explanations are more effective when teachers want to convey concepts rather than processes (Wittwer & Renkl, 2010). However, the examples teachers give are more important in pupils’ understanding than the explanations accompanying them (Wittwer & Renkl, 2010). Ms Thomas wants her pupils to understand both concrete ideas (things they can visualise, like ‘numbers as counters’) and abstract ideas (things with fewer sensory properties such as ‘multiplication of numbers’).
+When should Ms Thomas give explanations? Explanations are more effective when teachers want to convey concepts rather than processes (Wittwer & Renkl, 2010). However, the examples teachers give are more important in pupils' understanding than the explanations accompanying them (Wittwer & Renkl, 2010). Ms Thomas wants her pupils to understand both concrete ideas (things they can visualise, like 'numbers as counters') and abstract ideas (things with fewer sensory properties such as 'multiplication of numbers').
 
 She can best convey this to her pupils by using concrete examples in her exposition (ideally linked to current pupil understanding) and connecting them with more abstract ones, or by moving from concrete to abstract representations over time (Pashler et al., 2007). For example, she may introduce multiplication using counters and then remove these as pupils gain understanding of multiplication as an operation. Pupils find it easier to process an explanation where images are paired with spoken words, rather than where images are accompanied with extensive written text (Pashler et al., 2007).
 
@@ -50,10 +50,10 @@ While guided instruction through modelling is more effective for novices than ot
 
 ### Key takeaways
 
-Ms Thomas’s expositions will better match pupil needs if she understands:
+Ms Thomas's expositions will better match pupil needs if she understands:
 
 - the importance of preventing pupil overload by first building on prior knowledge
-- the ‘I-We-You’ approach helps her to ensure she manages pupil thinking and working memory effectively
+- the 'I-We-You' approach helps her to ensure she manages pupil thinking and working memory effectively
 - using concrete and abstract examples, modelling, and worked examples in expositions supports pupils when introducing new concepts and processes
 - checking pupil understanding prior to letting them practise independently can be a powerful approach
 

@@ -13,7 +13,7 @@ Learn that:
 
 - Where prior knowledge is weak, pupils are more likely to develop misconceptions, particularly if new ideas are introduced too quickly
 
-Learn how to building on pupils’ prior knowledge by:
+Learn how to building on pupils' prior knowledge by:
 
 - Identifying possible misconceptions and planning how to prevent these forming
 - Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed
@@ -32,7 +32,7 @@ Ask the ECT whether they have taught the section of the lesson that they scripte
 
 Pose the question: What is a misconception?
 
-Definition: Misconceptions are ‘a belief or an idea that is not based on correct information, or that is not understood by people’ (Oxford Dictionary).
+Definition: Misconceptions are 'a belief or an idea that is not based on correct information, or that is not understood by people' (Oxford Dictionary).
 
 Pose the question: What are examples of misconceptions that you have come across so far in your teaching?
 
@@ -44,7 +44,7 @@ The ECT may be confident to list examples of misconceptions. If they are struggl
 - Misconceptions in humanities e.g. the countries we have today have always existed
 - Misconceptions in MFL e.g. a pupil who can talk confidently must be fluent.
 
-Explain to the ECT that the purpose of today’s topic is to think about misconceptions in the classroom linked to introducing new content.
+Explain to the ECT that the purpose of today's topic is to think about misconceptions in the classroom linked to introducing new content.
 
 There are two parts to this:
 
@@ -59,14 +59,14 @@ Ask the ECT to share an upcoming lesson or topic they will be teaching. Together
 
 Identify possible misconceptions that could form when teaching the new topic.
 
-If the ECT doesn’t have an example to hand or the mentor doesn’t feel confident to work with them on the misconceptions in their particular subject area, either invite a subject or phase specialist from their area to support with this activity or use the generic example below.
+If the ECT doesn't have an example to hand or the mentor doesn't feel confident to work with them on the misconceptions in their particular subject area, either invite a subject or phase specialist from their area to support with this activity or use the generic example below.
 
 Pose the question: Now that you are aware of these possible misconceptions, how will you plan to avoid them forming?
 
 Possible ideas might include:
 
 - Explicitly drawing attention to the misconception
-- Showing an example when it is and when it isn’t true
+- Showing an example when it is and when it isn't true
 - Asking pupils to check their understanding and making corrections as you go.
 
 Example:
@@ -76,7 +76,7 @@ An upcoming topic that you want to teach a group of pupils in a life-skills less
 Possible misconceptions a pupil might have:
 
 - They might think food shopping only gets delivered if their parents use a delivery service.
-- They might think that you don’t have to pay for shopping (especially if it is delivered).
+- They might think that you don't have to pay for shopping (especially if it is delivered).
 - They might think you can only pay on credit or debit card or only in cash.
 - They might think you can always get everything you need in one shop.
 - They might think that you have to drive to the shops.
@@ -87,7 +87,7 @@ Possible misconceptions they might form:
 - The bus is always free (if you have to travel by bus)
 - The supermarket is always quiet (if you go at a quiet time)
 - You always get to swipe your own bar-codes (if you use the self-service)
-- You always use up all of the ingredients you buy (if you’re cooking for a group).
+- You always use up all of the ingredients you buy (if you're cooking for a group).
 
 ### Uncovering emerging misconceptions (20 minutes)
 
@@ -102,7 +102,7 @@ Work together to plan how this would work in this classroom:
 - Which topic will they teach it with?
 - How will they introduce the approach to the pupils?
 - Do they need any resources/changes in their classroom to make it work?
-- What questions will they ask to uncover the pupils’ understanding for that particular topic?
+- What questions will they ask to uncover the pupils' understanding for that particular topic?
 
 ### Planning for action
 

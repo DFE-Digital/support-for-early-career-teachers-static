@@ -10,10 +10,10 @@ next_path: "/education-development-trust/year-1-a-people-profession/summer-week-
 
 These relationships:
 
-- Help colleagues to build understanding of pupils’ individual circumstances
+- Help colleagues to build understanding of pupils' individual circumstances
 - Enable colleagues to support all pupils within the school
-- Support each other’s professional development
-- Contribute to pupils’ motivation, behaviour and academic success
+- Support each other's professional development
+- Contribute to pupils' motivation, behaviour and academic success
 
 Effective relationships are built on a culture of mutual trust and respect. Some of the communication skills we can use to achieve these include:
 

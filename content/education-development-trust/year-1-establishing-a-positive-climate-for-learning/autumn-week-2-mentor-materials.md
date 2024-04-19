@@ -23,7 +23,7 @@ Learn how to establish effective routines and expectations by:
 
 ### Using routines (15 minutes)
 
-Pupils need to be taught what is expected of them in the classroom, and it is the teacher’s responsibility to do this.
+Pupils need to be taught what is expected of them in the classroom, and it is the teacher's responsibility to do this.
 
 Discuss the implications for this for the ECT. Have they been able to do this up to now? What has worked well? What have been the challenges?
 
@@ -47,7 +47,7 @@ Mentors should choose one of these, explain the routine they use in their teachi
 
 To support the ECT in choosing an appropriate routine to focus on use the following questions as prompts:
 
-- What’s the purpose of this routine?
+- What's the purpose of this routine?
 - Why does this routine matter to you and to your pupils?
 - How will this routine lead to improved learning?
 
@@ -58,4 +58,4 @@ Together, write and practise a script for establishing this routine in the class
 Agree with the ECT:
 
 - When they will teach the routine scripted in this topic.
-- Who they will observe with a focus on ‘Establishing routines’. Decide when this will happen and what they will look for.
+- Who they will observe with a focus on 'Establishing routines'. Decide when this will happen and what they will look for.

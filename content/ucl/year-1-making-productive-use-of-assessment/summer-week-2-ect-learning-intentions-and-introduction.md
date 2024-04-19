@@ -14,7 +14,7 @@ next_path: "/ucl/year-1-making-productive-use-of-assessment/summer-week-2-ect-re
 
 You will learn that:
 
-- Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs.
+- Effective assessment is critical to teaching because it provides teachers with information about pupils' understanding and needs.
 
 You will learn how to:
 

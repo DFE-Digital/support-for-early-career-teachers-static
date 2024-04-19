@@ -35,11 +35,11 @@ You could ask:
 
 Pupils will not be able to make links between what they do not know so make sure that they have a good understanding of the big ideas that they will need in order to build a shared understanding of the subject. Once they have a secure foundation of knowledge built on the big ideas you identified, you can use this to help pupils make sense of new concepts.
 
-Practise using structures pupils already know in new contexts: _‘we know this is the formula for X and you have practised using it for X, how could you use it here?’_
+Practise using structures pupils already know in new contexts: _'we know this is the formula for X and you have practised using it for X, how could you use it here?'_
 
-Cover the same concept in different forms: _‘What does this diagram show us about X?_’
+Cover the same concept in different forms: _'What does this diagram show us about X?_'
 
-Use every opportunity for retrieval as an opportunity to build connections: _‘The quick quiz you did at the beginning of this lesson tested you on your understanding of X. Keep your answers in mind as we look at this…’_
+Use every opportunity for retrieval as an opportunity to build connections: _'The quick quiz you did at the beginning of this lesson tested you on your understanding of X. Keep your answers in mind as we look at this…'_
 
 #### Plan retrieval opportunities for the core concepts and principles and use these to help pupils form new connections.
 
@@ -47,7 +47,7 @@ Plan retrieval opportunities in places that will help pupils form new connection
 
 - Use low stakes quizzes to reinforce learning of key concepts and to support pupils to make links. _For example, you might set a short quiz on descriptive techniques as a starter activity in a lesson in which pupils are asked to write descriptively._
 - Consciously space out practice over time. When planning out your curriculum map, actively plan out when pupils will be quizzed on the core concepts and principles to match the learning outcome of the lesson.
-- Use think/pair/share to get pupils to consider their learning of the big ideas and make connections: ‘_In silence you are going to have a go at working out the challenge on the board. I am going to give you two minutes… Now the two minutes are up, I want you to discuss how this links with X.’_
+- Use think/pair/share to get pupils to consider their learning of the big ideas and make connections: '_In silence you are going to have a go at working out the challenge on the board. I am going to give you two minutes… Now the two minutes are up, I want you to discuss how this links with X.'_
 
 ### In your notepad
 

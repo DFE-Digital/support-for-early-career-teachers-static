@@ -6,7 +6,7 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-11-ect-reflect"
 ---
 
-Ms Crosby is increasingly pleased that her questioning is prompting classroom talk but she is unsure how best to structure it to ensure it is having the intended effect. How can she keep pupils talking ‘on-task’ and what groups are best for pupils to learn in? How can Ms Crosby best support talk and thinking that underpins pupil learning?
+Ms Crosby is increasingly pleased that her questioning is prompting classroom talk but she is unsure how best to structure it to ensure it is having the intended effect. How can she keep pupils talking 'on-task' and what groups are best for pupils to learn in? How can Ms Crosby best support talk and thinking that underpins pupil learning?
 
 ## Key idea
 
@@ -26,21 +26,21 @@ Opportunities to introduce classroom talk might include:
 
 - When checking pupil understanding, first giving pupils the chance to talk (for example pair talk) before taking a variety of pupil responses.
 - Posing challenging questions which might require pupils to explain something to the teacher or to their partners, deepening their understanding of the material discussed.
-- Guided discussions, for example during the ‘We Do’ part of the lesson, with teacher prompts guiding pupils’ discussions so they elaborate on one another’s ideas (Mercer & Dawes, in EEF, 2017).
+- Guided discussions, for example during the 'We Do' part of the lesson, with teacher prompts guiding pupils' discussions so they elaborate on one another's ideas (Mercer & Dawes, in EEF, 2017).
 
 High-quality talk is underpinned by clear behavioural expectations. By reinforcing and practising these, Ms Crosby can build positive habits for how pupils engage with one another, reducing the risk of inappropriate behaviour (IES, 2008). In addition to clear behavioural expectations, Ms Crosby should ensure talk is:
 
 - Collective: Teacher and all pupils are involved in the dialogue.
 - Reciprocal: Participants listen carefully to each other.
 - Supportive: Contributions are valued and respected.
-- Cumulative: Talk builds on others’ contributions towards answering an open-ended question.
+- Cumulative: Talk builds on others' contributions towards answering an open-ended question.
 - Purposeful: Building towards a meaningful learning goal (Alexander, 2018).
 
 When pupils know the rules of engagement for classroom talk, for example how long they are to talk for and what each person should be doing, they are freed up to think about the material they are learning rather than behaviour.
 
 ### Whole class, paired and group discussion
 
-Ms Crosby may wish to start with whole class discussion so she can support pupils and embed her expectations. As a culture of effective talk develops, Ms Crosby may feel confident about setting up first pairs and then groups for pupils to discuss content together for increasing periods of time. Groupings can affect pupil behaviour and motivation (Tereshenko et al., 2018). Therefore, Ms Crosby should pre-plan groupings, but ensure that they are flexible, and monitor groups’ impacts on pupil learning and motivation, particularly for low attaining pupils.
+Ms Crosby may wish to start with whole class discussion so she can support pupils and embed her expectations. As a culture of effective talk develops, Ms Crosby may feel confident about setting up first pairs and then groups for pupils to discuss content together for increasing periods of time. Groupings can affect pupil behaviour and motivation (Tereshenko et al., 2018). Therefore, Ms Crosby should pre-plan groupings, but ensure that they are flexible, and monitor groups' impacts on pupil learning and motivation, particularly for low attaining pupils.
 
 Some rules for pair and group work that Ms Crosby might consider introducing are:
 
@@ -59,7 +59,7 @@ Pair and group work needs to be explicitly taught, scaffolded and practised like
 
 Ms Crosby can facilitate high quality classroom talk if she understands that:
 
-- classroom talk can support pupil learning and is a form of ‘practising’ new ideas
+- classroom talk can support pupil learning and is a form of 'practising' new ideas
 - teachers can develop successful pupil talk by establishing clear routines and expectations
 - teachers can establish effective whole class, pair and group talk through pre-planning and supporting pupil groups
 
@@ -86,6 +86,6 @@ Kirschner, P., Sweller, J., Kirschner, F. &amp; Zambrano, J. (2018). From cognit
 
 Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that all teachers should know. _American Educator,_ 12–20. <a href="http://bit.ly/ecf-ros">bit.ly/ecf-ros</a>
 
-Tereshchenko, A., Francis, B., Archer, L., Hodgen, J., Mazenod, A., Taylor, B. &amp; Travers, M. C. (2018). Learners’ attitudes to mixed-attainment grouping: examining the views of students of high, middle and low attainment. _Research Papers in Education, 1522_, 1–20. <a href="http://bit.ly/ecf-ter">bit.ly/ecf-ter</a>
+Tereshchenko, A., Francis, B., Archer, L., Hodgen, J., Mazenod, A., Taylor, B. &amp; Travers, M. C. (2018). Learners' attitudes to mixed-attainment grouping: examining the views of students of high, middle and low attainment. _Research Papers in Education, 1522_, 1–20. <a href="http://bit.ly/ecf-ter">bit.ly/ecf-ter</a>
 
 {/details}

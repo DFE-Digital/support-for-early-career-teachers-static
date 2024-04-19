@@ -4,13 +4,13 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-1-ect-learning-outcomes"
 ---
 
-## Effective teaching can transform pupils’ knowledge, capabilities and beliefs about learning
+## Effective teaching can transform pupils' knowledge, capabilities and beliefs about learning
 
-Did you realise that you, the teacher, are regarded as the biggest in-school factor which will influence your pupils’ learning and consequently their life chances?
+Did you realise that you, the teacher, are regarded as the biggest in-school factor which will influence your pupils' learning and consequently their life chances?
 
-John Hattie (2009), through a massive review of hundreds of other pieces of research, concluded that the teacher has the greatest school-based influence on pupil achievement. Effective teaching approaches can not only directly impact your pupils’ success in school (OECD, 2015) but will also have a longer-term impact on their attitude to learning throughout their lives. You can transform their knowledge, but also their belief in their own capabilities. You will learn much more about motivation and the impact of teaching on how pupils feel about learning in Block 7.
+John Hattie (2009), through a massive review of hundreds of other pieces of research, concluded that the teacher has the greatest school-based influence on pupil achievement. Effective teaching approaches can not only directly impact your pupils' success in school (OECD, 2015) but will also have a longer-term impact on their attitude to learning throughout their lives. You can transform their knowledge, but also their belief in their own capabilities. You will learn much more about motivation and the impact of teaching on how pupils feel about learning in Block 7.
 
-So what techniques and strategies do effective teachers use? Let’s find out.
+So what techniques and strategies do effective teachers use? Let's find out.
 
 ## Effective teachers introduce material in steps
 
@@ -21,7 +21,11 @@ According to education expert Barak Rosenshine, more effective teachers do not o
 In this regard, effective teaching might look something like this:
 
 <figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.1-Opt-1.png" alt="The diagram is a flowchart showing how a teacher could present information in small sections so that pupils are more likely to understand and remember what is being taught. The teacher introduces a small section of content, explaining the idea and modelling an example.Pupils independently practise a similar task with guidance and support from the teacher as required, before discussing what they have just learned and explaining it in their own words. The teacher checks for understanding, using verbal questioning or mini whiteboards. Once the teacher is happy, they move on to the next section." />
+  <img
+    src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.1-Opt-1.png"
+    alt="The diagram is a flowchart showing how a teacher could present information in small sections so that pupils are more likely to understand and remember what is being taught. The teacher introduces a small section of content, explaining the idea and modelling an example. Pupils independently practise a similar task with guidance and support from the teacher as required, before discussing what they have just learned and explaining it in their own words. The teacher checks for understanding, using verbal questioning or mini whiteboards. Once the teacher is happy, they move on to the next section."
+    width="100%"
+    />
 </figure>
 
 ## Example mini lesson plan and script – Year 2
@@ -36,7 +40,7 @@ Consider the following example:
 
 Start by introducing the rules of a simple sentence.
 
-Show a sentence on the board: ’the boy threw the ball.’
+Show a sentence on the board: 'the boy threw the ball.'
 
 Read the sentence together.
 
@@ -44,11 +48,11 @@ Read the sentence together.
 
 “OK so we know that a simple sentence needs to contain a verb, a subject and an object. I am going to look at the sentence here and identify these things.
 
-"Hmmm, so I know that a verb is a doing word. So the verb in this sentence must be ‘threw’. Am I right? Yes, ‘throw’ is a doing word so that is a verb.
+"Hmmm, so I know that a verb is a doing word. So the verb in this sentence must be 'threw'. Am I right? Yes, 'throw' is a doing word so that is a verb.
 
-"I am going to circle it to show that it is the verb. Now I need to work out the subject. The subject is always the thing or person doing the verb so in this sentence the subject must be the boy because he is throwing the ball. I am going to underline ‘boy’.
+"I am going to circle it to show that it is the verb. Now I need to work out the subject. The subject is always the thing or person doing the verb so in this sentence the subject must be the boy because he is throwing the ball. I am going to underline 'boy'.
 
-"The object is the thing receiving the action so here it must be the ball. I am going to highlight ‘ball’.
+"The object is the thing receiving the action so here it must be the ball. I am going to highlight 'ball'.
 
 “The boy threw the ball.”
 
@@ -90,15 +94,15 @@ As you become more experienced, you will be more easily able to link new ideas t
 
 An effective teacher will make this connection explicit, linking new material to what has been previously studied and learned by using some of these techniques:
 
-- Verbally making the link: “We’re going to talk about compound sentences today. Do you remember last week when we spoke about simple sentences?”
-- Demonstrating how the new idea links to previously studied material with examples: “The first step I use is to make sure my sentence is an independent clause which we practised in last week’s lesson.”
+- Verbally making the link: “We're going to talk about compound sentences today. Do you remember last week when we spoke about simple sentences?”
+- Demonstrating how the new idea links to previously studied material with examples: “The first step I use is to make sure my sentence is an independent clause which we practised in last week's lesson.”
 - Using “link” activities which remind pupils of the learning from previous lessons: “You are going to write four simple sentences about your trip to the zoo. First, we are going to make a bullet point list of what to include ‒ you will need 1) subject 2) verb 3) object.
 
 ## Effective teachers use modelling to help pupils understand new processes and ideas
 
 When we teach, we ask pupils to undertake tasks. These tasks should make pupils actively process (i.e. think hard about) the material. With cognitive load theory in mind, it is important that we make tasks easy to understand, so that pupils can use their processing power on the content rather than trying to work out what it is they are expected to do.
 
-Providing models is the fourth principle in Rosenshine’s Principles of Instruction (2012). Modelling means showing a pupil how to do something rather than asking them to follow instructions or find their way through a task themselves. Having a whole process modelled means that pupils can concentrate on the really important learning moments.
+Providing models is the fourth principle in Rosenshine's Principles of Instruction (2012). Modelling means showing a pupil how to do something rather than asking them to follow instructions or find their way through a task themselves. Having a whole process modelled means that pupils can concentrate on the really important learning moments.
 
 It is important that your model demonstrates the highest possible standard of what can be achieved and makes it accessible so pupils can reach the same standard.
 
@@ -158,9 +162,9 @@ Now, I need to move 5 places in the Y axis so holding my pen really steady where
 
 Why am I doing it this way? I know that I should use the values on the X and the Y axes as these two scales represent the values of different coordinates.
 
-I’ve now moved 3 across and 5 up from the starting point of (0,0). This is where I draw my X. It should be in line with the number 3 on the X axis and the number 5 on the Y axis. Look at how I check by drawing an invisible line with my finger to each axis to check.
+I've now moved 3 across and 5 up from the starting point of (0,0). This is where I draw my X. It should be in line with the number 3 on the X axis and the number 5 on the Y axis. Look at how I check by drawing an invisible line with my finger to each axis to check.
 
-I’m going to try another one and this time, Ben I’d like you to give me the step by step instructions. How would I plot co-ordinate (4, 3)?
+I'm going to try another one and this time, Ben I'd like you to give me the step by step instructions. How would I plot co-ordinate (4, 3)?
 
 Ben: Right – first thing is you have to start on zero zero so put your pen there...
 
@@ -172,11 +176,11 @@ Ben: Right – first thing is you have to start on zero zero so put your pen the
 
 An abstract idea or concept is one which can be difficult to grasp.
 
-An abstract idea is one which is removed from what you can see in front of you (a concrete idea). Some words don’t actually have a concrete equivalent ‒ e.g. bravery, power, justice or freedom. Some abstract concepts are symbolic, representing concrete things: Whilst seeing 3 coins is concrete and visible, the number 3 is an abstraction. Young children will need to learn about “threeness” from the physical world before they can use it in mathematics.
+An abstract idea is one which is removed from what you can see in front of you (a concrete idea). Some words don't actually have a concrete equivalent ‒ e.g. bravery, power, justice or freedom. Some abstract concepts are symbolic, representing concrete things: Whilst seeing 3 coins is concrete and visible, the number 3 is an abstraction. Young children will need to learn about “threeness” from the physical world before they can use it in mathematics.
 
 Expecting pupils to understand what an abstract idea is from its definition alone is insufficient to support their understanding. It might help pupils to understand an abstract concept through a concrete example: a beach can be used as a concrete example of the concept of erosion.
 
-In their education, pupils will encounter many abstract ideas that pupils need to grasp. Effective teachers “use models all the time to provide a bridge between pupils’ current ideas and understanding and new understanding” (EEF, 2018). Pupils are more likely to retain knowledge if they are given multiple examples.
+In their education, pupils will encounter many abstract ideas that pupils need to grasp. Effective teachers “use models all the time to provide a bridge between pupils' current ideas and understanding and new understanding” (EEF, 2018). Pupils are more likely to retain knowledge if they are given multiple examples.
 
 Models are an essential part of developing and sharing knowledge. Evidence suggests that:
 
@@ -189,19 +193,19 @@ The table below shows the different strategies you can use to make abstract idea
 
 #### Example
 
-“Here are three different examples of when someone was considered ‘brave’.”
+“Here are three different examples of when someone was considered 'brave'.”
 
 ### Strategy: Facilitate discussion around an abstract idea to let pupils relate it to their own experiences
 
 #### Example
 
-“When was a time that you felt ‘free’?”
+“When was a time that you felt 'free'?”
 
 ### Strategy: Provide opportunities for pupils to experience an abstract concept for themselves
 
 #### Example
 
-“This morning, I am going to give all of the ‘power’ of deciding what we do in PE to you.”
+“This morning, I am going to give all of the 'power' of deciding what we do in PE to you.”
 
 ### Strategy: Use concrete models or examples to make abstract ideas accessible | “We are going to count out the number 12 using cubes.”
 
@@ -257,47 +261,47 @@ A teacher said, “Give me a two-digit number ending in 0.”
 
 A pupil said, “Forty.”
 
-The teacher said, “I’m going to subtract the tens digit from the number: 40 – 4 gives me 36.”
+The teacher said, “I'm going to subtract the tens digit from the number: 40 – 4 gives me 36.”
 
 The pupils tried this with other two-digit numbers ending in 0 and discovered that the result was always a multiple of 9.
 
-The teacher said, “I’m going to use multilink cubes to see whether this will help us see why we always get a multiple of 9.”
+The teacher said, “I'm going to use multilink cubes to see whether this will help us see why we always get a multiple of 9.”
 
 The teacher made four sticks of 10 cubes each. “So here is 40. What does it look like if we remove 4 cubes?”
 
-<img
-  class="alignnone size-full wp-image-395"
-  src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-maths01.png"
-  alt="Diagram shows four vertical columns of 10 cubes each"
-  width="101"
-  height="187"
-/>
+<figure>
+  <img
+    src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-maths01.png"
+    alt="Diagram shows four vertical columns of 10 cubes each"
+    width="100%"
+  />
+</figure>
 
 A pupil came to the front of the classroom and removed 4 cubes.
 
-<img
-  class="alignnone size-full wp-image-394"
-  src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-maths02.png"
-  alt="Diagram shows the four columns of cubes, with 4 cubes removed from the top of the fourth column."
-  width="128"
-  height="181"
-/>
+<figure>
+  <img
+    src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-maths02.png"
+    alt="Diagram shows the four columns of cubes, with 4 cubes removed from the top of the fourth column."
+    width="100%"
+  />
+</figure>
 
 “How else could you do it?” asked the teacher.
 
 Another pupil removed 4 cubes in a different way.
 
-<img
-  class="alignnone size-medium wp-image-393"
-  src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-maths03.png"
-  alt="Diagram shows the four columns of cubes, this time with 1 cube removed from the top of each of the 4 columns."
-  width="115"
-  height="200"
-/>
+<figure>
+  <img
+    src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-maths03.png"
+    alt="Diagram shows the four columns of cubes, this time with 1 cube removed from the top of each of the 4 columns."
+    width="100%"
+  />
+</figure>
 
 A pupil said, “Ah yes! If we take away one from each 10 then we are left with four 9s.”
 
-Another pupil said, “And if we started with 70, we’d have 10 sevens take away 1 seven is 9 sevens.”
+Another pupil said, “And if we started with 70, we'd have 10 sevens take away 1 seven is 9 sevens.”
 
 The teacher wrote:
 
@@ -369,13 +373,13 @@ Initially this guidance is likely to come from the teacher, but our ultimate aim
 
 ### Scaffolds
 
-The metaphor of scaffolding is derived from construction work where it represents a temporary structure that is used to erect a building. In education, scaffolding refers to support that is tailored to students’ needs.
+The metaphor of scaffolding is derived from construction work where it represents a temporary structure that is used to erect a building. In education, scaffolding refers to support that is tailored to students' needs.
 
-You put up scaffolds all the time when you are teaching. Think of a time when you have asked a question, and a pupil has expressed confusion. You don’t just move on; you ask another question which re-phrases the question or you point them to a previous example which will help them. These informal teaching moments when you guide pupils through new learning are examples of scaffolding.
+You put up scaffolds all the time when you are teaching. Think of a time when you have asked a question, and a pupil has expressed confusion. You don't just move on; you ask another question which re-phrases the question or you point them to a previous example which will help them. These informal teaching moments when you guide pupils through new learning are examples of scaffolding.
 
 You can also plan scaffolds in advance of a lesson. This could be in how you present new information, breaking it down into steps as we saw earlier in this section. It could also be by providing a framework for pupils to follow, which supports them to apply a complex skill with support.
 
-Whenever we design a task or activity, we need to consider which resources might help to purposefully scaffold pupils’ learning, whilst still ensuring they engage cognitively with the content. We can also encourage pupils to think about and explain their own levels of understanding before starting on a task. Developing pupils’ ability to reflect in this way may mean that less time needs to be spent on diagnosing who needs what support (Van de Pol et al., 2015).
+Whenever we design a task or activity, we need to consider which resources might help to purposefully scaffold pupils' learning, whilst still ensuring they engage cognitively with the content. We can also encourage pupils to think about and explain their own levels of understanding before starting on a task. Developing pupils' ability to reflect in this way may mean that less time needs to be spent on diagnosing who needs what support (Van de Pol et al., 2015).
 
 You can use this series of questions to help guide your decisions:
 
@@ -384,7 +388,7 @@ You can use this series of questions to help guide your decisions:
 3. What resources would be most appropriate and effective to facilitate learning, e.g. physical resources/written prompt/visuals?
 4. How and when will you withdraw the scaffolding if you need to?
 5. How will you assess whether continued support is needed?
-6. How will you ensure you don’t over-support or over-scaffold?
+6. How will you ensure you don't over-support or over-scaffold?
 7. How will you encourage pupils to reflect on their own learning and strengths/weaknesses?
 
 The following examples show this in practice:
@@ -411,7 +415,7 @@ Teacher: OK everyone, you should now be sitting in your trios. Does everyone hav
 
 Pupils affirm, holding up their letter cards.
 
-Teacher: Before I give you the statement, a reminder that you <i>must</i> use the sentence stems to structure your conversation. It starts with person A saying, “This makes me think about…”, then person B responds, “That’s interesting, I wonder if…” and person C, your sentence stem is, “Building on your points, I’m thinking about…”
+Teacher: Before I give you the statement, a reminder that you <i>must</i> use the sentence stems to structure your conversation. It starts with person A saying, “This makes me think about…”, then person B responds, “That's interesting, I wonder if…” and person C, your sentence stem is, “Building on your points, I'm thinking about…”
 
 Teacher: Your first statement to discuss is, “Our differences make us interesting.” OK, person A off you go.
 
@@ -419,11 +423,11 @@ Teacher: Your first statement to discuss is, “Our differences make us interest
 
 Pupil A: Emmm… this makes me think about… differences which we have from each other. Like our hair colour and our skin colour. We look different from each other.
 
-Pupil B: That’s interesting! I wonder if we were all the same would it be fun or boring? We would be like twins so we all look the same and act the same, like robots!
+Pupil B: That's interesting! I wonder if we were all the same would it be fun or boring? We would be like twins so we all look the same and act the same, like robots!
 
-Pupil C: Building on your points, I’m thinking about how it is interesting to see different people. How would your mummy know it was you if we all looked the same?
+Pupil C: Building on your points, I'm thinking about how it is interesting to see different people. How would your mummy know it was you if we all looked the same?
 
-Teacher: Some really great conversations there. I liked Georgia’s question about how our mummies would recognise us if we were all the same. Let’s explore that…
+Teacher: Some really great conversations there. I liked Georgia's question about how our mummies would recognise us if we were all the same. Let's explore that…
 
 {/details}
 
@@ -506,17 +510,17 @@ Teacher: Good idea! I will get the toy dog and sit him on my desk to help you. O
 
 ## Worked examples
 
-Worked examples are another great way of helping pupils to apply new ideas. You explored these in depth in Block 2 and they can be thought of as a tool for scaffolding and guiding student practice. By showing each step of a solution, you free up pupils’ working memory so that they can focus on the content and new ideas.
+Worked examples are another great way of helping pupils to apply new ideas. You explored these in depth in Block 2 and they can be thought of as a tool for scaffolding and guiding student practice. By showing each step of a solution, you free up pupils' working memory so that they can focus on the content and new ideas.
 
 ### Calculating the smallest angle of a right-angled triangle
 
-<img
-  class="alignnone size-full wp-image-1901"
-  src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-triangle_SEE-1.png"
-  alt="Diagram shows a right angled triangle. All the angles are in degrees, and the user is asked to work out the smallest angle of the triangle using an equation. The information provided is that one corner is 90 degrees, and the other corner is 7x; this information should be used to calculate the missing angle using the equation 7x+5x+18+90=180"
-  width="692"
-  height="657"
-/>
+<figure>
+  <img
+    src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-triangle_SEE-1.png"
+    alt="Diagram shows a right angled triangle. All the angles are in degrees, and the user is asked to work out the smallest angle of the triangle using an equation. The information provided is that one corner is 90 degrees, and the other corner is 7x; this information should be used to calculate the missing angle using the equation 7x+5x+18+90=180"
+    width="100%"
+    />
+</figure>
 
 ### How to structure a paragraph
 
@@ -540,7 +544,7 @@ For example, last week Year 4 were last to the lunch queue because they
 #### Link back to the question
  As you can see, not having enough seating is a key issue in our school
         because pupils have a lot of energy at lunchtime which they need to run
-        off outside. If all they do is queue, then they won’t work as hard when
+        off outside. If all they do is queue, then they won't work as hard when
         they get back into lessons!
 
 Remember, worked examples should be planned in advance so you can be sure to explain each step in as simple and coherent a way as possible.
@@ -569,7 +573,7 @@ You will look at “Retrieval practice” specifically in Block 8.
 
 ## Effective teachers recognise that support should be gradually removed as pupil expertise increases
 
-The levels of support discussed above should not be maintained forever. You won’t be following your pupils into their exams or beyond the school gates, so at some point you need to begin gradually removing support.
+The levels of support discussed above should not be maintained forever. You won't be following your pupils into their exams or beyond the school gates, so at some point you need to begin gradually removing support.
 
 The importance of this gradual removal of support is reinforced by the research where “strong evidence has emerged that the effectiveness of these techniques depends very much on levels of learner expertise. Instructional techniques that are highly effective with inexperienced learners can lose their effectiveness and even have negative consequences when used with more experienced learners. We call this phenomenon the expertise reversal effect” (Kalyuga, 2007).
 
@@ -578,7 +582,11 @@ The “guidance fading effect” tells us that novices require high levels of gu
 As pupils develop expertise, we need to make sure we continually increase the challenge and reduce the amount of guidance we are giving them. Although we will need to fade guidance for different pupils at different rates, it is essential that all pupils reach this stage eventually.
 
 <figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.2-Fading-guidance-Opt-1.png" alt="The diagram is a flowchart illustrating that the level of guidance is reduced over time until the pupil is able to complete a task without any support. The stages listed are:&lt;p>&lt;/p>Teacher instruction. Heavy guidance. Light guidance. Minimal guidance. Independence." />
+  <img
+    src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.2-Fading-guidance-Opt-1.png"
+    alt="The diagram is a flowchart illustrating that the level of guidance is reduced over time until the pupil is able to complete a task without any support. The stages listed are:&lt;p>&lt;/p>Teacher instruction. Heavy guidance. Light guidance. Minimal guidance. Independence."
+    width="100%"
+    />
 </figure>
 
 There are a number of ways that we can fade our guidance, e.g.:
@@ -602,7 +610,7 @@ Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014) <i>What makes great 
 
 Donker, A. S., de Boer, H., Kostons, D., Dignath van Ewijk, C. C., &amp; van der Werf, M. P. C. (2014) Effectiveness of learning strategy instruction on academic performance: A meta-analysis. <i>Educational Research Review</i>, <i>11</i>, 1–26.<a href="https://doi.org/10.1016/j.edurev.2013.11.002"> https://doi.org/10.1016/j.edurev.2013.11.002</a>
 
-Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013) Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. <i>Psychological Science in the Public Interest, Supplement</i>, <i>14</i>(1), 4–58.<a href="https://doi.org/10.1177/1529100612453266"> https://doi.org/10.1177/1529100612453266</a>
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013) Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. <i>Psychological Science in the Public Interest, Supplement</i>, <i>14</i>(1), 4–58.<a href="https://doi.org/10.1177/1529100612453266"> https://doi.org/10.1177/1529100612453266</a>
 
 Education Endowment Foundation (2017) Improving Mathematics in Key Stages Two and Three Guidance Report. [Online] Accessible from:<a href="https://educationendowmentfoundation.org.uk/tools/guidance-reports/"> https://educationendowmentfoundation.org.uk/tools/guidance-reports/</a>
 
@@ -612,7 +620,7 @@ Rosenshine, B. (2012) Principles of Instruction: Research-based strategies that 
 
 Rosenshine, B. (2012) Principles of Instruction: Research-based strategies that all teachers should know. <i>American Educator</i>, 12–20. <a href="https://doi.org/10.1111/j.1467-8535.2005.00507">https://doi.org/10.1111/j.1467-8535.2005.00507</a>.
 
-Tereshchenko, A., Francis, B., Archer, L., Hodgen, J., Mazenod, A., Taylor, B., Travers, M. C. (2018) Learners’ attitudes to mixed-attainment grouping: examining the views of students of high, middle and low attainment. Research Papers in Education, 1522, 1–20.<a href="https://doi.org/10.1080/02671522.2018.1452962"> https://doi.org/10.1080/02671522.2018.1452962</a>.
+Tereshchenko, A., Francis, B., Archer, L., Hodgen, J., Mazenod, A., Taylor, B., Travers, M. C. (2018) Learners' attitudes to mixed-attainment grouping: examining the views of students of high, middle and low attainment. Research Papers in Education, 1522, 1–20.<a href="https://doi.org/10.1080/02671522.2018.1452962"> https://doi.org/10.1080/02671522.2018.1452962</a>.
 
 Van de Pol, J., Volman, M., Oort, F., &amp; Beishuizen, J. (2015) The effects of scaffolding in the classroom: support contingency and student independent working time in relation to student achievement, task effort and appreciation of support. <i>Instructional Science</i>, <i>43</i>(5), 615‒641.
 

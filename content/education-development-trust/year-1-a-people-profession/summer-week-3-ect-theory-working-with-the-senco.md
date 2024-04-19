@@ -6,7 +6,7 @@ previous_path: "/education-development-trust/year-1-a-people-profession/summer-w
 
 High-quality teaching is a key component to improving life chances for all children. Within each classroom, all pupils will require different levels and types of support to succeed. However, some pupils with special educational needs or disabilities are likely to require additional or adapted support.
 
-The Department for Education’s [SEND Code of Practice](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25) states that:
+The Department for Education's [SEND Code of Practice](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25) states that:
 
 > _All pupils should have access to a broad and balanced curriculum. […] Teachers should set high expectations for every pupil, whatever their prior attainment. Teachers should use appropriate assessment to set targets which are deliberately ambitious. Potential areas of difficulty should be identified and addressed at the outset. Lessons should be planned to address potential areas of difficulty and to remove barriers to pupil achievement. In many cases, such planning will mean that pupils with SEN and disabilities will be able to study the full national curriculum._
 
@@ -29,7 +29,7 @@ Parents are the best placed individuals to provide details on:
 
 Consider how you communicate with parents and carers of SEND pupils and capture their views. Have you thought specifically about whether the information you share with families is accessible and whether they feel comfortable and confident to respond and communicate with you?
 
-Some parents of SEND pupils may have faced negative experiences in communications with their child’s school previously. Some may themselves have additional needs. This might result in them finding it difficult to engage with teachers and school leaders and will require a personalised approach. For example, a parent may find meeting in a classroom or office intimidating. Instead, you could arrange to conduct a meeting in a soft-seating area in the school or build up to face to face meetings in the school after you have built a strong relationship through phone calls and email.
+Some parents of SEND pupils may have faced negative experiences in communications with their child's school previously. Some may themselves have additional needs. This might result in them finding it difficult to engage with teachers and school leaders and will require a personalised approach. For example, a parent may find meeting in a classroom or office intimidating. Instead, you could arrange to conduct a meeting in a soft-seating area in the school or build up to face to face meetings in the school after you have built a strong relationship through phone calls and email.
 
 ## In your notepad
 
@@ -125,13 +125,18 @@ It is imperative that you know, understand and are able to action the safeguardi
 2. Where can they be found?
 3. When should you contact them?
 
-As we have seen, many people in the school community can help you understand barriers and identify effective strategies for teaching pupils with SEND. In particular, the Special Educational Needs Co-ordinator (SENCO), has a vital role in leading schools’ approaches to supporting these pupils. As a teacher, you need to be proactive in establishing a working relationship with the SENCO.
+As we have seen, many people in the school community can help you understand barriers and identify effective strategies for teaching pupils with SEND. In particular, the Special Educational Needs Co-ordinator (SENCO), has a vital role in leading schools' approaches to supporting these pupils. As a teacher, you need to be proactive in establishing a working relationship with the SENCO.
 
 ### Building effective relationships
 
 Watch this video to hear a SENCO talk about their role.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UXCnVBFW2-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/UXCnVBFW2-0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -157,7 +162,7 @@ and can also link teachers into CPD activities to support them to develop.
 
 One of the things that is part of my role is to team teach or observe in class
 to look at a specific child or group of children and work with the teacher to
-develop provision for them. This can be helpful if children don’t have a
+develop provision for them. This can be helpful if children don't have a
 diagnosis or any extra hours allocated to them as it is something the teacher
 can do themselves.
 
@@ -165,7 +170,7 @@ can do themselves.
 
 ## In your notepad
 
-1. What is the SENCO’s role?
+1. What is the SENCO's role?
 2. What support does the SENCO provide to teachers?
 
 ## In your notepad

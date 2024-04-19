@@ -49,7 +49,7 @@ This week, you have some time to collate your evidence to this point. What are y
 ## A note on evidence and workload
 
 Schools are already data-rich environments. Practitioner inquiries first of all make
-use of what we call here ‘naturally occurring’ evidence. They are in the pupils’
+use of what we call here 'naturally occurring' evidence. They are in the pupils'
 work – and your assessment of it. They are in the words and reactions of the pupils
 – and what you have heard or seen of this. When we refer to evidence-collection,
 in the main we mean: look at what the pupils have done, and listen to what they are

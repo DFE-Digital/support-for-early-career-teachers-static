@@ -7,7 +7,12 @@ previous_path: "/education-development-trust/year-2-revisiting-the-importance-of
 - Watch the video.
 - The video outlines what you will cover in this Block.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LShS6igaF1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/LShS6igaF1o"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -20,7 +25,7 @@ Video transcript.
   This Block will focus on key aspects of your practice to support you in
   curriculum design and delivery. In particular, we will focus on how you can
   use your improved understanding of how the subject or subjects you teach
-  ‘work’ to deepen and strengthen your pupils’ subject knowledge. You will build
+  'work' to deepen and strengthen your pupils' subject knowledge. You will build
   on your learning from Block 2 and Block 4 around how knowledge is constructed
   and developed and the different strategies you can use to support your pupils
   to become more successful learners.
@@ -45,7 +50,7 @@ Video transcript.
   principles in the subjects you teach. This will allow pupils to pin new
   knowledge to the foundations of the subject you are teaching; creating a
   logical system in which ideas, knowledge and skills are linked rather than
-  stand-alone ‘facts’, easily forgotten. 
+  stand-alone 'facts', easily forgotten. 
 
 
 

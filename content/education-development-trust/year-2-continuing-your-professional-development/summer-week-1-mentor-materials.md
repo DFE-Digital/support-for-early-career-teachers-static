@@ -53,7 +53,7 @@ Support the ECT to identify how they can do this, including areas of practice wh
 
 Share the following statement for the group to discuss: Contributing positively to the wider school culture and developing a feeling of shared responsibility for improving the lives of all pupils within the school is part of building effective relationships.
 
-Pose the question: What do you think is meant by ‘shared responsibility’? Why is it important?
+Pose the question: What do you think is meant by 'shared responsibility'? Why is it important?
 
 The idea of shared responsibility is that all teachers take responsibility for all pupils in their school, not just those they meet in their classrooms. This includes in corridors, at break and lunchtimes and in extra-curricular activities.
 

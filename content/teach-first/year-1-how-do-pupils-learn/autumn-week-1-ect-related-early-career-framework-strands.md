@@ -6,7 +6,7 @@ previous_path: "/teach-first/year-1-how-do-pupils-learn/autumn-week-1-ect-theory
 
 ## How Pupils Learn
 
-2.1 Learning involves a lasting change in pupils’ capabilities or understanding.
+2.1 Learning involves a lasting change in pupils' capabilities or understanding.
 
 2.2 Prior knowledge plays an important role in how pupils learn; committing some key facts to their long-term memory is likely to help pupils learn more complex ideas.
 
@@ -16,7 +16,7 @@ previous_path: "/teach-first/year-1-how-do-pupils-learn/autumn-week-1-ect-theory
 
 2.5 Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge.
 
-_2a. Taking into account pupils’ prior knowledge when planning how much new information to introduce._
+_2a. Taking into account pupils' prior knowledge when planning how much new information to introduce._
 
 _2c. Reducing distractions that take attention away from what is being taught (e.g. keeping the complexity of a task to a minimum, so that attention is focused on the content)._
 
@@ -26,7 +26,7 @@ _2e. Linking what pupils already know to what is being taught (e.g. explaining h
 
 _3a. Identifying essential concepts, knowledge, skills and principles of the subject and providing opportunity for all pupils to learn and master these critical components._
 
-_3b. Ensuring pupils’ thinking is focused on key ideas within the subject._
+_3b. Ensuring pupils' thinking is focused on key ideas within the subject._
 
 ## Classroom practice
 

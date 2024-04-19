@@ -6,11 +6,11 @@ previous_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/s
 
 ## Review: 10 mins
 
-Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
+Read the Research and Practice Summary on this week's topic. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time, but could do more of/more consistently
-3. the practices you don’t use in your teaching yet
+3. the practices you don't use in your teaching yet
 
 ## Plan: 10 mins
 
@@ -18,7 +18,7 @@ Self assessment
 
 Reflect on your classroom practice since the start of the year. Look at the bullet points below and consider whether you do each never/rarely, sometimes or often.
 
-- ‘Think aloud’
+- 'Think aloud'
 - Time for pupils to monitor progress
 - Peer- and self-evaluation
 - Thinking in similar ways for different tasks
@@ -36,7 +36,7 @@ Use your self-audit from the start of this module and the checklist you just com
 
 Identify parts of a forthcoming lesson where explicit modelling is required. Develop a script for sharing your implicit thought processes in a way that makes your thoughts clear and explicit to the pupils. Have you made any common assumptions around concepts that may need to be explicitly highlighted to pupils?
 
-Have a look again at Christine’s Year 1 science lesson for an example of a script.
+Have a look again at Christine's Year 1 science lesson for an example of a script.
 
 ### 2. Practical activity
 

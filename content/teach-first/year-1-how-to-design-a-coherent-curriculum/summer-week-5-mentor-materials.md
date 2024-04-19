@@ -25,7 +25,7 @@ And/or
 In the online study materials, your teacher was asked to review their scheme of work, considering the questions below:
 
 - With a focus on your learning objectives, where do you need to build in time for teacher input, guided practice and independent practice?
-- Where would it be helpful to interleave concrete examples and non-examples to support pupils’ understanding of an abstract concept?
+- Where would it be helpful to interleave concrete examples and non-examples to support pupils' understanding of an abstract concept?
 
 They were asked to prepare to share their evolving scheme of work with you.
 
@@ -33,7 +33,7 @@ Review and discuss their scheme of work.
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -52,4 +52,4 @@ Practise either:
 
 ### Additional resources:
 
-[Deans for Impact’s report on the science of learning](https://deansforimpact.org/resources/the-science-of-learning/)
+[Deans for Impact's report on the science of learning](https://deansforimpact.org/resources/the-science-of-learning/)

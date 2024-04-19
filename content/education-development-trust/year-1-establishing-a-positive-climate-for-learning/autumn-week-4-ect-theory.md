@@ -45,7 +45,7 @@ You can use praise and rewards to develop a positive, predictable and safe envir
 
 - Acknowledge and praise expected behaviour using verbal and non-verbal signals.
 - Use in-class rewards and praise alongside whole-school rewards.
-- Make praise and rewards ‘high value’: don’t praise work that is not at the standard expected.
+- Make praise and rewards 'high value': don't praise work that is not at the standard expected.
 - Focus praise on effort and progress, not attainment. This encourages further effort, whatever level the pupil is working at.
 - Use positive language to give directions or address behaviour: sanctions are used positively with a focus on returning to learning as quickly as possible.
 
@@ -67,7 +67,12 @@ Watch this video of a class getting started on a task in the classroom.
 - What does the teacher do?
 - What is the impact of this?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/glE2AoL1P4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/glE2AoL1P4A"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.
@@ -82,7 +87,7 @@ I can see that Josh and Harry have made a really great start. Good to see you bo
 
 Who else can I see showing great focus? Thank you Bettie, thank you Catherine. Really focused in this corner here, well done.
 
-Sacha, I see you’re getting started already, that’s excellent. Sophie has settled quickly to work, thank you Sophie, I like what you’ve done with that first sentence.
+Sacha, I see you're getting started already, that's excellent. Sophie has settled quickly to work, thank you Sophie, I like what you've done with that first sentence.
 
 Jon and Karl are getting books and pens out of their bags. Nice and quickly now thank you.
 
@@ -100,7 +105,7 @@ By narrating and modelling the positives, everyone will be encouraged to follow 
 - What does the teacher do?
 - What is the impact of this?
 
-It is important to plan HOW pupils are going to do things as well as WHAT they are going to do. You can make this clear when giving instructions. It is important to consider the ‘reasonable adjustments’ you can make for those with SEND, for example a pupil with SEND may need the instructions written down or one instruction given at a time.
+It is important to plan HOW pupils are going to do things as well as WHAT they are going to do. You can make this clear when giving instructions. It is important to consider the 'reasonable adjustments' you can make for those with SEND, for example a pupil with SEND may need the instructions written down or one instruction given at a time.
 
 ## Example
 
@@ -110,11 +115,11 @@ what the pair next to you are talking about and they should not be able to hear 
 You have four minutes to complete this task. When you have finished, you will complete
 the extension activity on the board on your own and in silence.
 
-"Susannah, how long do you have to complete this task? Thank you, Susannah, four minutes. Kieran, who will you be working with? Thank you, Kieran, you’ll be working in pairs with your partner. Kirttana, can you talk while completing this task? That’s right, Kirttana, you can talk in a whisper. Leo, what should you do if you finish? Thanks Leo, yes, there is work on the board if you finish.
+"Susannah, how long do you have to complete this task? Thank you, Susannah, four minutes. Kieran, who will you be working with? Thank you, Kieran, you'll be working in pairs with your partner. Kirttana, can you talk while completing this task? That's right, Kirttana, you can talk in a whisper. Leo, what should you do if you finish? Thanks Leo, yes, there is work on the board if you finish.
 
-"I’ll be coming round to help so put your hand up if you need me. I’ll write the names of pupils who have worked well on the board. Thank you.”
+"I'll be coming round to help so put your hand up if you need me. I'll write the names of pupils who have worked well on the board. Thank you.”
 
-Let’s take a closer look at the example and pick out the ways the teacher has used their instructions to make it clear HOW they expect pupils to complete their work:
+Let's take a closer look at the example and pick out the ways the teacher has used their instructions to make it clear HOW they expect pupils to complete their work:
 
 ## Example analysis
 
@@ -129,15 +134,15 @@ to hear you." Pupils are being explicitly told what is expected of them.
 complete the extension activity on the board on your own and in silence." Timings are clearly established.
 
 "Susannah, how long do you have to complete this task? Thank you, Susannah,
-four minutes. Kieran, who will you be working with? Thank you, Kieran, you’ll
+four minutes. Kieran, who will you be working with? Thank you, Kieran, you'll
 be working in pairs with your partner. Kirttana, can you talk while completing
-this task? That’s right, Kirttana, you can talk in a whisper. Leo, what should
+this task? That's right, Kirttana, you can talk in a whisper. Leo, what should
 you do if you finish? Thanks Leo, yes, there is work on the board if you
 finish." Expectations are checked and reinforced.
 
-"I’ll be coming round to help so put your hand up if you need me." Ensuring that support is available if needed.
+"I'll be coming round to help so put your hand up if you need me." Ensuring that support is available if needed.
 
-"I’ll write the names of the pupils I’m impressed with on the board." Showing the class that you are looking for pupils to do well and will be acknowledging pupils who are following your instructions.
+"I'll write the names of the pupils I'm impressed with on the board." Showing the class that you are looking for pupils to do well and will be acknowledging pupils who are following your instructions.
 
 "Thank you.” Pre-empting focus and showing trust in pupils. Saying thank you assumes and
 encourages a positive response.
@@ -159,7 +164,7 @@ Ask your mentor to review your instructions and help you to plan to use this ins
 
 ## Escalating behaviour incidents as appropriate ensures a predictable and secure environment for all pupils
 
-In the previous part of this section we explored the importance of always being consistent when responding to pupil behaviour. We are now going to think about this in terms of poor behaviour. When you are teaching, you want 100% of pupils to be focused, on task and engaged so that you are able to teach and they are able to learn. So, what should you do if a pupil misbehaves? Let’s consider the following key questions you should ask yourself:
+In the previous part of this section we explored the importance of always being consistent when responding to pupil behaviour. We are now going to think about this in terms of poor behaviour. When you are teaching, you want 100% of pupils to be focused, on task and engaged so that you are able to teach and they are able to learn. So, what should you do if a pupil misbehaves? Let's consider the following key questions you should ask yourself:
 
 - How can I maintain the positive environment I have created?
 - What does the school policy say?
@@ -203,7 +208,7 @@ If an individual or group are not behaving, you can give the whole group a remin
 #### Impact
 
 - Quick and positive
-- Corrects behaviour you see and those you don’t
+- Corrects behaviour you see and those you don't
 - Anonymous and supports positive relationships.
 
 #### Example

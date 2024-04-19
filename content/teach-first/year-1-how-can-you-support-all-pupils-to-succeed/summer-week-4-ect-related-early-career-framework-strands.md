@@ -6,7 +6,7 @@ previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/su
 
 ## Classroom practice
 
-4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
+4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils' prior knowledge, assess understanding and break down problems.
 
 4.10 How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
 

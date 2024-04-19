@@ -46,7 +46,7 @@ previous_path: "/education-development-trust/year-1-the-importance-of-subject-an
 
 - What misconceptions did the teacher anticipate?
 - How did they deal with them?
-- Were there any misconceptions identified during the lesson which weren’t anticipated?
+- Were there any misconceptions identified during the lesson which weren't anticipated?
 - How were these dealt with?
 
 ## Observation focus: sequencing

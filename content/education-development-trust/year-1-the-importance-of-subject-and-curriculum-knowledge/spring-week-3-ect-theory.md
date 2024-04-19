@@ -24,7 +24,7 @@ Language provides the foundation of thinking and learning. Literacy is the abili
 
 The long-term effects of weak literacy will impact a pupil far beyond school. At the everyday level, they will struggle with form filling, reading and understanding signs. The impact on their life chances can be profound, from limiting their career options and reducing their lifetime earning potential, through to poor health and lower life expectancy (Gilbert et al., 2018).
 
-The task of improving pupils’ literacy skills starts from the very beginning of education and continues all through secondary school. Even though “learning to read” is perceived as a task for teachers in early primary, the reality is that every teacher, across all subjects and all phases, can and should think carefully how they can improve pupils’ literacy. For example, all primary teachers will need to reinforce the fundamental knowledge of word reading (decoding) and language comprehension. For most secondary teachers, improving pupils’ literacy will mainly involve thinking about how you can improve reading, writing and speaking skills in relation to your subject discipline.
+The task of improving pupils' literacy skills starts from the very beginning of education and continues all through secondary school. Even though “learning to read” is perceived as a task for teachers in early primary, the reality is that every teacher, across all subjects and all phases, can and should think carefully how they can improve pupils' literacy. For example, all primary teachers will need to reinforce the fundamental knowledge of word reading (decoding) and language comprehension. For most secondary teachers, improving pupils' literacy will mainly involve thinking about how you can improve reading, writing and speaking skills in relation to your subject discipline.
 
 Consequently, it is important that all teachers have a clear understanding of the most effective ways to improve literacy. In terms of reading, the most effective approach is _systematic synthetic phonics._
 
@@ -35,7 +35,7 @@ hear, identify and use different sounds that distinguish one word from another
 in the English language.
 
 Written language can be compared to a code, so knowing the sounds of
-individual letters and how these letters sound when they’re combined will help
+individual letters and how these letters sound when they're combined will help
 children decode words as they read.
 
 Understanding phonics will also help children know which letters to use when
@@ -80,7 +80,7 @@ Video script.
 
 
 
-  Teacher: OK, we’re going to sound out this word, sh…eee...p...sheep. Now you
+  Teacher: OK, we're going to sound out this word, sh…eee...p...sheep. Now you
   say it.
 
 
@@ -112,7 +112,12 @@ Watch this video of a literacy expert explaining systematic synthetic phonics pr
 
 - What is a systematic synthetic phonics programme?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_MDygeyv464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/_MDygeyv464"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -128,7 +133,7 @@ Literacy expert:
 
   . There are several different programmes that can be chosen from. All
   systematic synthetic phonics programmes begin with letters that make lots of
-  words. Here’s how one programme starts:
+  words. Here's how one programme starts:
 
 
 [Cut to screen]
@@ -259,7 +264,7 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 - Model the use of sentence stems.
 - Prepare a bank of common sentence stems for display.
 - Sentence stems help pupils speak in full sentences.
-- Use this approach regularly so pupils’ talk improves over time.
+- Use this approach regularly so pupils' talk improves over time.
 
 ### Approach: Think, pair, share
 
@@ -320,7 +325,7 @@ call these tier 2 and tier 3 words.
 
 
 - Tier 1: Words of everyday speech, familiar to most children.&nbsp;
-- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil’s language ability.
+- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil's language ability.
 - Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.&nbsp;
   <b>Examples</b>
    
@@ -380,8 +385,8 @@ Video script.
 
 
 
-  Teacher: “Oh interesting… OK, well let’s find out… Anna, can you begin reading
-  please? As Anna reads, don’t forget to underline words or phrases that you
+  Teacher: “Oh interesting… OK, well let's find out… Anna, can you begin reading
+  please? As Anna reads, don't forget to underline words or phrases that you
   might want to clarify.”
 
 
@@ -390,14 +395,14 @@ Video script.
 
 
 
-  Teacher: “Thank you, Anna. Let’s stop there and check some things. Firstly,
+  Teacher: “Thank you, Anna. Let's stop there and check some things. Firstly,
   are there any words we need to clarify?”
 
 
-Joe: “What does ‘grocer’ mean?”
+Joe: “What does 'grocer' mean?”
 
 
-  Anna: “That’s the question I was going to ask – what is a grocer? And who is a grocer boy?”
+  Anna: “That's the question I was going to ask – what is a grocer? And who is a grocer boy?”
 
 
 
@@ -406,11 +411,11 @@ Joe: “What does ‘grocer’ mean?”
 
 
 
-  Mohammed: “I will try sounding the word out loud – ‘grocer’. Hmmm. That hasn’t
-  really helped. Next, I’ll read the sentences and think about what would make
-  sense: ‘And it can’t be the boy from the grocer because this isn’t the day he
-  comes.’ Oh, maybe the grocer is a place? Because it says, ‘from the grocer’. I
-  think I’ll ask a friend
+  Mohammed: “I will try sounding the word out loud – 'grocer'. Hmmm. That hasn't
+  really helped. Next, I'll read the sentences and think about what would make
+  sense: 'And it can't be the boy from the grocer because this isn't the day he
+  comes.' Oh, maybe the grocer is a place? Because it says, 'from the grocer'. I
+  think I'll ask a friend
 
 –
  does anyone else know what a grocer is?”
@@ -428,8 +433,8 @@ Pupils: “Yes!”
 
 
   Teacher: “A grocer-boy is like the shop-boy, the boy who works at the
-  greengrocers. Grocer-boys used to deliver the vegetables to people’s houses so
-  they didn’t have to go to the shops. OK, Harry, can you summarise what has
+  greengrocers. Grocer-boys used to deliver the vegetables to people's houses so
+  they didn't have to go to the shops. OK, Harry, can you summarise what has
   happened so far?”
 
 
@@ -444,12 +449,12 @@ Pupils: “Yes!”
 
 
 
-  Mohammed: “The mummy didn’t know who it was because she asked if it was the
-  milkman or the grocer or daddy, so we don’t know who was at the door.”
+  Mohammed: “The mummy didn't know who it was because she asked if it was the
+  milkman or the grocer or daddy, so we don't know who was at the door.”
 
 
 
-  Teacher: “That’s right – do you see, Harry? The Mummy says ‘I wonder who that can be’ Which means she doesn’t know who is at the door yet.”
+  Teacher: “That's right – do you see, Harry? The Mummy says 'I wonder who that can be' Which means she doesn't know who is at the door yet.”
 
 
 
@@ -459,7 +464,7 @@ Pupils: “Yes!”
 Anna: “Who do you think is at the door?”
 
 
-  Teacher: “Let’s ask Joe, our predictor. Joe, who do you think is at the door?”
+  Teacher: “Let's ask Joe, our predictor. Joe, who do you think is at the door?”
 
 
 
@@ -468,7 +473,7 @@ Anna: “Who do you think is at the door?”
 
 
 
-  Teacher: “Well, let’s read on and find out…”
+  Teacher: “Well, let's read on and find out…”
 
  {/details}
 

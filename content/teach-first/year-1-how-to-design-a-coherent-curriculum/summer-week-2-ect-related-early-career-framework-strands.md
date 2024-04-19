@@ -6,7 +6,7 @@ previous_path: "/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-w
 
 ## Subject and curriculum
 
-3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.
+3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils' confidence and help them succeed.
 
 3.5 Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial.
 

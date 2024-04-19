@@ -23,14 +23,14 @@ Of course, teachers can certainly impact positively on pupils with special educa
 
 As a consequence of this array of differences, pupils are likely to learn at different rates and require different levels and types of support from teachers to succeed. Pupils need to be treated as individuals and a certain level of personalisation to their education is likely to be beneficial. Your task as a teacher is to work out how to do this in a way which is optimal in terms of pupil learning within the realities of teaching 30 pupils in each class.
 
-## Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching
+## Seeking to understand pupils' differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching
 
 Understanding pupil differences is fundamental to good teaching. There are a number of ways to go about doing this:
 
 - Your school will hold information on all its pupils. There is much useful information that can be gathered to inform your approach for each pupil. There will be data on previous performance, attendance, punctuality and so on. This can help you build a picture of your pupils but be aware of its limitations as the data does not tell you _why_.
 - Whilst this information is useful, it is very important to not build preconceived ideas of what a pupil will be like. It is important to retain high expectations of all pupils.
 - There will be colleagues in the school who know these pupils very well and understand what their barriers to learning might be. These colleagues can be a useful place to find information. In primary, talking to the teacher who taught your class the previous year will be an important part of the handover process, but you should feel that you can continue to ask more experienced colleagues for advice throughout the year. In secondary, it is likely that your school has a “tutor” system. Often the tutor or head of year/phase will know a lot about a pupil.
-- Understanding levels of prior knowledge can be sought through speaking to pupils’ previous teachers and looking at their test scores from the previous year. You will also have a role to play lesson by lesson in understanding levels of prior knowledge by using formative assessment. You will learn more about this in Block 5 on questioning, assessment and feedback.
+- Understanding levels of prior knowledge can be sought through speaking to pupils' previous teachers and looking at their test scores from the previous year. You will also have a role to play lesson by lesson in understanding levels of prior knowledge by using formative assessment. You will learn more about this in Block 5 on questioning, assessment and feedback.
 
 ### Understanding pupil differences
 
@@ -39,14 +39,19 @@ Watch this video of a teacher talking about how he goes about understanding what
 What are the practical strategies the teacher uses?
 How does it inform his approach?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jbPElQN4ZIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/jbPElQN4ZIo"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
 
 Before I meet my new class, I go through the data available from the previous teacher. This tells me some information, such as who used to arrive late every day or who has an EHC plan in place. I like to talk to the teacher if possible, as well to get their take on the class, and if there was a teaching assistant who worked in the classroom last year they usually have some great information. If I know before the end of the year which class I am taking, I find it really helpful to look at samples of their work from the end of the year. This shows me what they could do and where there may be gaps in their prior knowledge.
 
-When I plan for the first day I always start by saying that whoever they were last year doesn’t matter to me. If they were the pupil who got the most behaviour points, I don’t care, because this is a fresh start. I like to create a space where pupils can choose to be the best versions of themselves and what better than a new teacher and new class. Through the first half term I plan lots of activities which are “class bonding” but are really designed for me to get a better understanding of who they are and how they work. For example, we do an afternoon of problem-solving activities which is really fun but I am actually observing their communication, reasoning, literacy and maths skills so I can decide which groups to organise pupils into for our first topic.
+When I plan for the first day I always start by saying that whoever they were last year doesn't matter to me. If they were the pupil who got the most behaviour points, I don't care, because this is a fresh start. I like to create a space where pupils can choose to be the best versions of themselves and what better than a new teacher and new class. Through the first half term I plan lots of activities which are “class bonding” but are really designed for me to get a better understanding of who they are and how they work. For example, we do an afternoon of problem-solving activities which is really fun but I am actually observing their communication, reasoning, literacy and maths skills so I can decide which groups to organise pupils into for our first topic.
 
 {/details}
 
@@ -70,7 +75,7 @@ The pupils have all been given the same task. This is not because the pupils are
 
 ### What should you focus on in this video?
 
-- What is the teacher doing in the lesson to maximise each pupil’s progress during their independent practice?
+- What is the teacher doing in the lesson to maximise each pupil's progress during their independent practice?
 - What did the teacher need to think about or prepare before the lesson in order to do this?
 - What happens when the teacher notices that a pupil is struggling?
 - What is the impact of the strategy?
@@ -84,7 +89,7 @@ She then sets the class off on the task.
 
 Immediately she begins to circulate the pupils. She checks on individual pupils by looking over their shoulder at what they are doing. She offers short prompts and interventions where necessary. She narrates out loud what she is doing to the whole class and then targets additional support at specific pupils.
 
-“I am coming round now checking on… I will tick it if correct, I’ll put a dot if it’s not.”
+“I am coming round now checking on… I will tick it if correct, I'll put a dot if it's not.”
 
 Teacher circulates the class and goes to one table at the front:
 
@@ -127,5 +132,5 @@ comes at the cost of attention to these other important dimensions (Willingham, 
 Things to watch out for:
 
 - Being told that a pupil “learns best kinesthetically” and therefore should be allowed to wander around the classroom when they feel like it. There is very little evidence of successful interventions based on learning styles theory. (Willingham 2004)
-- Activities which claim to exercise pupils’ multiple intelligences, such as getting pupils to sing and dance when reciting times tables. Gardner (1995) describes such use of multiple intelligences as trivial. This is trivial because pupils are not really engaged in the thing they need to think hard about.
+- Activities which claim to exercise pupils' multiple intelligences, such as getting pupils to sing and dance when reciting times tables. Gardner (1995) describes such use of multiple intelligences as trivial. This is trivial because pupils are not really engaged in the thing they need to think hard about.
 - A colleague gives you advice to prepare three different versions of the same worked example, one which uses pictures, one which uses words and one which includes a video recording of yourself completing it so pupils have “choice” about how to study. Do not spend your time creating these resources ‒ one quality resource (e.g. talking pupils through a written example) will be better.

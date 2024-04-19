@@ -6,7 +6,7 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-12-ect-reflect"
 ---
 
-Ms Mahrez has been working hard on conveying high expectations in her classroom, encouraging pupils to try hard and be open to challenge. However, she still occasionally struggles with low-level disruption and worries that her expectations may be unrealistic. On the other hand, when she looks at experienced colleagues’ classrooms, they seem to achieve better behaviour and learning from the same pupils. What role do high expectations play in pupil success and how can Ms Mahrez build a classroom that consistently delivers high expectations?
+Ms Mahrez has been working hard on conveying high expectations in her classroom, encouraging pupils to try hard and be open to challenge. However, she still occasionally struggles with low-level disruption and worries that her expectations may be unrealistic. On the other hand, when she looks at experienced colleagues' classrooms, they seem to achieve better behaviour and learning from the same pupils. What role do high expectations play in pupil success and how can Ms Mahrez build a classroom that consistently delivers high expectations?
 
 ## Key idea
 
@@ -18,19 +18,19 @@ Teachers can uphold high expectations by ensuring pupils are supported to achiev
 
 Ms Mahrez is determined to uphold high expectations but she worries that there is a gap between her ambitions and what her pupils can achieve. To close this gap, one of the most important things Ms Mahrez can do is create a learning environment where pupils experience a high success rate (Rosenshine, 2012). Over time, pupil success can unlock the other learning behaviours Ms Mahrez seeks to promote.
 
-To promote pupil success, Ms Mahrez’s classroom should demand a lot of pupils, but should also support pupils to meet these demands. To help with this, she can:
+To promote pupil success, Ms Mahrez's classroom should demand a lot of pupils, but should also support pupils to meet these demands. To help with this, she can:
 
 - Celebrate pupil resilience to failures along the way.
-- Encourage pupils to attribute successes to their efforts and smart strategies rather than any innate ‘ability’ (Coe et al., 2014).
+- Encourage pupils to attribute successes to their efforts and smart strategies rather than any innate 'ability' (Coe et al., 2014).
 
-Ms Mahrez’s role in securing success is partly about ensuring pupils have enough support, particularly with challenging tasks. If support is absent, pupils may fail to meet Ms Mahrez’s high expectations which may damage pupil perceptions of self-worth. She also needs to take care not to inadvertently communicate low expectations, for example by setting tasks which are too easy, or by over-praising pupils for simply meeting expectations (Coe et al., 2014). Promoting success, including proactively highlighting success to parents and carers, will also improve pupil-teacher relationships as these are based on repeated interactions over time (Wubbels et al., 2014).
+Ms Mahrez's role in securing success is partly about ensuring pupils have enough support, particularly with challenging tasks. If support is absent, pupils may fail to meet Ms Mahrez's high expectations which may damage pupil perceptions of self-worth. She also needs to take care not to inadvertently communicate low expectations, for example by setting tasks which are too easy, or by over-praising pupils for simply meeting expectations (Coe et al., 2014). Promoting success, including proactively highlighting success to parents and carers, will also improve pupil-teacher relationships as these are based on repeated interactions over time (Wubbels et al., 2014).
 
 ### Supporting pupils to develop effective learning behaviours
 
 Supporting success in this way also leads to pupils exhibiting more effective approaches to their learning. For example:
 
-- Increased effort and confidence: Pupils’ perception of their ability, their expectations of future success and the extent to which they value an activity, influence their motivation and persistence, making improved academic outcomes more likely. This may be particularly important for low-attaining pupils who may have had limited experiences of success in the past (Gutman & Schoon, 2013).
-- Growing intrinsic motivation: ‘Extrinsic’ rewards like praise for pupils who are willing to try a difficult task can be useful to get pupils started. However, where pupils are motivated ‘intrinsically’ by their own goals (and the believe they can achieve them), pupils will be more persistent in the long term (Lazowski & Hulleman, 2016).
+- Increased effort and confidence: Pupils' perception of their ability, their expectations of future success and the extent to which they value an activity, influence their motivation and persistence, making improved academic outcomes more likely. This may be particularly important for low-attaining pupils who may have had limited experiences of success in the past (Gutman & Schoon, 2013).
+- Growing intrinsic motivation: 'Extrinsic' rewards like praise for pupils who are willing to try a difficult task can be useful to get pupils started. However, where pupils are motivated 'intrinsically' by their own goals (and the believe they can achieve them), pupils will be more persistent in the long term (Lazowski & Hulleman, 2016).
 
 In sum, success over time supports the development of pupil effort, self-belief and intrinsic motivation which, in turn, drives further classroom success in a virtuous classroom cycle.
 
@@ -52,7 +52,7 @@ Pupils who perceive that their teachers are in control of the class and include 
 
 Being an effective teacher requires strong knowledge of effective instruction and the subject being taught (Coe et al., 2014). Ms Mahrez needs to develop her practice in relation to the instruction and subject strands of this programme to have the best chance of translating high expectations into successful learning behaviours.
 
-Conveying and upholding high expectations takes significant teacher effort and time. Improvements in pupil attitudes to learning may not be immediately visible, and there may be steps backwards as well as forwards. Ms Mahrez may feel like her colleagues’ classrooms work as if by magic, but she needs to understand there is no shortcut. Her consistent efforts to support pupil success, and helping them understand the process behind this, is the best way she can support pupils in her classroom and set them up for success beyond it.
+Conveying and upholding high expectations takes significant teacher effort and time. Improvements in pupil attitudes to learning may not be immediately visible, and there may be steps backwards as well as forwards. Ms Mahrez may feel like her colleagues' classrooms work as if by magic, but she needs to understand there is no shortcut. Her consistent efforts to support pupil success, and helping them understand the process behind this, is the best way she can support pupils in her classroom and set them up for success beyond it.
 
 ### Key takeaways:
 
@@ -84,7 +84,7 @@ Muijs, D. &amp; Reynolds, D. (2010). Effective Teaching. London: SAGE Publicatio
 
 Murdock-Perriera, L. A., &amp; Sedlacek, Q. C. (2018). Questioning Pygmalion in the twenty-first century: the formation, transmission, and attributional influence of teacher expectancies. Social Psychology of Education, 21(3), 691–707.
 
-Rathmann K., Herke M., Hurrelmann K., &amp; Richter M. (2018). Perceived class climate and school-aged children’s life satisfaction: The role of the learning environment in classrooms. PLoS ONE 13(2): e0189335. <a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener">bit.ly/ecf-rat</a>
+Rathmann K., Herke M., Hurrelmann K., &amp; Richter M. (2018). Perceived class climate and school-aged children's life satisfaction: The role of the learning environment in classrooms. PLoS ONE 13(2): e0189335. <a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener">bit.ly/ecf-rat</a>
 
 Rosenshine, B. (2012). Principles of Instruction: Research-Based Strategies That All Teachers Should Know. American Educator, 36(1), 12–20. <a href="http://bit.ly/ecf-ros" target="_blank" rel="noopener">bit.ly/ecf-ros</a>
 

@@ -21,7 +21,7 @@ Learn how to develop a positive, predictable and safe environment for pupils, by
 
 - Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom
 - Giving manageable, specific and sequential instructions
-- Checking pupils’ understanding of instructions before a task begins
+- Checking pupils' understanding of instructions before a task begins
 - Using consistent language and non-verbal signals for common classroom directions
 - Using early and least-intrusive interventions as an initial response to low-level disruption
 - Responding quickly to any behaviour or bullying that threatens emotional safety
@@ -50,7 +50,7 @@ Ask the ECT to reflect on the following questions related to their focus area of
 - What did you notice?
 - What surprised you?
 - What did you learn?
-- How did X affect the pupil’s learning?
+- How did X affect the pupil's learning?
 
 ### Review of the module (25 minutes)
 

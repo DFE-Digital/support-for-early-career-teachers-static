@@ -21,8 +21,8 @@ Discussion
 
 In the online study materials, your teacher was asked to review their scheme of work, considering the questions below:
 
-- Where will you build on pupils’ prior knowledge?
-- Where would it support pupils’ understanding to use worked and partially completed examples
+- Where will you build on pupils' prior knowledge?
+- Where would it support pupils' understanding to use worked and partially completed examples
 - How will you build in spaced exposition and practice?
 - Where will you build in retrieval practice?
 
@@ -34,7 +34,7 @@ Review and discuss their scheme of work.
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 

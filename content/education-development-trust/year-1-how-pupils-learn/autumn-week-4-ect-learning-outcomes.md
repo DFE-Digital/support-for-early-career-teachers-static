@@ -14,7 +14,7 @@ next_path: "/education-development-trust/year-1-how-pupils-learn/autumn-week-4-e
 - Where prior knowledge is weak, pupils are more likely to develop misconceptions, particularly if new ideas are introduced too quickly
 - Worked examples that take pupils through each step of a new process are also likely to support pupils to learn
 
-### Learn how to build on pupils’ prior knowledge, by:
+### Learn how to build on pupils' prior knowledge, by:
 
 - Identifying possible misconceptions and planning how to prevent these forming
 - Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed

@@ -30,7 +30,7 @@ In addition to contracting, as required, you may wish to meet with your teacherÂ
 Typical school policies include, but are not limited to:
 
 - Their responsibilities planning.
-- The schoolâ€™s behaviour policy.
+- The school's behaviour policy.
 - The safeguarding procedures.
 - How your school assesses pupils.
 - Your marking requirements.

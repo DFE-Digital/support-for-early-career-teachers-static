@@ -16,13 +16,13 @@ Think about your classroom practice and consider the following questions:
 
 - do you have high behavioural and academic expectations for all your pupils or do your behavioural and academic expectations differ for different pupils?
 - why do you think this is and what impact might this be having on your
-  pupils’ progress and outcomes?
+  pupils' progress and outcomes?
 
 Record your reflection in your notepad.
 
 ## Holding high expectations for contributions and engagement
 
-Setting clear expectations helps to communicate to your pupils what you expect of them. Through doing this, you can convey the values of your classroom and school, which can help to improve the learning environment and culture. You should spend some time considering what your behavioural and academic expectations are. It might be useful to discuss these with your mentor to ensure they are fitting and align with your school’s behaviour policy.
+Setting clear expectations helps to communicate to your pupils what you expect of them. Through doing this, you can convey the values of your classroom and school, which can help to improve the learning environment and culture. You should spend some time considering what your behavioural and academic expectations are. It might be useful to discuss these with your mentor to ensure they are fitting and align with your school's behaviour policy.
 
 When considering the level of concentration and contributions that you expect from your pupils, it is helpful to consider the concept of ratio. This can be broken down into two parts:
 
@@ -32,7 +32,11 @@ Ratio in the classroom is the ratio between two variables (Lemov, 2015):
 2. Think ratio - the level of rigour in the thinking and engagement that you foster in your pupils.
 
 <figure>
-  <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-image-1.png" alt="Line chart displaying the relationship between the Think Ratio (how rigorous is the work) and the Participation Ratio (How many are participating) as an upward curve." />
+  <img
+    src="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-image-1.png"
+    alt="Line chart displaying the relationship between the Think Ratio (how rigorous is the work) and the Participation Ratio (How many are participating) as an upward curve."
+    width="100%"
+    />
 </figure>
 
 The goal is to get to point A on the graph where you have both a high participation _and_ high think ratio in your classroom. To do this you must demonstrate high expectations of _all_ your pupils, expecting _everyone_ to concentrate and participate in your lesson. This will maximise learning and progress for all pupils, helping them to achieve, feel success and therefore feel motivated to continue participating.
@@ -49,9 +53,9 @@ In the next part of this session, you will explore some strategies that will hel
 
 It is important that you communicate your belief in the academic potential of _all_ your pupils. To do this, you should set and maintain clear behavioural expectations for concentration and contributions during a lesson.
 
-One way to do this is by setting the expectation that all pupils should be prepared to contribute during a lesson if asked to do so. This encourages pupils to take responsibility for learning and emphasises the importance of trying, even if a pupil is unsure of their response. It is quite common in this scenario for a pupil not to answer or to say, “I don’t know”.
+One way to do this is by setting the expectation that all pupils should be prepared to contribute during a lesson if asked to do so. This encourages pupils to take responsibility for learning and emphasises the importance of trying, even if a pupil is unsure of their response. It is quite common in this scenario for a pupil not to answer or to say, “I don't know”.
 
-If a pupil doesn’t respond or says, “I don’t know”, there are several ways you can support them to answer the question, such as:
+If a pupil doesn't respond or says, “I don't know”, there are several ways you can support them to answer the question, such as:
 
 - Providing a hint or prompt to support them to contribute
 - Asking another pupil to give a hint to help them to respond
@@ -65,19 +69,34 @@ Watch one of the videos below to see how teachers hold and demonstrate high expe
 
 ### Holding high expectations for contributions – Early Years – Maria Craster at One Degree Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HcG6TeSlPgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/HcG6TeSlPgw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Holding high expectations for contributions – Early Years – Maria Craster at One Degree Academy [AD]](https://youtu.be/T2iSCP18w-M)
 
 ### Holding high expectations for contributions – Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IFzVJSLnWsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/IFzVJSLnWsE"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Holding high expectations for contributions – Primary at Reach Academy [AD]](https://youtu.be/8RiQRnPHaCk)
 
 ### Holding high expectations for contributions – Secondary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aSzOLKBDkSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/aSzOLKBDkSc"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Holding high expectations for contributions – Secondary [AD]](https://youtu.be/AQvDUDAgNrE)
 
@@ -87,17 +106,17 @@ Think about your classroom practice and consider the following questions:
 
 - how do you ensure all pupils are engaged and contribute during your
   lessons?
-- if a pupil doesn’t know an answer, how could you support them to
+- if a pupil doesn't know an answer, how could you support them to
   successfully contribute and what impact might this have on the engagement
   of your class?
 - how can you maintain a positive learning environment and ensure pupils
-  still feel safe to make mistakes when they don’t know an answer?
+  still feel safe to make mistakes when they don't know an answer?
 
 Record your response in your notepad.
 
 ## Using countdowns or timers
 
-It’s important that pupils in your class recognise that learning time is valuable and that you expect them to work purposefully throughout the lesson or day. One way to support you to communicate this to your pupils and help them to stay engaged in activities is to share the duration of time that pupils have to complete certain activities. This has several benefits:
+It's important that pupils in your class recognise that learning time is valuable and that you expect them to work purposefully throughout the lesson or day. One way to support you to communicate this to your pupils and help them to stay engaged in activities is to share the duration of time that pupils have to complete certain activities. This has several benefits:
 
 - It supports the pupils to remain focused on learning
 - It can create a sense of achievement when pupils complete a task in the time
@@ -126,19 +145,34 @@ Record your response in your notepad.
 
 ### Using countdowns or timers – Early Years - Bella Sidenius at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vyCT9rYcfS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/vyCT9rYcfS0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Using countdowns or timers – Early Years - Bella Sidenius at Reach Academy [AD]](https://youtu.be/KErunUvIMS4)
 
 ### Using countdowns or timers – Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qw3rjrFHWMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/Qw3rjrFHWMw"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Using countdowns or timers – Primary [AD]](https://youtu.be/MzRPyjSxcVQ)
 
 ### Using countdowns or timers – Secondary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Smw8UGjLY5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/Smw8UGjLY5Q"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Using countdowns or timers – Secondary [AD]](https://youtu.be/-0GcSmF-_II)
 
@@ -157,9 +191,9 @@ Record your reflection in your notepad:
 Another way to support pupils to stay focused and engaged during lessons is to make the start and end of activities clear. This can help to keep the pace of the lesson and therefore keep pupils alert and focused. Some ways you can do this are:
 
 1. **Clear start.**
-   Make sure that all pupils know when to start the task by using a clear cue. Everyone starting tasks at the same time means that it keeps pupils focused and the environment purposeful as pupils don’t drift into starting activities or have a quick chat before they begin. For example, when starting pupils off on a task, you might say, “Three, two one, off you go.”
+   Make sure that all pupils know when to start the task by using a clear cue. Everyone starting tasks at the same time means that it keeps pupils focused and the environment purposeful as pupils don't drift into starting activities or have a quick chat before they begin. For example, when starting pupils off on a task, you might say, “Three, two one, off you go.”
 2. **Clear finish.**
-   Ensuring that all pupils know when the activity has ended and what they should do next means that pupils are not finishing at different times and have a chance to start to be off task. Making it clear when the time is up and what to do to show that they are ready is key to you being able to get the pupils’ attention and move on with the lesson. For example, using a timer with a sound to indicate time is up and then giving instructions of what to do such as, “Pencils down, eyes on me.”
+   Ensuring that all pupils know when the activity has ended and what they should do next means that pupils are not finishing at different times and have a chance to start to be off task. Making it clear when the time is up and what to do to show that they are ready is key to you being able to get the pupils' attention and move on with the lesson. For example, using a timer with a sound to indicate time is up and then giving instructions of what to do such as, “Pencils down, eyes on me.”
 3. **Provide positive reinforcement.**
    Positively reinforcing your expectations helps to ensure all pupils start and finish the task as and when you directed. For example, when starting a task, you might say, “I can see four tables have started, well done.” Equally, when finishing a task, you might say, “Pencils down, eyes on me, thanks front row, I have all of you looking at me.”
 
@@ -175,25 +209,45 @@ response in your notepad:
 
 ### Making the beginning and end of activities clear – Early Years - Bethan Hughes at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8E6FlubelKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/8E6FlubelKg"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Making the beginning and end of activities clear – Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/YXL7CTd-MOA)
 
 ### Making the beginning and end of activities clear – Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cV5RPncX0z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/cV5RPncX0z8"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Making the beginning and end of activities clear – Primary [AD]](https://youtu.be/ePw-sD3I1pE)
 
 ### Making the beginning and end of activities clear – Secondary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V7GAzO4tGV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/V7GAzO4tGV0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Making the beginning and end of activities clear – Secondary [AD]](https://youtu.be/BC9fDDBfl3A)
 
 ### Making the beginning and end of activities clear – Specialist setting -Helen Colley at Ellen Tinkham School
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMV7khEbgjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/JMV7khEbgjI"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Making the beginning and end of activities clear – Specialist setting -Helen Colley at Ellen Tinkham School [AD]](https://youtu.be/khJTjLK-pIQ)
 

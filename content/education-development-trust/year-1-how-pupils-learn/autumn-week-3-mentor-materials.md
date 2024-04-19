@@ -16,9 +16,9 @@ Learn that:
 
 Learn how to avoid overloading working memory by:
 
-- Taking into account pupils’ prior knowledge when planning how much new information to introduce
+- Taking into account pupils' prior knowledge when planning how much new information to introduce
 
-Learn how to build on pupils’ prior knowledge, by:
+Learn how to build on pupils' prior knowledge, by:
 
 - Linking what pupils already know to what is being taught (e.g. explaining how new content builds on what is already known)
 
@@ -34,11 +34,11 @@ Ask the ECT to share their reflections after teaching the lesson that they plann
 
 ### Activating key ideas for the topic (15 minutes)
 
-Explain to the ECT that the purpose of today’s topic is to explore the importance of prior knowledge for new learning. If you were about to start a lesson on animals of Africa, and share the fact that “aardvarks actually belong to the same clade of animals as elephants, called afrotheres”.
+Explain to the ECT that the purpose of today's topic is to explore the importance of prior knowledge for new learning. If you were about to start a lesson on animals of Africa, and share the fact that “aardvarks actually belong to the same clade of animals as elephants, called afrotheres”.
 
 Some points to note with the ECT:
 
-- The new information above might be incomprehensible if the ECT is not able to decipher what ‘clade’ means (it’s a group that share the same ancestral lineage) so they might have been neither interested nor uninterested. The ECT may have not known the word but have had enough prior experience of statements such as X belong to the same Y (club/family/group/ religion) to make an educated guess.
+- The new information above might be incomprehensible if the ECT is not able to decipher what 'clade' means (it's a group that share the same ancestral lineage) so they might have been neither interested nor uninterested. The ECT may have not known the word but have had enough prior experience of statements such as X belong to the same Y (club/family/group/ religion) to make an educated guess.
 - Similarly, if the ECT has no prior knowledge about what an aardvark looks or behaves like in comparison to an elephant, the new information is harder to understand because they have no prior knowledge to link it to.
 - The mentor used a word to describe the group that both elephants and aardvarks belong to, which few people would immediately recognise. Can the ECT recall it? Can the mentor? Immediately forgetting new words or information like “afrotheres” happens because you are unlikely to connect it to any prior knowledge existing in your brain (or schema) unless you pay deliberate attention to processing it.
 
@@ -69,7 +69,7 @@ Use [Handout 2.2](/assets/materials/edt-Block-2-mentor-handout-2.2.pdf) to plan 
 
 #### 1. Deciding how much information to introduce.
 
-Complete the section ‘Prior Knowledge Context’ for this lesson, summarising the content to be covered.
+Complete the section 'Prior Knowledge Context' for this lesson, summarising the content to be covered.
 Some things to consider:
 
 - Is this the first time that pupils will encounter the material in this lesson?
@@ -103,7 +103,7 @@ For the lesson, identify a new piece of content that they will be introducing. T
 
 Example:
 
-“Today we are going to be expanding single brackets. Expanding single brackets is very similar to calculating the area of a rectangle. Do you remember the week before half term when we spent time working out the area of lots of rectangles? (Pause for pupils to comment) Can anyone remember the formula we used? (Pupils respond with length x width) Brilliant, that is exactly the same as what we will be doing for expanding a single bracket but this time the length is the variable outside the bracket and the width is the variables inside the bracket. Let’s look an example together…”
+“Today we are going to be expanding single brackets. Expanding single brackets is very similar to calculating the area of a rectangle. Do you remember the week before half term when we spent time working out the area of lots of rectangles? (Pause for pupils to comment) Can anyone remember the formula we used? (Pupils respond with length x width) Brilliant, that is exactly the same as what we will be doing for expanding a single bracket but this time the length is the variable outside the bracket and the width is the variables inside the bracket. Let's look an example together…”
 
 ### Planning for action
 

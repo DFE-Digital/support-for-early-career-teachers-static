@@ -6,7 +6,7 @@ next_title: "Self-Study Activities"
 next_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/spring-week-2-ect-self-study-activities"
 ---
 
-This reading will help you understand some of the theory behind this week’s topic. We will start by introducing some of the key concepts. You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
+This reading will help you understand some of the theory behind this week's topic. We will start by introducing some of the key concepts. You will also see some suggestions of how to put these concepts into practice. When using these concepts in your own practice, you will need to take account of your pupils' characteristics, the context of your classroom and the nature of the material that you are teaching.
 
 ## Teaching new vocabulary to a group with a wide range of needs: a Year 5 class
 
@@ -28,7 +28,7 @@ Further examples of pre-teaching include:
 Do you think Miss Gascoigne is likely to want to pre-teach the vocabulary for
 the new topic?
 
-As you have seen already, one of the most important aspects of teaching is the ability to establish an accurate understanding of the pupils’ prior knowledge within a given subject or domain. In this way, the teacher can start with where their pupils are and help them from there, rather than working backwards from a long-term learning goal. It is also understood that increased prior knowledge reduces working memory load. As children develop, they accrue more knowledge across a range of contexts, and this reduces the load on their working memory, allowing them to solve problems more rapidly.
+As you have seen already, one of the most important aspects of teaching is the ability to establish an accurate understanding of the pupils' prior knowledge within a given subject or domain. In this way, the teacher can start with where their pupils are and help them from there, rather than working backwards from a long-term learning goal. It is also understood that increased prior knowledge reduces working memory load. As children develop, they accrue more knowledge across a range of contexts, and this reduces the load on their working memory, allowing them to solve problems more rapidly.
 
 To help you address the prior knowledge needs of your pupils, particularly as they learn at different rates, you should:
 
@@ -56,7 +56,7 @@ Her aim is for pupils to be able to identify words and then be able to place the
 
 This will reduce the load on their working memory as they learn new information. This small piece of pre-teaching allowed her to circumvent some of the misconceptions that may have become established.
 
-Formative assessment (or assessment for learning) is used to directly inform the teaching and learning process (i.e. when evidence gathered on pupils is used to make adaptations to teaching and learning). Dylan Wiliam describes it in terms of how ‘teachers and learners use information about student achievement, to make adjustments to the student’s learning that improve their achievement.’
+Formative assessment (or assessment for learning) is used to directly inform the teaching and learning process (i.e. when evidence gathered on pupils is used to make adaptations to teaching and learning). Dylan Wiliam describes it in terms of how 'teachers and learners use information about student achievement, to make adjustments to the student's learning that improve their achievement.'
 
 To support pupil learning through effective formative assessment, you could draw on five key strategies for embedding formative assessment, outlined by Dylan Wiliam:
 
@@ -71,22 +71,22 @@ You will return to formative and other forms of assessment in Module 4.
 Why is formative assessment so important to Miss Gascoigne as she teaches her
 pupils the vocabulary for the new topic?
 
-Reframing questions is more than simply rewording them. If a pupil can’t answer a question, reframing it can allow them to approach it from a different angle. For example, rather than asking a pupil to ‘explain their reasoning’ for statement X, the teacher might ask them to provide reasons for and against believing statement X to be true. This may help the pupil realise they don’t always have to align themselves with one particular line of reasoning, and to view problems and topics more holistically. Reframing questions can also help the teacher diagnose barriers to learning and help pupils think problems through rather than simply giving up at the first sign of difficulty.
+Reframing questions is more than simply rewording them. If a pupil can't answer a question, reframing it can allow them to approach it from a different angle. For example, rather than asking a pupil to 'explain their reasoning' for statement X, the teacher might ask them to provide reasons for and against believing statement X to be true. This may help the pupil realise they don't always have to align themselves with one particular line of reasoning, and to view problems and topics more holistically. Reframing questions can also help the teacher diagnose barriers to learning and help pupils think problems through rather than simply giving up at the first sign of difficulty.
 
 To help all your pupils make better progress, you can reframe questions to:
 
-- provide more support for those who need it by offering greater scaffolding (e.g. by narrowing down the options in an answer: ‘What were causes of the Great War?... Name me an important cause of the War... Was it important that the great powers had been building up their armies and navies before the War?’)
-- stretch those pupils who are ready for it (e.g. by politely challenging their reasoning: ‘Shamim, why do some people in the class disagree with your answer?... Shamim, try to change my mind about this...’)
+- provide more support for those who need it by offering greater scaffolding (e.g. by narrowing down the options in an answer: 'What were causes of the Great War?... Name me an important cause of the War... Was it important that the great powers had been building up their armies and navies before the War?')
+- stretch those pupils who are ready for it (e.g. by politely challenging their reasoning: 'Shamim, why do some people in the class disagree with your answer?... Shamim, try to change my mind about this...')
 
-Relationships between teachers and parents/carers are generally considered crucial to a child’s educational experience. Sometimes, we use other terms to mean similar things (e.g. parental involvement, engagement, participation). Attending a parents’ evening may be considered as ‘parental involvement’ with the school, whilst parents/carers regularly reading with their child would come under the heading of ‘parental engagement’ with learning. Building effective relationships with families can improve pupils’ motivation, behaviour and academic success; it can help teachers to better understand their pupils’ individual circumstances so that they can be effectively supported in school. Schools always need to nurture their relationships with families, but this is probably even more important for families of children with special educational needs or disabilities.
+Relationships between teachers and parents/carers are generally considered crucial to a child's educational experience. Sometimes, we use other terms to mean similar things (e.g. parental involvement, engagement, participation). Attending a parents' evening may be considered as 'parental involvement' with the school, whilst parents/carers regularly reading with their child would come under the heading of 'parental engagement' with learning. Building effective relationships with families can improve pupils' motivation, behaviour and academic success; it can help teachers to better understand their pupils' individual circumstances so that they can be effectively supported in school. Schools always need to nurture their relationships with families, but this is probably even more important for families of children with special educational needs or disabilities.
 
 To help you to build effective relationships with parents, carers and families, you should:
 
 - speak to the pastoral teams in your school and get their advice
-- prepare well for parents’ evenings, making sure you know well what your pupils’ strengths are, what they need to do to improve and what families might be able to do to help
+- prepare well for parents' evenings, making sure you know well what your pupils' strengths are, what they need to do to improve and what families might be able to do to help
 - where you have concerns about how best to communicate with a family, ask a trusted colleague to help you to script some scenarios
 
-Schools work with parents/carers in diverse ways depending upon the community in which they serve. The Education Endowment Foundation’s (2015) ‘Working with parents to support children’s learning’ is a very useful guidance report.
+Schools work with parents/carers in diverse ways depending upon the community in which they serve. The Education Endowment Foundation's (2015) 'Working with parents to support children's learning' is a very useful guidance report.
 
 ## Mastering complex vocabulary
 

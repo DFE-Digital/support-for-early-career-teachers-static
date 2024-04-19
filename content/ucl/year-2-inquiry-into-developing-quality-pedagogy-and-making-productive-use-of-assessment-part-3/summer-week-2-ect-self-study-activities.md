@@ -6,7 +6,7 @@ previous_path: "/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-
 
 ## Review: 5 mins
 
-Read the case studies on this module’s topics, or the one or two that are most relevant to the evaluative question you are investigating. As you read, reflect on:
+Read the case studies on this module's topics, or the one or two that are most relevant to the evaluative question you are investigating. As you read, reflect on:
 
 1. how similar this scenario is to your own situation
 2. how, despite any differences there may be to your own context, this case study may still be relevant to you
@@ -25,7 +25,7 @@ Take a few minutes to plan how you will use your self-directed study time this w
 
 - what evidence you still need to collect e.g.
 
-  - overhead evidence – you didn’t collect this deliberately, but it was there
+  - overhead evidence – you didn't collect this deliberately, but it was there
   - unexpected evidence – for outcomes you did not anticipate
 
 So, this week you might divide your time between collecting this wider evidence and making inferences from it (such as you did in your mentor meeting last week), and analysing the broader impacts of the inquiry on yourself. Remember, the evidence you should look for first is that which is near to hand.
@@ -43,7 +43,7 @@ Remember, in your mentor meeting last week, you updated your claim using this ma
 | Unexpected                                                                           | Counter                                                                                           |
 | The evidence for outcomes you did not anticipate                                     | The evidence, possibly negative, which sits at odds with your overall claim                       |
 
-In making ‘reasonable inferences’ keep this in mind:
+In making 'reasonable inferences' keep this in mind:
 
 - know the detail of what you altered in your practice
 - observe the changes in outcomes/ behaviours for your pupils
@@ -61,7 +61,7 @@ Engaging in practitioner inquiry is a powerful form of professional development.
 
 Practical knowledge – the fluency with which you use your expanded repertoire
 Beliefs – in yourself and your pupils
-Workload – by learning to do less of what doesn’t (and more of what does) work
+Workload – by learning to do less of what doesn't (and more of what does) work
 Professional relationships – what you learn from each other
 
 It is important to recognise the impacts that your inquiry has had on you. Where should you look?

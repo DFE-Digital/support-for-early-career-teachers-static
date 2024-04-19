@@ -26,7 +26,7 @@ Review and discuss this plan with your teacher.
 
 Refer to the Feedback Model outlined earlier in this handbook to support you with praising, probing and setting precise actions.
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -36,7 +36,7 @@ Work with your teacher to support them to improve their guided practice plan. Wh
   modelling.
 - What key teaching points will the guided practice focus on? These will be the parts pupils are asked to contribute
   to.
-- What methods or strategies will you utilise? E.g. ‘Think Aloud’, partially completed examples
+- What methods or strategies will you utilise? E.g. 'Think Aloud', partially completed examples
 - How does guided practice build on from your explanation and modelling?
 - How does this guided practice prepare pupils for their independent activity?
 

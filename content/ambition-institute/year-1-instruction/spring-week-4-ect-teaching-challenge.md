@@ -27,30 +27,30 @@ We can illustrate this by looking at sentences we might ask pupils to understand
    Where civil blood makes civil hands unclean.
 3. Some say that Henry only made the break with Rome because the Pope would not let him have a divorce (Byrom et al., 1997).
 
-For example, if pupils don’t know who Henry was, who the Pope was and why a divorce mattered to him, the sentence – and the topic – will make little sense.
+For example, if pupils don't know who Henry was, who the Pope was and why a divorce mattered to him, the sentence – and the topic – will make little sense.
 
-Teachers can help pupils to learn by linking new ideas to prior knowledge. This makes it easier to process those new ideas. For example, if pupils have studied stories about adventures previously, they know what to expect in encountering a new adventure story. This then makes it easier to remember them, by connecting the new ideas to existing knowledge. The greater pupils’ prior knowledge, the easier learning becomes for them: “it is easier to learn new information… [and] to solve new problems when one has a rich, well-connected body of knowledge and strong ties and connections” (Rosenshine, 2012). Well-organised prior knowledge makes it even easier for pupils to learn new ideas.
+Teachers can help pupils to learn by linking new ideas to prior knowledge. This makes it easier to process those new ideas. For example, if pupils have studied stories about adventures previously, they know what to expect in encountering a new adventure story. This then makes it easier to remember them, by connecting the new ideas to existing knowledge. The greater pupils' prior knowledge, the easier learning becomes for them: “it is easier to learn new information… [and] to solve new problems when one has a rich, well-connected body of knowledge and strong ties and connections” (Rosenshine, 2012). Well-organised prior knowledge makes it even easier for pupils to learn new ideas.
 
 ### Weak prior knowledge can cause pupils to misunderstand
 
-For prior knowledge to help pupils, it needs to be complete and accurate: if pupil prior knowledge is weak, pupils can misunderstand new material. If pupils hold misconceptions or lack correct knowledge, they can form misconceptions. For example, knowing that the surface of the Earth appears flat may lead pupils to conclude that the Earth is a disc (Simonsmeier et al., 2018). If Ms McShane tries to introduce a new idea which does not fit into a pupil’s current mental model – particularly if the pupil’s mental model is inaccurate – that pupil may misunderstand or reject this idea (Chi, 2009).
+For prior knowledge to help pupils, it needs to be complete and accurate: if pupil prior knowledge is weak, pupils can misunderstand new material. If pupils hold misconceptions or lack correct knowledge, they can form misconceptions. For example, knowing that the surface of the Earth appears flat may lead pupils to conclude that the Earth is a disc (Simonsmeier et al., 2018). If Ms McShane tries to introduce a new idea which does not fit into a pupil's current mental model – particularly if the pupil's mental model is inaccurate – that pupil may misunderstand or reject this idea (Chi, 2009).
 
 ### Activating prior knowledge can help pupils to succeed
 
-An effective starting point for teachers is to identify what pupils already know, and any gaps in their knowledge. Having done so, Ms McShane can seek to introduce new material in small enough chunks to be comprehensible, and to make explicit links between prior knowledge and the new ideas. Where pupils have missing or incomplete knowledge, adding new concepts will help pupils to develop more sophisticated mental models. However, where Ms McShane’s pupils already hold beliefs which happen to be wrong, she must focus on changing old concepts (Chi, 2009). When introducing new material, Ms McShane needs to develop pupils’ mental models by taking small steps and posing lots of questions which explicitly link pupil prior knowledge with the concepts being taught.
+An effective starting point for teachers is to identify what pupils already know, and any gaps in their knowledge. Having done so, Ms McShane can seek to introduce new material in small enough chunks to be comprehensible, and to make explicit links between prior knowledge and the new ideas. Where pupils have missing or incomplete knowledge, adding new concepts will help pupils to develop more sophisticated mental models. However, where Ms McShane's pupils already hold beliefs which happen to be wrong, she must focus on changing old concepts (Chi, 2009). When introducing new material, Ms McShane needs to develop pupils' mental models by taking small steps and posing lots of questions which explicitly link pupil prior knowledge with the concepts being taught.
 
 ### Nuances and caveats
 
-If pupils have lots of prior knowledge and are reminded of this, it can prevent them from looking for new or better problem solutions (Simonsmeier et al., 2018) – like a driver going into autopilot: they stop thinking hard and therefore don’t develop their mental model.
+If pupils have lots of prior knowledge and are reminded of this, it can prevent them from looking for new or better problem solutions (Simonsmeier et al., 2018) – like a driver going into autopilot: they stop thinking hard and therefore don't develop their mental model.
 
 ### Key takeaways
 
 Ms McShane can begin to improve her instruction by understanding that:
 
 - drawing on existing mental models helps us to learn new information and solve new problems more effectively
-- weak prior knowledge can lead to misconceptions. Ms McShane must make the effort to diagnose what her pupils do know, don’t know and misunderstand
+- weak prior knowledge can lead to misconceptions. Ms McShane must make the effort to diagnose what her pupils do know, don't know and misunderstand
 - Ms McShane can build on this by reviewing pupil prior knowledge and introducing new material in steps while asking lots of questions
-- by carefully activating pupil prior knowledge and challenging pupils’ incorrect beliefs, she can support pupils to develop accurate mental models
+- by carefully activating pupil prior knowledge and challenging pupils' incorrect beliefs, she can support pupils to develop accurate mental models
 
 ### Further reading
 
@@ -67,6 +67,6 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 
 Simonsmeier, B. A., Flaig, M., Deiglmayr, A., Schalk, L., &amp; Schneider, M. (2018). _Domain-Specific Prior Knowledge and Learning: A Meta-Analysis Prior Knowledge and Learning._ <a href="http://bit.ly/ecf-sim." target="_blank" rel="noopener">bit.ly/ecf-sim.</a>
 
-Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco: Jossey-Bass.
+Willingham, D. T. (2009). _Why don't students like school?_ San Francisco: Jossey-Bass.
 
 {/details}

@@ -14,7 +14,7 @@ previous_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-g
 
 _6h. Focusing on specific actions for pupils and providing time for pupils to respond to feedback._
 
-_6i. Appreciating that pupils’ responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains or the age of the child)._
+_6i. Appreciating that pupils' responses to feedback can vary depending on a range of social factors (e.g. the message the feedback contains or the age of the child)._
 
 _6m. Working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback (e.g. using whole class feedback or well supported peer- and self-assessment)._
 

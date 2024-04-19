@@ -12,7 +12,12 @@ previous_path: "/education-development-trust/year-1-establishing-a-positive-clim
 
 Watch the video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i1ESaVcFPoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/i1ESaVcFPoA"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -28,11 +33,11 @@ Video transcript.
   being in charge of the lesson can be really demoralising. You will inevitably
   contrast what you do with more experienced colleagues, but it can be hard to
   identify the strategies they use to develop a positive climate for learning.
-  It can be easy to assume that you either have ‘it’ or you don’t. 
+  It can be easy to assume that you either have 'it' or you don't. 
 
 
 
-  The good news is that this doesn’t need to be the case! A positive learning
+  The good news is that this doesn't need to be the case! A positive learning
   environment is carefully crafted through specific teacher planning and
   actions, and everyone can do this. In short, you need to teach your pupils how
   to behave in your classroom, setting clear expectations and reinforcing these
@@ -47,7 +52,7 @@ Video transcript.
   When you know what to look for, you will see two different aspects of
   behaviour management. One is the multi-faceted skill of dealing effectively
   with instances of misbehaviour. This is a skill which improves with
-  experience, but it’s also something that is dependent on knowing your pupils
+  experience, but it's also something that is dependent on knowing your pupils
   well as individuals. The second, more desirable, aspect is the proactive
   orchestration of classroom conditions in which poor behaviour is less likely
   to happen. 
@@ -83,7 +88,7 @@ better and produce our best. 
   classroom. Your actions can influence the way your pupils behave, the way that
   they feel about your lessons and the results they achieve. This Block has been
   designed to support you in securing the kind of positive climate for learning
-  which will have a direct impact on your teaching and your pupils’ learning. It
+  which will have a direct impact on your teaching and your pupils' learning. It
   will help you do all of the things we have just described: develop and
   reinforce rules and routines, support you in establishing positive
   relationships with pupils and show you ways to set and maintain high
@@ -93,7 +98,7 @@ better and produce our best. 
 
   Creating a culture in which pupils want to work hard and actively resist
   temptations to misbehave will benefit both your workload and wellbeing but
-  also your pupils’ attitudes, wellbeing and motivation. It is not something
+  also your pupils' attitudes, wellbeing and motivation. It is not something
   that can be established instantly but instead something that is consciously
   crafted over time. However, if you consistently teach and model your rules,
   routines and expectations and embed these securely, a positive climate for

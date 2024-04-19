@@ -16,12 +16,12 @@ Regular, purposeful practice is vital for pupil learning, so teachers need to de
 
 ### The benefits and challenges of getting pupils to practise
 
-Independent practice is vital to pupil learning and success. To learn, pupils need to think hard about the content they have been taught (Coe, 2013). Effective teachers give plenty of class time for independent practice (Rosenshine, 2012). It has clear benefits for pupils’ learning in terms of:
+Independent practice is vital to pupil learning and success. To learn, pupils need to think hard about the content they have been taught (Coe, 2013). Effective teachers give plenty of class time for independent practice (Rosenshine, 2012). It has clear benefits for pupils' learning in terms of:
 
 - Developing pupil fluency: When pupils practise, their understanding becomes more fluent and automatic, making it easier for pupils to apply their knowledge and learn new material (Rosenshine, 2012).
 - Helping pupils remember: For example, retrieval practice (getting pupils to recall what they have learned) is one of the best ways to ensure pupils remember learning at a later date (Pashler et al., 2008).
 
-Sometimes pupils avoid thinking hard – we all do. They also form unrealistic views of how much they know. Therefore, when given a choice, they often don’t choose effective study approaches (Pashler et al., 2008). For example, re-reading their notes may feel easy. Trying to recall what they have learned without support from peers or scaffolding feels harder, but is far more effective (Dunlosky et al., 2013). As pupils are also easily distracted, Ms Silva can best ensure they think hard by insisting that pupils practise independently.
+Sometimes pupils avoid thinking hard – we all do. They also form unrealistic views of how much they know. Therefore, when given a choice, they often don't choose effective study approaches (Pashler et al., 2008). For example, re-reading their notes may feel easy. Trying to recall what they have learned without support from peers or scaffolding feels harder, but is far more effective (Dunlosky et al., 2013). As pupils are also easily distracted, Ms Silva can best ensure they think hard by insisting that pupils practise independently.
 
 ### Getting pupils ready for independent practice
 
@@ -42,7 +42,7 @@ She also needs ensure pupils practise successfully, as failure can damage pupil 
 Ms Silva can set up independent practice consistently, in a way that develops routines over time. This is likely to contribute to pupil success, helping pupils to value practice. So, Ms Silva should consider how she will consistently:
 
 - Set clear behavioural and task expectations: This means outlining the behaviours she expects to see during independent practice: ”I should see everyone focusing on their own work silently”, and the task and support she expects pupils to use: ”I want you to complete this exercise on the worksheet, without looking at the work we did last week” (Coe et al., 2014).
-- Check for understanding: When introducing the independent practice tasks, teachers should ask specific, task-focused questions to get a clear sense of whether pupils have understood instructions (Rosenshine, 2012). Ms Silva should avoid questions like: “do we all understand this?”, where pupils’ default answer is ”yes”, even if they may not understand, or social pressure prevents them admitting to gaps in understanding (Rosenshine, 2012).
+- Check for understanding: When introducing the independent practice tasks, teachers should ask specific, task-focused questions to get a clear sense of whether pupils have understood instructions (Rosenshine, 2012). Ms Silva should avoid questions like: “do we all understand this?”, where pupils' default answer is ”yes”, even if they may not understand, or social pressure prevents them admitting to gaps in understanding (Rosenshine, 2012).
 - Circulate: Checking pupils are following instructions and holding them to account is distinct from supporting with work (Lemov, 2015). Research suggests that as teachers circulate, they should check in with individual pupils for no more than around 30 seconds (Rosenshine, 2012). Longer contacts could disrupt pupil independence by suggesting that teacher support is available.
 
 If Ms Silva is finding many questions arise during independent practice, it might be that pupils are not ready or that they do not understand her expectations. She might consider stopping practice, checking that enough support is in place and that pupils have understood her expectations.
@@ -65,7 +65,7 @@ Effective monitoring during independent practice is often non-verbal – for exa
 
 ### Further reading
 
-Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013) Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. _Psychological Science in the Public Interest, Supplement,_ 14(1), 4–58. [bit.ly/ecf-dun2](http://bit.ly/ecf-dun2)
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013) Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. _Psychological Science in the Public Interest, Supplement,_ 14(1), 4–58. [bit.ly/ecf-dun2](http://bit.ly/ecf-dun2)
 
 {details}
 References.
@@ -104,7 +104,7 @@ The Science of Early Learning.
 
 
   Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D.
-  T. (2013) Improving students’ learning with effective learning techniques:
+  T. (2013) Improving students' learning with effective learning techniques:
   Promising directions from cognitive and educational psychology.
 
 <i>

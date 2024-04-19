@@ -16,11 +16,11 @@ Teachers should seek to model and develop positive attitudes, values and behavio
 
 ### Moving beyond compliance
 
-Teacher expectations matter: the extent to which a teacher believes a pupil is likely to achieve alters that pupil’s experience of the classroom and their own likelihood of success (Coe et al., 2014; Tsiplakides & Keramida, 2010). Ms Mahrez has communicated and embedded high expectations of pupil behaviour into her classroom routines and behaviour management systems. With these essential foundations in place, she now needs to build further on these to maximise pupil learning. This can be achieved by modelling and embedding attitudes, values and behaviours that support pupils to learn more successfully.
+Teacher expectations matter: the extent to which a teacher believes a pupil is likely to achieve alters that pupil's experience of the classroom and their own likelihood of success (Coe et al., 2014; Tsiplakides & Keramida, 2010). Ms Mahrez has communicated and embedded high expectations of pupil behaviour into her classroom routines and behaviour management systems. With these essential foundations in place, she now needs to build further on these to maximise pupil learning. This can be achieved by modelling and embedding attitudes, values and behaviours that support pupils to learn more successfully.
 
-Effective teaching sets goals which challenge pupils and is demanding yet supportive in ensuring pupils successfully meet these (Coe et al., 2014). Ms Mahrez has reflected on the behaviours she wants to see and those which her pupils would benefit most from developing to successfully tackle such work. For example, she wants her pupils to be willing to join class discussions and offer answers even when their thinking is not fully developed, or when there is a risk of being wrong. Pupils sharing their thinking will enable her to gather more information on what her pupils know and don’t know, improving her ability to teach responsively and supporting pupil success (Black & Wiliam, 2009; Speckesser et al., 2018).
+Effective teaching sets goals which challenge pupils and is demanding yet supportive in ensuring pupils successfully meet these (Coe et al., 2014). Ms Mahrez has reflected on the behaviours she wants to see and those which her pupils would benefit most from developing to successfully tackle such work. For example, she wants her pupils to be willing to join class discussions and offer answers even when their thinking is not fully developed, or when there is a risk of being wrong. Pupils sharing their thinking will enable her to gather more information on what her pupils know and don't know, improving her ability to teach responsively and supporting pupil success (Black & Wiliam, 2009; Speckesser et al., 2018).
 
-Ms Mahrez’s focus is still on the climate in her classroom but it has shifted from behaviours which might hinder her teaching to behaviours which will support her to teach, and pupils to learn, more successfully.
+Ms Mahrez's focus is still on the climate in her classroom but it has shifted from behaviours which might hinder her teaching to behaviours which will support her to teach, and pupils to learn, more successfully.
 
 ### Modelling effective learning behaviours
 
@@ -28,7 +28,7 @@ Adults can be powerful role models for pupils. Where trusting relationships are 
 
 Effective teaching ensures that pupils experience success and helps them recognise failures as natural steps on the path to future success (Coe et al., 2014). Ms Mahrez can embrace this by showing pupils why errors are useful for her teaching, what a respectful and safe class climate looks like and calling on pupils to emulate these resilient and motivated behaviours.
 
-Effective teaching also seeks to develop pupils’ emotional self-regulation (EEF, 2018). By modelling the emotional impact of sharing an answer that might be wrong, she can help pupils develop their self-awareness (“this might feel hard”) and their self-regulation (“making an attempt and failing is a natural part of learning. Getting it wrong now is a step on the path to getting it right in the future”). This is crucial as often pupils refuse tasks where they feel there is a risk they will fail (Kluger & de Nisi, 1996).
+Effective teaching also seeks to develop pupils' emotional self-regulation (EEF, 2018). By modelling the emotional impact of sharing an answer that might be wrong, she can help pupils develop their self-awareness (“this might feel hard”) and their self-regulation (“making an attempt and failing is a natural part of learning. Getting it wrong now is a step on the path to getting it right in the future”). This is crucial as often pupils refuse tasks where they feel there is a risk they will fail (Kluger & de Nisi, 1996).
 
 ### Supporting pupils to understand and adopt effective learning behaviours
 
@@ -36,7 +36,7 @@ In addition to modelling, Ms Mahrez can improve her classroom environment by sup
 
 To achieve this, Ms Mahrez needs to direct pupil attention to the specific behaviours she has modelled – particularly linked to resilience and motivation – and explain why these are important. For example, she can explain that it is important for pupils to be open in contributing answers in class so that she can understand their errors. She can also explain that she needs pupils to be supportive and respectful of each other to create an environment where classmates feel comfortable contributing even where they might be wrong. Pupil behaviours can further be shaped by behaviour they observe in their peers (IES, 2008). So, Ms Mahrez should draw attention to other pupils exhibiting the positive behaviours she wants to see.
 
-Effective teachers often attribute pupil success to ‘effort rather than ability’, and value ‘resilience to failure’ (Coe et al., 2014). In developing this attitude in her pupils, Ms Mahrez needs to reward effort and highlight its contribution to success. When a pupil works hard, thinks hard or attempts a problem, Ms Mahrez should construct her praise to help pupils understand that these behaviours and mind-sets are valuable approaches to learning that will make success more likely.
+Effective teachers often attribute pupil success to 'effort rather than ability', and value 'resilience to failure' (Coe et al., 2014). In developing this attitude in her pupils, Ms Mahrez needs to reward effort and highlight its contribution to success. When a pupil works hard, thinks hard or attempts a problem, Ms Mahrez should construct her praise to help pupils understand that these behaviours and mind-sets are valuable approaches to learning that will make success more likely.
 
 When reinforcing her modelling, Ms Mahrez should ensure her words and actions line up. She should consistently remind pupils who are not meeting her expectations, and still distinguish between acknowledgement for expectations met and praise for expectations exceeded.
 
@@ -89,7 +89,7 @@ References.
 
 
   Johnson, S., Buckingham, M., Morris, S., Suzuki, S., Weiner, M., Hershberg, R.
-  &amp; Lerner, R. (2016). Adolescents’ Character Role Models: Exploring Who
+  &amp; Lerner, R. (2016). Adolescents' Character Role Models: Exploring Who
   Young People Look Up to as Examples of How to Be a Good Person.
 
 <i>

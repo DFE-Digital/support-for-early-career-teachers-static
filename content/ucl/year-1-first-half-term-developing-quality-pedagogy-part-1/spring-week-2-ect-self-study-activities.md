@@ -6,11 +6,11 @@ previous_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/s
 
 ## Review: 10 mins
 
-Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
+Read the Research and Practice Summary on this week's topic. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time, but could do more of/more consistently
-3. the practices you don’t use in your teaching yet
+3. the practices you don't use in your teaching yet
 
 ## Plan: 10 mins
 
@@ -33,7 +33,7 @@ Ask yourself what went well and what did not go so well. Doing this will help es
 
 Now look ahead to an area of your curriculum that you will be covering soon, where you know it would be helpful for pupils to have a degree of scaffolding and modelling.
 
-If, in your self-assessment above, you said you were unhappy with ‘exposition’, you might choose to focus now on modelling. Worked examples are very useful when sharing practice. As your pupils move from guided to independent practice, you might introduce and then withdraw scaffolds.
+If, in your self-assessment above, you said you were unhappy with 'exposition', you might choose to focus now on modelling. Worked examples are very useful when sharing practice. As your pupils move from guided to independent practice, you might introduce and then withdraw scaffolds.
 
 To support you with independent planning:
 

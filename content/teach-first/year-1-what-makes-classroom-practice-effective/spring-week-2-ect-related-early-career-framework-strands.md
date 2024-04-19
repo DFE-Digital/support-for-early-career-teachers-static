@@ -22,6 +22,6 @@ _4f. Starting expositions at the point of current pupil understanding._
 
 _4h. Using concrete representation of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples)._
 
-_4i. Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge)._
+_4i. Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils' attention to links with prior knowledge)._
 
 _4k. Exposing potential pitfalls and explaining how to avoid them._

@@ -4,11 +4,11 @@ heading: "First half-term: establishing a positive climate for learning"
 caption: "Year 1"
 ---
 
-In this module you’ll learn about teaching your pupils how to behave in your classroom, setting clear expectations and reinforcing these with consistent routines.
+In this module you'll learn about teaching your pupils how to behave in your classroom, setting clear expectations and reinforcing these with consistent routines.
 
 ## Module introduction
 
-Go through the module introduction to see what you’ll be learning.
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -24,7 +24,7 @@ Go through the module introduction to see what the ECT will be learning.
 During the first week of the module you need to:
 
 - work through the self-study materials below
-- meet your mentor to discuss what you’ll be learning in the weeks ahead
+- meet your mentor to discuss what you'll be learning in the weeks ahead
 
 Duration: 60 minutes.
 
@@ -39,14 +39,14 @@ Duration: 60 minutes.
 
 During the first week of the module you should:
 
-- read the ECT’s study materials below
-- catch up with the ECT to discuss what they’ll be learning in the weeks ahead
+- read the ECT's study materials below
+- catch up with the ECT to discuss what they'll be learning in the weeks ahead
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-1-mentor-materials)
 
 ## Week 2: routines
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -61,7 +61,7 @@ Duration: 45 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with the ECT
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-2-mentor-materials)
@@ -73,13 +73,13 @@ There are no self-study materials this week. Instead, your mentor will lead a di
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-3-mentor-materials)
 
 ## Week 4: maintaining high behavioural expectations
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -94,7 +94,7 @@ Duration: 30 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with the ECT
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-4-mentor-materials)
@@ -106,13 +106,13 @@ There are no self-study materials this week. Instead, your mentor will lead a di
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-5-mentor-materials)
 
 ## Week 6: putting it into practice
 
-For this topic you’ll need to work through the self-study materials below.
+For this topic you'll need to work through the self-study materials below.
 
 Duration: 90 minutes.
 
@@ -141,7 +141,7 @@ Use the materials below for an end of module review with the ECT.
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
+Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
 
 Duration: 10 minutes.
 

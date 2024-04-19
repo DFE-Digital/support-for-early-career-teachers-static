@@ -6,11 +6,11 @@ previous_path: "/ucl/year-1-second-half-term-developing-quality-pedagogy-part-2/
 
 ## Review: 10 mins
 
-Read the Research and Practice Summary on this week’s topic. As you read, reflect on:
+Read the Research and Practice Summary on this week's topic. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time but could do more of/more consistently
-3. the practices you don’t use in your teaching yet
+3. the practices you don't use in your teaching yet
 
 ## Plan: 10 mins
 

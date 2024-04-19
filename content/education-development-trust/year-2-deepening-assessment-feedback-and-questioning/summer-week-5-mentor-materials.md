@@ -24,7 +24,7 @@ Ask the ECT to reflect on the previous session.<
 
 - Have you implemented any of the ideas for efficient approaches to marking and alternative approaches to providing feedback that you learned about from our colleague?
 - How has it gone?
-- Is there anything you haven’t tried yet that you’d like to?
+- Is there anything you haven't tried yet that you'd like to?
 
 ### Written marking is just one form of feedback (25 minutes)
 
@@ -35,9 +35,9 @@ A set of marked books is traditionally seen as an effective proxy for good teach
 For example, taking the following typical comments on a GCSE English essay:
 
 - Try to phrase your analysis of language using more sophisticated vocabulary and phrasing.
-- Try to expand on your points with more complex analysis of Macbeth’s character.
+- Try to expand on your points with more complex analysis of Macbeth's character.
 
-What is more useful to the student here: receiving feedback like that or actually seeing sophisticated vocabulary, phrasing and analysis in action? It’s very difficult to be excellent if you don’t know what excellent looks like. Instead of spending large amounts of time writing comments like these (over and over again), it may well be a better use of time to get students to evaluate the best three pieces of work produced by their peers and to critically evaluate the specifics of that successful writing, comparing it to their own practice accordingly.
+What is more useful to the student here: receiving feedback like that or actually seeing sophisticated vocabulary, phrasing and analysis in action? It's very difficult to be excellent if you don't know what excellent looks like. Instead of spending large amounts of time writing comments like these (over and over again), it may well be a better use of time to get students to evaluate the best three pieces of work produced by their peers and to critically evaluate the specifics of that successful writing, comparing it to their own practice accordingly.
 
 Wiliam and Christadoulou (2017)
 

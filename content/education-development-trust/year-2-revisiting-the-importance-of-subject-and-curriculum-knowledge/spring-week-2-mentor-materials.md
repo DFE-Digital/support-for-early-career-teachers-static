@@ -22,21 +22,21 @@ Learn how to support pupils to build increasingly complex mental models, by:
 
 Suggested dialogue for mentors:
 
-Welcome to module 10 called ‘Revisiting the importance of subject and curriculum knowledge’. As you know, this module builds on your learning from Year 1.
+Welcome to module 10 called 'Revisiting the importance of subject and curriculum knowledge'. As you know, this module builds on your learning from Year 1.
 
 Guidance to mentors:
 
-The ECT should have read the ‘Thinking about your practice’ section of the self-directed study materials ahead of the topic. The mentor should also read this to familiarise themselves with the content. In this portion of the mentor topic, the mentor will be asking questions to check the ECT’s understanding of what they have read.
+The ECT should have read the 'Thinking about your practice' section of the self-directed study materials ahead of the topic. The mentor should also read this to familiarise themselves with the content. In this portion of the mentor topic, the mentor will be asking questions to check the ECT's understanding of what they have read.
 
 Suggested dialogue for mentors:
 
-You completed Activity 10.2 of the self-directed study materials: ‘Thinking about your practice’ in relation to subject and curriculum knowledge ahead of this topic. Let’s discuss your response to the questions to check your understanding of that material.
+You completed Activity 10.2 of the self-directed study materials: 'Thinking about your practice' in relation to subject and curriculum knowledge ahead of this topic. Let's discuss your response to the questions to check your understanding of that material.
 
 Why is it important to discuss curriculum design with colleagues?
 
 - Your colleagues have valuable experience and expertise that you can learn from.
 - By asking for help and guidance from colleagues, you increase the chances of producing high-quality lessons sooner.
-- Your colleagues will be able to point you towards excellent existing resources: there’s no need to reinvent the wheel for every lesson.
+- Your colleagues will be able to point you towards excellent existing resources: there's no need to reinvent the wheel for every lesson.
 
 What are some of the ways teachers can support each other with curriculum design?
 
@@ -63,7 +63,7 @@ Why should you teach concepts using a range of examples?
 
 How will you know if you have used a sufficient number of examples?
 
-- Testing pupils’ understanding will help you work out if you have given enough examples – after a few examples, ask the students to apply their understanding. If they cannot, then you will need to provide more examples.
+- Testing pupils' understanding will help you work out if you have given enough examples – after a few examples, ask the students to apply their understanding. If they cannot, then you will need to provide more examples.
 - Asking pupils more complex questions will test how well they have grasped the abstract concept.
 
 What are some of the different ways teachers can make explicit links between new content and the core concepts and principles in the subject?
@@ -87,7 +87,7 @@ Pose the question: What different ways have you presented new content for the fi
 If the ECT is struggling, prompt for specific examples: “When you introduced X, what exactly did pupils see/hear/read as their first introduction to the content?”
 
 Pose the question: What steps do you take to help connect new ideas to existing knowledge?
-The ECT may find answering these questions challenging as it might feel like something that they ‘just do’. Explain to the ECT that it is essential to plan intentionally for how new concepts will be introduced and to consider in planning what the links are to both existing knowledge and the core concepts/principles of the subject. Share one of the following examples with the ECT – the concept it is being linked to (genre in secondary and creative writing in primary) is one of the big ideas of the topic. The mentor could adapt this for their own area or phase.
+The ECT may find answering these questions challenging as it might feel like something that they 'just do'. Explain to the ECT that it is essential to plan intentionally for how new concepts will be introduced and to consider in planning what the links are to both existing knowledge and the core concepts/principles of the subject. Share one of the following examples with the ECT – the concept it is being linked to (genre in secondary and creative writing in primary) is one of the big ideas of the topic. The mentor could adapt this for their own area or phase.
 
 Example 1:
 
@@ -118,7 +118,7 @@ Before beginning:
 
 - Decide what will the purpose of the conversation be? What does the ECT hope to gain? (This could be furthering their understanding of the planning process, exploring how big ideas are planned in or anything else that will support their practice)
 - Identify who it will be most useful to speak to in order to achieve this (subject lead, curriculum lead, same subject or different subject).
-- How will this support the ECT’s practice?
+- How will this support the ECT's practice?
 
 Plan out three to five questions the ECT will ask their colleague. The questions from earlier in this topic could be used to help. Agree a time to observe the ECT. It would work well to suggest the lesson that has been discussed in this topic.
 

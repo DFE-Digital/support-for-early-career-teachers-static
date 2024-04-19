@@ -12,7 +12,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn that:
 
-- Learning involves a lasting change in pupils’ capabilities or understanding
+- Learning involves a lasting change in pupils' capabilities or understanding
 - An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory
 - Working memory is where information that is being actively processed is held, but its capacity is limited and can be overloaded
 - Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge
@@ -32,7 +32,7 @@ Learn how to make good use of expositions, by:
 
 Welcome the ECT to this module.
 
-Explain to the ECT that the purpose of this module is to begin thinking about ‘how pupils learn’. Much of this is based on what we have learnt from cognitive science and rests on our understanding of two important parts of the memory: long-term memory and working memory. These are very important considerations for teachers as they need to take into account the limitations of memory when planning and teaching. The working memory can easily become overloaded and this will be a focus for this topic on how to reduce the cognitive load.
+Explain to the ECT that the purpose of this module is to begin thinking about 'how pupils learn'. Much of this is based on what we have learnt from cognitive science and rests on our understanding of two important parts of the memory: long-term memory and working memory. These are very important considerations for teachers as they need to take into account the limitations of memory when planning and teaching. The working memory can easily become overloaded and this will be a focus for this topic on how to reduce the cognitive load.
 
 Help connect the ECT into the theme of this module with some of these questions:
 
@@ -46,18 +46,18 @@ Help connect the ECT into the theme of this module with some of these questions:
 
 Guidance to mentors:
 
-- The ECT should have read the ‘Understanding the evidence’ section of the self-directed study materials ahead of the topic.
+- The ECT should have read the 'Understanding the evidence' section of the self-directed study materials ahead of the topic.
 - The mentor should also familiarise themselves with the content.
-- In this portion of the mentor topic, the mentor will ask questions to check the ECT’s understanding of what they have read. The guidance below provides a full range of responses that show understanding. However, the mentor should not treat this as a ‘test’ of the ECT’s knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
+- In this portion of the mentor topic, the mentor will ask questions to check the ECT's understanding of what they have read. The guidance below provides a full range of responses that show understanding. However, the mentor should not treat this as a 'test' of the ECT's knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
 
 Questions:
 
 What do you understand as the difference between long-term memory and working memory?
 
 - Long-term memory is the vast store for facts and knowledge which we have.
-- Information in our long-term memory is unconscious. We don’t actively know it is there until we need it.
+- Information in our long-term memory is unconscious. We don't actively know it is there until we need it.
 - Working memory is where thinking takes place.
-- We pull information from our long-term memory and new information from the environment into our working memory and combine it to create new ‘schemas’ (mental models), which we store in our long-term memory.
+- We pull information from our long-term memory and new information from the environment into our working memory and combine it to create new 'schemas' (mental models), which we store in our long-term memory.
 - Working memory has limited capacity and can become overloaded.
 
 What happens when the working memory becomes overloaded?
@@ -72,12 +72,12 @@ How might this affect learning in the classroom?
 - Pupils may miss steps or forget to finish problems (e.g. leaving off the units in a maths problem)
 - Pupils may make false connections or develop misconceptions because they develop a weak or shallow understanding of a concept.
 
-What are some of the techniques you read about that a teacher can use to ensure that pupils don’t become overloaded?
+What are some of the techniques you read about that a teacher can use to ensure that pupils don't become overloaded?
 
 - Limiting complex multi-step instructions
 - Breaking new content into small, manageable amounts to introduce to pupils
-- Taking your time with new material – don’t rush and give pupils time to process
-- Use memory aids like writing on the whiteboard so pupils don’t need to use working memory when attempting tasks.
+- Taking your time with new material – don't rush and give pupils time to process
+- Use memory aids like writing on the whiteboard so pupils don't need to use working memory when attempting tasks.
 
 ### Adapting a lesson to reduce the cognitive load (30 minutes)
 

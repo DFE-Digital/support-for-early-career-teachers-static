@@ -8,11 +8,11 @@ next_path: "/teach-first/year-1-how-to-design-a-coherent-curriculum/summer-week-
 
 ## Introduction
 
-So far in this module we have focused on ‘the what’ and ‘the why’ of curriculum planning and you have produced a draft sequence of the learning objectives and associated content of your scheme of work. In this and the following session we will look at how, through careful curriculum design, you can help your pupils to master these important concepts, knowledge and skills. We will be drawing upon and applying knowledge from modules 3 and 4 to help you to do this.
+So far in this module we have focused on 'the what' and 'the why' of curriculum planning and you have produced a draft sequence of the learning objectives and associated content of your scheme of work. In this and the following session we will look at how, through careful curriculum design, you can help your pupils to master these important concepts, knowledge and skills. We will be drawing upon and applying knowledge from modules 3 and 4 to help you to do this.
 
 Secure subject knowledge helps teachers to motivate pupils and teach effectively. This is because it is through an understanding of how to teach a subject (often referred to as pedagogical content knowledge) that teachers develop:
 
-> ‘The most useful forms of representation of those ideas, the most powerful analogies, illustrations, examples, explanations, and demonstrations—in a word, the most useful ways of representing and formulating the subject that make it comprehensible to others.’
+> 'The most useful forms of representation of those ideas, the most powerful analogies, illustrations, examples, explanations, and demonstrations—in a word, the most useful ways of representing and formulating the subject that make it comprehensible to others.'
 >
 > (Ball and others, 2008)
 
@@ -38,18 +38,18 @@ Correct idea: different cells can have different sizes and shapes.
 
 #### Geography (plate tectonics)
 
-Misconception: The earth’s plates are made of solid rock that can never be seen because
+Misconception: The earth's plates are made of solid rock that can never be seen because
 the plates are always deep within the earth.
 
-Correct idea: Earth’s plates are made of solid rock, and they can be seen where they are not covered by soil, loose rocks, or water.
+Correct idea: Earth's plates are made of solid rock, and they can be seen where they are not covered by soil, loose rocks, or water.
 
 #### Modern foreign languages (French)
 
-Misconception:  J’ai is translated as ‘I am’
+Misconception:  J'ai is translated as 'I am'
 
-Correct idea: J’ai is translated as ‘I have’.
+Correct idea: J'ai is translated as 'I have'.
 
-This misunderstanding stems from pupils learning that ‘J’ai onze ans’ is translated as ‘I am 11 years old’; j’ai is used in this context leading pupils to think that ‘j’ai’ means ‘I am’.
+This misunderstanding stems from pupils learning that 'J'ai onze ans' is translated as 'I am 11 years old'; j'ai is used in this context leading pupils to think that 'j'ai' means 'I am'.
 
 #### History
 
@@ -59,7 +59,7 @@ Correct idea: capitalism is an economic system, and so capitalist economies can 
 
 So good curriculum design includes being aware of common misconceptions and this requires secure subject knowledge:
 
-> “The most effective teachers have deep knowledge of the subjects they teach… As well as a strong understanding of the material being taught, teachers must also understand the ways students think about the content, be able to evaluate the thinking behind students’ own methods and identify students’ common misconceptions.”
+> “The most effective teachers have deep knowledge of the subjects they teach… As well as a strong understanding of the material being taught, teachers must also understand the ways students think about the content, be able to evaluate the thinking behind students' own methods and identify students' common misconceptions.”
 >
 > (Coe and others, 2014, page 2)
 
@@ -88,7 +88,7 @@ In terms of your teaching practice, here are some other ways you can respond to 
 - explicitly address misconceptions through explanation
 - provide evidence that might conflict with their thinking
 - provide activities to support them to restructure their thinking
-- use formative assessment to check that pupils’ thinking is changing
+- use formative assessment to check that pupils' thinking is changing
 
 Revisit misconceptions to remind pupils of what they thought in the
 beginning and acknowledge how their thinking has changed.
@@ -100,27 +100,40 @@ In Key Stage 1, it is common for pupils to misunderstand the place value of digi
 For example, when teaching pupils to partition two-digit numbers to add or subtract, they will sometimes partition like this:
 
 <figure>
-  <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-partioning-28-a.jpg" alt="Diagram showing how 28 can be partitioned into 2 and 8." />
+  <img
+    src="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-partioning-28-a.jpg"
+    alt="Diagram showing how 28 can be partitioned into 2 and 8."
+    width="100%"
+    />
 </figure>
 
 …instead of this:
 
 <figure>
-  <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-partitioning-28b.jpg" alt="Diagram showing how 28 can be partitioned into 20 and 8." />
+  <img
+    src="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-partitioning-28b.jpg"
+    alt="Diagram showing how 28 can be partitioned into 20 and 8."
+    width="100%"
+    />
 </figure>
 
 This occurs because pupils do not have a secure understanding of the value that the digits represent.
 
-In order to prevent this misconception from developing, it’s important to support and develop pupils’ understanding of number using concrete objects or representation when first introducing pupils to the strategy of partitioning to add. There are several ways you could do this, but one way is to use a part-whole model:
+In order to prevent this misconception from developing, it's important to support and develop pupils' understanding of number using concrete objects or representation when first introducing pupils to the strategy of partitioning to add. There are several ways you could do this, but one way is to use a part-whole model:
 
 <figure>
-  <img url="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-Part-whole-model.jpg" alt="Diagram illustrating the part-whole model using the number 28. The number 20 has already been added to the lower left field, the lower right field is blank ready to be filled in." />
+  <img
+    src="/assets/materials/teachfirst-wp-content-uploads-sites-4-2020-08-Part-whole-model.jpg"
+    alt="Diagram illustrating the part-whole model using the number 28. The number 20 has already been added to the lower left field, the lower right field is blank ready to be filled in."
+    title="Figure 1: Part-whole model."
+    width="100%"
+    />
   <figcaption>
     Figure 1: Part-whole model.
   </figcaption>
 </figure>
 
-The ‘whole’ – 28 – is represented at the top and the ‘parts’ are represented in the circles attached to the whole. Pupils could be provided with blank models to fill out or partially completed ones like the one above. They can be given Dienes blocks or place value counters to explore partitioning the numbers and identifying relationships between them.
+The 'whole' – 28 – is represented at the top and the 'parts' are represented in the circles attached to the whole. Pupils could be provided with blank models to fill out or partially completed ones like the one above. They can be given Dienes blocks or place value counters to explore partitioning the numbers and identifying relationships between them.
 
 As you can see this teaching strategy has been carefully thought about and planned into the scheme of work because the misconception is a common one for pupils. Discussing with experienced colleagues how to help pupils to master important concepts will support you to identify the most effective teaching methods.
 

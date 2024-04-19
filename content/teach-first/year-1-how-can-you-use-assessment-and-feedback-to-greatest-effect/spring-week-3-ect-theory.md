@@ -6,7 +6,7 @@ next_title: "Related Early Career Framework strands"
 next_path: "/teach-first/year-1-how-can-you-use-assessment-and-feedback-to-greatest-effect/spring-week-3-ect-related-early-career-framework-strands"
 ---
 
-## Monitoring pupils’ work for misconceptions
+## Monitoring pupils' work for misconceptions
 
 As mentioned at the end of session 2, ensuring that you have excellent subject knowledge will mean that you are better equipped when considering where misconceptions in pupil thinking and understanding may occur.
 
@@ -20,7 +20,7 @@ Despite careful planning and sequencing of knowledge, and in spite of checking f
 
 A good strategy to help you monitor independent practice is to circulate around the class during the session.
 
-Some teachers move around the classroom checking to make sure pupils are ‘on track’. However, this can often mean they are focusing on completion of work, as opposed to mastery of skills.
+Some teachers move around the classroom checking to make sure pupils are 'on track'. However, this can often mean they are focusing on completion of work, as opposed to mastery of skills.
 
 When circulating effectively, you will notice two things:
 
@@ -66,7 +66,12 @@ To demonstrate how to monitor pupil work effectively for misconceptions by circu
 
 ### Monitoring independent practice - Early Years - Bethan Hughes at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hdR9CZ_Ga7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/hdR9CZ_Ga7A"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/cVOkjP6EcK0)
 
@@ -74,23 +79,38 @@ If you require an audio description over the video, please watch this version: [
 
 In this KS4 Maths lesson, you can see the teacher monitoring pupil work with a focus on anticipating a common misconception around decimals and the interior angles of a quadrilateral.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bzK84wN0iYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/bzK84wN0iYA"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Primary at Reach Academy [AD]](https://youtu.be/98ptG8Smv-0)
 
 ### Monitoring independent practice - Secondary at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPuB1MbeQ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/MPuB1MbeQ2o"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Secondary at Reach Academy [AD]](https://youtu.be/j54awoEwUIY)
 
 ### Monitoring independent practice – Specialist setting - Ellen Tinkham School
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SBeoTfWC0Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/SBeoTfWC0Tg"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/eT1CgNK_m6A)
 
-## Monitoring pupils’ work for misconceptions
+## Monitoring pupils' work for misconceptions
 
 ### Activity
 Select an upcoming lesson plan to review.
@@ -110,7 +130,7 @@ When monitoring pupil work across the lesson, you are constantly making decision
 A recent synthesis of information by the [Education Endowment Foundation](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/feedback/#closeSignup) (EEF) concluded that, on average, the provision of high-quality feedback led to an improvement of eight additional months of progress over the course of a year. However, providing effective feedback can be challenging, and the research also highlighted that when feedback is not given well it can have a negative impact on pupil progress.
 
 ### When should you give feedback?
-Research studies into feedback do make a distinction between a ‘mistake’ and an ‘error’.
+Research studies into feedback do make a distinction between a 'mistake' and an 'error'.
 
 Mistake: something a student can do, and does normally do correctly,
 but has not on this occasion.
@@ -118,9 +138,9 @@ but has not on this occasion.
 Error: which occurs when answering something that a student has
 not mastered or has misunderstood.
 
-(EEF, ‘A Marked Improvement?’, page 12)
+(EEF, 'A Marked Improvement?', page 12)
 
-If a pupil makes a mistake, how much feedback is it worth giving in order to correct the mistake? The EEF ‘[A Marked Improvement?](https://educationendowmentfoundation.org.uk/public/files/Presentations/Publications/EEF_Marking_Review_April_2016.pdf)’ (2016) report concludes that it should be marked as incorrect, but that the correct answer should not be provided. The rationale for this is that, if a pupil is given the correct answer, it means they are no longer required to think about the mistakes they have made, and as a result are likely to repeat the mistake again.
+If a pupil makes a mistake, how much feedback is it worth giving in order to correct the mistake? The EEF '[A Marked Improvement?](https://educationendowmentfoundation.org.uk/public/files/Presentations/Publications/EEF_Marking_Review_April_2016.pdf)' (2016) report concludes that it should be marked as incorrect, but that the correct answer should not be provided. The rationale for this is that, if a pupil is given the correct answer, it means they are no longer required to think about the mistakes they have made, and as a result are likely to repeat the mistake again.
 
 Conversely, if a pupil has made an error and therefore has a potential misconception, the report recommends that it is most effective to remind the pupil of a related rule or offer a hint towards a correct answer. If the error was treated the same as a mistake, by simply marking it incorrect, a pupil would not have the knowledge to work out what they have done wrong.
 
@@ -128,7 +148,7 @@ Conversely, if a pupil has made an error and therefore has a potential misconcep
 
 Knowing when to give feedback, and what type of feedback will be most effective, can be challenging, particularly as research has identified that feedback can sometimes have a negative impact on pupil progress.
 
-Whilst monitoring your pupils you may notice errors occurring. When this happens, there are four different ways that you could correct the error in your pupils’ thinking:
+Whilst monitoring your pupils you may notice errors occurring. When this happens, there are four different ways that you could correct the error in your pupils' thinking:
 
 - Immediate correction of the individual who has made the error
 - Immediate class correction

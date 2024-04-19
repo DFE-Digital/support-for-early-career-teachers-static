@@ -14,7 +14,7 @@ _2k. Increasing challenge with practice and retrieval as knowledge becomes more 
 
 ## Classroom practice
 
-4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
+4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils' prior knowledge, assess understanding and break down problems.
 
 4.7 High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
 

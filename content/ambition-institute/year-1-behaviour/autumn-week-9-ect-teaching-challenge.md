@@ -6,7 +6,7 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-9-ect-reflect"
 ---
 
-While pupils in Ms Sterling’s class are generally keen to give tasks a go, they often take the safe option and seek support from their teacher or peers whenever possible. How can Ms Sterling help pupils to adopt behaviours that make them more open to challenge?
+While pupils in Ms Sterling's class are generally keen to give tasks a go, they often take the safe option and seek support from their teacher or peers whenever possible. How can Ms Sterling help pupils to adopt behaviours that make them more open to challenge?
 
 ## Key idea
 
@@ -16,7 +16,7 @@ Pupils who experience success are more likely to be motivated, resilient and ope
 
 ### The role of success
 
-Part of Ms Sterling’s job is to maximise pupil learning – this means providing the right level of challenge. However, as well as offering challenge, it is also important that tasks enable pupils to experience a high success rate. This balance is a tricky one to strike.
+Part of Ms Sterling's job is to maximise pupil learning – this means providing the right level of challenge. However, as well as offering challenge, it is also important that tasks enable pupils to experience a high success rate. This balance is a tricky one to strike.
 
 Evidence suggests that if pupils struggle but are ultimately successful with a task, it is more likely they will remember the material (EEF, 2017). Where pupils have experienced success, they are likely to put in more effort, be more motivated and show more confidence in the future (Coe et al., 2014). This is because where pupils believe in their abilities to complete a specific task, they are more persistent at that task. Their investment is driven by their perceptions of success and failure, particularly if they have limited experience of meaningful success in the past (Gutman & Schoon, 2013).
 
@@ -27,7 +27,7 @@ Research suggests that teachers should aim for pupils to be successful around 80
 - Offering rewards and praise: Providing extrinsic motivation when pupils attempt challenging work. Using positive reinforcement more than negative works best (IES, 2008).
 - Attribution: Linking effort and success for pupils when introducing or framing tasks (Coe et al., 2014).
 - Avoiding lavish praise: If used without merit, praise can lower pupil confidence in their own ability (Coe et al., 2014).
-- Championing challenge: Sharing _how_ task effort will lead to future learning success. For example, directing pupils’ attention to others who have succeeded due to their effort, or saying: “this work is designed to be tough, don’t worry if you struggle, this will help you learn.”
+- Championing challenge: Sharing _how_ task effort will lead to future learning success. For example, directing pupils' attention to others who have succeeded due to their effort, or saying: “this work is designed to be tough, don't worry if you struggle, this will help you learn.”
 
 These strategies rely on a combination of intrinsic and extrinsic motivation. It is worth noting that while teachers can harness extrinsic motivation to help get pupils started, intrinsic motivation is likely to get pupils to stick at tasks, particularly when things get tricky (Lazowski & Hulleman, 2016).
 
@@ -46,7 +46,7 @@ The relationship between teacher expectations and pupil outcomes is indirect. Te
 
 When engineering a high success rate for pupils, Ms Sterling must be careful not to remove challenge altogether. Setting pupils up for success in unchallenging tasks does not build motivation and can embed low expectations if pupils interpret this as low teacher expectations (Coe et al., 2014). Instead, Ms Sterling should ensure she provides enough scaffolding for pupils to be successful and withdraw the scaffolding as pupils get better at a task (Rosenshine, 2012). She can also explain why she is withdrawing scaffolding.
 
-Pupil success at a task is an indication that they have successfully learnt lesson content, but not a sure sign – ‘learning’ and ‘performance’ are different.
+Pupil success at a task is an indication that they have successfully learnt lesson content, but not a sure sign – 'learning' and 'performance' are different.
 
 ### Key takeaways
 

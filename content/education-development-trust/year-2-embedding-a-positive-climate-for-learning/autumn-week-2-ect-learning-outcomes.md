@@ -10,9 +10,9 @@ next_path: "/education-development-trust/year-2-embedding-a-positive-climate-for
 
 | Learn that                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 7.4 Teachers can influence pupils’ resilience and beliefs about their ability to succeed, be ensuring all pupils have the opportunity to experience meaningful success. |
+| 7.4 Teachers can influence pupils' resilience and beliefs about their ability to succeed, be ensuring all pupils have the opportunity to experience meaningful success. |
 | 7.6 Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward).                                         |
-| 7.7 Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure.                                                    |
+| 7.7 Pupils' investment in learning is also driven by their prior experiences and perceptions of success and failure.                                                    |
 
 | Learn how to                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
