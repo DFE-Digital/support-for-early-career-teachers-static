@@ -36,7 +36,7 @@ previous_path: "/education-development-trust/year-1-assessment-feedback-and-ques
 
 - Consider all the points in the year when you will collect data linked to a particular learning target (e.g. writing in full paragraphs, written methods for multiplication, analysing a source).
 
-- You may choose to use a spreadsheet or tracker for your class to record against each assessment point how well each pupil could do the learning objective (you could use your own school’s assessment descriptors or a simple “never, sometimes, usually, always”).
+- You may choose to use a spreadsheet or tracker for your class to record against each assessment point how well each pupil could do the learning objective (you could use your own school's assessment descriptors or a simple “never, sometimes, usually, always”).
 
 - After each assessment point, review your tracker (ideally with a more experienced colleague) asking the following questions:
 
@@ -47,18 +47,18 @@ previous_path: "/education-development-trust/year-1-assessment-feedback-and-ques
 
 #### Use externally validated resources
 
-Summative assessments, like SATs, GCSEs and A levels, give a snapshot of pupils’ performance at a specific point in time. Summative assessment can evaluate pupil learning and provide evidence of their achievement. These assessments can also be used formatively, to provide feedback which helps pupils to improve.
+Summative assessments, like SATs, GCSEs and A levels, give a snapshot of pupils' performance at a specific point in time. Summative assessment can evaluate pupil learning and provide evidence of their achievement. These assessments can also be used formatively, to provide feedback which helps pupils to improve.
 
 For summative assessments to be most useful, they should be standardised, carefully developed and tested, implemented in controlled conditions, and assess the learning you want to find out about. You may be able to access sample and past assessments from awarding organisations for external examinations. These assessments have been carefully tested for reliability and validity and are often accompanied by reports which help teachers to understand common errors and misconceptions.
 
-Think about an upcoming series of lessons in which you would like to assess pupils’ learning and work through the questions here.
+Think about an upcoming series of lessons in which you would like to assess pupils' learning and work through the questions here.
 
 - Is there an externally validated or widely used in-school assessment that I can use? If not, what task can I use instead?
 - Does the task test the understanding or knowledge I want to assess?
 - Will all pupils be able to understand the language used in the task?
 - Will pupils respond to the task in the same way?
 - Will the task give me reliable information: if the class did it again on another day would they get different outcomes?
-- If another teacher’s class did the task would their results be comparable?
+- If another teacher's class did the task would their results be comparable?
 - Is the mark scheme clear and can I use it to help pupils understand their marks?
 - Should the task be carried out in class, under controlled conditions, with open books, or at home?
 - How much time should be given?
@@ -123,9 +123,9 @@ Reflect on your practice:
 
 - Teacher poses a question, e.g. “Imagine we had no records about the past at all, except everything to do with sport, how much about the past could we find out about?”
 - Teacher pauses while pupils have thinking time or paired discussion, e.g. “Discuss what you are thinking with your partner.”\_They might pay attention to the talk between pupils.
-- Teacher pounces on a pupil/group to see what they think e.g. "So what does this group think?” or “I think I like what you’re talking about here, can you explain that to me?”
+- Teacher pounces on a pupil/group to see what they think e.g. "So what does this group think?” or “I think I like what you're talking about here, can you explain that to me?”
 
-Bounce the idea round the room asking pupils to build or challenge on what’s already been said, e.g. \_“This group has said something really interesting. Ollie, can you explain? What does everyone else think about that? Eliza, do you agree with Ollie? Does anyone disagree?”
+Bounce the idea round the room asking pupils to build or challenge on what's already been said, e.g. \_“This group has said something really interesting. Ollie, can you explain? What does everyone else think about that? Eliza, do you agree with Ollie? Does anyone disagree?”
 
 #### Use follow up questions
 
@@ -143,7 +143,7 @@ In the next lesson you teach, try to do this five times.
 
 #### Use increased wait time
 
-Increase the wait time you give pupils after you have asked your question. It takes practice to feel confident not filling the silence but if you do, pupils will know that if they dawdle, they won’t have to answer a question.
+Increase the wait time you give pupils after you have asked your question. It takes practice to feel confident not filling the silence but if you do, pupils will know that if they dawdle, they won't have to answer a question.
 
 One way to practise achieving a longer wait time is to count down in your head slowly from 10 to 1. Tell pupils you will be doing this and ask them not to put their hands up until the end of their thinking time.
 
@@ -185,30 +185,30 @@ Reflect on your practice:
 
 For a lesson you have coming up, develop a multiple-choice quiz that you could use at the beginning of the lesson to check for prior knowledge – this can include the security of that knowledge.
 
-For example, the teacher has taught one lesson in a sequence of lessons on the Battle of Hastings. He uses the following multiple-choice questions to test pupils’ knowledge as they go into lesson 2.
+For example, the teacher has taught one lesson in a sequence of lessons on the Battle of Hastings. He uses the following multiple-choice questions to test pupils' knowledge as they go into lesson 2.
 
-1. Why might Harold’s army have been tired before the Battle of Hastings?
+1. Why might Harold's army have been tired before the Battle of Hastings?
  - They had recently fought Harald Hadrada.
  - They had recently fought King Cnut.
  - They had recently fought William Duke of Normandy.
-2. What other reason did Harold’s army have for being tired?
+2. What other reason did Harold's army have for being tired?
   - They had marched to and from London Bridge.
   - They had marched to and from Stamford Bridge.
   - They had marched to and from Severn Bridge.
-3. What advantages did William’s army have ahead of the battle?
+3. What advantages did William's army have ahead of the battle?
  - They were a large army of mostly amateur soldiers.
  - They arrived early and positioned themselves atop Senlac Hill.
  - They were well equipped with horses and weapons.
 
-#### 5 quick questions/If this is the answer, what’s the question?
+#### 5 quick questions/If this is the answer, what's the question?
 
-For a lesson you have coming up, develop a series of 5 quick questions you could ask to check for pupils’ prior knowledge.
+For a lesson you have coming up, develop a series of 5 quick questions you could ask to check for pupils' prior knowledge.
 
 For example, taking the same history lesson as above:
 
 1. Who had Harold fought ahead of the Battle of Hastings?
 2. Where did this battle take place?
-3. What other reason did Harold’s army have for being tired before the Battle of Hastings?
+3. What other reason did Harold's army have for being tired before the Battle of Hastings?
 4. Name one advantage William had over Harold.
 5. Name another.
 

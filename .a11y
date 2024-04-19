@@ -1,0 +1,15 @@
+{
+  "defaults": {
+    "reporters": [
+      "cli",
+      "html"
+    ],
+    "rulesets": [
+      "wcag22aa"
+    ],
+    "ignore": [
+      "color-contrast",
+      "frame-tested"
+    ]
+  }
+}

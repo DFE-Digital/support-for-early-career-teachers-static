@@ -64,7 +64,7 @@ Agree with the ECT what their next steps are:
 - Planning the lessons with the content in the order agreed
 - When will they do this by?
 
-In the next topic you will be looking at breaking complex ideas into smaller steps. Ask the ECT to bring an example of a complex idea which they will be teaching soon. This could be the concept at the top of their brick wall from today’s topic but might be something completely different. It could be a task which involves multiple, complex steps.
+In the next topic you will be looking at breaking complex ideas into smaller steps. Ask the ECT to bring an example of a complex idea which they will be teaching soon. This could be the concept at the top of their brick wall from today's topic but might be something completely different. It could be a task which involves multiple, complex steps.
 
 ## Teaching complex ideas: breaking into smaller steps, reducing distractions
 
@@ -95,7 +95,7 @@ Now show them [Handout 2.5](/assets/materials/edt-Block-2-mentor-handout-2.5.pdf
 
 Pose the question: How much easier did you find the task with step by step instructions?
 
-Note, the ECT’s artistic ability will be a factor here! If they are already very confident drawing, ask them to imagine they were not a very confident artist!
+Note, the ECT's artistic ability will be a factor here! If they are already very confident drawing, ask them to imagine they were not a very confident artist!
 
 Pose the question: How does breaking complex material into smaller steps help pupils learn?
 
@@ -119,6 +119,6 @@ Pose the question: What do you want pupils to do/learn?
 
 ### Planning for action
 
-Pose the question: How has today’s topic made you think differently about the activities you do in your classroom?
+Pose the question: How has today's topic made you think differently about the activities you do in your classroom?
 
 Ask the ECT to confirm their next steps based on the mentor topics.

@@ -4,10 +4,10 @@ heading: "Instruction"
 caption: "Year 1"
 ---
 
-In this module you’ll cover:
+In this module you'll cover:
 
 - the link between effective instruction and pupil learning
-- the elements of explicit instruction and the ‘I-we-you’ model as a useful way of approaching this
+- the elements of explicit instruction and the 'I-we-you' model as a useful way of approaching this
 - how instruction can support more effective pupil thinking
 
 ## Week 1: module overview and re-contracting
@@ -172,7 +172,7 @@ Looks at how effective questions can deepen and extend pupil thinking.
 
 ## Week 11: classroom talk
 
-Explores how classroom talk can help to develop pupils’ mental models.
+Explores how classroom talk can help to develop pupils' mental models.
 
 Duration: 40 minutes.
 
@@ -182,7 +182,7 @@ Duration: 40 minutes.
 
 ### Mentors
 
-Explores how classroom talk can help to develop pupils’ mental models.
+Explores how classroom talk can help to develop pupils' mental models.
 
 [View mentor materials](/ambition-institute/year-1-instruction/spring-week-11-mentor-materials)
 

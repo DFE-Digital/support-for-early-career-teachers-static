@@ -28,7 +28,7 @@ While teachers often choose to give written feedback, we have little evidence th
 
 Self and peer feedback linked to these questions is far more time efficient than written teacher marking. However, it is difficult for novices to assess quality or give feedback on complex tasks (Christodoulou, 2017). Therefore, Ms Kearney might consider encouraging pupils to feed back on more straightforward tasks and to scaffold this with a checklist to support those who need it.
 
-Whole-class feedback involves teachers reviewing all pupils’ work and identifying common misconceptions and errors, before feeding back to the whole class. It is not necessarily tailored to individual needs. However, addressing misconceptions is important for pupil learning and is significantly quicker than written marking (Quigley, 2018).
+Whole-class feedback involves teachers reviewing all pupils' work and identifying common misconceptions and errors, before feeding back to the whole class. It is not necessarily tailored to individual needs. However, addressing misconceptions is important for pupil learning and is significantly quicker than written marking (Quigley, 2018).
 
 Ms Kearney must be careful not to overwhelm pupils with too much negative feedback; if pupils do not believe they can be successful they may avoid the task completely (Kluger & de Nisi, 1996).
 
@@ -36,7 +36,7 @@ Ms Kearney must be careful not to overwhelm pupils with too much negative feedba
 
 Over time, effective feedback helps pupils to monitor and regulate their own learning (EEF, 2017). Feedback allows pupils to monitor their current performance and understanding. If pupils have a good grasp of their current performance and a clear sense of their goal, then they should increasingly be able to judge how well they are doing and to regulate their learning by identifying what they need to do to improve.
 
-However, pupils can become dependent on feedback when it is given too frequently (Soderstrom & Bjork, in Hendrick & Macpherson, 2018). Additionally, where pupils are frequently given grades as part of their feedback, they can become preoccupied with ‘how I am doing?’ over ‘where to next?’ (EEF, 2016). Finally, pupils will only act on feedback if they believe they can be successful (Kluger & De Nisi, 1996). Ms Kearney must not only provide accurate feedback but also create time in her lessons to ensure her pupils are able to act on it.
+However, pupils can become dependent on feedback when it is given too frequently (Soderstrom & Bjork, in Hendrick & Macpherson, 2018). Additionally, where pupils are frequently given grades as part of their feedback, they can become preoccupied with 'how I am doing?' over 'where to next?' (EEF, 2016). Finally, pupils will only act on feedback if they believe they can be successful (Kluger & De Nisi, 1996). Ms Kearney must not only provide accurate feedback but also create time in her lessons to ensure her pupils are able to act on it.
 
 ### Deciding whether to give feedback
 
@@ -87,7 +87,7 @@ Hendrick, C. &amp; McPherson, R. (Eds.). (2018). _What Does This Look Like in th
 
 Kluger, A. N., &amp; DeNisi, A. (1996) The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. _Psychological Bulletin, 119_(2)_,_ 254–284.
 
-Quigley, A., (2018). School improvement and taming the ‘marking monster’. _Education Endowment Foundation Blog_. <a href="http://bit.ly/ecf-qui2">bit.ly/ecf-qui2</a>
+Quigley, A., (2018). School improvement and taming the 'marking monster'. _Education Endowment Foundation Blog_. <a href="http://bit.ly/ecf-qui2">bit.ly/ecf-qui2</a>
 
 Wiliam, D., &amp; Leahy, S., (2015). _Embedding Formative Assessment._ Florida: Learning Sciences International.
 

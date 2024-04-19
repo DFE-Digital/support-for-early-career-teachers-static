@@ -8,7 +8,7 @@ previous_path: "/education-development-trust/year-1-the-importance-of-subject-an
 
 You probably have a good idea of what we mean by curriculum already, but it is worth noting that there are different definitions. The Early Career Framework states:
 
-- a school’s curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning
+- a school's curriculum enables it to set out its vision for the knowledge, skills and values that its pupils will learn, encompassing the national curriculum within a coherent wider vision for successful learning
 
 A similar definition that a lot of schools will look to is that of Ofsted (Ofsted working definition of curriculum, 2018). The Ofsted definition states that a curriculum is a framework for:
 
@@ -24,10 +24,10 @@ Before we consider the evidence in this area, take a minute to write down some i
 
 As you work this through activity try to answer the following questions:
 
-- what is your school’s broad vision for education?
+- what is your school's broad vision for education?
 - what are the outcomes of this vision and how are the outcomes described in
-  terms of pupils’ lives and their results?
-- how does this vision translate into your school’s curriculum choices? For
+  terms of pupils' lives and their results?
+- how does this vision translate into your school's curriculum choices? For
   example, what subjects does your school offer, or is the learning organised
   into general themes? What does this look like in your department and in
   your classroom?
@@ -36,7 +36,7 @@ While schools interpret the national curriculum, further interpretation happens 
 
 ## Secure subject knowledge helps teachers to motivate pupils and teach effectively
 
-At its simplest, the skill of teaching is about making sure pupils understand new things: when teaching new content in a subject area, your goal is to make it “comprehensible to others” (Ball et al., 2008). Having a deep knowledge of the subject you are teaching is essential to be able to do this well. Indeed, when teachers’ knowledge falls below a certain level it can limit students’ learning (Coe et al., 2014).
+At its simplest, the skill of teaching is about making sure pupils understand new things: when teaching new content in a subject area, your goal is to make it “comprehensible to others” (Ball et al., 2008). Having a deep knowledge of the subject you are teaching is essential to be able to do this well. Indeed, when teachers' knowledge falls below a certain level it can limit students' learning (Coe et al., 2014).
 
 Hattie (2012) explains that expert teachers are able to use their subject knowledge to organise and use content more effectively for pupils to understand. Teachers with secure subject knowledge are more confident to respond to individual student needs, recognise those who need support and change the way information is presented to support learning. This leads to pupils experiencing success, which in turn is motivating and will encourage them to continue trying hard even when content becomes more complex.
 
@@ -45,7 +45,7 @@ So, what does secure subject knowledge look like? Secure subject knowledge is mo
 - Understanding why something is true and how central it is to the subject you are teaching allows you to emphasise the key concepts, prioritise foundational knowledge and sequence learning so that pupils can develop a deep understanding of the subject and how new content builds on and connects to previous learning.
 - Understanding why will also help you to anticipate and plan for common misconceptions which pupils may already have or are likely to develop. You explored misconceptions in Block 2 in relation to how pupils learn. Secure subject knowledge will both help you to anticipate misconceptions and to explain them in greater depth to pupils.
 
-We will look at both these points in more detail in the next section. For now, let’s just take a look at how this type of knowledge helps us in our teaching. For example, having a deep understanding of the subject you are teaching supports you to give thorough and detailed explanations to your pupils which avoids them developing false assumptions. False assumptions over time might embed in their memory as misconceptions.
+We will look at both these points in more detail in the next section. For now, let's just take a look at how this type of knowledge helps us in our teaching. For example, having a deep understanding of the subject you are teaching supports you to give thorough and detailed explanations to your pupils which avoids them developing false assumptions. False assumptions over time might embed in their memory as misconceptions.
 
 In the example below, the teacher responds to a correct answer by expanding beyond superficial understanding of a concept. Why do you think the teacher did this?
 
@@ -53,13 +53,13 @@ In the example below, the teacher responds to a correct answer by expanding beyo
 
 Teacher: “What is 45 x 10?”
 
-Student: “It’s 450! When you times by ten you always get a zero on the end."
+Student: “It's 450! When you times by ten you always get a zero on the end."
 
-Teacher: “You’re correct that 45 x 10 is 450. And you’re right that
-multiplying by 10 often means that the answer has a zero on the end. But that’s not
+Teacher: “You're correct that 45 x 10 is 450. And you're right that
+multiplying by 10 often means that the answer has a zero on the end. But that's not
 always true. When you multiply by 10, all of the numbers move up a place value and
 so the 5 units becomes 50. The zero indicates no units. If you multiply 0.3 by 10,
-the answer would be 3 units. There won’t be a zero on the end.”
+the answer would be 3 units. There won't be a zero on the end.”
 
 The teacher uses their secure subject knowledge to pick up a potential pitfall that might lead to mistakes. This aspect of subject knowledge develops over time and comes with experience. Spending time talking to more experienced colleagues specifically about the misconceptions which pupils will experience in a given area is almost always time well spent. The teacher leaves nothing to chance – they are completely explicit in the way they teach the concept.
 
@@ -88,9 +88,9 @@ step is effective, especially if the teacher assists the pupils as they practise
 to scaffold their learning, such as through questioning or further explanations (Rosenshine,
 2012).
 
-## Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed
+## Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils' confidence and help them succeed
 
-In the example above, the teacher draws the pupil’s attention to a fundamental concept in mathematics – place value – reinforcing how this core idea is applied within the subject. An important part of your role is to ensure pupils encounter and master the foundational concepts and knowledge in the subjects you teach. Pupils having a firm grasp of these fundamentals will allow them to succeed as they encounter new topics in the subject and consequently build their confidence (Deans for Impact, 2015). By providing deliberate instructional support to make sure that these foundational concepts are well understood, you are giving your pupils the best chance of success. Again, the types of explicit teaching strategies outlined above will help.
+In the example above, the teacher draws the pupil's attention to a fundamental concept in mathematics – place value – reinforcing how this core idea is applied within the subject. An important part of your role is to ensure pupils encounter and master the foundational concepts and knowledge in the subjects you teach. Pupils having a firm grasp of these fundamentals will allow them to succeed as they encounter new topics in the subject and consequently build their confidence (Deans for Impact, 2015). By providing deliberate instructional support to make sure that these foundational concepts are well understood, you are giving your pupils the best chance of success. Again, the types of explicit teaching strategies outlined above will help.
 
 While schools might approach curriculum design in different ways, or have different visions for the education of pupils, carefully sequencing and staging what pupils need to know – and making clear links between new knowledge and prior learning – should be universal. You learned in Block 2 that pupils construct new knowledge and understanding based on what they already know (Roediger & Butler, 2011), and this is the case in all subjects. You will also remember that the way we mentally organise knowledge, joining new concepts to existing knowledge in increasingly complex mental models, is called schemata. If we are unable to connect new knowledge to existing information within our long-term memory, it is likely to be forgotten.
 
@@ -118,7 +118,7 @@ For pupils to think critically, they must have a secure understanding of knowled
 
 Because background knowledge is so important, it is also likely that pupils will struggle to transfer what they learn in one subject or discipline to another. For example, if a pupil practises evaluation of similar texts in English – with lots of initial guidance before the support is tapered and the underlying structure of what good evaluation looks like is pointed out – the pupil will get better at evaluating other similar texts. The specific nature of the critical thinking task here is unlikely to transfer easily to many other subjects or even other types of text.
 
-There are many types of critical thinking tasks (such as comparing, classifying, judging) which are cognitively demanding but don’t aid schema building. Unless the background knowledge is secure, more complex critical thinking tasks may actually _detract_ from learning. In the examples below, Teacher A assumes that their pupils will be able to engage critically with a text in the same way as an expert (such as the teacher). Teacher B takes a different approach. Why is this more likely to be effective?
+There are many types of critical thinking tasks (such as comparing, classifying, judging) which are cognitively demanding but don't aid schema building. Unless the background knowledge is secure, more complex critical thinking tasks may actually _detract_ from learning. In the examples below, Teacher A assumes that their pupils will be able to engage critically with a text in the same way as an expert (such as the teacher). Teacher B takes a different approach. Why is this more likely to be effective?
 
 ### Critical thinking example
 
@@ -137,7 +137,7 @@ Each group shares with the class but their responses are not well
 developed, focusing on things like how difficult it was to read the
 handwriting and understand the language of Elizabethan writers.
 
-### Example B:
+#### Example B:
 
 Before the lesson, the teacher identifies that for pupils to be successful
 analysing the usefulness of a text they need to know certain information
@@ -156,7 +156,7 @@ The teacher hands out the historical source and pupils work in small
 groups to answer the pre-agreed questions.
 
 Pupils share back to the rest of the class, comparing and building on each
-other’s answers to each of the pre-agreed questions.
+other's answers to each of the pre-agreed questions.
 
 ### In your notepad
 
@@ -179,13 +179,13 @@ Deans for Impact (2015) _The Science of Learning_ [Online] Accessible from:<a hr
 
 Education Endowment Foundation (2017) _Metacognition and Self-regulated learning Guidance Report_. [Online] Accessible from:<a href="about:blank"> https://educationendowmentfoundation.org.uk/tools/guidance-reports/</a>.
 
-Education Endowment Foundation (2018) _Preparing for Literacy: Improving Communication, Language and Literacy in the Early Years’_, London: Education Endowment Foundation.
+Education Endowment Foundation (2018) _Preparing for Literacy: Improving Communication, Language and Literacy in the Early Years'_, London: Education Endowment Foundation.
 
 Guzzetti, Barbara J. (2000) Learning counterintuitive science concepts: what have we learned from over a decade of research? _Reading & Writing Quarterly_, 16:2, 89‒98, DOI: 10.1080/105735600277971.
 
 Hattie, J. (2012) _Visible Learning for Teachers_. Oxford: Routledge.
 
-Jerrim, J., &amp; Vignoles, A. (2016) The link between East Asian "mastery" teaching methods and English children’s mathematics skills. _Economics of Education Review_, 50, 29‒44.<a href="about:blank"> https://doi.org/10.1016/j.econedurev.2015.11.003</a>.
+Jerrim, J., &amp; Vignoles, A. (2016) The link between East Asian "mastery" teaching methods and English children's mathematics skills. _Economics of Education Review_, 50, 29‒44.<a href="about:blank"> https://doi.org/10.1016/j.econedurev.2015.11.003</a>.
 
 Muijs, D., &amp; Reynolds, D. (2017) _Effective teaching: Evidence and practice_. Thousand Oaks, CA: Sage.
 

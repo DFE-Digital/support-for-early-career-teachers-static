@@ -30,9 +30,9 @@ The most effective systems are those that use reinforcement of positive behaviou
 
 ### Intrinsic motivation
 
-Effective classroom behaviour systems also make the most of pupils’ intrinsic motivation. Intrinsic motivation is when pupils do something because they want to, perhaps because it is related to their identity or values. In contrast, extrinsic motivation is where pupils do something because of a sanction or reward. This distinction is important because pupils who are motivated intrinsically are more likely to behave better and persist longer with tasks when they get challenging (Lazowski & Hulleman, 2016).
+Effective classroom behaviour systems also make the most of pupils' intrinsic motivation. Intrinsic motivation is when pupils do something because they want to, perhaps because it is related to their identity or values. In contrast, extrinsic motivation is where pupils do something because of a sanction or reward. This distinction is important because pupils who are motivated intrinsically are more likely to behave better and persist longer with tasks when they get challenging (Lazowski & Hulleman, 2016).
 
-Over time, teachers should aim to gradually reduce pupil reliance on external rewards or sanctions (IES, 2008). Ms Mahrez could do this by using intentional and consistent language that promotes challenge and aspiration, and helping pupils make links between their actions, successes and long-term goals. For example, when setting up a task which requires retrieval of prior knowledge, Ms Mahrez might say “successfully remembering this will help you to learn about figurative language, which is crucial for much of the English we’ll learn in the future and will also help you with everyday reading and writing”.
+Over time, teachers should aim to gradually reduce pupil reliance on external rewards or sanctions (IES, 2008). Ms Mahrez could do this by using intentional and consistent language that promotes challenge and aspiration, and helping pupils make links between their actions, successes and long-term goals. For example, when setting up a task which requires retrieval of prior knowledge, Ms Mahrez might say “successfully remembering this will help you to learn about figurative language, which is crucial for much of the English we'll learn in the future and will also help you with everyday reading and writing”.
 
 ### Consistency and pupil-teacher relationships
 
@@ -44,7 +44,7 @@ Effective whole school environments often include:
 
 Therefore, individual teachers have a role in communicating shared values and improving classroom and school culture. They can do this by reinforcing expectations and following school behaviour policies in their classrooms and around the school. For example, challenging pupils on their manners in the corridor or upholding school rules in the playground.
 
-Teacher consistency can also improve pupil-teacher relationships. Pupil perceptions are based on repeated interactions over time, so when teachers consistently manage the class in a controlled and positive way, pupils are more likely to believe that their teacher has their ‘best interests at heart’ and feel more ‘connected’ to school (Chapman et al., 2013). When this happens, pupils are more likely to interpret corrective interactions from their teacher – for example, being reminded to turn around and listen – as a supportive act rather than just a meaningless punishment.
+Teacher consistency can also improve pupil-teacher relationships. Pupil perceptions are based on repeated interactions over time, so when teachers consistently manage the class in a controlled and positive way, pupils are more likely to believe that their teacher has their 'best interests at heart' and feel more 'connected' to school (Chapman et al., 2013). When this happens, pupils are more likely to interpret corrective interactions from their teacher – for example, being reminded to turn around and listen – as a supportive act rather than just a meaningless punishment.
 
 ### Consistency breeds success
 
@@ -66,7 +66,7 @@ Ms Mahrez can improve the effectiveness of her classroom by understanding that:
 
 ### Further reading
 
-Rathmann K., Herke M., Hurrelmann K. & Richter M. (2018). Perceived class climate and school-aged children’s life satisfaction: The role of the learning environment in classrooms. _PLOS ONE_[. b](http://bit.ly/ecf-rat)[it.ly/ecf-rat](http://bit.ly/ecf-rat)
+Rathmann K., Herke M., Hurrelmann K. & Richter M. (2018). Perceived class climate and school-aged children's life satisfaction: The role of the learning environment in classrooms. _PLOS ONE_[. b](http://bit.ly/ecf-rat)[it.ly/ecf-rat](http://bit.ly/ecf-rat)
 
 {details}
 References.
@@ -83,6 +83,6 @@ Lazowski, R. A., &amp; Hulleman, C. S. (2016). Motivation Interventions in Educa
 
 Murdock-Perriera, L. A., &amp; Sedlacek, Q. C. (2018). Questioning Pygmalion in the twenty-first century: the formation, transmission, and attributional influence of teacher expectancies. _Social Psychology of Education, 21_(3), 691–707.
 
-Rathmann K., Herke M., Hurrelmann K. &amp; Richter M. (2018). Perceived class climate and school-aged children’s life satisfaction: The role of the learning environment in classrooms. _PLOS ONE_<a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener">. bit.ly/ecf-rat</a>
+Rathmann K., Herke M., Hurrelmann K. &amp; Richter M. (2018). Perceived class climate and school-aged children's life satisfaction: The role of the learning environment in classrooms. _PLOS ONE_<a href="http://bit.ly/ecf-rat" target="_blank" rel="noopener">. bit.ly/ecf-rat</a>
 
 {/details}

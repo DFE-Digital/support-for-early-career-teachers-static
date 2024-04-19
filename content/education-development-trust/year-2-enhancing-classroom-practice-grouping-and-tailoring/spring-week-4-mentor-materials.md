@@ -39,7 +39,7 @@ Read the following:
 Effective group work does require a significant amount of preparation, and a number of preconditions have to be met beforehand in order for it to be effective.
 
 1. Pupils must be able to cooperate with one another, and to provide each other with help in a constructive way.
-2. Pupils often lack sharing skills, which means that they have difficulty sharing time and materials and can try to dominate the group. This can be alleviated by teaching sharing skills, for example by using the ‘round robin’ technique.
+2. Pupils often lack sharing skills, which means that they have difficulty sharing time and materials and can try to dominate the group. This can be alleviated by teaching sharing skills, for example by using the 'round robin' technique.
 3. Other pupils may lack participation skills. This means they find it difficult to participate in group work because they are shy or uncooperative. This can be alleviated by structuring the task so that pupils have to play a particular role in the group.
 4. Pupils may also lack communication skills. This means they are not able to effectively communicate their ideas to others, obviously making it difficult for them to function in a cooperative group.
 5. Communication skills, such as paraphrasing may need to be explicitly taught to pupils before small group work can be used.
@@ -57,16 +57,16 @@ Suggested dialogue for mentors:
 There are some other factors that aid effective collaborative or paired work:
 
 1. Familiarity with routines
-2. Pupils’ prior knowledge
+2. Pupils' prior knowledge
 3. How pupils are grouped.
 
-For each one, let’s discuss why that factor might support or hinder effective collaborative or paired work.
+For each one, let's discuss why that factor might support or hinder effective collaborative or paired work.
 
 Possible answers:
 
 - Familiarity with routines: If you develop specific routines around how group work will work, then pupils will understand what is expected of them. For example, there are always success criteria shared for group work at the beginning and reviewed at the end. Consistently praise behaviours that you want to see through group work – e.g. good listening skills, cooperation etc.
-- Pupils’ prior knowledge: Be careful in your planning to make sure that the work the pupils are being asked to do sufficiently builds on prior knowledge. If pupils are being asked to do something for group work that is entirely new for them, there will be significant limits on how successful they can be in it.
-  How pupils are grouped: If pupils are always in the same group, they will lack the opportunity to learn from other pupils and hear other viewpoints. If pupils suspect that the group they are in is a ‘low attainment’ group they might feel demotivated to try. Mixing groups up to avoid the idea that groupings are fixed is very important.
+- Pupils' prior knowledge: Be careful in your planning to make sure that the work the pupils are being asked to do sufficiently builds on prior knowledge. If pupils are being asked to do something for group work that is entirely new for them, there will be significant limits on how successful they can be in it.
+  How pupils are grouped: If pupils are always in the same group, they will lack the opportunity to learn from other pupils and hear other viewpoints. If pupils suspect that the group they are in is a 'low attainment' group they might feel demotivated to try. Mixing groups up to avoid the idea that groupings are fixed is very important.
 
 Planning a group work activity:
 

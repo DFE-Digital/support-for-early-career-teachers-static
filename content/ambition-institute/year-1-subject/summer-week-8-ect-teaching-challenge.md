@@ -6,7 +6,7 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-subject/summer-week-8-ect-reflect"
 ---
 
-Mr Jones is gaining confidence in his planning and wants to assess his pupils’ progress. However, he is unsure how to give them the best opportunity to perform well and demonstrate their understanding. He finds that describing the components of a strong piece of work is useful but often insufficient to convey the key ideas. How can he share his academic expectations for pupils concretely and clearly?
+Mr Jones is gaining confidence in his planning and wants to assess his pupils' progress. However, he is unsure how to give them the best opportunity to perform well and demonstrate their understanding. He finds that describing the components of a strong piece of work is useful but often insufficient to convey the key ideas. How can he share his academic expectations for pupils concretely and clearly?
 
 ## Key idea
 
@@ -22,7 +22,7 @@ Models can show what pupils need to do to succeed. Mr Jones has already encounte
 
 ### How teachers use their models matters
 
-Mr Jones recognises that the design of the model is important but insufficient in helping pupils identify crucial features as pupils may be tempted to skip over examining them (Sweller et al., 1998). Effective modelling involves directing pupils’ attention to the most important aspects. Some specific tasks appear to help pupils engage with models and identify their critical features. These include:
+Mr Jones recognises that the design of the model is important but insufficient in helping pupils identify crucial features as pupils may be tempted to skip over examining them (Sweller et al., 1998). Effective modelling involves directing pupils' attention to the most important aspects. Some specific tasks appear to help pupils engage with models and identify their critical features. These include:
 
 - Completion problems: Partially completed examples which pupils finish (Sweller et al., 1998).
 - Example-problem pairs: An example with an equivalent problem, for the pupil to complete.
@@ -30,13 +30,13 @@ Mr Jones recognises that the design of the model is important but insufficient i
 
 The crucial point which Mr Jones appreciates is that just producing a model is insufficient to ensure pupils benefit: he must also design a task which ensures pupils engage with it, effectively modelling the features he wishes to convey.
 
-Mr Jones can also use models to provide feedback and help pupils to improve. For example, once pupils have completed a task, Mr Jones can invite them to return to the model and identify the similarities and differences between their approach and the one illustrated by the model. Alternatively, he can construct a new model which incorporates the strongest (or weakest) features of pupils’ answers, and then invite them to review it and identify its strengths and weaknesses. Pupils can then be invited to revise their own work with the model in mind.
+Mr Jones can also use models to provide feedback and help pupils to improve. For example, once pupils have completed a task, Mr Jones can invite them to return to the model and identify the similarities and differences between their approach and the one illustrated by the model. Alternatively, he can construct a new model which incorporates the strongest (or weakest) features of pupils' answers, and then invite them to review it and identify its strengths and weaknesses. Pupils can then be invited to revise their own work with the model in mind.
 
 ### Promoting metacognition
 
-Models can also promote pupils’ metacognition by helping them to get a clear sense of what their work should look like. This makes it easier for them to plan and monitor their work – comparing what they are doing to the model – and to evaluate their approach by making adaptations if they notice that their work does not exhibit key features shown in the model (EEF, 2017). This may be particularly important where a teacher anticipates common misconceptions may arise about a topic. Pupils may have acquired ideas, either in school or from everyday experience, that are ‘in conflict with’ the to-be-learned concepts (Chi, 2009).
+Models can also promote pupils' metacognition by helping them to get a clear sense of what their work should look like. This makes it easier for them to plan and monitor their work – comparing what they are doing to the model – and to evaluate their approach by making adaptations if they notice that their work does not exhibit key features shown in the model (EEF, 2017). This may be particularly important where a teacher anticipates common misconceptions may arise about a topic. Pupils may have acquired ideas, either in school or from everyday experience, that are 'in conflict with' the to-be-learned concepts (Chi, 2009).
 
-Mr Jones can use his models to draw pupil attention to misconceptions as well as ways to overcome them. For example, as he models how complete a problem, he might ask pupils “What trap are we going to avoid falling into here?” and emphasise that “I’m going to avoid falling into this trap”, showing them what he wants them to do instead. Knowing what is expected of pupils and what they should avoid is therefore a powerful way to help pupils to monitor and evaluate their own work.
+Mr Jones can use his models to draw pupil attention to misconceptions as well as ways to overcome them. For example, as he models how complete a problem, he might ask pupils “What trap are we going to avoid falling into here?” and emphasise that “I'm going to avoid falling into this trap”, showing them what he wants them to do instead. Knowing what is expected of pupils and what they should avoid is therefore a powerful way to help pupils to monitor and evaluate their own work.
 
 ### Nuances and caveats
 
@@ -49,7 +49,7 @@ Mr Jones can discuss with experienced colleagues what important misconceptions a
 Mr Jones can show pupils how to succeed by:
 
 - constructing models which show pupils what a good response or performance looks like
-- directing pupils’ attention to the critical aspects of those models
+- directing pupils' attention to the critical aspects of those models
 - using those models to promote metacognition and for feedback
 
 ### Further reading

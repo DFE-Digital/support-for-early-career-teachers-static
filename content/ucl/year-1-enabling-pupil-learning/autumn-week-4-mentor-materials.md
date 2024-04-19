@@ -10,9 +10,9 @@ caption: "Autumn week 4"
 
 Your ECT will learn that:
 
-- High-quality teaching has a long-term positive effect on pupils’ life chances, particularly for children from disadvantaged backgrounds.
+- High-quality teaching has a long-term positive effect on pupils' life chances, particularly for children from disadvantaged backgrounds.
 - A predictable and secure environment benefits all pupils but is particularly valuable for pupils with special educational needs.
-- Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure.
+- Pupils' investment in learning is also driven by their prior experiences and perceptions of success and failure.
 
 Your ECT will learn how to:
 
@@ -30,12 +30,12 @@ Develop a positive, predictable and safe environment for pupils by:
 
 Build trusting relationships by:
 
-- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
+- Liaising with parents, carers and colleagues to better understand pupils' individual circumstances and how they can be supported to meet high academic and behavioural expectations.
 
 ### Topic introduction
 
-There is no ECT self-study session this week. In your ECT mentor meeting, you will work with your mentee to help them to explore strategies for liaising productively with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
+There is no ECT self-study session this week. In your ECT mentor meeting, you will work with your mentee to help them to explore strategies for liaising productively with parents, carers and colleagues to better understand pupils' individual circumstances and how they can be supported to meet high academic and behavioural expectations.
 
 ### Research and practice summary
 
-There is no written research and practice summary this week; the video inputs to the ECT training session address this week’s content of the Early Career Framework. You may wish to engage with the training material for the ECT training session in this week, in preparation for this ECT mentor meeting. In particular, you may wish to read the briefing notes for facilitators of the ECT training session.
+There is no written research and practice summary this week; the video inputs to the ECT training session address this week's content of the Early Career Framework. You may wish to engage with the training material for the ECT training session in this week, in preparation for this ECT mentor meeting. In particular, you may wish to read the briefing notes for facilitators of the ECT training session.

@@ -18,3 +18,6 @@ watch:
 
 check:
 	bundle exec nanoc check
+
+a11y:
+	npm run a11y

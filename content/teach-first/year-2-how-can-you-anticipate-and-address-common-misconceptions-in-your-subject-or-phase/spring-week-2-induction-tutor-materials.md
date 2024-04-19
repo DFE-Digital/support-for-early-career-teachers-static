@@ -13,7 +13,7 @@ Duration: 90 minutes
 By the end of the session early career teachers (ECTs) will have:
 
 - understood that engagement can be a poor proxy for learning  
-- explored the importance of ensuring pupils’ thinking is focused on what you want them to learn 
+- explored the importance of ensuring pupils' thinking is focused on what you want them to learn 
 - identified strategies to make abstract concepts meaningful 
 - identified strategies to make steps in a process memorable 
 - practised incorporating identified strategies into an explanation 
@@ -31,9 +31,9 @@ Explain the purpose of the training session, session outcomes and the related ea
 
 #### Committing information to long term memory (10 minutes)
 
-1. Present the quote ‘Memory is the residue of thought’ by Daniel Willingham and explore this idea. Note to ECTs that we remember what we focus our thinking on. 
+1. Present the quote 'Memory is the residue of thought' by Daniel Willingham and explore this idea. Note to ECTs that we remember what we focus our thinking on. 
 2. Link this to classroom practice with a scenario. For example, a teacher introducing the concept of units of measurement by getting pupils to make a cake mixture. 
-3. Ask ECTs to reflect on the scenario: Where is the pupil’s attention in this activity? What are they focusing their thinking on? Drawing out that pupils’ thinking is likely to be on the activity of making the cake (for example: whose turn is next, who gets to pour in the chocolate powder) rather than thinking about the different units of measurements. 
+3. Ask ECTs to reflect on the scenario: Where is the pupil's attention in this activity? What are they focusing their thinking on? Drawing out that pupils' thinking is likely to be on the activity of making the cake (for example: whose turn is next, who gets to pour in the chocolate powder) rather than thinking about the different units of measurements. 
 4. Link this to the next section of the session on how to make explanations memorable for pupils. 
 
 #### Strategies to make explanations memorable (5 minutes)

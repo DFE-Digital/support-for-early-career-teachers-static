@@ -4,13 +4,13 @@ next_title: "Video introduction"
 next_path: "/education-development-trust/year-1-establishing-a-positive-climate-for-learning/intro-ect-video-introduction"
 ---
 
-### Instructions
+## Instructions
 
 - Look over the statements covered in this Block.
 - Watch the video, which introduces what you will learn in this Block and why it is important.
 - Take your reflections, and any questions you have, to discuss in your first mentor session.
 
-### In this Block, you will learn the following:
+## In this Block, you will learn the following:
 
 **Learn that:**
 
@@ -35,7 +35,7 @@ next_path: "/education-development-trust/year-1-establishing-a-positive-climate-
 
 - Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom.
 - Giving manageable, specific and sequential instructions.
-- Checking pupils’ understanding of instructions before a task begins.
+- Checking pupils' understanding of instructions before a task begins.
 - Using consistent language and non-verbal signals for common classroom directions.
 - Using early and least-intrusive interventions as an initial response to low level disruption.
 - Responding quickly to any behaviour or bullying that threatens emotional safety.
@@ -49,5 +49,5 @@ next_path: "/education-development-trust/year-1-establishing-a-positive-climate-
 
 **Learn how to build trusting relationships, by:**
 
-- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
+- Liaising with parents, carers and colleagues to better understand pupils' individual circumstances and how they can be supported to meet high academic and behavioural expectations.
 - Responding consistently to pupil behaviour.

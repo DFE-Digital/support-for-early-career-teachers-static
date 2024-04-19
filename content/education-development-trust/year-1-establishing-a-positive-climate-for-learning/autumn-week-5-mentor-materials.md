@@ -33,7 +33,7 @@ Ask ECTs to reflect on the impact of their action plan for a specific class last
 
 ### A culture of trust and respect (15 minutes)
 
-Building positive relationships with pupils and creating a culture of mutual trust and respect benefits both the pupils’ and the teacher’s wellbeing and also has an impact on pupil outcomes.
+Building positive relationships with pupils and creating a culture of mutual trust and respect benefits both the pupils' and the teacher's wellbeing and also has an impact on pupil outcomes.
 
 Pose the question: What steps do you take to build a culture of trust and respect?
 
@@ -56,16 +56,16 @@ Together, come up with two more suggestions for ways of developing this culture 
 
 Discuss what steps the ECT takes to build a supportive and predictable learning environment. For example:
 
-- How can they show that they have faith in all pupils’ ability to achieve? (e.g. speaking to pupils about their learning goals and giving them clear steps/praising the progress they have made)
-- How can they demonstrate that they value pupils as individuals? (e.g. getting to know pupils’ names)
+- How can they show that they have faith in all pupils' ability to achieve? (e.g. speaking to pupils about their learning goals and giving them clear steps/praising the progress they have made)
+- How can they demonstrate that they value pupils as individuals? (e.g. getting to know pupils' names)
 - How do they ensure a positive environment? (e.g. using least intrusive interventions)
 - How do they ensure all pupils can access the lesson? (e.g. sitting visually impaired pupils near the front of the class)
 
 Answers might include:
 
 - Conveying authority through behaviour (body language, tone of voice etc)
-- Developing pupils’ positive self-belief by encouraging and ensuring success
-- Drawing attention to evidence of pupils’ progress and recognising their achievements
+- Developing pupils' positive self-belief by encouraging and ensuring success
+- Drawing attention to evidence of pupils' progress and recognising their achievements
 - Communicating clearly and accurately in spoken and written language
 - Adjusting to the communication competencies of all students, using available technology if appropriate
 - Focusing on managing learning rather than managing behaviour
@@ -77,7 +77,7 @@ Ask the ECT what this means for their classes.
 
 All the strategies the ECTs work on in this module will help them establish a predictable and secure environment for learning. It is this that will allow all pupils to learn, including those with special educational needs.
 
-It is important to remember that there is no one size fits all strategy that will be guaranteed to work. The ECTs should find out more about each individual child’s needs, using the SENCO’s support to implement the right strategies where this is appropriate.
+It is important to remember that there is no one size fits all strategy that will be guaranteed to work. The ECTs should find out more about each individual child's needs, using the SENCO's support to implement the right strategies where this is appropriate.
 
 The ECT should select one or two pupils they could support through the actions and strategies discussed in this activity and decide:
 

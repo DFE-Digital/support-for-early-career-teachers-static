@@ -4,9 +4,9 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-4-ect-theory"
 ---
 
-### Classroom practice
+## Classroom practice
 
-4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
+4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils' prior knowledge, assess understanding and break down problems.
 
 4.10 How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
 
@@ -14,7 +14,7 @@ previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/su
 
 _4n. Providing appropriate wait time between question and response where more developed responses are required._
 
-### Adaptive teaching
+## Adaptive teaching
 
 5.1 Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.
 
@@ -38,7 +38,7 @@ _5n. Changing groups regularly, avoiding the perception that groups are fixed._
 
 _5o. Ensuring that any groups based on attainment are subject specific._
 
-### Professional behaviours
+## Professional behaviours
 
 8.5 Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers.
 

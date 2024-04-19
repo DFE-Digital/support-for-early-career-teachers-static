@@ -22,7 +22,7 @@ Mr Jones wants his pupils to be able to tackle new problems, to think critically
 
 The first step in developing mental models to permit deep thinking is moving from inflexible to flexible knowledge. When pupils learn about a new idea, their knowledge is inflexible: tied to the context in which it was learned. This cannot be avoided, it is how new information enters long-term memory: “a natural step on the way to the deeper knowledge that we want our students to have” (Willingham, 2002). For example, if Mr Jones introduces addition through an example about a child collecting feathers, pupils will associate it initially with feathers.
 
-Having gained inflexible knowledge, pupils’ knowledge can become more flexible if they access it through different cues: increasingly varied and difficult questions with decreasing amounts of scaffolding and hints.
+Having gained inflexible knowledge, pupils' knowledge can become more flexible if they access it through different cues: increasingly varied and difficult questions with decreasing amounts of scaffolding and hints.
 
 Effective forms of variation include:
 
@@ -30,7 +30,7 @@ Effective forms of variation include:
 - Conceptual variation: Presenting examples and non-examples to refine understanding.
 - Situational variation: Providing a broad range of application problems in pursuit of a more generalised understanding of a concept (Pan & Rickard, 2018).
 
-By doing this, Mr Jones balances the desire to make the task more difficult – increasing the level of thinking required – and the wish to ensure pupils’ continued success, for its own sake and to maintain their motivation.
+By doing this, Mr Jones balances the desire to make the task more difficult – increasing the level of thinking required – and the wish to ensure pupils' continued success, for its own sake and to maintain their motivation.
 
 ### Transfer is more likely if pupils are proficient at accessing their knowledge
 
@@ -40,7 +40,7 @@ Transfer can be supported by retrieval practice – the act of recalling prior k
 
 ### Pupils must practise deep thinking
 
-Regular purposeful practice of what has previously been taught can help pupils to develop and consolidate their mental models (Pashler et al., 2007). If Mr Jones wants pupils to transfer ideas to new or unfamiliar contexts, or to think deeply, he must show them how to do so and offer opportunities to practise. Mr Jones should seek to show pupils the links between topics he hopes they will make. He might say: “we can use what you have learned in English about paragraph structure and grammar when writing in History. You have also been studying Victorian novels which you can use to illustrate what some Victorians might have thought about the Industrial Revolution, as long as you make clear it’s fiction. What other learning can we use to make our historical writing better?” Likewise, if he wants them to think critically about a topic, he has to offer practice in this kind of thinking, he cannot rely on the accumulation of factual knowledge to lead to critical thinking automatically.
+Regular purposeful practice of what has previously been taught can help pupils to develop and consolidate their mental models (Pashler et al., 2007). If Mr Jones wants pupils to transfer ideas to new or unfamiliar contexts, or to think deeply, he must show them how to do so and offer opportunities to practise. Mr Jones should seek to show pupils the links between topics he hopes they will make. He might say: “we can use what you have learned in English about paragraph structure and grammar when writing in History. You have also been studying Victorian novels which you can use to illustrate what some Victorians might have thought about the Industrial Revolution, as long as you make clear it's fiction. What other learning can we use to make our historical writing better?” Likewise, if he wants them to think critically about a topic, he has to offer practice in this kind of thinking, he cannot rely on the accumulation of factual knowledge to lead to critical thinking automatically.
 
 ### Nuances and caveats
 
@@ -52,7 +52,7 @@ Pupils cannot exercise critical thinking without a strong knowledge of the thing
 
 Mr Jones can promote deep thinking by:
 
-- seeing deep thinking as an extension of pupils’ mental models of the subject
+- seeing deep thinking as an extension of pupils' mental models of the subject
 - helping pupils access knowledge more flexibly
 - showing pupils how to apply knowledge to new problems and contexts and supporting them to practise this
 

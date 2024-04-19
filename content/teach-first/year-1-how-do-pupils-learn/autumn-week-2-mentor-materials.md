@@ -18,11 +18,11 @@ To have practised breaking complex material down into smaller steps
 
 ### Stimulus
 
-Observe your teacher deliver an explanation and identify whether they have broken it down into small steps, removing any unnecessary expositions to avoid working memory overload. In the online study materials, this technique is referred to as ‘Name the Steps’.
+Observe your teacher deliver an explanation and identify whether they have broken it down into small steps, removing any unnecessary expositions to avoid working memory overload. In the online study materials, this technique is referred to as 'Name the Steps'.
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 

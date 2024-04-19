@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Summer week 1"
 ---
 
-## Discussion - developing pupils’ vocabulary
+## Discussion - developing pupils' vocabulary
 
 ### Practice focus
 
@@ -25,19 +25,19 @@ To have planned for and practised Sustained Shared Thinking
 
 #### Stimulus
 
-In the online study materials, your teacher was asked to improve a teacher’s interaction with a pupil building a tower, using the following elements of Sustained Shared Thinking:
+In the online study materials, your teacher was asked to improve a teacher's interaction with a pupil building a tower, using the following elements of Sustained Shared Thinking:
 
 - clarifying ideas
 - using encouragement to extend pupils thinking
 - suggesting ideas
 - asking open questions
-- encourage pupils to respond in full sentences (although not included in Sustained Shared Thinking, this is a good way to develop pupils’ language)
+- encourage pupils to respond in full sentences (although not included in Sustained Shared Thinking, this is a good way to develop pupils' language)
 
 Ask them to share this with you and review and discuss their response. The feedback in the online study materials might support you with this.
 
 #### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 #### Plan and practice ideas
 
@@ -53,7 +53,7 @@ With your teacher, use elements of Sustained Shared Thinking to improve the dial
 - suggesting
 - reminding
 - asking open questions
-- encourage pupils to respond in full sentences (although not included in Sustained Shared Thinking’, this is a good way to develop pupils language)
+- encourage pupils to respond in full sentences (although not included in Sustained Shared Thinking', this is a good way to develop pupils language)
 
 ### Primary and Secondary
 
@@ -67,7 +67,7 @@ During the online study material, your teacher was asked to identify Tier 2 and/
 
 #### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 #### Plan and practice ideas
 
@@ -81,14 +81,14 @@ With your teacher, discuss the words they have chosen and amend or improve where
 
 ### Early Years:
 
-1. What’s the difference between talking at and talking with pupils?
+1. What's the difference between talking at and talking with pupils?
 2. What are some of the key features of Sustained Shared Thinking?
-3. Why is it important to develop pupil’s early literacy skills?
+3. Why is it important to develop pupil's early literacy skills?
 
 ### Primary/Secondary:
 
-1. Why is it important to develop pupil’s literacy skills in any subject or phase?
-2. What’s the difference between Tier 1, 2 & 3 vocabulary and why is there an emphasis on teaching Tiers 2 & 3?
+1. Why is it important to develop pupil's literacy skills in any subject or phase?
+2. What's the difference between Tier 1, 2 & 3 vocabulary and why is there an emphasis on teaching Tiers 2 & 3?
 3. Which words might be important to teach and why?
 4. How will teaching these words support pupils to access the curriculum?
 5. How will you teach this to pupils in a meaningful way?
@@ -96,10 +96,10 @@ With your teacher, discuss the words they have chosen and amend or improve where
 
 ### Additional resources:
 
-[Education Endowment Foundation’s recommendations to support improving early language and literacy](https://educationendowmentfoundation.org.uk/tools/guidance-reports/preparing-for-literacy/)
+[Education Endowment Foundation's recommendations to support improving early language and literacy](https://educationendowmentfoundation.org.uk/tools/guidance-reports/preparing-for-literacy/)
 
-[Education Endowment Foundation’s improving literacy in key stage 1 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-1/)
+[Education Endowment Foundation's improving literacy in key stage 1 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-1/)
 
-[Education Endowment Foundation’s improving literacy in key stage 2 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-2/)
+[Education Endowment Foundation's improving literacy in key stage 2 guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/literacy-ks-2/)
 
-[Education Endowment Foundation’s improving literacy in secondary schools guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-literacy-in-secondary-schools/)
+[Education Endowment Foundation's improving literacy in secondary schools guidance](https://educationendowmentfoundation.org.uk/tools/guidance-reports/improving-literacy-in-secondary-schools/)

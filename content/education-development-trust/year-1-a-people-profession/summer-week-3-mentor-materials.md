@@ -38,7 +38,7 @@ The findings of the pupil voice activity might be useful for Training topic 6.2.
 
 ### Working with the SENCO (20 minutes)
 
-Direct the ECT’s attention to self-directed study materials Activity 6.4: Working with the SENCO.
+Direct the ECT's attention to self-directed study materials Activity 6.4: Working with the SENCO.
 Ask the ECT to identify what they have learned from their visit to discuss the pupils they teach with their SENCO. In particular, discuss:
 
 - The most common potential barriers to learning of the pupils they teach
@@ -56,7 +56,7 @@ A careers advisor and/or pastoral lead from school could be invited to come alon
 - Provide them with the questions in advance
 - Ask them to bring resources or ideas of approaches and strategies they can share with the ECT.
 
-The focus of the topic is to broaden the ECT’s awareness of the support available to pupils in school and the expertise these individuals offer for pupils and for the ECT. It may be useful to focus on a particular group of pupils taught by the ECT and for the colleague to have been informed of these in advance.
+The focus of the topic is to broaden the ECT's awareness of the support available to pupils in school and the expertise these individuals offer for pupils and for the ECT. It may be useful to focus on a particular group of pupils taught by the ECT and for the colleague to have been informed of these in advance.
 
 Questions to ask include:
 

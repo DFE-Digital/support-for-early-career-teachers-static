@@ -11,7 +11,7 @@ next_path: "/ucl/year-2-inquiry-into-engaging-pupils-in-learning/autumn-week-3-e
 These case studies explore how two teachers—improving their practice and without adding to their workload—conducted their own practitioner inquiries into promoting good progress and
 demonstrating good subject and curriculum knowledge. Both are interesting, but you should focus on the one most closely related to the development area you are working on and your exploratory question. The case studies set out the issue the teacher was interested in, how they gathered evidence about the impact upon pupils of their own normal practice, and how they decided to introduce an alteration to the way they taught.
 
-When reading these case studies, you will need to take account of your own pupils’ characteristics, the context of your classroom and the nature of the material that you are teaching.
+When reading these case studies, you will need to take account of your own pupils' characteristics, the context of your classroom and the nature of the material that you are teaching.
 
 ### Embedding retrieval, practice and challenge
 
@@ -40,30 +40,30 @@ any resources for this and explain to the pupils that they are setting a very ch
 task and that pupils should try and identify where they struggle if they can.
 
 In the next lesson, the other teacher gives them a similar set of problems but makes
-this ‘open book’, allowing them to draw on a textbook to help, but asking them to
+this 'open book', allowing them to draw on a textbook to help, but asking them to
 note down what they have to look up.
 
 From considering their exercise books and talking to the pupils afterwards, they find that:
 
 - pupils need to recall the basic facts of the structure of atomic shells
-- pupils who answer questions quickly already know ‘rules’ about which groups
+- pupils who answer questions quickly already know 'rules' about which groups
   in the periodic table are more reactive
 - pupils who complete questions are able to relate their knowledge of atomic
   structure to their knowledge about reactivity
 
 #### Conclusion
 
-All pupils need to know the ‘rules’ about which groups in the
+All pupils need to know the 'rules' about which groups in the
 periodic table are more reactive before they can answer questions with a
 high degree of success, or apply this knowledge to other problems; they
 realise that this is probably always true about the importance of core
 knowledge.
 
-What alteration to her teaching might Yemi make to improve her pupils’ recall
+What alteration to her teaching might Yemi make to improve her pupils' recall
 of key concepts so they can apply their knowledge quickly and reliably to
 other situations?
 
-### Yemi’s approach to embedding retrieval, practice and challenge
+### Yemi's approach to embedding retrieval, practice and challenge
 
 Yemi and her colleague look at the Research and Practice Summaries from Module 2, in particular those covering ECF 2h, 2i, 2j and 2k; they realise that they need to build in retrieval practice as well as increasing the challenge of the exercises over time, and they decide to plan three revision activities, which they will spread over the next three lessons (whilst still teaching other content)—in them, they will:
 
@@ -127,7 +127,7 @@ in reading comprehension?
 
 Reflecting on the evidence he had gathered so far, Kishan went back to the Research and Practice Summaries from Module 2, in particular relating to 3g, 3k, 3n and 3p. He found the useful reminder around how pupils need to be secure in their understanding before they can think critically or transfer their knowledge or skills from one domain to another. He thought it would be helpful if his pupils could experience models of how to question, make predictions or summarise to improve reading comprehension. He therefore decided to reorganise the next sequence of learning with the following principles in mind:
 
-- using himself as a model first, thinking out loud as he was reading: asking questions—‘Why do I think Biff did that?’, making predictions—‘I think Biff is going to find the key’ and summarising — ‘So I think that the children all got home safely because they helped each other when they needed it’ (3p)
+- using himself as a model first, thinking out loud as he was reading: asking questions—'Why do I think Biff did that?', making predictions—'I think Biff is going to find the key' and summarising — 'So I think that the children all got home safely because they helped each other when they needed it' (3p)
 - make sure that pupils have a clear understanding of the context presented within the text, and support them in asking questions to do this (3k)
 - present the same type of narrative first (e.g. fiction) until they are confident in comprehending motivations of characters before introducing other forms (e.g. poetry)
 - as those new forms are introduced, be explicit about how the same skills of comprehension might still apply, despite the different form (3g)

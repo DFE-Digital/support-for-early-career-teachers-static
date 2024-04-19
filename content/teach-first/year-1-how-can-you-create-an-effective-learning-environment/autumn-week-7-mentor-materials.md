@@ -26,7 +26,7 @@ Observe your teacher with a focus on pupil participation and consider the follow
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -37,6 +37,6 @@ Work with your teacher to plan and practise how to ensure a high level of pupil 
 1. Why is a high participation and think ration important?
 2. How can you increase the participation of
    pupils in your class?
-3. What is our school’s approach to high expectations for all pupils?
-4. How can you create an environment where it’s okay to make mistakes? How does this reflect your high expectations and how can this impact upon pupil engagement?
+3. What is our school's approach to high expectations for all pupils?
+4. How can you create an environment where it's okay to make mistakes? How does this reflect your high expectations and how can this impact upon pupil engagement?
 5. How could you engage parents and carers in the education of their children? E.g. by proactively highlighting successes.

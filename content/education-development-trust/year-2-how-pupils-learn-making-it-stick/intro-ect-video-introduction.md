@@ -7,13 +7,18 @@ previous_path: "/education-development-trust/year-2-how-pupils-learn-making-it-s
 - Watch the video.
 - The video outlines what you will cover in this Block.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/14VyqJ4vAsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/14VyqJ4vAsk"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
 
 
-  It’s one thing for pupils to recall the content they have just encountered
+  It's one thing for pupils to recall the content they have just encountered
   during a lesson, and quite another for them to be able to recall and use it
   weeks or even months later.
 
@@ -24,7 +29,7 @@ Video transcript.
   knew already. Poor recall may well indicate that this is not happening. While
   as an adult you may not remember everything that you were taught in school,
   much of it will be helping to support the knowledge you currently have and
-  use. And not unimportantly for schools, pupils’ knowledge is tested at various
+  use. And not unimportantly for schools, pupils' knowledge is tested at various
   points in their education to see what they have learned. If everything goes in
   one ear and out the other, neither the pupil nor the school will get the
   formal recognition of their successes, and all that this brings.
@@ -42,7 +47,7 @@ Video transcript.
 
 
   This Block builds directly on Block 2. We are now considering how we can make
-  new learning ‘stick’ over time so that pupils remember what they have been
+  new learning 'stick' over time so that pupils remember what they have been
   taught. 
 
 

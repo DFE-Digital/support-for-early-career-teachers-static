@@ -1,5 +1,6 @@
 output/
 tmp/
 node_modules/
+a11y-ci-report/
 crash.log
 .idea/

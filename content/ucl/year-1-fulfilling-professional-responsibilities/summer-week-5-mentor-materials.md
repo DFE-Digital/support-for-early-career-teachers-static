@@ -27,7 +27,7 @@ In the ECT online learning community for this module, participants explored appr
 
 Specialist support
 
-Julie teaches Year 2 and is really pleased with how her class has progressed since she joined the school at the beginning of the year. In particular, pupils’ writing has got dramatically better. However, there are a small number of pupils who are struggling noticeably in comparison to expected progress.
+Julie teaches Year 2 and is really pleased with how her class has progressed since she joined the school at the beginning of the year. In particular, pupils' writing has got dramatically better. However, there are a small number of pupils who are struggling noticeably in comparison to expected progress.
 
 Fortunately, Julie has the support of many other colleagues in her school, including specialist teachers, although she is unsure she is making the most of this support: systems here are different to her last school.
 
@@ -44,20 +44,20 @@ To work effectively with these colleagues, it can help to:
 - make links – making links between the work led by specialist colleagues and your own interactions with pupils can help to reinforce key messages and embed continuity for these pupils
 - communicate effectively – each of these approaches requires effective, often two-way communication. Consider how to do this effectively and efficiently
 
-Safeguarding and promoting the welfare of children is everyone’s responsibility. No single person can have a full picture of a child’s needs and circumstances. Therefore, it is especially important to understand your school’s processes to safeguard pupils and your role within these processes.
+Safeguarding and promoting the welfare of children is everyone's responsibility. No single person can have a full picture of a child's needs and circumstances. Therefore, it is especially important to understand your school's processes to safeguard pupils and your role within these processes.
 
 You should feel confident answering the following questions:
 
 - who are the designated safeguarding leads in your school?
 - how do you raise a safeguarding concern?
 - what are the key safeguarding processes in your school?
-- what are the key implications from the ‘Keeping children safe in education’ guidance?
+- what are the key implications from the 'Keeping children safe in education' guidance?
 
 Coordinated and differentiated roles
 
 After reviewing the evidence about effective use of teaching assistants, Julie realised that she could do more to work effectively with her colleague Steve, a teaching assistant who sometimes supported her class.
 
-Julie realised that although Steve routinely undertook targeted interventions with some of her pupils, she knew very little about what this actually involved. This was problematic, as it meant that Julie was unable to reinforce the learning that happened during Steve’s targeted interventions.
+Julie realised that although Steve routinely undertook targeted interventions with some of her pupils, she knew very little about what this actually involved. This was problematic, as it meant that Julie was unable to reinforce the learning that happened during Steve's targeted interventions.
 
 To work more effectively together, Julie discussed with Steve what the interventions actually involved. Together, they worked out opportunities for making links between these interventions and in-class activities. This included, for example, using consistent language to help pupils make connections between learning in class and in their interventions.
 
@@ -69,7 +69,7 @@ Throughout the session, try to refer explicitly to the learning intentions, and 
 
 Review 5 mins
 
-- Start this session by briefly following up on the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise
+- Start this session by briefly following up on the actions that the mentee set at the end of last week's session. Ask your mentee to summarise
 - what they did
 - the impact of this on pupil learning (including how they are evaluating this)
 - what they will do going forward to build on these actions
@@ -114,10 +114,10 @@ As part of this activity you should:
 
 Next Steps 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these actions are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these actions
+2. what success will 'look like' in relation to these actions
 3. how they will evaluate their success in taking these actions
 
-Note the date of your next mentor meeting, when you will check on your mentee’s progress.
+Note the date of your next mentor meeting, when you will check on your mentee's progress.

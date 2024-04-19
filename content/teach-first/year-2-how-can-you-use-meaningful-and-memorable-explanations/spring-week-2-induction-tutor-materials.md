@@ -14,7 +14,7 @@ By the end of the session early career teachers (ECTs) will have:
 
 - identified common misconceptions in their subject  
 - identified strategies for anticipating and addressing misconceptions  
-- identified 2 strategies they’ll implement to anticipate and address misconceptions 
+- identified 2 strategies they'll implement to anticipate and address misconceptions 
 - reflected on their own practice and areas for development 
 
 ### Session structure
@@ -25,7 +25,7 @@ Settling task: Ask ECTs to identify the techniques and strategies they use to id
 
 Facilitator to explain the purpose of the training session, session outcomes and the related ECF statements.
 
-#### Why it’s important to anticipate and address misconceptions (10 minutes)
+#### Why it's important to anticipate and address misconceptions (10 minutes)
 
 1. Explain the importance of anticipating misconceptions, checking understanding, and providing feedback when anticipating and addressing misconceptions. 
 2. Explain that pupils will have different misconceptions due to their own experiences, so it's important that teachers learn how to address these. 

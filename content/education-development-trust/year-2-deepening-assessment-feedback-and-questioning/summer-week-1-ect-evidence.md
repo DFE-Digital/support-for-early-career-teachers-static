@@ -4,31 +4,31 @@ previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-1-ect-learning-outcomes"
 ---
 
-### Over time, feedback should support pupils to monitor and regulate their own learning
+## Over time, feedback should support pupils to monitor and regulate their own learning
 
-You will not be available or able to provide support all of the time to help pupils improve their work. This might be because you are working with a small group during an activity or it is an independent learning task, such as homework or self-study. In the longer term, you won’t be their teacher forever! You want to avoid a situation whereby all learning is dependent on you, the teacher, being available to offer support and guidance. To achieve this, you will need to think about how to support your pupils to self-regulate and to monitor their own learning.
+You will not be available or able to provide support all of the time to help pupils improve their work. This might be because you are working with a small group during an activity or it is an independent learning task, such as homework or self-study. In the longer term, you won't be their teacher forever! You want to avoid a situation whereby all learning is dependent on you, the teacher, being available to offer support and guidance. To achieve this, you will need to think about how to support your pupils to self-regulate and to monitor their own learning.
 
 This will not be automatic. In fact, pupils will need regular feedback on their attempts to monitor and regulate (i.e. take control of) their own learning. Over time, they will be able to do it without your support and this will both reduce your workload and mean that your pupils can make better progress in their learning.
 
-You learned about metacognition and some strategies for teaching it as part of Block 3. You will remember that the EEF Guidance Report on Meta-Cognition & Self Regulated Learning (2017) tells us ‘self-regulated learners are aware of their strengths and weaknesses, and can motivate themselves to engage in, and improve, their learning’.
+You learned about metacognition and some strategies for teaching it as part of Block 3. You will remember that the EEF Guidance Report on Meta-Cognition & Self Regulated Learning (2017) tells us 'self-regulated learners are aware of their strengths and weaknesses, and can motivate themselves to engage in, and improve, their learning'.
 
 There are three aspects to self-regulation; cognition, meta-cognition and motivation (EEF, 2017). All three are important, inter-dependent aspects of the learning process and you will need to consider each one carefully when thinking about how to help pupils monitor and regulate their own learning.
 
-### Key terms
+## Key terms
 
-#### Cognition
+### Cognition
 
 The mental processes involved in knowing, understanding and learning.
 Cognitive strategies include memorisation techniques or subject-specific
 strategies like how to solve an equation.
 
-#### Metacognition
+### Metacognition
 
 The ways learners monitor and purposefully direct their learning.
 Meta-cognitive strategies include planning what technique to use, monitoring
 if it is working and choosing to adapt if it is not.
 
-#### Motivation
+### Motivation
 
 Our willingness to engage in meta-cognitive or cognitive strategies. For
 example, convincing ourselves to revise for a test we have tomorrow.
@@ -45,9 +45,9 @@ When giving feedback to pupils, you should make specific reference to the cognit
 
 Giving feedback on cognitive processes will help expand pupil awareness of which cognitive strategies worked and what they could try next time.
 
-### Video
+## Video
 
-#### Commenting on cognitive strategies
+### Commenting on cognitive strategies
 
 Watch the video below and answer the following questions:
 
@@ -65,9 +65,9 @@ Yasin: “First, I read all of the information and I noticed that the alarm is g
 
 Teacher: “So, you identified the key information from the problem, 12 minutes and 8 minutes, and you recognised that you would need to find a common multiple of 12 and 8. You used a good strategy to multiply 12x8 to calculate a time when both 12 and 8 would be going off. This has worked, but I wonder whether you considered if this would be the _first_ time that the alarm and light would go off at the same time? Is there another possible answer which comes before 96?”
 
-Yasin: “Hmm. I guess so. I didn’t really think about it.”
+Yasin: “Hmm. I guess so. I didn't really think about it.”
 
-Teacher: “You have already identified that there needs to be a common multiple for 12 and 8 so why don’t you start listing all of your multiples of 12 and 8 to try and spot a lower common multiple”.
+Teacher: “You have already identified that there needs to be a common multiple for 12 and 8 so why don't you start listing all of your multiples of 12 and 8 to try and spot a lower common multiple”.
 
 {/details}
 
@@ -81,7 +81,7 @@ For example:
 
 Over time, as pupils have opportunities to respond to your feedback on their metacognitive strategies, they will develop the skills for themselves. As they get older, they will naturally begin to do this more, but with effective feedback this will happen sooner.
 
-As Wiliam & Christadoulou (2017) tell us, ‘students will only act on feedback if they believe they can get better and so motivating students to believe in improvement itself becomes a key part of the challenge’. Not all types of feedback are equally effective in promoting learning (Hattie & Timperley, 2007) so it makes sense to start with those for which we have good evidence of effectiveness. Related to each, there are specific things you can do to support pupils in monitoring their own responses:
+As Wiliam & Christadoulou (2017) tell us, 'students will only act on feedback if they believe they can get better and so motivating students to believe in improvement itself becomes a key part of the challenge'. Not all types of feedback are equally effective in promoting learning (Hattie & Timperley, 2007) so it makes sense to start with those for which we have good evidence of effectiveness. Related to each, there are specific things you can do to support pupils in monitoring their own responses:
 
 |                                             |                                                                                                                                                                                            |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -92,7 +92,7 @@ As Wiliam & Christadoulou (2017) tell us, ‘students will only act on feedback 
 | Provide feedback on ways to learn           | - Share the most effective ways to learn with pupils. - Show your pupils what good looks like. - Show pupils the value of putting effort in to improving and editing their work.           |
 | Help pupils set realistic, achievable goals | - Model goal-setting. - Encourage your pupils to reflect on where they are and where they want to be. - Show pupils how to set targets for themselves. - Help pupils track their progress. |
 
-### In your notepad
+## In your notepad
 
 Thinking about the table above, how do you support pupils to monitor their
 own learning?

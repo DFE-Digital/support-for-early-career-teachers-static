@@ -14,7 +14,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 
 #### Focused development area
 
-- Teacher decides with a colleague the behaviours they expect of pupils and communicates and demonstrates these visible behaviours to pupils, linking them to the school’s culture and values.
+- Teacher decides with a colleague the behaviours they expect of pupils and communicates and demonstrates these visible behaviours to pupils, linking them to the school's culture and values.
 - Teacher looks for and reinforces positive behaviours by acknowledging them in pupils.
 - Teacher reminds pupils of their behavioural expectations to pre-empt low-level disruption.  
 
@@ -27,7 +27,7 @@ Consider the development areas for this topic (below). Then make a note of the a
 - Teacher signals non-verbally to pupils that they should change their behaviour
 - Teacher uses anonymous whole-class, verbal reminders to support pupils to change their behaviour so that it meets expectations if a non-verbal reminder has not worked.
 - Teacher stops talking mid-sentence if a pupil interrupts in order to signal that they will not continue until the interruption has stopped.
-- Teacher gives pupils adequate time to act upon their reminder, checking and responding to their behaviour in line with the school’s behavioural policy.
+- Teacher gives pupils adequate time to act upon their reminder, checking and responding to their behaviour in line with the school's behavioural policy.
 
 {details}
 Example precise target: Teacher signals non-verbally to pupils that they should change their behaviour.
@@ -50,12 +50,12 @@ Example precise target: Teacher signals non-verbally to pupils that they should 
 
 Consider the following questions based on a short (approximately 15 minute) observation of your teacher.
 
-What was your teacher’s previous target? Are they meeting it? How do you know?
+What was your teacher's previous target? Are they meeting it? How do you know?
 
 - Thinking about the development area you have selected for this topic, what is your teacher already doing well in this area? Which focused development area best aligns with what your teacher needs to get better at? What one precise target (bite-sized action) might you work with them on during your mentor meeting?
-- Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn’t fit your teacher’s needs, you can write your own.
+- Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn't fit your teacher's needs, you can write your own.
 
-How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, ‘How it is different from your current practice?’ and ‘What impact might it have on your practice and pupils?’
+How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, 'How it is different from your current practice?' and 'What impact might it have on your practice and pupils?'
 
 Reminder: Your model should help your teacher develop their ability in some of the following:
 
@@ -66,4 +66,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Respond consistently to pupil behaviour.
 - Teaching and rigorously maintaining clear behavioural expectations (e.g. for contributions, volume level and concentration).
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
+Next, meet with your teacher to work through the 'feedback' stage of instructional coaching.

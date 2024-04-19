@@ -4,7 +4,7 @@ heading: "Behaviour"
 caption: "Year 1"
 ---
 
-In this module you’ll cover:
+In this module you'll cover:
 
 - how to establish an effective learning environment
 - how to effectively manage behaviour

@@ -4,11 +4,11 @@ heading: "First half-term: how can you support all pupils to succeed?"
 caption: "Year 1"
 ---
 
-In this module you’ll hear a variety of educational specialists talk about ways to support all pupils to succeed across the curriculum, and why this is so important.
+In this module you'll hear a variety of educational specialists talk about ways to support all pupils to succeed across the curriculum, and why this is so important.
 
 ## Introduction to the module
 
-Go through the module introduction to see what you’ll be learning.
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -23,7 +23,7 @@ Go through the module introduction to see what the ECT will be learning.
 During the first topic of the module you need to:
 
 - work through the self-study materials below
-- meet your mentor to discuss what you’ll be doing in the weeks ahead
+- meet your mentor to discuss what you'll be doing in the weeks ahead
 
 Duration: 40 minutes.
 
@@ -43,7 +43,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 During this topic you need to:
 
 - work through the self-study materials below
-- meet your mentor to discuss what you’ll be doing in the weeks ahead
+- meet your mentor to discuss what you'll be doing in the weeks ahead
 
 Duration: 45 minutes.
 
@@ -58,7 +58,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 3: further developing prior knowledge
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -77,7 +77,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 4: providing additional scaffolds
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -93,13 +93,13 @@ Duration: 60 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-4-mentor-materials)
 
 ## Week 5: the SEND code of practice
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -118,7 +118,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 6: teaching pupils who require a greater level of support
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -134,6 +134,6 @@ Duration: 50 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-6-mentor-materials)

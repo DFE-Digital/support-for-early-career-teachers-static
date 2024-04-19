@@ -63,7 +63,7 @@ The teacher will be able to draw on the pupil performances from all of these ass
 
 The data we collect from assessments only needs to be recorded if it contributes to building up this pattern of performance over time and can be used to improve pupil outcomes.
 
-Together, look through the ECT’s unit of work/sequence of learning. The ECT should explain when they had planned tasks that they would record data from. Together work out:
+Together, look through the ECT's unit of work/sequence of learning. The ECT should explain when they had planned tasks that they would record data from. Together work out:
 
 - Will recording the data improve pupil outcomes?
 - If no, then the ECT should not record the data
@@ -73,7 +73,7 @@ Together, look through the ECT’s unit of work/sequence of learning. The ECT sh
 
 Suggested dialogue for mentors:
 
-In the next part of the topic, you will work with a colleague to identify efficient approaches to marking and alternative approaches to providing feedback. We’ve got ten minutes to prepare.
+In the next part of the topic, you will work with a colleague to identify efficient approaches to marking and alternative approaches to providing feedback. We've got ten minutes to prepare.
 
 1. What efficient approaches to marking can you think of that you might want to steer your colleague to discuss?
   - Marking codes
@@ -92,7 +92,7 @@ Some examples:
 - What are the biggest workload killers you try to avoid?
 - How do you avoid them?
 - What is your best assessment hack?
-- What do you really think it’s worth spending time on?
+- What do you really think it's worth spending time on?
 - How do you make self- and peer-assessment really effective?
 
 ### Working with a colleague to identify efficient approaches to marking and alternative approaches to providing feedback (20 minutes)

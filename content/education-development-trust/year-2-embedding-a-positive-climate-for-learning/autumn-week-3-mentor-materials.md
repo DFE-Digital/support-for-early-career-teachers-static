@@ -50,7 +50,7 @@ Together look at the examples of teachers using rewards. For each one, decide:<
 
 Example 1:
 
-I am so impressed with the following pupils who have shown me that they have learned the times tables they were set. Come up and get your chocolate bar and let’s hear a round of applause. Well done Charlie, Rahim and Lacey. These pupils have put in the effort to learn their times tables, which will help them with the next few lessons in Maths and also their Maths work in the future.
+I am so impressed with the following pupils who have shown me that they have learned the times tables they were set. Come up and get your chocolate bar and let's hear a round of applause. Well done Charlie, Rahim and Lacey. These pupils have put in the effort to learn their times tables, which will help them with the next few lessons in Maths and also their Maths work in the future.
 
 Discussion might include:
 
@@ -60,7 +60,7 @@ Discussion might include:
 
 Example 2:
 
-Every time you answer a question, I am going to give you a sweet. Let’s see how many questions you can answer!
+Every time you answer a question, I am going to give you a sweet. Let's see how many questions you can answer!
 
 Discussion might include:
 
@@ -71,7 +71,7 @@ Discussion might include:
 
 Example 3:
 
-I didn’t tell you this before the task, but I actually have the names of three pupils in my envelope here. Now at the start of the lesson I put the names of three secret pupils away and if those pupils have all completed the task to the standard I would expect the whole class will get a prize. I will be checking thoroughly!
+I didn't tell you this before the task, but I actually have the names of three pupils in my envelope here. Now at the start of the lesson I put the names of three secret pupils away and if those pupils have all completed the task to the standard I would expect the whole class will get a prize. I will be checking thoroughly!
 
 Discussion might include:
 
@@ -90,7 +90,7 @@ What do you do in your lessons?
 
 Ideas might include:
 
-- Rewarding and celebrating effort, ‘most improved pupil’ etc.
+- Rewarding and celebrating effort, 'most improved pupil' etc.
 - Celebrating pupils demonstrating school values
 - Giving pupils choices in their learning
 - Empowering pupils in their learning
@@ -121,7 +121,7 @@ Things to consider:
 
 - Pupil may need more scaffolding; how can the ECT make it clear they will support them with this?
 - How can the ECT acknowledge the effort they have put in?
-- How can the ECT make sure this result doesn’t demoralise them?
+- How can the ECT make sure this result doesn't demoralise them?
 
 Pupil 2 has not written anything on the test, but you think it is because they are scared of failing
 
@@ -132,7 +132,7 @@ Things to consider:
 
 Example response:
 
-I am really proud of the effort you put into preparing for your test. I know the result doesn’t reflect what you and I both know you can achieve, but you worked hard and you should be proud of yourself. What you can do now is look at the feedback I have given you and put those points into action. I have prepared this reference sheet for you to have a look at as you do that. This is a really good starting point for you to improve on. Do you have any questions you would like to ask? Is there anything I can do to support you further?
+I am really proud of the effort you put into preparing for your test. I know the result doesn't reflect what you and I both know you can achieve, but you worked hard and you should be proud of yourself. What you can do now is look at the feedback I have given you and put those points into action. I have prepared this reference sheet for you to have a look at as you do that. This is a really good starting point for you to improve on. Do you have any questions you would like to ask? Is there anything I can do to support you further?
 
 The mentor should share examples of when they have seen pupils experiencing similar things, including what they said and did to support and motivate them.
 
@@ -152,7 +152,7 @@ Pose the question: How can you help pupils set learning goals?<br/>Explain that 
 
 Talk through the following stages with the ECT.
 
-1. Work backwards from the goal to now, identifying what the key ‘milestones’ will be that pupils will need to accomplish on the way to the goal.
+1. Work backwards from the goal to now, identifying what the key 'milestones' will be that pupils will need to accomplish on the way to the goal.
 2. Work forwards from now to look at the first milestone and identify what things need to be done, and when, to achieve this.
 3. Make explicit and clear the chain of events that connects the ultimate goal and the success of each of the steps: emphasise that the goal will not be achieved by accident.
 
@@ -160,7 +160,7 @@ In doing this, the ECT might want to:
 
 - Model to pupils how to set a specific long-term goal, by sharing their own
 - Demonstrate how goals should be actionable
-- Sensitively increase or decrease the challenge and aspiration of pupils’ goals
+- Sensitively increase or decrease the challenge and aspiration of pupils' goals
 - Support pupils in setting a timeline and a method of recording progress
 - Teach pupils the rationale behind setting their own goals. A goal that they set for themselves can be more empowering than one imposed by somebody else.
 

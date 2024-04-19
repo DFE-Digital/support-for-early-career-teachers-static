@@ -29,7 +29,7 @@ Observe your teacher using positive and least invasive behaviour management stra
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -40,7 +40,7 @@ Work with your teacher to plan and practise using positive, least invasive behav
 1. Why is it important to manage behaviour in a positive and least invasive way?
 2. What should you do if you are feeling very agitated by a pupil in your class? How can this negatively impact upon your behaviour management strategies? What can you do to help you control your emotions in these situations?
 
-Discuss possible behaviour management strategies alongside the school’s behaviour policy i.e. how to respond to behaviour or bullying that threatens emotional safety.
+Discuss possible behaviour management strategies alongside the school's behaviour policy i.e. how to respond to behaviour or bullying that threatens emotional safety.
 
 Discuss when teachers should contact parents and what the process is for doing so.
 

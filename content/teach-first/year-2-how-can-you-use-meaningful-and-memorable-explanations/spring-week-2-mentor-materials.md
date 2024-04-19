@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 2"
 ---
 
-## Discussion - anticipating and addressing common misconceptions in the ECT’s subject or phase
+## Discussion - anticipating and addressing common misconceptions in the ECT's subject or phase
 
 Duration: 60 minutes.
 
@@ -34,4 +34,4 @@ By the end of this session your ECT will have:
 6. How have you monitored work to assess whether misconceptions are forming?  
 7. Which strategies from training session 1 do you think would have an impact on the pupils you teach? 
 8. What would you like to see more examples of in training session 2?  
-9. Let’s agree on a focus for this half term, linked to anticipating and addressing common misconceptions. 
+9. Let's agree on a focus for this half term, linked to anticipating and addressing common misconceptions. 

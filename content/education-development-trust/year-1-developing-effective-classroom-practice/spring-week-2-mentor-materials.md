@@ -19,7 +19,7 @@ Learn how to plan effective lessons, by:
 
 ### Introduction to the topic (5 minutes)
 
-Explain that the focus of today’s mentor topic is what the ECT can do to plan lessons effectively. It will focus on two key statements of the ECF:
+Explain that the focus of today's mentor topic is what the ECT can do to plan lessons effectively. It will focus on two key statements of the ECF:
 
 - Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain.
 - Enabling critical thinking and problem solving by first teaching the necessary foundational content knowledge.
@@ -59,11 +59,11 @@ Suggested dialogue for mentors: We can support the development of schema – and
 
 Read the following together:
 
-’students need cognitive support to help them learn to solve problems. The teacher modelling and
+'students need cognitive support to help them learn to solve problems. The teacher modelling and
 thinking aloud while demonstrating how to solve a problem are examples of effective cognitive
 support. Worked examples allow students to focus on the specific steps to solve problems and thus
 reduce the cognitive load on their working memory. Modelling and worked examples have been used
-successfully in mathematics, science, writing and reading comprehension.’ Rosenshine (2012)
+successfully in mathematics, science, writing and reading comprehension.' Rosenshine (2012)
 
 The goal of modelling is to help pupils know what we know and do what we are able to do.
 
@@ -73,12 +73,12 @@ Read the following:
 
 Our explanations can support pupils to develop conceptual understanding and build strong mental models. We can support novices by ensuring that our explanations do not contribute to cognitive overload. How?
 
-- Take into account pupils’ prior knowledge when planning when and how to introduce new content.
+- Take into account pupils' prior knowledge when planning when and how to introduce new content.
 - Minimise distractions so that pupils can focus their attention on what is to be taught.
 - Eliminate unnecessary information in our explanation – stick to what the pupils need to know.
 - Use dual coding effectively – combine words and visuals to enhance explanation.
 - Repeat the key messages and information – make use of wall displays and prompts so that pupils do not have to hold too much in their working memory.
-- Break down explanations into smaller steps so that pupils don’t need to process too much at once.
+- Break down explanations into smaller steps so that pupils don't need to process too much at once.
 
 #### 3. Scaffolds
 

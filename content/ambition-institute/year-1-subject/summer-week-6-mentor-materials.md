@@ -46,21 +46,21 @@ Example precise target: Teacher plans a range of questions that get pupils to th
 
 Consider the following questions based on a short (approximately 15 minute) observation of your teacher.
 
-- What was your teacher’s previous target? Are they meeting it? How do you know?
+- What was your teacher's previous target? Are they meeting it? How do you know?
 
 - Thinking about the development area you have selected for this topic, what is your teacher already doing well in this area? Which focused development area best aligns with what your teacher needs to get better at? What one precise target (bite-sized action) might you work with them on during your mentor meeting?
 
-Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn’t fit your teacher’s needs, you can write your own.
+Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn't fit your teacher's needs, you can write your own.
 
-How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, ‘How it is different from your current practice?’ and ‘What impact might it have on your practice and pupils?’
+How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, 'How it is different from your current practice?' and 'What impact might it have on your practice and pupils?'
 
 Reminder: Your model should help your teacher develop their ability in some of the following:
 
 - Set tasks that stretch pupils, but which are achievable, within a challenging curriculum.
-- Ensure pupils’ thinking is focused on key ideas within the subject, drawing explicit links between new content and core concepts and principles in the subject.
+- Ensure pupils' thinking is focused on key ideas within the subject, drawing explicit links between new content and core concepts and principles in the subject.
 - Revisit the big ideas of the subject over time and teaching key concepts through a range of examples.
 - Increase challenge with practice and retrieval as knowledge becomes more secure (e.g. by removing scaffolding, lengthening spacing or introducing interacting elements).
 - Use concrete representation of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples), slowly withdrawing concrete examples and drawing attention to the underlying structure of problems.
 - Include a range of types of questions in class discussions to extend and challenge pupils (e.g. by modelling new vocabulary or asking pupils to justify answers) and provide appropriate wait time between question and response where more developed responses are required.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
+Next, meet with your teacher to work through the 'feedback' stage of instructional coaching.

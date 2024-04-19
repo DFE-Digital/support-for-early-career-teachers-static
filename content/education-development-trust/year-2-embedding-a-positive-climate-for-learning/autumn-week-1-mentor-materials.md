@@ -53,4 +53,4 @@ Explain that in this second year the ECT will be building on the learning from y
 - Continuing your professional development
 
 Together, pick two or more of these areas and decide on particular things that the ECT would like to work on. E.g. How pupils learn
-‘I want to explore working memory in more detail so that I know how to avoid overloading my pupils and increase the chance that they will remember what I teach them’.
+'I want to explore working memory in more detail so that I know how to avoid overloading my pupils and increase the chance that they will remember what I teach them'.

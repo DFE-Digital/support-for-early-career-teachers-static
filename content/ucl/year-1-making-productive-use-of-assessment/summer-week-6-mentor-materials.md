@@ -36,7 +36,7 @@ This session is an opportunity for you to work with your mentee to deepen their 
 
 Review 5 mins
 
-1. Start this session by briefly following up on the actions that your mentee set at the end of last week’s session. Ask your mentee to summarise:
+1. Start this session by briefly following up on the actions that your mentee set at the end of last week's session. Ask your mentee to summarise:
 
    1. what they did
    2. the impact of this on pupil learning (including how they are evaluating this)
@@ -46,7 +46,7 @@ Review 5 mins
 
 Plan 5 mins
 
-Ask your mentee to reflect more broadly on how they have begun to put their learning from last week’s sessions into practice in their own assessment of pupils’ work/learning. Encourage them to highlight where they have tried out new strategies or adapted existing approaches being used. Ask your mentee to articulate how the approaches they are trying out reflect best practice as captured in the Early Career Framework. Where appropriate, encourage your mentee to connect their learning and practice to the assessment policy and agreed practices in place in your setting.
+Ask your mentee to reflect more broadly on how they have begun to put their learning from last week's sessions into practice in their own assessment of pupils' work/learning. Encourage them to highlight where they have tried out new strategies or adapted existing approaches being used. Ask your mentee to articulate how the approaches they are trying out reflect best practice as captured in the Early Career Framework. Where appropriate, encourage your mentee to connect their learning and practice to the assessment policy and agreed practices in place in your setting.
 
 Theory to Practice 35 mins
 
@@ -68,7 +68,7 @@ To support this activity, you could:
 - if appropriate, ask your mentee to practise sharing this feedback, with you playing the role of the pupil
 - discuss how your mentee might alter the feedback depending on pupil characteristics (e.g. confidence, motivation, age or prior attainment)
 - help your mentee to reflect on the quality of their thinking by making connections to the Early Career Framework and the research and practice summaries for this module
-- highlight particular strengths in your mentee’s approach
+- highlight particular strengths in your mentee's approach
 
 Discuss / sharing of practice
 
@@ -83,11 +83,11 @@ To get the most from this activity, you should:
 
 Collaborative planning
 
-Work with your mentee to put into practice approaches to marking and feedback, perhaps using a ‘live’ assessment that they (or you) are currently working on.
+Work with your mentee to put into practice approaches to marking and feedback, perhaps using a 'live' assessment that they (or you) are currently working on.
 
 To support this activity, you could:
 
-- encourage your mentee to deliberately try out strategies discussed in this module and to ‘think aloud’ about the choices they are making as they do so
+- encourage your mentee to deliberately try out strategies discussed in this module and to 'think aloud' about the choices they are making as they do so
 - do the same, so that your mentee can hear, and learn from, the thinking process that informs your approach to assessment and feedback
 
 Next Steps 5 mins

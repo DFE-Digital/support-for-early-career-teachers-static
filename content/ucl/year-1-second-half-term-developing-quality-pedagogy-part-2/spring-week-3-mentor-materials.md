@@ -28,7 +28,7 @@ The learning outcomes from their self-directed study were to learn that:
 
 This is not supported by evidence and attempting to tailor lessons to learning styles is unlikely to be beneficial.
 
-In this session, you will facilitate your mentee in developing their understanding of why it is important to evaluate pupils’ knowledge, understanding and skills and how this can be achieved (discussions with pupils, during whole-class feedback, checking classwork, summative assessment of their work, etc.) Through discussion, your mentee should be able to identify when certain pupils need more help to improve their knowledge, understanding and skills; what help they need; and the best way to adapt their teaching to support them. You will address the educational research which refutes the idea that lessons need to cater for pupils’ ‘learning styles’ - this does not improve learning.
+In this session, you will facilitate your mentee in developing their understanding of why it is important to evaluate pupils' knowledge, understanding and skills and how this can be achieved (discussions with pupils, during whole-class feedback, checking classwork, summative assessment of their work, etc.) Through discussion, your mentee should be able to identify when certain pupils need more help to improve their knowledge, understanding and skills; what help they need; and the best way to adapt their teaching to support them. You will address the educational research which refutes the idea that lessons need to cater for pupils' 'learning styles' - this does not improve learning.
 
 ### Meeting activities
 
@@ -38,7 +38,7 @@ Review and Plan 5 mins
 
 Clarify the Learning Intentions for this session with your mentee.
 
-At the start of this module, you looked at all of the ‘learn how to’ statements for Standards 4 and 5 and conducted a module audit with your mentee: in some areas they will already be confident and skilled; in others they will want more practice and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
+At the start of this module, you looked at all of the 'learn how to' statements for Standards 4 and 5 and conducted a module audit with your mentee: in some areas they will already be confident and skilled; in others they will want more practice and support from you and others. Look back at this audit now and use it to help decide how you and your mentee will make the most productive use of the suggested Theory to Practice activities below.
 
 Theory to Practice 40 mins
 
@@ -65,7 +65,7 @@ Adapting a resource -
 Intervention in class -
 
 - did it seem effective?
-- how did you support pupils who didn’t have the required knowledge, understanding or skills compared to other pupils?
+- how did you support pupils who didn't have the required knowledge, understanding or skills compared to other pupils?
 - how did you identify key pupils that needed help?
 - how did you adapt questions to stretch and/or support pupils in their learning?
 
@@ -83,10 +83,10 @@ Help your mentee to identify next steps arising from the lesson you viewed. Be c
 
 Next Steps 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session(s) into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session(s) into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these action(s) are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these action(s)
+2. what success will 'look like' in relation to these action(s)
 3. how they will evaluate their success in taking these action(s)
 
-Note the date of your next mentor meeting, when you will check on your mentee’s progress.
+Note the date of your next mentor meeting, when you will check on your mentee's progress.

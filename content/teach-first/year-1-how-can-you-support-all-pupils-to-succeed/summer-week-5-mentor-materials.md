@@ -19,13 +19,13 @@ To have planned for and practised using the graduated approach to support a pupi
 ###  Stimulus
 In the online study materials, your teacher was introduced to an approach that puts the pupil at the heart of any adaptations to practice – the graduated approach.
 
-The graduated approach follows an ‘assess, plan, do, review’ cycle. It is designed to help teachers quickly assess where adaptations to practice are supporting pupil’s learning, and crucially where they aren’t.
+The graduated approach follows an 'assess, plan, do, review' cycle. It is designed to help teachers quickly assess where adaptations to practice are supporting pupil's learning, and crucially where they aren't.
 
 Your teacher has been considering which elements of the approach they have already been implementing into their practice. Discuss this activity with your teacher, praising their strengths and probing areas they are finding challenging.
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 

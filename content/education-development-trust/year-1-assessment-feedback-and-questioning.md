@@ -4,11 +4,11 @@ heading: "First half-term: assessment, feedback and questioning"
 caption: "Year 1"
 ---
 
-In this module you’ll work on developing effective assessment and feedback practices.
+In this module you'll work on developing effective assessment and feedback practices.
 
 ## Module introduction
 
-Go through the module introduction to see what you’ll be learning.
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -21,10 +21,10 @@ Go through the module introduction to see what the ECT will be learning.
 
 ## Week 1: what is good assessment and feedback?
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- catch up with your mentor to reflect on what you've learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 75 minutes.
 
@@ -36,9 +36,9 @@ Duration: 75 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
-- catch up with the ECT to reflect on what they’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
-- briefly watch them putting this week’s development focus into action in the classroom
+- read the ECT's study materials below
+- catch up with the ECT to reflect on what they've learnt, discuss any issues or concerns, and decide what actions to take going forward
+- briefly watch them putting this week's development focus into action in the classroom
 
 [View mentor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-1-mentor-materials)
 
@@ -49,7 +49,7 @@ There are no self-study materials this week. Instead, your mentor will lead the 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-2-mentor-materials)
 
@@ -60,13 +60,13 @@ There are no self-study materials this week. Instead, your mentor will lead a di
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-3-mentor-materials)
 
 ## Week 4: questioning and classroom talk
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -81,23 +81,23 @@ Duration: 60 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-4-mentor-materials)
 
 ## Week 5: verbal feedback
 
-There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
+There are no self-study materials this week. Instead, your school's induction lead should arrange a training session on this topic.
 
 
 ### Mentors
 
-There are no materials for this topic. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
+There are no materials for this topic. Instead, your school's induction lead should arrange a training session for the ECT on this topic.
 
 ## Week 6: putting it into practice
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -111,7 +111,7 @@ Duration: 75 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 
 ## Week 7: lesson observations
@@ -132,7 +132,7 @@ Use the materials below for an end of module review with the ECT.
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
+Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
 
 Duration: 10 minutes.
 

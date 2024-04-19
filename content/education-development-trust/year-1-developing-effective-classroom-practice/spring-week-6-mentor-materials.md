@@ -12,7 +12,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn that:
 
-- Effective teaching can transform pupils’ knowledge, capabilities and beliefs about learning
+- Effective teaching can transform pupils' knowledge, capabilities and beliefs about learning
 - Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned
 - Modelling helps pupils understand new processes and ideas; good models make abstract ideas concrete and accessible
 - Explicitly teaching pupils metacognitive strategies linked to subject knowledge, including how to plan, monitor and evaluate, supports independence and academic success
@@ -31,7 +31,7 @@ Learn how to make good use of expositions, by:
 
 Learn how to model effectively, by:
 
-- Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge)
+- Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils' attention to links with prior knowledge)
 - Making the steps in a process memorable and ensuring pupils can recall them (e.g. naming them, developing mnemonics, or linking to memorable stories)
 - Exposing potential pitfalls and explaining how to avoid them
 
@@ -56,7 +56,7 @@ Welcome the ECT to the final mentor topic in this module. Offer praise where app
 
 The ECT should have taught the lesson or part of a sequence of lessons that were looked at in the previous topic. The beginning of this topic is a good time to reflect upon how it went.
 
-Suggested dialogue for mentors: Last topic we looked at getting your pupils to think hard about the stuff you need them to learn. We worked on some lessons you were going to teach. Let’s catch up about those lessons now. How did they go? Were the pupils thinking hard about what you needed them to? What have you learned? What will you do the same/differently going forward?
+Suggested dialogue for mentors: Last topic we looked at getting your pupils to think hard about the stuff you need them to learn. We worked on some lessons you were going to teach. Let's catch up about those lessons now. How did they go? Were the pupils thinking hard about what you needed them to? What have you learned? What will you do the same/differently going forward?
 
 The purpose of this topic is to review what the ECT has learnt throughout this module through the lens of observations. They should come to the topic having carried out one or more observations of colleagues based on Activity 3.5 in the self-directed study materials.
 
@@ -74,7 +74,7 @@ Ask the ECT to reflect on the following questions related to their focus area of
 
 ### Implications for practice (10 minutes)
 
-- How did X affect the pupil’s learning?
+- How did X affect the pupil's learning?
 
 In light of the previous discussion, focus now on what the ECT will do as a consequence.
 

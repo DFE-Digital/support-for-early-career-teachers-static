@@ -16,25 +16,25 @@ Providing opportunities for purposeful practice supports pupils to consolidate a
 
 ### Learning is about remembering and connecting information
 
-Mr Andrews now understands that ‘learning is the residue of thought’ (Willingham, 2009). In particular, what people have thought hard about (Coe, 2013). Thinking takes place in working memory where people combine knowledge from their long-term memory with new information (Willingham, 2009). To commit new information to long-term memory, pupils must have a strong foundation of prior knowledge.
+Mr Andrews now understands that 'learning is the residue of thought' (Willingham, 2009). In particular, what people have thought hard about (Coe, 2013). Thinking takes place in working memory where people combine knowledge from their long-term memory with new information (Willingham, 2009). To commit new information to long-term memory, pupils must have a strong foundation of prior knowledge.
 
 Pupils consolidate their existing knowledge by retrieving it from long-term memory and using it to answer questions or solve problems (Roediger & Butler, 2011). This allows them to process new information faster and more accurately (Sweller, 2016). For example, they can comprehend new information by linking it with familiar words or ideas. What can Mr Andrews do to support pupils to successfully consolidate material?
 
 ### Practice supports successful remembering and connecting
 
-Regular purposeful practice consolidates pupils’ understanding and helps them remember key ideas. Practice can happen in the ‘We do’ as well as the ‘You do’ parts of instruction. Initially, teachers should scaffold practice as part of ‘We do’ (Lemov, 2015), for example by solving problems with pupils, to show them how to complete problems. Over time, teachers can decrease the support they offer to help pupils practise independently (IES, 2008).
+Regular purposeful practice consolidates pupils' understanding and helps them remember key ideas. Practice can happen in the 'We do' as well as the 'You do' parts of instruction. Initially, teachers should scaffold practice as part of 'We do' (Lemov, 2015), for example by solving problems with pupils, to show them how to complete problems. Over time, teachers can decrease the support they offer to help pupils practise independently (IES, 2008).
 
-Independent practice tasks (‘You do’) (Lemov, 2015) should relate closely to those covered in guided practice. Otherwise pupils may struggle and waste time identifying what to do (Kirschner et al., in Christodoulou, 2017). This also allows pupils to focus on becoming more fluent at solving a problem or recalling information (Rosenshine, 2012). For example, if the guided practice has been about adding fractions, this should also be the focus of independent practice, rather than adding _and_ subtracting fractions.
+Independent practice tasks ('You do') (Lemov, 2015) should relate closely to those covered in guided practice. Otherwise pupils may struggle and waste time identifying what to do (Kirschner et al., in Christodoulou, 2017). This also allows pupils to focus on becoming more fluent at solving a problem or recalling information (Rosenshine, 2012). For example, if the guided practice has been about adding fractions, this should also be the focus of independent practice, rather than adding _and_ subtracting fractions.
 
 Over time, practice should support the development of expertise by consolidating mental models, as thinking hard secures memories and makes new connections. This helps pupils to free up their working memory to tackle more complicated problems (Sweller, 2016). For example, practising times tables allows pupils to tackle more advanced maths problems more easily.
 
-For practice to be effective, teachers need to ensure pupils achieve a high success rate, ideally of around 80% (Rosenshine, 2012). Mr Andrews needs to ensure that where pupils are not regularly successful in their practice, he intervenes with feedback which pupils can act on. He can also acknowledge and praise pupil effort and emphasise progress made toward eventual success. High levels of success also improve pupils’ motivation (Coe et al., 2014).
+For practice to be effective, teachers need to ensure pupils achieve a high success rate, ideally of around 80% (Rosenshine, 2012). Mr Andrews needs to ensure that where pupils are not regularly successful in their practice, he intervenes with feedback which pupils can act on. He can also acknowledge and praise pupil effort and emphasise progress made toward eventual success. High levels of success also improve pupils' motivation (Coe et al., 2014).
 
 ### Effective approaches to independent practice
 
-After introducing content in small steps, supported through models and guided instruction, Mr Andrews now needs to get his pupils to practise independently. How should he organise and ‘space’ this practice over time?
+After introducing content in small steps, supported through models and guided instruction, Mr Andrews now needs to get his pupils to practise independently. How should he organise and 'space' this practice over time?
 
-- Spacing practice over time (or ‘distributing’ it) makes learning feel harder but improves pupils’ retention because they have to think harder about it (Dunlosky et al., 2013).
+- Spacing practice over time (or 'distributing' it) makes learning feel harder but improves pupils' retention because they have to think harder about it (Dunlosky et al., 2013).
 - Assuming pupils are getting questions right, teachers can increase the intervals between practice (Dunlosky et al., 2013).
 
 Mr Andrews should be intentional in not just how he spaces practice but what he includes in practice. He should consider not just what he has recently taught but also supporting pupils to master challenging content which builds towards long-term goals. Therefore, pupils should practise skills and knowledge from previous weeks and months. He can increase the challenge by removing scaffolding, lengthening spaces or introducing interacting elements, for example a more complicated problem where one step relies on a previous step.
@@ -70,7 +70,7 @@ Coe, R., Aloisi, C., Higgins, S., &amp; Major, L. E. (2014). _What makes great t
 
 Deans for Impact (2015). _The Science of Learning_. <a href="http://bit.ly/ecf-dea" target="_blank" rel="noopener">bit.ly/ecf-dea</a>
 
-Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. _Psychological Science in the Public Interest, Supplement, 14_(1), 4–58.
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., &amp; Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. _Psychological Science in the Public Interest, Supplement, 14_(1), 4–58.
 
 Education Endowment Foundation (2018). _Sutton Trust-Education Endowment Foundation Teaching and Learning Toolkit_. <a href="http://bit.ly/ecf-EEF12" target="_blank" rel="noopener">bit.ly/ecf-EEF12</a>
 
@@ -84,6 +84,6 @@ Rosenshine, B. (2012) Principles of Instruction: Research-based strategies that 
 
 Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. _Journal of Applied Research in Memory and Cognition, 5_(4), 360–367.
 
-Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco: Jossey Bass.
+Willingham, D. T. (2009). _Why don't students like school?_ San Francisco: Jossey Bass.
 
 {/details}

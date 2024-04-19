@@ -4,11 +4,11 @@ heading: "Second half-term: how pupils learn"
 caption: "Year 1"
 ---
 
-In this module you’ll gain an understanding of how the brain works, and how you can then design more effective learning for your pupils.
+In this module you'll gain an understanding of how the brain works, and how you can then design more effective learning for your pupils.
 
 ## Module introduction
 
-Go through the module introduction to see what you’ll be learning.
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -21,10 +21,10 @@ Go through the module introduction to see what the ECT will be learning.
 
 ## Week 1: understanding how pupils learn
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- catch up with your mentor to reflect on what you've learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 50 minutes.
 
@@ -36,19 +36,19 @@ Duration: 50 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with the ECT
 
 [View mentor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-1-mentor-materials)
 
 ## Week 2: implications of cognitive load on how pupils learn
 
-There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
+There are no self-study materials this week. Instead, your school's induction lead should arrange a training session on this topic.
 
 
 ### Mentors
 
-There are no materials for this topic. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
+There are no materials for this topic. Instead, your school's induction lead should arrange a training session for the ECT on this topic.
 
 ## Week 3: introducing new content
 
@@ -57,13 +57,13 @@ There are no self-study materials this week. Instead, your mentor will lead the 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them ECT about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them ECT about this topic.
 
 [View mentor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-3-mentor-materials)
 
 ## Week 4: prior knowledge and misconceptions
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -78,7 +78,7 @@ Duration: 35 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-4-mentor-materials)
@@ -90,13 +90,13 @@ There are no self-study materials this week. Instead, your mentor will lead the 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them ECT about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them ECT about this topic.
 
 [View mentor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-5-mentor-materials)
 
 ## Week 6: putting it into practice
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -110,7 +110,7 @@ Duration: 75 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 
 [View mentor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-6-mentor-materials)
@@ -133,7 +133,7 @@ Use the materials below for an end of module review with the ECT.
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
+Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
 
 Duration: 10 minutes.
 

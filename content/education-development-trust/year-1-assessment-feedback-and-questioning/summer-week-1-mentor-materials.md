@@ -12,7 +12,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn that:
 
-- Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs.
+- Effective assessment is critical to teaching because it provides teachers with information about pupils' understanding and needs.
 - Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear.
 - Before using any assessment, teachers should be clear about the decision it will be used to support and be able to justify its use.
 - To be of value, teachers use information from assessments to inform the decisions they make; in turn, pupils must be able to act on feedback for it to have an effect.
@@ -38,13 +38,13 @@ You can use [Handout 5.1](/assets/materials/edt-Block-5-mentor-handout-5.1.pdf) 
 - What different forms of assessment can you name?
 - What different forms of assessment have you used?
 - Which ones have gone well? Why?
-- Which ones haven’t gone so well? Why?
+- Which ones haven't gone so well? Why?
 - Which do you find takes you a long time?
 - Have you developed any strategies to speed up assessment?
 - What different forms of feedback can you name?
 - What different forms of feedback have you used?
 - Which ones have gone well? Why?
-- Which ones haven’t gone so well? Why?
+- Which ones haven't gone so well? Why?
 - Which do you find takes you a long time?
 - Have you developed any strategies to speed up feedback?
 
@@ -52,10 +52,10 @@ You can use [Handout 5.1](/assets/materials/edt-Block-5-mentor-handout-5.1.pdf) 
 
 Guidance to mentors:
 
-- Both the ECT and mentor should have read the ‘Understanding the Evidence’ section of the self-directed study materials ahead of the topic
-- In this part of the topic, the mentor will be asking questions to check the ECT’s understanding of what they have read. The guidance below provides a full range of responses which show understanding. However, this should not be treated as a ‘test’ of the ECT’s knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
+- Both the ECT and mentor should have read the 'Understanding the Evidence' section of the self-directed study materials ahead of the topic
+- In this part of the topic, the mentor will be asking questions to check the ECT's understanding of what they have read. The guidance below provides a full range of responses which show understanding. However, this should not be treated as a 'test' of the ECT's knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
 
-Suggested dialogue for mentors: you completed activity 5.2 of the self-directed study materials ‘Understanding the Evidence’ in relation to what makes good assessment and feedback. Let’s discuss your response to the questions to check your understanding of that material.
+Suggested dialogue for mentors: you completed activity 5.2 of the self-directed study materials 'Understanding the Evidence' in relation to what makes good assessment and feedback. Let's discuss your response to the questions to check your understanding of that material.
 
 - Why is assessing pupil learning important?
   - To inform the teacher about what the pupil knows and can do
@@ -79,7 +79,7 @@ Suggested dialogue for mentors: you completed activity 5.2 of the self-directed 
 - Why is high-quality feedback important?
   - Improves pupil outcomes
   - Supports pupil learning
-  - Ensures pupils’ learning needs are being met
+  - Ensures pupils' learning needs are being met
   - Means that pupils are clear on how they can improve
   - Support pupils to monitor and self-regulate their own learning.
 
@@ -89,7 +89,7 @@ Guidance to mentors:
 
 - ECTs should bring some examples of their own to the topic. As this is the first topic of the module, catch up with the ECT in person or via email to ask them to do this.
 - Examples could be work that has been marked in books or could be more formal assessments.
-- It might be helpful to share some of the mentor’s own examples of assessment as well.
+- It might be helpful to share some of the mentor's own examples of assessment as well.
 - If there is no evidence that pupils have responded to feedback, ask about how pupils have enacted the feedback.
 
 Questions for discussion:
@@ -100,6 +100,6 @@ Questions for discussion:
 
 ### Planning for action
 
-In the next topic, ECTs will need to bring a selection of marked assessments (about five would be a good number) with them that you will review. They should be from one assessment rather than a range. Spend some time now identifying what this might be and locating where the assessments are, i.e. if in pupils’ books, the ECT will need to collect the books in advance of the next topic.
+In the next topic, ECTs will need to bring a selection of marked assessments (about five would be a good number) with them that you will review. They should be from one assessment rather than a range. Spend some time now identifying what this might be and locating where the assessments are, i.e. if in pupils' books, the ECT will need to collect the books in advance of the next topic.
 
 ECTs will also need to identify a lesson or sequence of lessons they plan to teach in the next week. You will spend some time in the next topic planning out formative assessment tasks linked to the lesson objectives.

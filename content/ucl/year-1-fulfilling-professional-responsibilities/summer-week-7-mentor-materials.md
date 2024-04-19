@@ -25,11 +25,11 @@ Over the course of this module to date, you have been discussing with your mente
 
 To support this action planning process, you could:
 
-- begin by reviewing your mentee’s progress over the year to date, particularly in relation to the sessions that constitute this programme. Highlight particular successes as well as approaches to their learning which your mentee has found especially fruitful
+- begin by reviewing your mentee's progress over the year to date, particularly in relation to the sessions that constitute this programme. Highlight particular successes as well as approaches to their learning which your mentee has found especially fruitful
 - encourage your mentee to use a planning format that works for them. This could be a standard planning document you use in your school or a different approach with which your mentee is familiar
 - check that targets are SMART (specific, measurable, achievable, relevant and time-bound), and that clear action steps are identified to work towards each target
 - refer your mentee back to the notes made in each of the sessions in this module to remind them of what was previously discussed
-- use your knowledge and experience to help ensure that the action plan is sufficiently challenging whilst remaining manageable within your mentee’s overall context
+- use your knowledge and experience to help ensure that the action plan is sufficiently challenging whilst remaining manageable within your mentee's overall context
 - recommend that your mentee puts into their diary now a future date on which they will review their progress towards the targets set
 
 Next Steps 5 mins

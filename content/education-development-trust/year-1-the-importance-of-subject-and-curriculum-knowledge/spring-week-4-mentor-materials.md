@@ -14,7 +14,7 @@ Learn that:
 
 - Anticipating common misconceptions within a particular subject is also an important aspect of curricular knowledge; working closely with colleagues to develop an understanding of likely misconceptions is valuable
 
-Learn how to build on pupils’ prior knowledge by:
+Learn how to build on pupils' prior knowledge by:
 
 - Identifying possible misconceptions and planning how to prevent these forming
 - Linking what pupils already know to what is being taught (e.g. explaining how new content builds on what is already known)
@@ -41,7 +41,7 @@ Guidance to mentors:
 
 - This topic requires input from a colleague with experience in the same phase or subject as the ECT. This could be the mentor if they are from the same subject specialism or phase as their mentee. The colleague only needs to stay for this portion of the topic.
 - In this part of the topic the mentor will help the ECT to learn that anticipating common misconceptions within a subject is an important part of curricular knowledge and working with an experienced colleague is a valuable activity. They will also learn how to become aware of common misconceptions and how to support students in overcoming them.
-- Agree with the ECT that ‘common misconceptions’ in the statement refers to the views or opinions pupils develop regularly that are based on faulty thinking or understanding.
+- Agree with the ECT that 'common misconceptions' in the statement refers to the views or opinions pupils develop regularly that are based on faulty thinking or understanding.
 - In the interests of time, it will be important to narrow down the focus, for example:
   - For secondary school teachers, focusing on one subject (e.g. humanities teachers might teach a range, so focus on just say history) in one key phase or year group (e.g. Key Stage 3 or Year 7)
   - For primary teachers, focusing on one subject area (e.g. literacy) within the year group they work with
@@ -52,7 +52,7 @@ Guidance to mentors:
   - KS3 Physics – the teaching of forces
   - KS4 English Literature – poetry anthology.
 
-The ECT should have the opportunity to ‘interview’ an experienced colleague from their subject area. The ECT needs to find out two crucial pieces of information:
+The ECT should have the opportunity to 'interview' an experienced colleague from their subject area. The ECT needs to find out two crucial pieces of information:
 
 - What are the common misconceptions pupils have in this subject?
 - How can pupils be helped to master important concepts within the subject?
@@ -81,7 +81,7 @@ Guidance to mentors:
 
 This section of the topic is for the ECT to learn how to encourage pupils to share emerging understanding and points of confusion so that misconceptions can be addressed.
 
-- The mentor will use questioning in this section of the topic. There are possible answers listed. Share these or at least ensure that the ECT’s answers are in line with them.
+- The mentor will use questioning in this section of the topic. There are possible answers listed. Share these or at least ensure that the ECT's answers are in line with them.
 
 Pose the question: why might pupils not share the things they are confused about?
 
@@ -105,7 +105,7 @@ Possible answers (not exhaustive):
 
 - What is difficult about this?
 - Is there anything that is confusing you?
-- What might someone find confusing about this? (To remove embarrassment about admitting that the pupil doesn’t understand)
+- What might someone find confusing about this? (To remove embarrassment about admitting that the pupil doesn't understand)
 - What might a younger pupil struggle to understand with this work? (To remove embarrassment about admitting that the pupil does not understand)
 - Can you explain why you think that? (Narration of thought process can uncover faulty thinking, which might have led to a misconception)
 - Easy ways to signal misunderstanding, which are low stakes, such as showing thumbs up/down or putting a red, amber or green card on their desk. There is more on this in module 5 e.g. using multiple choice or hinge questions.

@@ -33,8 +33,8 @@ Explain the purpose of the training session, session outcomes and the related EC
 
 #### Understanding the differences between novice and expert learners (10 minutes)
 
-1. Explore the differences between novice and expert learners (briefly explore ‘the curse of knowledge’). 
-2. Consider the impact that instructional procedures can have on novices and experts. Explore how to avoid overloading the working memory (briefly explore the ‘expertise reversal effect’). 
+1. Explore the differences between novice and expert learners (briefly explore 'the curse of knowledge'). 
+2. Consider the impact that instructional procedures can have on novices and experts. Explore how to avoid overloading the working memory (briefly explore the 'expertise reversal effect'). 
 3. Explore how to support pupils as they develop expertise, such as by adapting instructional procedures and strategies and removing scaffolds. 
 4. Activity: Ask ECTs to reflect on a time when they did not provide enough structure when teaching a skill, and the impact this had on learners. 
 
@@ -44,7 +44,7 @@ Explain the purpose of the training session, session outcomes and the related EC
 2. Explore how 2 of the following strategies can provide cognitive support, and support pupils to use and build on prior knowledge to develop key skills:
     - Think Aloud or demonstrations 
     - worked examples 
-    - combining verbal and graphical representations (sometimes referred to as ‘dual coding’)
+    - combining verbal and graphical representations (sometimes referred to as 'dual coding')
 3. Exemplify each strategy through subject-specific examples.
 4. Activity: Ask ECTs to consider the impact that the strategy can have on learning, for example by asking ECTs to analyse effective and ineffective examples of using Think Aloud, demonstrations or worked examples. Or, ask them to script and share their own example of how Think Aloud or worked examples can be used to teach a key skill. ECTs could share their example with a partner and provide feedback to each other.  
 
@@ -59,7 +59,7 @@ Ask ECTs to reflect on the learning from the session and record their actions an
 - 3.2 Secure subject knowledge helps teachers to motivate pupils and teach effectively.  
 - 3.5 Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial.  
 - 3a. Identifying essential concepts, knowledge, skills and principles of the subject and providing opportunity for all pupils to learn and master these critical components.   
-- 3b. Ensuring pupils’ thinking is focused on key ideas within the subject. 
+- 3b. Ensuring pupils' thinking is focused on key ideas within the subject. 
 
 #### Classroom practice  
 
@@ -67,4 +67,4 @@ Ask ECTs to reflect on the learning from the session and record their actions an
 - 4.4 Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases.  
 - 4a. Using modelling, explanations and scaffolds, acknowledging that novices need more structure early in a domain.  
 - 4g. Combining a verbal explanation with a relevant graphical representation of the same concept or process, where appropriate.   
-- 4i. Narrating thought processes when modelling to make explicit how experts think (for example, asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge).  
+- 4i. Narrating thought processes when modelling to make explicit how experts think (for example, asking questions aloud that pupils should consider when working independently and drawing pupils' attention to links with prior knowledge).  

@@ -23,7 +23,7 @@ In addition to your personal focus, the case studies are a reminder that:
 
 ## Introduction
 
-At the start of this half-term, you reviewed your development needs in relation to Standards 2 & 3 with your mentor, using the Module 7 audit (this was based on the audit from Module 2 that you completed last year). You also constructed with them an exploratory inquiry question, which will help you focus your development across this module. Last week, in your ECT Training session, you looked again at the nature of school-based evidence and discussed issues of ‘sufficiency’ and ‘validity’.
+At the start of this half-term, you reviewed your development needs in relation to Standards 2 & 3 with your mentor, using the Module 7 audit (this was based on the audit from Module 2 that you completed last year). You also constructed with them an exploratory inquiry question, which will help you focus your development across this module. Last week, in your ECT Training session, you looked again at the nature of school-based evidence and discussed issues of 'sufficiency' and 'validity'.
 
 Next week, you have another mentor meeting. To prepare for that, you should use your self-study time to define what your normal practice is like in your focus area and to collect evidence of the impact of your practice upon your pupils. It is helpful for any teacher to get into habits of monitoring your practice, reviewing its impact and implementing useful changes.
 
@@ -31,9 +31,9 @@ Next week, you have another mentor meeting. To prepare for that, you should use 
 
 Schools are already data-rich environments.
 
-Practitioner inquiries first of all make use of what we call here ‘naturally occurring’ evidence.
+Practitioner inquiries first of all make use of what we call here 'naturally occurring' evidence.
 
-They are in the pupils’ work, and the ECT’s assessment of it. They are in the words and reactions of the pupils, and
+They are in the pupils' work, and the ECT's assessment of it. They are in the words and reactions of the pupils, and
 what the ECT has heard or seen of this. When we refer to evidence-collection, in
 the main we mean: look at what the pupils have done, and listen to what they are
 saying.

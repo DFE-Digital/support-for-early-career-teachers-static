@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 4"
 ---
 
-## Strengthening pupils’ subject knowledge
+## Strengthening pupils' subject knowledge
 
 ### Intended outcomes
 
@@ -25,7 +25,7 @@ Discuss the lesson observation agreed in the last topic. What was successful? Wh
 
 Recap the learning from the previous topic.
 
-How would you define a ‘big idea’ of a subject?
+How would you define a 'big idea' of a subject?
 
 - The big ideas are the key ideas in a subject: the ones that provide the foundation upon which everything else builds.
 
@@ -35,7 +35,7 @@ Why is it important to identify these?
 - To help you plan in when you will revisit these key ideas to ensure pupils master them
 - To help build a foundation knowledge of your subject.<
 
-How do you use the ‘big ideas’ in your planning?
+How do you use the 'big ideas' in your planning?
 
 - As key concepts on which to build knowledge
 - As key concepts which need to be reinforced and revisited.
@@ -52,7 +52,7 @@ Can you name three specific ways that you do this in your lessons?
 - Ask questions explicitly about how the work links to the big ideas of the subject.
 - Preview material – tell pupils what they are going to learn about and how it links to what they already know/big ideas of the subject.
 
-### Develop pupils’ fluency (35 minutes)
+### Develop pupils' fluency (35 minutes)
 
 Guidance to mentors:
 
@@ -64,7 +64,7 @@ Task:
 
 Read [Handout 10.1](/assets/materials/edt-Block-10-mentor-handout-10.1.pdf) together.
 
-Pose the question: What do you understand by the idea of ‘building automatic recall of key knowledge?’
+Pose the question: What do you understand by the idea of 'building automatic recall of key knowledge?'
 
 The mentor may want to extend the discussion by asking the ECT to consider an example where they needed pupils to have automatic recall of key knowledge to access new learning. What was the knowledge they needed? Did all pupils have the automatic recall? How did they check this?
 
@@ -86,6 +86,6 @@ Retrieval practice ideas:
 
 ### Planning for action
 
-Ask the ECT what they will do next as result of today’s topic? When will they do this by?
+Ask the ECT what they will do next as result of today's topic? When will they do this by?
 
 In the next topic, ECTs will need to bring to the topic a writing task that they plan on doing with pupils soon. Discuss and agree with the ECT what writing task is going to be brought to the topic.

@@ -6,7 +6,7 @@ next_title: "Reflect"
 next_path: "/ambition-institute/year-1-instruction/spring-week-2-ect-reflect"
 ---
 
-Ms Stones wants to ensure pupils experience maximum learning in each lesson. She knows she needs to challenge pupils with new learning content but is unsure how to decide the right amount of content to do this. How could she identify and divide up content, and check if learning is taking place? How can she adapt others’ plans for her own classes to achieve this?
+Ms Stones wants to ensure pupils experience maximum learning in each lesson. She knows she needs to challenge pupils with new learning content but is unsure how to decide the right amount of content to do this. How could she identify and divide up content, and check if learning is taking place? How can she adapt others' plans for her own classes to achieve this?
 
 ## Key idea
 
@@ -16,7 +16,7 @@ Teachers can ensure pupils experience maximum learning by carefully identifying 
 
 ### Identifying key thinking in a lesson
 
-Learning involves processes leading to a lasting change in pupils’ capabilities or understanding – if nothing changes, arguably nothing has been learned (Sweller, 2016). As time in lesson is limited, Ms Stones needs to prioritise a manageable amount of content for her pupils to learn about. Learning takes place when pupils think hard about something (Coe, 2013) so Ms Stones should consider and carefully specify what she wants her pupils to think hard about in each lesson.
+Learning involves processes leading to a lasting change in pupils' capabilities or understanding – if nothing changes, arguably nothing has been learned (Sweller, 2016). As time in lesson is limited, Ms Stones needs to prioritise a manageable amount of content for her pupils to learn about. Learning takes place when pupils think hard about something (Coe, 2013) so Ms Stones should consider and carefully specify what she wants her pupils to think hard about in each lesson.
 
 ### Breaking down learning
 
@@ -38,9 +38,9 @@ Ms Stones wants to support a high success rate, so she also needs to understand 
 
 Effective teachers regularly review learning, asking lots of questions which check pupil understanding (Rosenshine, 2012). The more precisely Ms Stones has identified what she wants pupils to be thinking hard about at various stages of the lessons, the more effectively she will be able to check for key learning. She needs to check the learning of as many pupils as possible.
 
-Ms Stones wants to establish where all learners are in relation to the key content or steps she wants pupils to succeed at. An effective strategy for checking whole-class understanding of identified content is the use of ‘exit tickets’. This is an end of lesson assessment that pupils need to be able to complete quickly and that teachers should be able to assess quickly. Getting every pupil to complete an exit ticket as a low-stakes assessment at the end of her lessons will help Ms Stones to gauge how successful pupils have been with these steps.
+Ms Stones wants to establish where all learners are in relation to the key content or steps she wants pupils to succeed at. An effective strategy for checking whole-class understanding of identified content is the use of 'exit tickets'. This is an end of lesson assessment that pupils need to be able to complete quickly and that teachers should be able to assess quickly. Getting every pupil to complete an exit ticket as a low-stakes assessment at the end of her lessons will help Ms Stones to gauge how successful pupils have been with these steps.
 
-Ms Stones’ assessment may pick up that pupils are not yet secure in their thinking about a particular step, for example if several pupils incorrectly answer a question or there is a common misconception or error in an exit ticket. If the success rate drops, Ms Stones should provide further support, for example breaking the learning steps down further in the next lesson.
+Ms Stones' assessment may pick up that pupils are not yet secure in their thinking about a particular step, for example if several pupils incorrectly answer a question or there is a common misconception or error in an exit ticket. If the success rate drops, Ms Stones should provide further support, for example breaking the learning steps down further in the next lesson.
 
 ### Nuances and caveats
 
@@ -51,9 +51,9 @@ One approach to breaking learning down could be to set steps which pupils can al
 Ms Stones can deliver more effective instruction by identifying the learning content
 if she understands that:
 
-- learning is a process leading to changes in pupils’ capabilities or understanding that happens when pupils think hard
+- learning is a process leading to changes in pupils' capabilities or understanding that happens when pupils think hard
 - breaking learning down should make thinking manageable enough for pupils to experience a high success rate
-- identifying manageable steps is tricky, so teachers should check all pupils’ key learning, and provide further support to ensure a high success rate
+- identifying manageable steps is tricky, so teachers should check all pupils' key learning, and provide further support to ensure a high success rate
 
 ### Further reading
 
@@ -74,6 +74,6 @@ Rosenshine, B. (2012). Principles of Instruction: Research-based strategies that
 
 Sweller, J. (2016). Working Memory, Long-term Memory, and Instructional Design. _Journal of Applied Research in Memory and Cognition,_ 5(4), 360–367.
 
-Willingham, D. T. (2009). _Why don’t students like school?_ San Francisco, Jossey-Bass.
+Willingham, D. T. (2009). _Why don't students like school?_ San Francisco, Jossey-Bass.
 
 {/details}

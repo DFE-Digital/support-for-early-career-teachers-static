@@ -15,9 +15,10 @@ html.govuk-template lang='en'
         .govuk-grid-row
           .govuk-grid-column-two-thirds
             - if item[:heading]
-              - if item[:caption]
-                span.govuk-caption-l = item[:caption]
-              h1.govuk-heading-l = item[:heading]
+              h1.govuk-heading-l
+                - if item[:caption]
+                  span.govuk-caption-l = item[:caption]
+                = item[:heading]
 
             - else
 

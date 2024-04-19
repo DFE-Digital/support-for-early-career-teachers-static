@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-what-makes-classroom-practice-effective/spring-week-2-ect-theory"
 ---
 
-### Classroom practice
+## Classroom practice
 
 4.2 Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned.
 
@@ -22,6 +22,6 @@ _4f. Starting expositions at the point of current pupil understanding._
 
 _4h. Using concrete representation of abstract ideas (e.g. making use of analogies, metaphors, examples and non-examples)._
 
-_4i. Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils’ attention to links with prior knowledge)._
+_4i. Narrating thought processes when modelling to make explicit how experts think (e.g. asking questions aloud that pupils should consider when working independently and drawing pupils' attention to links with prior knowledge)._
 
 _4k. Exposing potential pitfalls and explaining how to avoid them._

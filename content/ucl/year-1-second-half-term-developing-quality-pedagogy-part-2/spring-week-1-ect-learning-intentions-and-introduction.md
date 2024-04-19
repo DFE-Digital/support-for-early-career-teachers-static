@@ -15,7 +15,7 @@ You will learn that:
 
 - Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
 - Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.
-- Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
+- Seeking to understand pupils' differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
 - Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low-attaining pupils.
 - Pupils with special educational needs or disabilities are likely to require additional or adapted support; working closely with colleagues, families and pupils to understand barriers and identify effective strategies is essential
 

@@ -14,7 +14,7 @@ Consider the development areas for this topic(below). Then make a note of the ar
 
 #### Focused development area
 
-- Teacher links new material to pupils’ existing prior knowledge.
+- Teacher links new material to pupils' existing prior knowledge.
 - Teacher plans to secure critical knowledge, skills and concepts before they are applied or more complex content is encountered.
 - Teacher, with the support of a colleague, plans to use powerful ways to convey knowledge, skills and concepts to pupils.
 - Teacher introduces abstract concepts in the form of concrete examples and explains the link between them.
@@ -48,13 +48,13 @@ Example precise target: Teacher plans to secure critical knowledge, skills and c
 
 Consider the following questions based on a short (approximately 15 minute) observation of your teacher.
 
-- What was your teacher’s previous target? Are they meeting it? How do you know?
+- What was your teacher's previous target? Are they meeting it? How do you know?
 
 - Thinking about the development area you have selected for this topic, what is your teacher already doing well in this area? Which focused development area best aligns with what your teacher needs to get better at? What one precise target (bite-sized action) might you work with them on during your mentor meeting?
 
-Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn’t fit your teacher’s needs, you can write your own.
+Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn't fit your teacher's needs, you can write your own.
 
-How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, ‘How it is different from your current practice?’ and ‘What impact might it have on your practice and pupils?’
+How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, 'How it is different from your current practice?' and 'What impact might it have on your practice and pupils?'
 
 Reminder: Your model should help your teacher develop their ability in some of the following:
 
@@ -67,4 +67,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Provide sufficient opportunity for pupils to consolidate and practise applying new knowledge and skills.
 - Work with experienced colleagues to accumulate and refine a collection of powerful analogies, illustrations, examples, explanations and demonstrations.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
+Next, meet with your teacher to work through the 'feedback' stage of instructional coaching.

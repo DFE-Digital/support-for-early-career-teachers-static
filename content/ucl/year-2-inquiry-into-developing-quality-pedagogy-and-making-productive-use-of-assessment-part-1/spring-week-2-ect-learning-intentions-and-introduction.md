@@ -36,7 +36,7 @@ The teachers in the case studies remind you that you have learned that:
 | Case Study D                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 4.5 Explicitly teaching metacognitive strategies linked to subject knowledge, including how to plan, monitor and evaluate, supports independence and academic success.                |
-| 4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems. |
+| 4.6 Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils' prior knowledge, assess understanding and break down problems. |
 
 ## Introduction
 
@@ -49,7 +49,7 @@ Next week, you have another mentor meeting. To prepare for that you should use y
 Schools are already data-rich environments.
 
 Practitioner inquiries first of all make
-use of what we call here ‘naturally occurring’ evidence. They are in the pupils’
+use of what we call here 'naturally occurring' evidence. They are in the pupils'
 work, and your assessment of it. They are in the words and reactions of the pupils,
 and what you have heard or seen of this.
 

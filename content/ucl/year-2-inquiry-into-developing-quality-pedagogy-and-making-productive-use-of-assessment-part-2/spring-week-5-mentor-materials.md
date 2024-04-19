@@ -16,7 +16,7 @@ Week 11: Inquiry progress: checking for negative consequences
 
 Learning Intentions for this session
 
-The focus of your mentee’s inquiry for Module 8 is on an element of the Early Career Framework (ECF) from Standards 4, 5 or 6. They might have chosen a focus which combines different elements of these standards.
+The focus of your mentee's inquiry for Module 8 is on an element of the Early Career Framework (ECF) from Standards 4, 5 or 6. They might have chosen a focus which combines different elements of these standards.
 
 The case studies are a reminder that:
 
@@ -56,9 +56,9 @@ Case Study D
 
 Introduction
 
-Your ECT has made a ‘claim’ for their Module 8 inquiry so far, which they discussed with you at your last mentor meeting, where you also revisited the Module 8 audit.
+Your ECT has made a 'claim' for their Module 8 inquiry so far, which they discussed with you at your last mentor meeting, where you also revisited the Module 8 audit.
 
-This week, you will look at that claim again and seek to update it – now exploring any of the potential ‘counter-evidence’ for their inquiries so far. They may believe that there are some negative consequences of the implementation of their inquiry. More likely, your mentee is discovering that some pupils are benefiting more than others from their current teaching. This is a normal and healthy part of practice and reflection.
+This week, you will look at that claim again and seek to update it – now exploring any of the potential 'counter-evidence' for their inquiries so far. They may believe that there are some negative consequences of the implementation of their inquiry. More likely, your mentee is discovering that some pupils are benefiting more than others from their current teaching. This is a normal and healthy part of practice and reflection.
 
 You should explore this counter-evidence with them. Then you will consider where any further adjustments to their practice or inquiry need to be made.
 
@@ -70,11 +70,11 @@ You can read back to Week 3, if you want to remind yourself of the issue they wa
 
 We pick them up here from the point where they have agreed an alteration to their practice and framed this as an evaluative inquiry question. We see the methods they decide to use to collect evidence. We also see how some of them choose to make a further adjustment to their practice after having collected some evidence. Finally, we see the claims they are making at this interim stage.
 
-When reading these cases, your mentee will need to take account of their own pupils’ characteristics, the context of their classroom and the nature of the material that they are teaching.
+When reading these cases, your mentee will need to take account of their own pupils' characteristics, the context of their classroom and the nature of the material that they are teaching.
 
 Case Study A: Grouping Pupils Effectively
 
-Andy’s approach to grouping pupils effectively in Year 1
+Andy's approach to grouping pupils effectively in Year 1
 
 To evaluate the impact of his pupil grouping intervention, Andy wrote the following evaluative question:
 
@@ -101,7 +101,7 @@ The ECF statements, across several standards, helped Andy to make sense of what 
 From the evidence he has collected so far, Andy understands that:
 
 - 1.3. Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.
-- by repeatedly making his intentions clear, he has been able to ‘bring the children with him’ on this journey to helping them to work productively with any of their peers
+- by repeatedly making his intentions clear, he has been able to 'bring the children with him' on this journey to helping them to work productively with any of their peers
 - 4.9. Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
 - by using the same near attainment grouping method in every literacy lesson for a term, and extending this to numeracy lessons after one half-term - and switching between mixed and near attainment groupings - he has given the children many opportunities to practise working with others, and therefore to get better at doing so over time
 - 4.10. How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
@@ -124,25 +124,25 @@ And he has:
 
 Case Study B: Modelling and Scaffolding
 
-Vashti’s use of modelling and scaffolds to support writing in Year 4
+Vashti's use of modelling and scaffolds to support writing in Year 4
 
 To ensure she was developing her practice effectively, Vashti devised this evaluative inquiry question:
 
-How can I use ‘speaking sentences’ well, over the space of two terms, to reduce the prevalence of basic errors in written literacy among pupils with SpLCN in Year 4?
+How can I use 'speaking sentences' well, over the space of two terms, to reduce the prevalence of basic errors in written literacy among pupils with SpLCN in Year 4?
 
 Vashti considered the following evidence she already had to hand:
 
 • data from her marking of writing assessments from the target class
 
-• data from her colleagues’ marking of writing assessments from her control group, the two other Year 4 classes (they record such data centrally in her school)
+• data from her colleagues' marking of writing assessments from her control group, the two other Year 4 classes (they record such data centrally in her school)
 
 • personal reflections and observations generated through dialogue in her mentor meetings, and recorded in her Learning Log
 
-Additionally, she held a short, 5-minute ‘focus group’ with the 4 target pupils at the start and end of the intervention.
+Additionally, she held a short, 5-minute 'focus group' with the 4 target pupils at the start and end of the intervention.
 
 Further adjustments
 
-Halfway through the study period, Vashti noticed that the pupils were improving in some aspects of their writing. However, they were still often mis-spelling high frequency words. As a result of this mid-cycle analysis, she realized she could use her scaffold to more deliberately plan for her pupils to be exposed to high-utility high-frequency vocabulary (3o): she decided to add a table of high-frequency words to the laminated scaffold sheet, with the correct spelling in the ‘tick’ column, and common mis-spellings in the ‘cross’ column. Because she was encouraged by her early observations and reflections, she also expanded the use of ‘speaking sentences’ to all pupils in her class, with three levels of scaffold sheets adapted for her pupils’ prior attainment, monitor their use and withdraw them as her pupils became more successful (4a, 4c).
+Halfway through the study period, Vashti noticed that the pupils were improving in some aspects of their writing. However, they were still often mis-spelling high frequency words. As a result of this mid-cycle analysis, she realized she could use her scaffold to more deliberately plan for her pupils to be exposed to high-utility high-frequency vocabulary (3o): she decided to add a table of high-frequency words to the laminated scaffold sheet, with the correct spelling in the 'tick' column, and common mis-spellings in the 'cross' column. Because she was encouraged by her early observations and reflections, she also expanded the use of 'speaking sentences' to all pupils in her class, with three levels of scaffold sheets adapted for her pupils' prior attainment, monitor their use and withdraw them as her pupils became more successful (4a, 4c).
 
 Evidence of impact so far
 
@@ -160,17 +160,17 @@ Reflecting on her findings, Vashti drew the following interim conclusion for her
 
 Classroom talk, combined with scaffolding resources, can be a powerfuldriver for improving written literacy among pupils with SpLCN in Year 4. (4a, 4p)
 
-She realized that she should continue with this approach to supporting her pupils’ writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
+She realized that she should continue with this approach to supporting her pupils' writing, but keep a careful eye on the successful use of the scaffold, so her pupils could still succeed when she withdrew it.
 
 Case Study C: Making Marking Manageable
 
-Louise’s new approach to marking in Secondary history
+Louise's new approach to marking in Secondary history
 
 To ensure she was developing her practice effectively, Louise devised this evaluative inquiry question:
 
 How can I implement codes and verbal feedback well, so that my Year 9 History pupils are able to correct misconceptions and make progress, and I am able to reduce the amount of time I spend marking?
 
-To evaluate the impact of her ‘minimal marking’ intervention, Louise decided to collect the following naturally occurring data:
+To evaluate the impact of her 'minimal marking' intervention, Louise decided to collect the following naturally occurring data:
 
 •pupil voice – using a hands-up survey in class – with the experimental class (before and after the half-term), to capture how well they felt they had been guided to improve their work
 
@@ -182,15 +182,15 @@ To evaluate the impact of her ‘minimal marking’ intervention, Louise decided
 
 Further adjustments
 
-After using her new method once, Louise noticed that some of her pupils didn’t seem to understand how they were supposed to respond to the coded feedback. She also realised that she was not always allowing them enough time in lesson to respond to her feedback.
+After using her new method once, Louise noticed that some of her pupils didn't seem to understand how they were supposed to respond to the coded feedback. She also realised that she was not always allowing them enough time in lesson to respond to her feedback.
 
 In the next lesson, she used a visualizer to model how she expected pupils to respond to each of the codes, and gave her pupils a second chance to respond to her feedback (4a)
 
-In addition to the slide, where she had explained the most common codes, she added a ‘Time to Respond’ box – as a reminder both to herself and her pupils. (6h)
+In addition to the slide, where she had explained the most common codes, she added a 'Time to Respond' box – as a reminder both to herself and her pupils. (6h)
 
 Evidence of impact so far
 
-Through experimenting with ‘minimal marking’ as an alternative to always giving full written feedback, she learned better how:
+Through experimenting with 'minimal marking' as an alternative to always giving full written feedback, she learned better how:
 
 6p. Reduce the opportunity cost of marking by using codes and verbal feedback
 
@@ -211,7 +211,7 @@ Having reviewed her practice in this way, she will use this insight to now apply
 
 Case Study D: Questioning
 
-Mo’s use of direction and elaboration to improve questioning in GCSE PE
+Mo's use of direction and elaboration to improve questioning in GCSE PE
 
 To ensure he was developing his practice effectively, Mo devised this evaluative inquiry question:
 
@@ -219,7 +219,7 @@ How can I best adapt the way I ask questions, implemented every lesson for one t
 
 To help him answer this question, Mo decided to collect the following data:
 
-•arrange a follow-up lesson observation with the Assistant Head for Teaching and Learning, using the school’s in-class video technology
+•arrange a follow-up lesson observation with the Assistant Head for Teaching and Learning, using the school's in-class video technology
 
 • interview a sample of pupils, including Pupil Premium girls, in a focus group lasting 5 minutes after final period on a Wednesday
 
@@ -229,7 +229,7 @@ Further adjustments
 
 Once he started collecting evidence, Mo decided he needed to make one adjustment to his approach for the inquiry. In particular, based on his marking of books, he wrote key questions that he would target at particular pupils, to make sure that he was able to check understanding and fill gaps as they progress from one lesson to the next. (6a)
 
-Mo also started using his new approach to ‘responsive questioning’ with his other classes. (4m)
+Mo also started using his new approach to 'responsive questioning' with his other classes. (4m)
 
 Evidence of impact so far
 
@@ -267,7 +267,7 @@ Review and Plan 5 mins
 - the impact of this on pupil learning (including how they are evaluating this)
 - what they will do going forward to build on these actions
 - Clarify the learning intentions for this session with your mentee.
-- Invite your mentee to read the case studies on this module’s topics, or the one or two that are most relevant to their own chosen area of development and the exploratory question they are investigating. As they read, reflect on:
+- Invite your mentee to read the case studies on this module's topics, or the one or two that are most relevant to their own chosen area of development and the exploratory question they are investigating. As they read, reflect on:
 - how similar this scenario is to their own situation
 - how, despite any differences there may be to their own context, this case study may still be relevant to them
 - what lessons there might be for the way they conduct their own inquiry
@@ -279,7 +279,7 @@ Reflection
 Briefly return to the interim claim that your mentee made for their inquiry at your last mentor meeting. Here is a reminder of the prompts you may have used to probe their thinking more deeply:
 
 - the alteration to your practice…
-- can you describe the ‘ingredients’ of what you have changed in your practice?
+- can you describe the 'ingredients' of what you have changed in your practice?
 - one simple change, or a complex change?
 - had what impact…
 - one impact, or multiple?
@@ -291,19 +291,19 @@ Briefly return to the interim claim that your mentee made for their inquiry at y
 
 Remember that, from the featured case studies…
 
-Through her inquiry, Vashti was learning better how to plan effective lessons, by (4a) using scaffolds for pupils who needed more structure; and better how to stimulate her pupils’ thinking, by (4p) providing scaffolds for talk to increase the focus and rigour of dialogue. Her claim is:
+Through her inquiry, Vashti was learning better how to plan effective lessons, by (4a) using scaffolds for pupils who needed more structure; and better how to stimulate her pupils' thinking, by (4p) providing scaffolds for talk to increase the focus and rigour of dialogue. Her claim is:
 
 Classroom talk, combined with scaffolding resources, can be a powerfuldriver for improving written literacy among pupils with SpLCN in Year 4.
 
-She is going to keep monitoring her use of the ‘speaking sentences’ scaffold.
+She is going to keep monitoring her use of the 'speaking sentences' scaffold.
 
 Does your mentee want to update their claim in light of further evidence they have collected over the past two weeks?
 
 Analyse
 
-Below, for ease, we use the word ‘negative’ to describe some of the possible impacts on some pupils of what a teacher is doing. For clarity, this is what we mean:
+Below, for ease, we use the word 'negative' to describe some of the possible impacts on some pupils of what a teacher is doing. For clarity, this is what we mean:
 
-Not all inquiries lead to entirely positive results. Inquiries that lead to uncertain conclusions are not a waste of time – quite the reverse, such inquiries often generate more questions for further investigation. ‘Counter-evidence’ – that which might show us that our teaching is having variable effects on different pupils – can also be incredibly valuable: it is as important to know what is not\_ \_working for us right now as it is to know what is.
+Not all inquiries lead to entirely positive results. Inquiries that lead to uncertain conclusions are not a waste of time – quite the reverse, such inquiries often generate more questions for further investigation. 'Counter-evidence' – that which might show us that our teaching is having variable effects on different pupils – can also be incredibly valuable: it is as important to know what is not\_ \_working for us right now as it is to know what is.
 
 There are 3 levels of analysis worth looking at here:
 
@@ -311,19 +311,19 @@ There are 3 levels of analysis worth looking at here:
 - Impact on your mentee
 - No overall change
 
-‘Negative’ impact on some pupils
+'Negative' impact on some pupils
 
 Remember this from the case studies:
 
-‘Andy was aware that this intervention might cause some pupils some distress, as he was nudging them out of their comfort zones.’
+'Andy was aware that this intervention might cause some pupils some distress, as he was nudging them out of their comfort zones.'
 
-‘Halfway through the study period, Vashti noticed that the pupils were improving in some aspects of their writing. However, they were still often mis-spelling high frequency words.’
+'Halfway through the study period, Vashti noticed that the pupils were improving in some aspects of their writing. However, they were still often mis-spelling high frequency words.'
 
-‘After using her new method once, Louise noticed that some of her pupils didn’t seem to understand how they were supposed to respond to the coded feedback.’
+'After using her new method once, Louise noticed that some of her pupils didn't seem to understand how they were supposed to respond to the coded feedback.'
 
 Andy, Vashti, Mo and Louise all made adjustments to their practice, in the hope that these small changes would make a positive difference for all of their pupils. (You can remind yourself of what those adjustments were.)
 
-Here is a checklist of the types of ‘negative’ impacts upon your mentee’s pupils that might be occurring as a result of their teaching or their inquiry. If they are not sure whether their teaching is having any of these effects, it would be worth collecting some further evidence around them.
+Here is a checklist of the types of 'negative' impacts upon your mentee's pupils that might be occurring as a result of their teaching or their inquiry. If they are not sure whether their teaching is having any of these effects, it would be worth collecting some further evidence around them.
 
 Checklist of Negative Consequences on Pupils
 
@@ -336,11 +336,11 @@ Checklist of Negative Consequences on Pupils
 
 Negative impact on your mentee
 
-The teachers featured in the case studies did not report any detrimental consequences for themselves, but that may not be the case for your mentee. Here is another checklist that’s worth exploring with your mentee.
+The teachers featured in the case studies did not report any detrimental consequences for themselves, but that may not be the case for your mentee. Here is another checklist that's worth exploring with your mentee.
 
 Checklist of Negative Consequences for Teachers
 
-- distress at not meeting every pupil’s needs
+- distress at not meeting every pupil's needs
 - loss of confidence
 - opportunity costs: the focus on one area has come at the expense of others
 - workload and time
@@ -355,7 +355,7 @@ Sometimes this is a kind of positive, if it means that no harm is being done. Re
 
 - Using codes/verbal feedback does not detrimentally affect pupil progress, compared with a standard written marking approach.
 
-Sometimes, if gains can be made in one area (e.g. Louise’s workload) without a detrimental impact elsewhere, we can chalk that up as a positive overall.
+Sometimes, if gains can be made in one area (e.g. Louise's workload) without a detrimental impact elsewhere, we can chalk that up as a positive overall.
 
 But sometimes there is no positive change even despite considerable extra effort from the teacher. It is important to spot this when it happens: if there is no positive change (or only very little), your mentee should reconsider whether their focus is the right one.
 
@@ -368,11 +368,11 @@ You might find it helpful to look again at what the teachers did in the four cas
 |                                                                                                                          |                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | To group his pupils more effectively, Andy looked at these areas of the ECF                                              | Considering the factors that support effective collaboration; changing groups regularly; and ensuring that, when based on attainment, they are for subject reasonsLook back at the further adjustments that Andy made                                                                      |
-| To improve her pupils’ writing using modelling and scaffolds, Vashti looked at these areas of the ECF                    | Modeling high-quality oral language, and the processes of planning, drafting and editing in writing.Giving novice learners more scaffolds and models at early stages; and removing these as they become more confident and successfulLook back at the further adjustments that Vashti made |
+| To improve her pupils' writing using modelling and scaffolds, Vashti looked at these areas of the ECF                    | Modeling high-quality oral language, and the processes of planning, drafting and editing in writing.Giving novice learners more scaffolds and models at early stages; and removing these as they become more confident and successfulLook back at the further adjustments that Vashti made |
 | To make her marking more manageable, Louise looked at these areas of the ECF                                             | Working with colleagues to discover alternative efficient approaches; using verbal feedback in place of written feedback; and reducing the opportunity costs of markingLook back at the further adjustments that Louise made                                                               |
 | To use questioning to stimulate his pupils to think, talk and write more in lessons, Mo looked at these areas of the ECF | Including a range of question types; providing enough wait time; reframing questions; and prompting pupils to elaborateLook back at the further adjustments that Mo made                                                                                                                   |
 
-Depending on the severity of any negative consequences, now may also be the time to think about either scaling up, or scaling back, the scope of your mentee’s inquiry. Think:
+Depending on the severity of any negative consequences, now may also be the time to think about either scaling up, or scaling back, the scope of your mentee's inquiry. Think:
 
 - the number of pupils to include in my focus
 - the number of classes to include in my focus
@@ -382,10 +382,10 @@ Depending on the severity of any negative consequences, now may also be the time
 
 Next Steps 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these action(s) are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these action(s)
+2. what success will 'look like' in relation to these action(s)
 3. how they will evaluate their success in taking these action(s)
 
 Note that next week is an ECT Training session, where your mentee will learn about how to present and share their inquiry findings.

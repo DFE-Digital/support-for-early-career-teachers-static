@@ -10,7 +10,7 @@ caption: "Autumn week 6"
 
 ### Reviewing the module (15 minutes)
 
-Using the self-directed study Activity 7.4: ‘Reflecting on learning’, ask the ECT to share their reflections on learning across the module, by asking:
+Using the self-directed study Activity 7.4: 'Reflecting on learning', ask the ECT to share their reflections on learning across the module, by asking:
 
 - What approaches to motivating their students (including considerations around high expectations and pupil groupings) have worked well and why?
 - Where have there been barriers, and how have they been overcome?

@@ -17,7 +17,7 @@ Discussion
 - To have made a final decision on a topic for the scheme of work your teacher will design throughout this module.
 - To have offered guidance on where and who your teacher can go to for high-quality resources.
 
-Your teacher will bring to this session ideas about what topic they’d like to design a scheme of work on. Ideally this will be a scheme of work they will teach to pupils. Given we’re already in the summer term, it might make sense for them to design a scheme of work they will teach next academic year.
+Your teacher will bring to this session ideas about what topic they'd like to design a scheme of work on. Ideally this will be a scheme of work they will teach to pupils. Given we're already in the summer term, it might make sense for them to design a scheme of work they will teach next academic year.
 
 ### Key questions and talking points
 

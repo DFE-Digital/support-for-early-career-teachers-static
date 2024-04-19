@@ -4,11 +4,11 @@ heading: "Second half-term: how do pupils learn?"
 caption: "Year 1"
 ---
 
-In this module you’ll explore the findings and evidence gathered during studies of how pupils learn, and the related implications for teaching.
+In this module you'll explore the findings and evidence gathered during studies of how pupils learn, and the related implications for teaching.
 
 ## Introduction to the module
 
-Go through the module introduction to see what you’ll be learning.
+Go through the module introduction to see what you'll be learning.
 
 Duration: 10 minutes.
 
@@ -23,7 +23,7 @@ Go through the module introduction to see what the ECT will be learning.
 During the first topic of the module you need to:
 
 - work through the self-study materials below
-- meet your mentor to discuss what you’ll be doing in the weeks ahead
+- meet your mentor to discuss what you'll be doing in the weeks ahead
 
 Duration: 55 minutes.
 
@@ -39,7 +39,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 2: considering how to introduce new knowledge to pupils
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -55,7 +55,7 @@ Duration: 60 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-2-mentor-materials)
 
@@ -69,13 +69,13 @@ There are no self-study materials this week. Instead, your mentor will lead the 
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-3-mentor-materials)
 
 ## Week 4: using worked and partially completed examples
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -91,13 +91,13 @@ Duration: 45 minutes.
 Use the materials below to:
 
 - see what the ECT is learning
-- structure your catch-up with the ECT after watching them put this topic’s development focus into action in the classroom
+- structure your catch-up with the ECT after watching them put this topic's development focus into action in the classroom
 
 [View mentor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-4-mentor-materials)
 
 ## Week 5: helping pupils remember
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -114,7 +114,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 [View mentor materials](/teach-first/year-1-how-do-pupils-learn/autumn-week-5-mentor-materials)
 
-## Week 6: practise using a low stakes quiz to strengthen pupils’ retrieval
+## Week 6: practise using a low stakes quiz to strengthen pupils' retrieval
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
 
@@ -127,7 +127,7 @@ Use the materials below to plan a discussion about this topic with the ECT durin
 
 ## Week 7: introduction to metacognition
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor

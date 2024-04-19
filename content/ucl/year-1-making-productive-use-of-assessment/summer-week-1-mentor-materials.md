@@ -10,7 +10,7 @@ caption: "Summer week 1"
 
 Learning Intentions for this session
 
-- To use the [M4 ECT audit (year 1)](/assets/materials/ucl-02_Module-4-Audit-1.pdf) as a stimulus for discussion around the mentee’s current knowledge and practice in relation to Module 4 (ECF standard 6).
+- To use the [M4 ECT audit (year 1)](/assets/materials/ucl-02_Module-4-Audit-1.pdf) as a stimulus for discussion around the mentee's current knowledge and practice in relation to Module 4 (ECF standard 6).
 
 - To support the mentee to make accurate judgements of their current knowledge and practice.
 
@@ -18,7 +18,7 @@ Learning Intentions for this session
 
 ### Topic introduction
 
-In this first mentor meeting of Module 4, you will work with your mentee to audit their current knowledge and practice in relation to the relevant content of the ECF. You should use your expertise to support your mentee in completing their audit, with reference to a range of sources of evidence, and to agree with your mentee any areas of particular focus over the rest of the module. This should inform any decisions you make about sequencing and orientating the remaining sessions within the time you have available with your mentee. While it is essential that all ‘learn that’ and ‘learn how to’ statements are covered throughout the module, using the audit outcomes will support you to personalise this experience for your mentee to best address their learning needs.
+In this first mentor meeting of Module 4, you will work with your mentee to audit their current knowledge and practice in relation to the relevant content of the ECF. You should use your expertise to support your mentee in completing their audit, with reference to a range of sources of evidence, and to agree with your mentee any areas of particular focus over the rest of the module. This should inform any decisions you make about sequencing and orientating the remaining sessions within the time you have available with your mentee. While it is essential that all 'learn that' and 'learn how to' statements are covered throughout the module, using the audit outcomes will support you to personalise this experience for your mentee to best address their learning needs.
 
 The session is designed to be completed within the allotted mentor meeting time. You may choose to agree with your mentee that they will complete the audit in advance of the meeting, in which case the meeting can be truncated to reflect this.
 
@@ -28,7 +28,7 @@ You will need to brief your mentee in advance of the session so that they have a
 - notes from formal review meetings conducted to date this year
 - their teacher assessment records
 - examples of their planning paperwork
-- a selection of pupils’ work
+- a selection of pupils' work
 - notes from independent reading and professional learning activities
 
 ### Research and practice summary
@@ -43,9 +43,9 @@ The M4 ECT audit is organised into 5 sections. You can choose whether to work th
 
 Review: 15 mins
 
-Ask your mentee to work through the audit and to self-assess against each criterion. They should base their judgement on their current knowledge and/or practice. Some suggested definitions to support this assessment are offered below. All should be interpreted in relation to the mentee’s context and what can reasonably be expected of an early career teacher:
+Ask your mentee to work through the audit and to self-assess against each criterion. They should base their judgement on their current knowledge and/or practice. Some suggested definitions to support this assessment are offered below. All should be interpreted in relation to the mentee's context and what can reasonably be expected of an early career teacher:
 
-Emerging: I don’t feel very confident in this area. I have substantial gaps in my knowledge and/or practice which definitely need to be addressed.
+Emerging: I don't feel very confident in this area. I have substantial gaps in my knowledge and/or practice which definitely need to be addressed.
 
 Developing: I have some knowledge about this, and/or there is evidence in my practice that I do this some of the time or to some extent. I am in a position to build on this with further work in this area.
 
@@ -58,17 +58,17 @@ Ask your mentee to talk you through their audit and to explain the reasoning beh
 You might use questions / prompts such as:
 
 - can you provide examples from your practice which support your assessment in relation to this statement?
-- tell me a bit more about how you’ve used what you learned during ITT/ITE and built on this as an ECT so far?
-- what can you learn about this from the evidence you’ve brought with you to this session?
+- tell me a bit more about how you've used what you learned during ITT/ITE and built on this as an ECT so far?
+- what can you learn about this from the evidence you've brought with you to this session?
 - what feedback have you received in relation to your knowledge/practice in this area so far?
-- what would it take for you to assess yourself more positively against this criterion? What’s missing at the moment?
+- what would it take for you to assess yourself more positively against this criterion? What's missing at the moment?
 
-Use your expertise and experience to shape your mentee’s reflections and to draw their attention to aspects of their practice which they may be overlooking (either by judging themselves too harshly or too kindly). The purpose of this activity is to help your mentee identify areas for particular development in relation to Module 4 and also to recognise and celebrate areas of relative strength/confidence.
+Use your expertise and experience to shape your mentee's reflections and to draw their attention to aspects of their practice which they may be overlooking (either by judging themselves too harshly or too kindly). The purpose of this activity is to help your mentee identify areas for particular development in relation to Module 4 and also to recognise and celebrate areas of relative strength/confidence.
 
 Next Steps: 5 mins
 
-Agree with your mentee how you will use the outcomes from the audit to inform your use of the programme materials for the remainder of this module. Using the Summary Module Guide highlight, together, any areas to which you will give particular focus. Consider how your mentee might best engage with some of the optional further readings suggested in the Summary Module Guide. Discuss the value of returning to the audit as you work through the module, using it to chart your mentee’s progress.
+Agree with your mentee how you will use the outcomes from the audit to inform your use of the programme materials for the remainder of this module. Using the Summary Module Guide highlight, together, any areas to which you will give particular focus. Consider how your mentee might best engage with some of the optional further readings suggested in the Summary Module Guide. Discuss the value of returning to the audit as you work through the module, using it to chart your mentee's progress.
 
-In particular, give attention to those statements where your mentee considers their knowledge/practice to be ‘emerging’ and share some examples of how the programme will support them in moving to ‘developing and then on to ‘secure’.
+In particular, give attention to those statements where your mentee considers their knowledge/practice to be 'emerging' and share some examples of how the programme will support them in moving to 'developing and then on to 'secure'.
 
-Note the date of your next mentor meeting, when you will check on your mentee’s progress.
+Note the date of your next mentor meeting, when you will check on your mentee's progress.

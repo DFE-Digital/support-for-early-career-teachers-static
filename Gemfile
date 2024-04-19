@@ -15,6 +15,7 @@ gem "rubocop-govuk"
 gem "slim_lint"
 gem "sassc"
 gem "webrick"
+gem "builder"
 
 group :nanoc do
   gem "nanoc-live"

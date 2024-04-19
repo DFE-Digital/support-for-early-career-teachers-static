@@ -18,11 +18,11 @@ Breaking challenging tasks into steps and providing support when necessary makes
 
 Challenging behaviour can arise when there is a mismatch between classroom academic demands and pupil capabilities (IES, 2008). This happens because working memory capacity is limited and can become easily overloaded when pupils are asked to complete tasks which are unfamiliar or overly complex (Gathercole et al., 2008; IES, 2008). Pupils may seek to avoid a task if it seems threatening to their sense of self (Kluger & DeNisi, 1996): for example, if a pupil thinks they might fail at the task.
 
-By making learning manageable, teachers affect how pupils behave, as well as how they learn (IES, 2008). Ms Sterling has already been thinking about the foundations of managing behaviour: telling pupils the types of behaviour she expects, modelling this, and responding consistently. Refining her instruction is another way to improve pupils’ learning behaviours since students’ success can build their motivation and confidence (Coe et al., 2014). Introducing new material in steps is a particularly effective approach to making learning more manageable (Rosenshine, 2012).
+By making learning manageable, teachers affect how pupils behave, as well as how they learn (IES, 2008). Ms Sterling has already been thinking about the foundations of managing behaviour: telling pupils the types of behaviour she expects, modelling this, and responding consistently. Refining her instruction is another way to improve pupils' learning behaviours since students' success can build their motivation and confidence (Coe et al., 2014). Introducing new material in steps is a particularly effective approach to making learning more manageable (Rosenshine, 2012).
 
 ### Introducing new material in steps and using examples makes it more manageable
 
-Checking pupil prior knowledge and explicitly linking new ideas to what has previously been learned makes it less likely pupils’ working memory will be overloaded (Deans for Impact, 2015). Ms Sterling could use several instructional principles to support pupils in this way (Rosenshine, 2012):
+Checking pupil prior knowledge and explicitly linking new ideas to what has previously been learned makes it less likely pupils' working memory will be overloaded (Deans for Impact, 2015). Ms Sterling could use several instructional principles to support pupils in this way (Rosenshine, 2012):
 
 - Briefly reviewing what pupils have already learned.
 - Introducing new material in small steps.
@@ -33,27 +33,27 @@ Introducing new materials in steps like this helps make new material more manage
 
 ### Guides and scaffolds also help pupils think about key ideas to be learned
 
-Learning can also be made more manageable by providing pupils with ‘scaffolding’. This can be tools that complete part of the task for the students, or a model of the completed task itself (Rosenshine, 2012). In the early years, scaffolds might even be physical objects such as counters and toys (EEF, 2017); among older pupils they could be cue cards or checklists (Rosenshine, 2012).
+Learning can also be made more manageable by providing pupils with 'scaffolding'. This can be tools that complete part of the task for the students, or a model of the completed task itself (Rosenshine, 2012). In the early years, scaffolds might even be physical objects such as counters and toys (EEF, 2017); among older pupils they could be cue cards or checklists (Rosenshine, 2012).
 
-Scaffolding simply means providing pupils with support to tackle a problem or demonstrate their learning (Rosenshine, 2012). By making the task more manageable, Ms Sterling can avoid overwhelming her pupils’ working memories and make it easier for them to focus attention on particular aspects. For example, worked examples can be particularly helpful for Ms Sterling’s pupils as these stop pupils searching for any possible answer to a task. This reduces distractions by supporting pupils to focus only on each step of a successful solution (Deans for Impact, 2015).
+Scaffolding simply means providing pupils with support to tackle a problem or demonstrate their learning (Rosenshine, 2012). By making the task more manageable, Ms Sterling can avoid overwhelming her pupils' working memories and make it easier for them to focus attention on particular aspects. For example, worked examples can be particularly helpful for Ms Sterling's pupils as these stop pupils searching for any possible answer to a task. This reduces distractions by supporting pupils to focus only on each step of a successful solution (Deans for Impact, 2015).
 
-Scaffolded tasks should be challenging as well as manageable. Making learning manageable doesn’t mean lowering expectations of all or some pupils. Where this balance isn’t achieved, pupils may become frustrated or bored, as the task can be perceived to be beyond (or beneath) their capability (van de Pol et al., 2015). This frustration or boredom can then result in low-level disruption. Scaffolding should therefore be used in a targeted way and be removed when pupils show they are able to be successful at a task, supporting pupils to become independent (Rosenshine, 2012).
+Scaffolded tasks should be challenging as well as manageable. Making learning manageable doesn't mean lowering expectations of all or some pupils. Where this balance isn't achieved, pupils may become frustrated or bored, as the task can be perceived to be beyond (or beneath) their capability (van de Pol et al., 2015). This frustration or boredom can then result in low-level disruption. Scaffolding should therefore be used in a targeted way and be removed when pupils show they are able to be successful at a task, supporting pupils to become independent (Rosenshine, 2012).
 
 ### Nuances and caveats
 
-Ensuring pupil working memory doesn’t become overloaded doesn’t mean setting unchallenging work – it means helping pupils to think hard about what they have just learnt by providing structured support as appropriate (Deans for Impact, 2015).
+Ensuring pupil working memory doesn't become overloaded doesn't mean setting unchallenging work – it means helping pupils to think hard about what they have just learnt by providing structured support as appropriate (Deans for Impact, 2015).
 
-While teachers provide pupils with temporary ‘scaffolds’, it is important that these are withdrawn once pupils are experiencing success, as scaffolds inhibit independent practice once pupils have mastered the material taught (Rosenshine, 2012).
+While teachers provide pupils with temporary 'scaffolds', it is important that these are withdrawn once pupils are experiencing success, as scaffolds inhibit independent practice once pupils have mastered the material taught (Rosenshine, 2012).
 
-While good task and lesson design can help pupils to focus, ultimate responsibility for a pupil’s behaviour rests with the pupil, not with the teacher. If a pupil is unfocused, a teacher may wish to consider whether a change to the task design might avoid this in future. But this does not mean that the solution to pupils’ lack of focus is always the teacher’s lesson design.
+While good task and lesson design can help pupils to focus, ultimate responsibility for a pupil's behaviour rests with the pupil, not with the teacher. If a pupil is unfocused, a teacher may wish to consider whether a change to the task design might avoid this in future. But this does not mean that the solution to pupils' lack of focus is always the teacher's lesson design.
 
 ### Key takeaways
 
 Ms Sterling can make learning more manageable for pupils by understanding
 that:
 
-- when academic demands are not well matched to pupil capabilities, pupils’ working memory can become overloaded, causing them to stop trying or go off-task
-- introducing new material in steps, building on prior knowledge and using guides and scaffolds all help to avoid overloading pupils’ working memory and make it more likely that pupils will stay on-task
+- when academic demands are not well matched to pupil capabilities, pupils' working memory can become overloaded, causing them to stop trying or go off-task
+- introducing new material in steps, building on prior knowledge and using guides and scaffolds all help to avoid overloading pupils' working memory and make it more likely that pupils will stay on-task
 
 ### Further reading
 

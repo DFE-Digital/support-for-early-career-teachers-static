@@ -1,15 +1,49 @@
+/ https://nanoc.ws/doc/reference/helpers/#breadcrumbs
+/ https://nanoc.ws/doc/reference/helpers/#childParent
+
 footer.govuk-footer role='contentinfo'
   .govuk-width-container
+
+    .govuk-footer__navigation
+      .govuk-footer__section.govuk-grid-column-two-thirds
+        - if breadcrumbs_trail && breadcrumbs_trail[1]
+          h2.govuk-footer__heading.govuk-heading-m
+            ==breadcrumbs_trail[1][:title]
+          ul.govuk-footer__list.govuk-footer__list--columns-2
+            - children_of(breadcrumbs_trail[1]).each do |child|
+              li.govuk-footer__list-item
+                == link_to(child[:title], child.path, class: "govuk-footer__link")
+
+      .govuk-footer__section.govuk-grid-column-one-third
+        h2.govuk-footer__heading.govuk-heading-m All course materials
+        ul.govuk-footer__list
+          li.govuk-footer__list-item
+            == link_to("Ambition Institute", "/ambition-institute/", class: "govuk-footer__link")
+          li.govuk-footer__list-item
+            == link_to("Education Development Trust", "/education-development-trust/", class: "govuk-footer__link")
+          li.govuk-footer__list-item
+            == link_to("Teach First", "/teach-first/", class: "govuk-footer__link")
+          li.govuk-footer__list-item
+            == link_to("UCL", "/ucl/", class: "govuk-footer__link")
+
     .govuk-footer__meta
       .govuk-footer__meta-item.govuk-footer__meta-item--grow
+        h2.govuk-heading-m Support and guidance
+        p.govuk-body-s
+          | If you have a question, or you’ve had a problem using this service,&nbsp;
+          == link_to("contact support", "https://manage-training-for-early-career-teachers.education.gov.uk/support", class: "govuk-footer__link")
+          | .
+
         h2.govuk-visually-hidden Support links
         ul.govuk-footer__inline-list
-          li.govuk-footer__inline-list-item
-            == link_to("Accessibility", "/accessibility", class: "govuk-footer__link")
           li.govuk-footer__inline-list-item
             == link_to("Privacy", "https://www.gov.uk/government/organisations/department-for-education/about/personal-information-charter", class: "govuk-footer__link")
           li.govuk-footer__inline-list-item
             == link_to("Cookies", "/cookies", class: "govuk-footer__link")
+          li.govuk-footer__inline-list-item
+            == link_to("Accessibility statement", "/accessibility", class: "govuk-footer__link")
+          li.govuk-footer__inline-list-item
+            == link_to("Help", "https://manage-training-for-early-career-teachers.education.gov.uk/support", class: "govuk-footer__link")
 
         svg.govuk-footer__licence-logo[
           role="presentation"
@@ -34,7 +68,8 @@ footer.govuk-footer role='contentinfo'
 
       .govuk-footer__meta-item
         a.govuk-footer__link.govuk-footer__copyright-logo[href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/"]
-          | © Crown copyright
+          | &copy; Crown copyright
+
 script type="module"
   | import { initAll } from '/assets/javascript/govuk-frontend.js';
   | initAll();

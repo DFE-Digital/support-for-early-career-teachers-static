@@ -24,18 +24,18 @@ Language provides the foundation of thinking and learning. Literacy is the abili
 
 The long-term effects of weak literacy will impact a pupil far beyond school. At the everyday level, they will struggle with form filling, reading and understanding signs. The impact on their life chances can be profound, from limiting their career options and reducing their lifetime earning potential, through to poor health and lower life expectancy (Gilbert et al., 2018).
 
-The task of improving pupils’ literacy skills starts from the very beginning of education and continues all through secondary school. Even though “learning to read” is perceived as a task for teachers in early primary, the reality is that every teacher, across all subjects and all phases, can and should think carefully how they can improve pupils’ literacy. For example, all primary teachers will need to reinforce the fundamental knowledge of word reading (decoding) and language comprehension. For most secondary teachers, improving pupils’ literacy will mainly involve thinking about how you can improve reading, writing and speaking skills in relation to your subject discipline.
+The task of improving pupils' literacy skills starts from the very beginning of education and continues all through secondary school. Even though “learning to read” is perceived as a task for teachers in early primary, the reality is that every teacher, across all subjects and all phases, can and should think carefully how they can improve pupils' literacy. For example, all primary teachers will need to reinforce the fundamental knowledge of word reading (decoding) and language comprehension. For most secondary teachers, improving pupils' literacy will mainly involve thinking about how you can improve reading, writing and speaking skills in relation to your subject discipline.
 
 Consequently, it is important that all teachers have a clear understanding of the most effective ways to improve literacy. In terms of reading, the most effective approach is _systematic synthetic phonics._
 
-### An introduction to phonics
+## An introduction to phonics
 
 Phonics is a way of teaching children how to read and write. It helps children
 hear, identify and use different sounds that distinguish one word from another
 in the English language.
 
 Written language can be compared to a code, so knowing the sounds of
-individual letters and how these letters sound when they’re combined will help
+individual letters and how these letters sound when they're combined will help
 children decode words as they read.
 
 Understanding phonics will also help children know which letters to use when
@@ -51,21 +51,21 @@ blend the phonemes together to form a word.
 Therefore, synthetic phonics is an explicit, organised and sequenced approach, as
 opposed to phonics used incidentally or on a “when-needed” basis.
 
-### Video
+## Video
 
-#### Title
+### Title
 
 “My turn, your turn”: synthetic phonics
 
-#### Video Type
+### Video Type
 
 Talking head and classroom practice
 
-#### Short Description
+### Short Description
 
 A teacher explaining what systematic synthetic phonics is and why it is effective in teaching pupils to decode
 
-#### What should you focus on in this video?
+### What should you focus on in this video?
 
 - How does the teacher break words down?
 - What do pupils need to do?
@@ -80,7 +80,7 @@ Video script.
 
 
 
-  Teacher: OK, we’re going to sound out this word, sh…eee...p...sheep. Now you
+  Teacher: OK, we're going to sound out this word, sh…eee...p...sheep. Now you
   say it.
 
 
@@ -106,13 +106,18 @@ Pupils: sh...eee...p...sheep.
 
  {/details}
 
-#### Systematic synthetic phonics
+### Systematic synthetic phonics
 
 Watch this video of a literacy expert explaining systematic synthetic phonics programmes.
 
 - What is a systematic synthetic phonics programme?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_MDygeyv464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/_MDygeyv464"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -128,7 +133,7 @@ Literacy expert:
 
   . There are several different programmes that can be chosen from. All
   systematic synthetic phonics programmes begin with letters that make lots of
-  words. Here’s how one programme starts:
+  words. Here's how one programme starts:
 
 
 [Cut to screen]
@@ -169,16 +174,16 @@ Literacy expert:
 
 Literacy really is the responsibility of every teacher. The evidence suggests that pupils benefit from a balanced approach to literacy that includes a range of approaches (EEF, 2018) and within this every teacher should make efforts to explicitly teach reading, writing and oral language skills, whatever their phase or subject. The table below provides some examples of approaches you could try in your classroom. You should familiarise yourself with these approaches in advance of your first training session for this Block. After the training session, you should choose one or more of these approaches to trial in your classroom.
 
-### Reading and comprehension
+## Reading and comprehension
 
 - 3n Supporting younger pupils to become fluent readers and to write fluently and legibly.
 - 3p Modelling reading comprehension by asking questions, making predictions, and summarising when reading.
 
 - 3q Promoting reading for pleasure (e.g. by using a range of whole class reading approaches and regularly reading high-quality texts to children).
 
-#### Approach: Reciprocal Reading
+### Approach: Reciprocal Reading
 
-##### What is the approach?
+#### What is the approach?
 
 - This is the explicit practice of four core skills used for comprehension (predict, clarify, question, summarise).
 - As they read, students are invited to stop and practise these reading roles.
@@ -187,7 +192,7 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 - Clarifier: what does this word mean?
 - Questioner: what questions do you have?
 
-##### How do I make it work effectively?
+#### How do I make it work effectively?
 
 - Explain clearly to pupils, modelling it first yourself.
 - Give students feedback on their predictions, summaries, clarifications and questions.
@@ -195,93 +200,93 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 - Choose a text which is suitable for the level.
 - Use this approach regularly so pupils build up their skills.
 
-#### Approach: Story Mapping
+### Approach: Story Mapping
 
-##### What is the approach?
+#### What is the approach?
 
 - This can be used for any “story”, fiction or nonfiction, e.g. the “story” of the water cycle, or Jekyll and Hyde.
 - Teacher considers the text and key elements they want to draw attention to (e.g. characters, plot, setting, themes). - Teacher introduces the text and provides each pupil with a blank story map.
 - As they read, pupils complete the sections on their story map – teacher can prompt with questions (e.g. what happened first?).
 - The class might review their story maps together to share ideas and make sure everyone has completed theirs with the key information.
 
-##### How do I make it work effectively?
+#### How do I make it work effectively?
 
 - Complete a whole-class story map to model the approach.
 - Pupils create their own story maps for homework.
 - Use part-complete story maps as a scaffold for some pupils.
 - Prompt pupils with lots of questions, “What did you notice?”, “Where could this go on our story map?”
 
-### Writing
+## Writing
 
 - 3n Supporting younger pupils to become fluent readers and to write fluently and legibly. Teaching different forms of writing by modelling planning, drafting and editing.
 
-#### Approach: Paired Writing
+### Approach: Paired Writing
 
-##### What is the approach?
+#### What is the approach?
 
 - App
 
-##### How do I make it work effectively?
+#### How do I make it work effectively?
 
 - Pair students up in different ways, e.g. by ability.
 - Model the planning stage.
 - The writing task builds on previous knowledge, e.g. from last lesson.
 
-#### Approach: Shared Writing
+### Approach: Shared Writing
 
-##### What is the approach?
+#### What is the approach?
 
 - Teacher acts as the scribe, writing or typing on the board or flipchart as the pupils give ideas.
 - Class works together to make suggestions for what to write and co-creates a model.
 - Teacher uses questioning throughout to encourage involvement, challenge ideas and ask students to explain why they are suggesting something (process).
 
-##### How do I make it work effectively?
+#### How do I make it work effectively?
 
 - Every pupil has four talk cards. Ask everyone to “spend” their cards by making four contributions to the task.
 - Pupils may want to write along, or share the co-written model after, or leave it visible as they write their own version.
 - Ask a pupil to tally contributions from the class under “ideas” and “edits”.
 
-### Oral language skills
+## Oral language skills
 
 - 3r Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (e.g. requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
 
-#### Approach: Sentence stems to support discussion
+### Approach: Sentence stems to support discussion
 
-##### What is the approach?
+#### What is the approach?
 
 - Decide in advance of the lesson what you want pupils to talk about and what key language you would like them to use.
 - Prepare some sentence stems for this.
 - During the lesson, invite pupils to discuss an idea or concept using the sentence stems. For example:- General: I agree with…; However…; Based on… we can conclude… - Content specific: I think the character is feeling… because…; The data shows a relationship between… and…
 
-##### How do I make it work effectively?
+#### How do I make it work effectively?
 
 - Provide sentence stems for everybody or use as a scaffold to support some pupils.
 - Model the use of sentence stems.
 - Prepare a bank of common sentence stems for display.
 - Sentence stems help pupils speak in full sentences.
-- Use this approach regularly so pupils’ talk improves over time.
+- Use this approach regularly so pupils' talk improves over time.
 
-#### Approach: Think, pair, share
+### Approach: Think, pair, share
 
-##### What is the approach?
+#### What is the approach?
 
 - Teacher poses a question to the class.
 - Pupils have a few minutes to think about their response (maybe jotting down some notes).
 - Teacher asks pupils to share their initial ideas with a pair and practise their answer.
 - Teacher asks a few pupils to share with the whole class.
 
-##### How do I make it work effectively?
+#### How do I make it work effectively?
 
 - Use sentence stems to help pupils structure their answers.
 - Giving practice time helps pupils to feel more confident.
 
-### Language and vocabulary
+## Language and vocabulary
 
 - 3o Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high-utility and high-frequency vocabulary in what is taught.
 
-#### Approach: Explicit teaching (Robust vocabulary instruction)
+### Approach: Explicit teaching (Robust vocabulary instruction)
 
-##### What is the approach?
+#### What is the approach?
 
 - Teacher identifies tier 2 and tier 3 vocabulary in their subject (see below).
 - Teacher introduces the new word and provides a student friendly definition (e.g. simple language such as “Abolish means to get rid of something or end it.”).
@@ -289,25 +294,25 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 - Teacher provides opportunities for multiple exposures (e.g. by sharing a variety of examples: My goal is to abolish world poverty. Should we have a debate on whether to abolish taxes?).
 - Teacher provides opportunity for repeated practice of newly learned vocabulary in talk, writing and reading (e.g. pupils use the new vocabulary in their next task).
 
-##### How do I make it work effectively?
+#### How do I make it work effectively?
 
 - Identify important vocabulary to teach explicitly, i.e that which pupils will encounter often or which are foundational to the subject.
 - Always provide lots of opportunities for pupils to use the new vocabulary, e.g. in sentence stems. Pupils have only “learned” a new word when they can recognise it orally, when written, and can write it and use it verbally themselves. - Revisit the new vocabulary in spaced intervals and interleave where possible.
 
-#### Approach: Knowledge organisers
+### Approach: Knowledge organisers
 
-##### What is the approach?
+#### What is the approach?
 
 - Teacher creates an empty knowledge organiser for pupils to use over a topic.
 - Each time the pupils encounter a new or important word, they add it to their knowledge organiser.
 - Sections might include: the word, a definition, examples of it being used, synonyms.
 
-##### How do I make it work effectively?
+#### How do I make it work effectively?
 
 - Create one of these for yourself to map all of the vocabulary pupils need to learn in the topic.
 - Co-create a vocabulary knowledge organiser with the class.
 
-### Why is teaching vocabulary important and what is tiered vocabulary?
+## Why is teaching vocabulary important and what is tiered vocabulary?
 
 A wide and varied vocabulary is a key aspect of literacy. Knowing what words
 mean ensures that pupils can comprehend meaning – the more words they know,
@@ -320,7 +325,7 @@ call these tier 2 and tier 3 words.
 
 
 - Tier 1: Words of everyday speech, familiar to most children.&nbsp;
-- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil’s language ability.
+- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil's language ability.
 - Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.&nbsp;
   <b>Examples</b>
    
@@ -351,7 +356,7 @@ call these tier 2 and tier 3 words.
   To do this you can use the robust vocabulary instruction in the table above.
 
 
-### Video
+## Video
 
 In this video, the teacher is using the reciprocal reading technique from the table of approaches above. Some pupils may be expert decoders and therefore able to read fluently, but unable to comprehend the meaning of the text. This approach is helpful because it allows pupils to articulate their ideas aloud to a group, exposing where there is confusion or lack of comprehension. It makes explicit the metacognitive strategies that readers use for reading comprehension: predicting, summarising, questioning and clarifying.
 
@@ -364,7 +369,7 @@ Watch this video of a teacher running a reciprocal reading group and consider th
 {details}
 Video script.
 
-### A Year 3 reading group, four students and one adult reading _The Tiger Who Came to Tea._
+## A Year 3 reading group, four students and one adult reading _The Tiger Who Came to Tea._
 
 
   Teacher: “Before we start reading this book, Joe would you like to predict
@@ -380,8 +385,8 @@ Video script.
 
 
 
-  Teacher: “Oh interesting… OK, well let’s find out… Anna, can you begin reading
-  please? As Anna reads, don’t forget to underline words or phrases that you
+  Teacher: “Oh interesting… OK, well let's find out… Anna, can you begin reading
+  please? As Anna reads, don't forget to underline words or phrases that you
   might want to clarify.”
 
 
@@ -390,14 +395,14 @@ Video script.
 
 
 
-  Teacher: “Thank you, Anna. Let’s stop there and check some things. Firstly,
+  Teacher: “Thank you, Anna. Let's stop there and check some things. Firstly,
   are there any words we need to clarify?”
 
 
-Joe: “What does ‘grocer’ mean?”
+Joe: “What does 'grocer' mean?”
 
 
-  Anna: “That’s the question I was going to ask – what is a grocer? And who is a grocer boy?”
+  Anna: “That's the question I was going to ask – what is a grocer? And who is a grocer boy?”
 
 
 
@@ -406,11 +411,11 @@ Joe: “What does ‘grocer’ mean?”
 
 
 
-  Mohammed: “I will try sounding the word out loud – ‘grocer’. Hmmm. That hasn’t
-  really helped. Next, I’ll read the sentences and think about what would make
-  sense: ‘And it can’t be the boy from the grocer because this isn’t the day he
-  comes.’ Oh, maybe the grocer is a place? Because it says, ‘from the grocer’. I
-  think I’ll ask a friend
+  Mohammed: “I will try sounding the word out loud – 'grocer'. Hmmm. That hasn't
+  really helped. Next, I'll read the sentences and think about what would make
+  sense: 'And it can't be the boy from the grocer because this isn't the day he
+  comes.' Oh, maybe the grocer is a place? Because it says, 'from the grocer'. I
+  think I'll ask a friend
 
 –
  does anyone else know what a grocer is?”
@@ -428,8 +433,8 @@ Pupils: “Yes!”
 
 
   Teacher: “A grocer-boy is like the shop-boy, the boy who works at the
-  greengrocers. Grocer-boys used to deliver the vegetables to people’s houses so
-  they didn’t have to go to the shops. OK, Harry, can you summarise what has
+  greengrocers. Grocer-boys used to deliver the vegetables to people's houses so
+  they didn't have to go to the shops. OK, Harry, can you summarise what has
   happened so far?”
 
 
@@ -444,12 +449,12 @@ Pupils: “Yes!”
 
 
 
-  Mohammed: “The mummy didn’t know who it was because she asked if it was the
-  milkman or the grocer or daddy, so we don’t know who was at the door.”
+  Mohammed: “The mummy didn't know who it was because she asked if it was the
+  milkman or the grocer or daddy, so we don't know who was at the door.”
 
 
 
-  Teacher: “That’s right – do you see, Harry? The Mummy says ‘I wonder who that can be’ Which means she doesn’t know who is at the door yet.”
+  Teacher: “That's right – do you see, Harry? The Mummy says 'I wonder who that can be' Which means she doesn't know who is at the door yet.”
 
 
 
@@ -459,7 +464,7 @@ Pupils: “Yes!”
 Anna: “Who do you think is at the door?”
 
 
-  Teacher: “Let’s ask Joe, our predictor. Joe, who do you think is at the door?”
+  Teacher: “Let's ask Joe, our predictor. Joe, who do you think is at the door?”
 
 
 
@@ -468,7 +473,7 @@ Anna: “Who do you think is at the door?”
 
 
 
-  Teacher: “Well, let’s read on and find out…”
+  Teacher: “Well, let's read on and find out…”
 
  {/details}
 

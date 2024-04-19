@@ -13,12 +13,12 @@ next_path: "/ucl/year-1-first-half-term-developing-quality-pedagogy-part-1/sprin
 
 You will learn that:
 
-- Effective teaching can transform pupils’ knowledge, capabilities and beliefs about learning.
+- Effective teaching can transform pupils' knowledge, capabilities and beliefs about learning.
 - Modelling helps pupils understand new processes and ideas; good models make abstract ideas concrete and accessible.
 - Guides, scaffolds and worked examples can help pupils apply new ideas, but should be gradually removed as pupil expertise increases.
-- Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
+- Every teacher can improve pupils' literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
 
-You will also learn how to develop pupils’ literacy, by:
+You will also learn how to develop pupils' literacy, by:
 
 - Teaching different forms of writing by modelling planning, drafting and editing.
 

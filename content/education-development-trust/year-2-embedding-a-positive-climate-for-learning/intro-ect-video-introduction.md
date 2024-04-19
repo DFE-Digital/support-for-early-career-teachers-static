@@ -15,7 +15,7 @@ Video transcript.
   to establish a positive learning environment. You learned about how to make
   your classroom a secure, safe and predictable place for your pupils through
   setting up and developing classroom routines, communication of your high
-  expectations and building positive relationships. You’ve had a whole year to
+  expectations and building positive relationships. You've had a whole year to
   practise these and you will have had many successes. No doubt, there are still
   times when managing behaviour and keeping your expectations really high is
   challenging. That is why we are revisiting it now at the beginning of Year 2,
@@ -24,7 +24,7 @@ Video transcript.
 
 
   In this Block, we build on your knowledge by looking at what motivates pupils.
-  Understanding ‘what makes them tick’ will help you to develop an even more
+  Understanding 'what makes them tick' will help you to develop an even more
   purposeful learning environment. You will explore the different ways you can
   motivate pupils, from using rewards to helping your pupils develop more
   personal motivation. You have already explored the importance of upholding

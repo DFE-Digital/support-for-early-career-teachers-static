@@ -4,7 +4,7 @@ heading: "First half-term: making productive use of assessment"
 caption: "Year 1"
 ---
 
-In this module you’ll build on your existing knowledge of assessment principles.
+In this module you'll build on your existing knowledge of assessment principles.
 
 ## Week 1: module audit
 
@@ -19,10 +19,10 @@ During the first week of the module catch up with the ECT to take a look at the 
 
 ## Week 2: fundamental principles of effective assessment
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- catch up with your mentor to reflect on what you've learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 45 minutes.
 
@@ -41,7 +41,7 @@ Use the materials below to:
 
 ## Week 3: applying good assessment practice in the classroom
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -63,7 +63,7 @@ Use the materials below to:
 
 ## Week 4: giving high-quality feedback
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -85,7 +85,7 @@ Use the materials below to:
 
 ## Week 5: planning effective and manageable marking and feedback
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor

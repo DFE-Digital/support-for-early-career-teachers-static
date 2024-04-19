@@ -4,7 +4,7 @@ heading: "Subject"
 caption: "Year 1"
 ---
 
-In this module you’ll cover:
+In this module you'll cover:
 
 - the curriculum
 - your mental model of the subject or phase you teach and its implications for your planning
@@ -106,7 +106,7 @@ Focuses on ensuring deep, hard thinking about key ideas that develops pupil ment
 
 [View mentor materials](/ambition-institute/year-1-subject/summer-week-6-mentor-materials)
 
-## Week 7: developing pupils’ literacy
+## Week 7: developing pupils' literacy
 
 Explores the varying nature of literacy across and within subjects/phases, and the important role of vocabulary, comprehension and oral literacy.
 
@@ -154,7 +154,7 @@ Examines the link between learning goals, formative and summative assessments.
 
 [View mentor materials](/ambition-institute/year-1-subject/summer-week-9-mentor-materials)
 
-## Week 10: examining pupils’ responses
+## Week 10: examining pupils' responses
 
 Looks at drawing inferences, identifying misconceptions and getting pupils to elaborate as part of formative assessments.
 
@@ -170,7 +170,7 @@ Looks at drawing inferences, identifying misconceptions and getting pupils to el
 
 [View mentor materials](/ambition-institute/year-1-subject/summer-week-10-mentor-materials)
 
-## Week 11: adapting lessons to meet pupils’ needs
+## Week 11: adapting lessons to meet pupils' needs
 
 Explores the ways formative assessments can provide inferences to adapt teaching to meet the needs of their pupils.
 

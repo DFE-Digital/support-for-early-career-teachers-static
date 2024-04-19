@@ -4,7 +4,7 @@ heading: "First half-term: inquiry into enabling pupil learning"
 caption: "Year 2"
 ---
 
-In this module you’ll focus on one particular part of your teaching to evaluate the impact your practices have on your pupils.
+In this module you'll focus on one particular part of your teaching to evaluate the impact your practices have on your pupils.
 
 ## Week 1: module audit
 
@@ -19,19 +19,19 @@ During the first week of this practitioner inquiry module, you should take a loo
 
 ## Week 2: deepening teaching practice knowledge and fluency by engaging in professional inquiry
 
-There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
+There are no self-study materials this week. Instead, your school's induction lead should arrange a training session on this topic.
 
 
 ### Mentors
 
-There are no mentor activities for this week. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
+There are no mentor activities for this week. Instead, your school's induction lead should arrange a training session for the ECT on this topic.
 
 ## Week 3: using evidence to show how high expectations and managing behaviour efficiently will affect your pupils
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- catch up with your mentor to reflect on what you've learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 45 minutes.
 
@@ -50,12 +50,12 @@ Use the materials below to:
 
 ## Week 4: developing skills and knowledge in relation to Standards 2 & 3, using practitioner inquiry
 
-There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
+There are no self-study materials this week. Instead, your school's induction lead should arrange a training session on this topic.
 
 
 ### Mentors
 
-There are no mentor activities for this week. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
+There are no mentor activities for this week. Instead, your school's induction lead should arrange a training session for the ECT on this topic.
 
 ## Week 5: making judicious use of practical skills in relation to setting high expectations and managing behaviour effectively
 

@@ -4,7 +4,7 @@ heading: "Second half-term: fulfilling professional responsibilities"
 caption: "Year 1"
 ---
 
-In this module you’ll consider what it means to be professional, and approaches to managing your professional development.
+In this module you'll consider what it means to be professional, and approaches to managing your professional development.
 
 ## Week 1: module audit
 
@@ -68,10 +68,10 @@ The ECT does not have a self-study element this week. Instead, you should use th
 
 ## Week 6: revisiting professional development
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- catch up with your mentor to reflect on what you've learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 45 minutes.
 

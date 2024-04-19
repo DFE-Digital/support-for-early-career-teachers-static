@@ -22,19 +22,19 @@ Learn how to communicate a belief in the academic potential of all pupils, by:
 Learn how to develop a positive, predictable and safe environment for pupils, by:
 
 - Giving manageable, specific and sequential instructions.
-- Checking pupils’ understanding of instructions before a task begins.
+- Checking pupils' understanding of instructions before a task begins.
 - Using consistent language and non-verbal signals for common classroom directions.
 - Using early and least-intrusive interventions as an initial response to low level disruption.
 
 Learn how to build trusting relationships by:
 
-- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
+- Liaising with parents, carers and colleagues to better understand pupils' individual circumstances and how they can be supported to meet high academic and behavioural expectations.
 
 ### Activities
 
 ### Reflecting on learning (10 minutes)
 
-Revisit the ECT’s top five behavioural expectations from the previous topic. Ask them:
+Revisit the ECT's top five behavioural expectations from the previous topic. Ask them:
 
 - How have you communicated them?
 - How have you practised them?
@@ -50,7 +50,7 @@ The mentor may want to cover:
 
 - Building, maintaining and fixing relationships with pupils
 - Developing effective routines
-- Maintaining high expectations of pupils’ behaviour and learning.
+- Maintaining high expectations of pupils' behaviour and learning.
 
 ### Identifying problem areas (10 minutes)
 
@@ -71,7 +71,7 @@ Routines:
 Instructions:
 
 - Do pupils always follow your instructions?
-- When they don’t, why do you think that is?
+- When they don't, why do you think that is?
 
 #### How does this impact on pupil learning?
 
@@ -81,7 +81,7 @@ From the answers to the above questions, identify one area the ECT would like to
 
 Take a look at the example action plan on [Handout 1.4](/assets/materials/edt-Block-1-mentor-handout-1.4.pdf). The teacher has identified a key issue and then used the table below to plan out action steps.
 
-From the area identified in the last activity, use the table to select an action step. Together, use the template to write an action plan to help the ECT’s class.
+From the area identified in the last activity, use the table to select an action step. Together, use the template to write an action plan to help the ECT's class.
 
 #### Issue: Problems with specific pupils
 
@@ -92,7 +92,7 @@ Speak to colleagues about pupils in the class
 ##### How to do it
 
 - Identify a colleague who can support you with this specific pupil or class and find an appropriate time to ask for their support.
-- This could be the pupil’s tutor, a class teacher, a TA or another member of support staff.
+- This could be the pupil's tutor, a class teacher, a TA or another member of support staff.
 
 ##### How it can help
 
@@ -127,7 +127,7 @@ Contact parents/carers with positive news
 ##### How to do it
 
 - Make a list of pupils that you are struggling with.
-- For each one, with your mentor, identify one positive thing you could contact home about. This could be a specific piece of work they worked hard on, an improved grade, improved attitude to learning or something they are able to do now that they previously couldn’t.
+- For each one, with your mentor, identify one positive thing you could contact home about. This could be a specific piece of work they worked hard on, an improved grade, improved attitude to learning or something they are able to do now that they previously couldn't.
 - Decide the best way to contact home: postcard, phone call etc.
 
 ##### How it can help
@@ -142,7 +142,7 @@ Contact parents/carers with positive news
 
 ##### Action to take
 
-Contact parents/carers to find out more information about a pupil’s individual circumstances
+Contact parents/carers to find out more information about a pupil's individual circumstances
 
 ##### How to do it
 
@@ -152,7 +152,7 @@ Contact parents/carers to find out more information about a pupil’s individual
 ##### How it can help
 
 - Can help solve issues with individual pupils
-- Can help identify differences in pupils’ learning needs
+- Can help identify differences in pupils' learning needs
 - Can help identify outside influences
 - Finding out more information about individual pupils can help you understand their situation better
 - You will be able to support that pupil behaviourally and academically
@@ -222,7 +222,7 @@ Seating plans
 - Are there pupils who are struggling who it might be useful to move nearer to the teacher?
 - Are there pupils who are disengaged that you can move to the front?
 - Are there groups of pupils it would be useful to split up for a bit?
-- How can you make sure all pupils’ learning needs are taken into account?
+- How can you make sure all pupils' learning needs are taken into account?
 
 ##### How it can help
 
@@ -241,7 +241,7 @@ Decide together what success will look like for this class.
 - How will you know if things have improved?
 - What are you hoping to see?
 
-The mentor and ECT should decide together three specific dates when they will ‘check in’ on the progress made and decide how they will make this check:
+The mentor and ECT should decide together three specific dates when they will 'check in' on the progress made and decide how they will make this check:
 
 - Schedule a mini observation
 - Take brief notes during the lesson about what is happening

@@ -25,7 +25,7 @@ Learn how to increase likelihood of material being retained, by:
 
 ### Interviewing/observing a colleague (20 minutes)
 
-In this Block, the ECT has not had an opportunity to observe any colleagues so the mentor should organise a 15–20 minute slot when they and the ECT will either observe a colleague’s lesson together or interview a more experienced colleague.
+In this Block, the ECT has not had an opportunity to observe any colleagues so the mentor should organise a 15–20 minute slot when they and the ECT will either observe a colleague's lesson together or interview a more experienced colleague.
 
 The focus of either the interview or observation is to consider how the more experienced colleague increases the likelihood that material will be retained over time. If an interview is chosen, the following questions could be used:
 

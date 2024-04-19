@@ -26,7 +26,7 @@ During the observation, focus on how the teacher has adapted their practice is s
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
@@ -39,7 +39,7 @@ Based on the outcome of the observation, you may wish to focus and practise elem
 
 ### Key questions and talking points
 
-1. What elements of your teaching practice do you feel are supporting all pupils to succeed? (Prompt your teacher to consider the ‘universal’ provision they are offering)
+1. What elements of your teaching practice do you feel are supporting all pupils to succeed? (Prompt your teacher to consider the 'universal' provision they are offering)
 2. Where have you needed to offer targeted support to pupils, what did this look like and how did you know it was working?
 3. Where do you feel you need further support with your knowledge of SEND strategies?
 4. Where have you been able to build relationships with stakeholders? (e.g. Pupil, TA, specialist support services, parents or carers)
@@ -47,4 +47,4 @@ Based on the outcome of the observation, you may wish to focus and practise elem
 
 ### Additional reading:
 
-A useful website to access is the ‘[What Works?](https://www.sendgateway.org.uk/whole-school-send/what-works/)’ SEND gateway, which is supported by NASEN (National Association for Special Educational Needs). The information and interventions on this site have been peer-reviewed and subjected to a panel process in order to be included. The resources are broken down into each of the four broad areas of need, and then further categorised into universal, targeted and specialist support.
+A useful website to access is the '[What Works?](https://www.sendgateway.org.uk/whole-school-send/what-works/)' SEND gateway, which is supported by NASEN (National Association for Special Educational Needs). The information and interventions on this site have been peer-reviewed and subjected to a panel process in order to be included. The resources are broken down into each of the four broad areas of need, and then further categorised into universal, targeted and specialist support.

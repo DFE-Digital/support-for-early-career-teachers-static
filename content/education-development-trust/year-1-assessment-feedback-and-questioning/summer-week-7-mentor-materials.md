@@ -12,9 +12,9 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn that:
 
-- Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
+- Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils' prior knowledge, assess understanding and break down problems.
 - High quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
-- Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs.
+- Effective assessment is critical to teaching because it provides teachers with information about pupils' understanding and needs.
 - Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear.
 - Before using any assessment, teachers should be clear about the decision it will be used to support and be able to justify its use.
 - To be of value, teachers use information from assessments to inform the decisions they make; in turn, pupils must be able to act on feedback for it to have an effect.
@@ -57,7 +57,7 @@ Ask the ECT to reflect on the following questions related to their focus area of
 - What did you notice?
 - What surprised you?
 - What did you learn?
-- How did X affect the pupil’s learning?
+- How did X affect the pupil's learning?
 
 ### Implications for practice (10 minutes)
 

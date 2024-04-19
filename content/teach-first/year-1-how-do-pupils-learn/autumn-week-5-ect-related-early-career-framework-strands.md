@@ -4,7 +4,7 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-do-pupils-learn/autumn-week-5-ect-theory"
 ---
 
-### How Pupils Learn
+## How Pupils Learn
 
 2.5 Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge.
 
@@ -22,11 +22,11 @@ _2j. Designing practice, generation and retrieval tasks that provide just enough
 
 _2k. Increasing challenge with practice and retrieval as knowledge becomes more secure (e.g. by removing scaffolding, lengthening spacing or introducing interacting elements)._
 
-### Subject and Curriculum
+## Subject and Curriculum
 
 3.2 Secure subject knowledge helps teachers to motivate pupils and teach effectively.
 
-3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.
+3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils' confidence and help them succeed.
 
 3.7 In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or “schemata”); carefully sequencing teaching to facilitate this process is important.
 
@@ -34,14 +34,14 @@ _3i. Providing tasks that support pupils to learn key ideas securely (e.g. quizz
 
 _3j. Using retrieval and spaced practice to build automatic recall of key knowledge._
 
-### Adaptive Teaching
+## Adaptive Teaching
 
 5.6 There is a common misconception that pupils have distinct and identifiable learning styles. This is not supported by evidence and attempting to tailor lessons to learning styles is unlikely to be beneficial.
 
-### Managing Behaviour
+## Managing Behaviour
 
 _7m. Supporting pupils to master challenging content, which builds towards long-term goals._
 
-### Professional behaviours
+## Professional behaviours
 
 _8d. Engaging critically with research and discussing evidence with colleagues._

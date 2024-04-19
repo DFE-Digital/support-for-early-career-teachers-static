@@ -20,9 +20,9 @@ In this session you will learn that engaging in practitioner inquiry, focused on
 
 ### Introduction
 
-Last week with your mentor you considered the wider range of emergent evidence for your inquiry: not just the evidence you collected deliberately (and for which you had an anticipated outcome) but the overheard and unexpected evidence too. Before that, you reminded yourself of the counter-evidence, or the potential negative consequences of your inquiry. Last week, you updated your ‘claim’ to take account of inferences you can make from all of these forms of evidence.
+Last week with your mentor you considered the wider range of emergent evidence for your inquiry: not just the evidence you collected deliberately (and for which you had an anticipated outcome) but the overheard and unexpected evidence too. Before that, you reminded yourself of the counter-evidence, or the potential negative consequences of your inquiry. Last week, you updated your 'claim' to take account of inferences you can make from all of these forms of evidence.
 
-How valid are the inferences you made? In this week’s self-study time, you should firm up the evidence to support the inferences you made last week.
+How valid are the inferences you made? In this week's self-study time, you should firm up the evidence to support the inferences you made last week.
 
 Finally, you are going to create an account of the impact on you of engaging in practitioner inquiry.
 
@@ -31,7 +31,7 @@ Finally, you are going to create an account of the impact on you of engaging in 
 Schools are already data-rich environments.
 
 Practitioner inquiries first of all make
-use of what we call here ‘naturally occurring’ evidence. They are in the pupils’
+use of what we call here 'naturally occurring' evidence. They are in the pupils'
 work and your assessment of it. They are in the words and reactions of the pupils
 and what you have heard or seen of this.
 

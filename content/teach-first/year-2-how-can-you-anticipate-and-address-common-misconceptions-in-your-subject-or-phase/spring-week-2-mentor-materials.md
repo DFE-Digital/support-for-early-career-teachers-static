@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Spring week 2"
 ---
 
-## Discussion - using meaningful and memorable explanations in the ECT’s subject or phase
+## Discussion - using meaningful and memorable explanations in the ECT's subject or phase
 
 Duration: 60 minutes
 
@@ -13,7 +13,7 @@ Duration: 60 minutes
 By the end of this session your ECT will have:
 
 - identified abstract concepts in a specific subject 
-- explained why it’s important to make abstract concepts concrete 
+- explained why it's important to make abstract concepts concrete 
 - identified different ways to make concepts meaningful and memorable 
 - considered how to incorporate these strategies into explanations 
 - planned to incorporate one strategy into an explanation
@@ -31,6 +31,6 @@ By the end of this session your ECT will have:
 3. How have you made the abstract concrete in your lessons?  
 4. What strategies did training session 1 identify that could help make concepts meaningful and memorable?  
 5. How do you currently model concepts to your pupils?  
-6. How do you identify pupils’ prior knowledge and build on this in your models?  
+6. How do you identify pupils' prior knowledge and build on this in your models?  
 7. Which strategies do you think would have an impact on the pupils you teach?  
-8. Let’s agree on a focus for this half term, linked to meaningful and memorable explanations.
+8. Let's agree on a focus for this half term, linked to meaningful and memorable explanations.

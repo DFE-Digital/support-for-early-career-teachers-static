@@ -12,7 +12,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn that:
 
-- Learning involves a lasting change in pupils’ capabilities or understanding
+- Learning involves a lasting change in pupils' capabilities or understanding
 - An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory
 - Regular purposeful practice of what has previously been taught can help consolidate material and help pupils remember what they have learned
 - Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall
@@ -45,13 +45,13 @@ Some questions for discussion:
 
 Guidance to mentors:
 
-The ECT should have read the ‘Understanding the evidence’ section of the self-directed study materials ahead of the topic. The mentor should also read them to familiarise themselves with the content.
+The ECT should have read the 'Understanding the evidence' section of the self-directed study materials ahead of the topic. The mentor should also read them to familiarise themselves with the content.
 
-In this portion of the mentor topic, the mentor will be asking questions to check the ECT’s understanding of what they have read.
+In this portion of the mentor topic, the mentor will be asking questions to check the ECT's understanding of what they have read.
 
 Suggested dialogue for mentors:
 
-You completed Activity 8.2 of the self-directed study materials ‘Understanding the evidence’ in relation to helping pupils to retain the learning over time. Let’s discuss your response to the questions to check your understanding of that material.
+You completed Activity 8.2 of the self-directed study materials 'Understanding the evidence' in relation to helping pupils to retain the learning over time. Let's discuss your response to the questions to check your understanding of that material.
 
 Why is it important that pupils remember what they have learnt?
 
@@ -63,7 +63,7 @@ What is practice testing and what impact does it have?
 
 - Practice testing is all the things you can do to practise material or test yourself on it which is not a formal assessment.
 - It might include using flashcards or doing practice questions.
-- It has a significant impact on pupil’s being able to recall information for a longer period.
+- It has a significant impact on pupil's being able to recall information for a longer period.
 
 Why is feedback during practice important?
 

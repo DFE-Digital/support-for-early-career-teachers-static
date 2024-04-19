@@ -34,11 +34,11 @@ Each school will have policies in relation to assessment and feedback and ECTs s
 
 Suggested dialogue for mentors:
 
-Welcome to module 11 called ‘Deepening assessment, feedback and questioning’. As you know, this module builds on your learning from year 1. It will do so by going beyond our existing understanding of what good assessment is by looking at how we can link our assessment practices to metacognitive strategies. We will also look at how to work with colleagues to deepen your knowledge and practice in this area, particularly in relation to becoming more efficient while maintaining quality. In year 1, you looked at what was meant by ‘good assessment’ and ‘good feedback’, as well as high quality classroom talk and questioning.
+Welcome to module 11 called 'Deepening assessment, feedback and questioning'. As you know, this module builds on your learning from year 1. It will do so by going beyond our existing understanding of what good assessment is by looking at how we can link our assessment practices to metacognitive strategies. We will also look at how to work with colleagues to deepen your knowledge and practice in this area, particularly in relation to becoming more efficient while maintaining quality. In year 1, you looked at what was meant by 'good assessment' and 'good feedback', as well as high quality classroom talk and questioning.
 
 Some questions for discussion:
 
-- You’ve had a whole year since you learned about effective assessment, feedback and questioning practices. We looked at things such as the ways in which assessment provides us with important information, helps to expose misconceptions and identify pupils’ prior knowledge. How do you think you have developed in these areas in the last year?
+- You've had a whole year since you learned about effective assessment, feedback and questioning practices. We looked at things such as the ways in which assessment provides us with important information, helps to expose misconceptions and identify pupils' prior knowledge. How do you think you have developed in these areas in the last year?
 - Can you give me a specific example of a time when you think assessment/feedback/questioning went particularly well?
 - What areas do you feel you still need to work on?
 
@@ -46,13 +46,13 @@ Some questions for discussion:
 
 Guidance to mentors:
 
-The ECT should have read the ‘Understanding the Evidence’ section of the self-directed study materials ahead of the topic. You should also read them to familiarise yourself with the content. In this part of the mentor topic, you will be asking questions to check the ECT’s understanding of what they have read.
+The ECT should have read the 'Understanding the Evidence' section of the self-directed study materials ahead of the topic. You should also read them to familiarise yourself with the content. In this part of the mentor topic, you will be asking questions to check the ECT's understanding of what they have read.
 
-The guidance below provides a full range of responses which show understanding. However, you should not treat this as a ‘test’ of the ECT’s knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
+The guidance below provides a full range of responses which show understanding. However, you should not treat this as a 'test' of the ECT's knowledge; use the prompts to elicit fuller answers or clarify if they have misunderstood any aspect.
 
 Suggested dialogue for mentors:
 
-You completed activity 11.2 of the self-directed study materials ‘Understanding the Evidence’ in relation to what makes good assessment and feedback and also 11.3 ‘Learning about efficient approaches to assessment’. Let’s discuss your response to the questions to check your understanding of that material.
+You completed activity 11.2 of the self-directed study materials 'Understanding the Evidence' in relation to what makes good assessment and feedback and also 11.3 'Learning about efficient approaches to assessment'. Let's discuss your response to the questions to check your understanding of that material.
 
 What is the value of pupils learning to monitor and regulate their own learning?
 
@@ -84,7 +84,7 @@ What different approaches to efficient marking and feedback are there?
 
 What problems are there with self- and peer-assessment and how can these be overcome?
 
-- Pupils can do it badly in which case they don’t realise what mistakes they’ve made and continue to repeat them.
+- Pupils can do it badly in which case they don't realise what mistakes they've made and continue to repeat them.
 - This can be overcome through the use of high-quality success criteria and modelling.
 
 ### Providing high-quality feedback (30 minutes)
@@ -95,7 +95,7 @@ The ECT will need to have brought along a lesson or sequence of lessons that is 
 
 Pose the following question: How can you scaffold self-assessment by sharing model work with pupils, highlighting key details?
 
-Model work helps pupils gain an understanding about what quality learning ‘looks like’ and – by highlighting the key details and characteristics – what they need to do to achieve the standard. It is underpinned by the idea that it is easier to understand how to do something by being _shown_ how to do it rather than being given a description of how to do it. What could this look like?
+Model work helps pupils gain an understanding about what quality learning 'looks like' and – by highlighting the key details and characteristics – what they need to do to achieve the standard. It is underpinned by the idea that it is easier to understand how to do something by being _shown_ how to do it rather than being given a description of how to do it. What could this look like?
 
 1. Prepared model work:
   - Pupils see a complete example, so they know what they are aiming for.
@@ -109,7 +109,7 @@ Model work helps pupils gain an understanding about what quality learning ‘loo
   - Model the process or procedure and thinking required to solve a particular problem, as well as showing the product
   - Can be used more than once and completed in collaboration with pupils with pupils partly or fully leading the worked example depending on the level of scaffold required.
 
-Watch the video from this week’s ECT self-study materials.
+Watch the video from this week's ECT self-study materials.
 
 Pose the questions:
 
@@ -120,7 +120,7 @@ Pose the questions:
 Answers might include:
 
 - Teacher modelled revision of specific sentences to show pupils that is what they should be doing
-- Re-read answers because ‘that is what good writers do’ models to pupils that they should constantly be checking and re-checking their work
+- Re-read answers because 'that is what good writers do' models to pupils that they should constantly be checking and re-checking their work
 - Asked questions throughout to model thought process<
 - Unpicked success criteria.
 

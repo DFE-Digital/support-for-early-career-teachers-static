@@ -7,13 +7,13 @@ next_path: "/education-development-trust/year-1-assessment-feedback-and-question
 - Read the information and look at the examples provided.
 - As you do this, make notes in response to the key questions below.
 
-### Key questions
+## Key questions
 
 What is the difference between closed and open questions?
 
-How can questioning be used to check pupils’ prior knowledge?
+How can questioning be used to check pupils' prior knowledge?
 
-How can questioning be used to assess pupils’ understanding?
+How can questioning be used to assess pupils' understanding?
 
 What constitutes high-quality classroom talk?
 

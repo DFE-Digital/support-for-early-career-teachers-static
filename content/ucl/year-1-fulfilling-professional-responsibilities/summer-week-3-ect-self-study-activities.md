@@ -4,27 +4,27 @@ previous_title: "Research and Practice Summary"
 previous_path: "/ucl/year-1-fulfilling-professional-responsibilities/summer-week-3-ect-research-and-practice-summary"
 ---
 
-###  Review: 10 mins
+## Review: 10 mins
 
-Read the research and practice summary on this week’s topic. As you read, reflect on:
+Read the research and practice summary on this week's topic. As you read, reflect on:
 
 1. the practices that you are already doing well
 2. the practices you are doing some of the time, but could do more of / more consistently
 3. the practices you do not use in your teaching yet
 
-As you work through the activities in this week’s self-directed study session and mentor meeting, aim to both refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
+As you work through the activities in this week's self-directed study session and mentor meeting, aim to both refine and extend what you already do well, and to build your skill and confidence in using practices which are not yet a regular part of your teaching repertoire.
 
-###  Theory to Practice: 30 mins
+## Theory to Practice: 30 mins
 
 Analyse artefact and reflection – Find a piece of research evidence that interests you and then critically consider its credibility and applicability to your own context. To help you do this, there is guidance below for each of the stages.
 
 You may want to make brief notes as you go through this process as this will help you when you share your reflections at your next mentor meeting.
 
-Interpret the term ‘research evidence’ broadly. It does not have to be an original piece of research, but it should be clearly linked to research evidence: an article in a reputable journal for teachers would be suitable, for example.
+Interpret the term 'research evidence' broadly. It does not have to be an original piece of research, but it should be clearly linked to research evidence: an article in a reputable journal for teachers would be suitable, for example.
 
 The purpose of this activity is to support you to engage critically with research and discuss evidence with colleagues. In particular, the activity will support you to access research evidence and appraise it using the principles outlined in the research and practice summary.
 
-#### Stage 1: finding research
+### Stage 1: finding research
 
 As you have already seen, there are many places that you can go to find research evidence. One way to think about finding research is to go to an organisation that publishes research. Examples of these organisations include:
 
@@ -37,7 +37,7 @@ Occasionally, you may want to find primary research, which is published by acade
 
 If you are struggling to choose a suitable evidence source, you may want to start with this short section of the Teaching and Learning Toolkit about [Reading Comprehension Strategies](https://educationendowmentfoundation.org.uk/evidence-summaries/teaching-learning-toolkit/reading-comprehension-strategies/)
 
-#### Stage 2: assessing credibility
+### Stage 2: assessing credibility
 
 To assess the credibility of evidence, you should consider the following questions. If you are unable to find the answers to these questions, then it is safest to be sceptical and assume the worst.
 
@@ -48,7 +48,7 @@ To assess the credibility of evidence, you should consider the following questio
 - How trustworthy were the outcomes on which claims were based? Standardised assessments tend to be more credible than in house assessments, for example
 - Who funded and undertook the research? If they have potential conflicts of interest this reduces the credibility of the research. It does not necessarily mean the research is not credible, but at the very least it is important to be aware of these potential issues
 
-#### Stage 3: assessing applicability
+### Stage 3: assessing applicability
 
 If you think that the research evidence is credible, the next step is to consider how relevant it is to your own context. Remember that if you do not think that the claims are credible, then the research is not applicable to you – or anyone!
 
@@ -56,7 +56,7 @@ If you think that the research evidence is credible, the next step is to conside
 - Does the evidence address a problem or issue that you have? If a study found that mentoring was effective for teachers struggling with behaviour management, the findings are probably not applicable to teachers who have few difficulties managing behaviour
 - Is the approach likely to be suitable and feasible for your own context? If an approach does not fit with the culture of your own school, it is unlikely to be applicable
 
-### Next Steps: 5 mins
+## Next Steps: 5 mins
 
 As part of your next mentor sessions, you will briefly summarise what you have done. To support you to do this, you may wish to make brief notes linked to the questions below:
 

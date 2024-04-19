@@ -20,7 +20,7 @@ To have practised creating a low stakes quiz to be used for retrieval practise.
 As part of their training session your teacher was asked to create a retrieval quiz. Review this with your teacher.
 
 ###  Praise, probe and set precise actions
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 

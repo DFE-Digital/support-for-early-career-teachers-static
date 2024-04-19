@@ -31,7 +31,7 @@ Example precise target:Teacher, with the support of a colleague, identifies the 
 #### Focused development area
 
 - Teacher, with the support of a colleague, decides on the knowledge and skills to cover or introduce in a lesson and ensures they are manageable for pupils.
-- Teacher, with the support of a colleague, plans to ensure knowledge and skills build in order to ensure the content is manageable and deepens pupils’ understanding over time.
+- Teacher, with the support of a colleague, plans to ensure knowledge and skills build in order to ensure the content is manageable and deepens pupils' understanding over time.
 - Teacher breaks down key knowledge and skills needed for a task into steps to make learning manageable.
 
 ### Development area 3: Exit tasks
@@ -39,20 +39,20 @@ Example precise target:Teacher, with the support of a colleague, identifies the 
 #### Focused development area
 
 - Teacher carefully frames to pupils what exit tasks are and what their purpose is so that pupils know they are low stakes and support their learning.
-- Teacher plans the content of the exit task so that it efficiently checks pupils’ understanding of the key knowledge and skills from the lesson, specifically assessing for misconceptions and gaps in understanding.
+- Teacher plans the content of the exit task so that it efficiently checks pupils' understanding of the key knowledge and skills from the lesson, specifically assessing for misconceptions and gaps in understanding.
 - Teacher plans how to address information from the exit tasks in the following lesson.
 
 ### Observe
 
 Consider the following questions based on a short (approximately 15 minute) observation of your teacher.
 
-- What was your teacher’s previous target? Are they meeting it? How do you know?
+- What was your teacher's previous target? Are they meeting it? How do you know?
 
 - Thinking about the development area you have selected for this topic, what is your teacher already doing well in this area? Which focused development area best aligns with what your teacher needs to get better at? What one precise target (bite-sized action) might you work with them on during your mentor meeting?
 
-Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn’t fit your teacher’s needs, you can write your own.
+Reminder: You can choose to stick with this previous target if they have not made enough progress. When moving on to a new precise target, you can select one from the table above or, if this doesn't fit your teacher's needs, you can write your own.
 
-How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, ‘How it is different from your current practice?’ and ‘What impact might it have on your practice and pupils?’
+How will you model the target to your teacher to show them what good looks like? What questions will you ask to check your teacher understands the model? For example, 'How it is different from your current practice?' and 'What impact might it have on your practice and pupils?'
 
 Reminder: Your model should help your teacher develop their ability in some of the following:
 
@@ -60,4 +60,4 @@ Reminder: Your model should help your teacher develop their ability in some of t
 - Plan formative assessment tasks linked to lesson objectives and thinking ahead about what would indicate understanding.
 - Structure tasks and questions to enable the identification of knowledge gaps and misconceptions.
 
-Next, meet with your teacher to work through the ‘feedback’ stage of instructional coaching.
+Next, meet with your teacher to work through the 'feedback' stage of instructional coaching.

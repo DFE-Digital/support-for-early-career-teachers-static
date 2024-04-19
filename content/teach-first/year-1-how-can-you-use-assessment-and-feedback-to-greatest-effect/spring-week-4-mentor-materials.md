@@ -26,14 +26,14 @@ How the teacher gives verbal feedback to individual and the class will be the fo
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
-During the ‘practise’ section of the mentor interaction, script and practise either:
+During the 'practise' section of the mentor interaction, script and practise either:
 
 - An improved delivery of the feedback given in the observed lesson. Was it specific enough to support pupils to progress?
-- Look together at some pupil’s work, then script and practise the verbal feedback that your teacher should give that pupil.
+- Look together at some pupil's work, then script and practise the verbal feedback that your teacher should give that pupil.
 
 ### Key questions and talking points
 

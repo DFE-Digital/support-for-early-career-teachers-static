@@ -6,16 +6,21 @@ previous_path: "/education-development-trust/year-1-assessment-feedback-and-ques
 
 Watch the video. The video outlines what you will cover in this Block.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lNs21BhfgkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560"
+    height="315"
+    src="https://www.youtube.com/embed/lNs21BhfgkE"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
 
 Assessment is a really important, ongoing process of finding out what your pupils know and can do, where there are gaps and crucially what they and you need to do next to progress their learning.
 
-You won’t find a teacher in England that tells you that they’re not using assessment to find out what their pupils are learning – this is known as _formative assessment_. But are they doing it well? What does it even mean to do assessment well? Why is feedback so important as part of the assessment cycle? How often and how detailed should your assessments and feedback be?
+You won't find a teacher in England that tells you that they're not using assessment to find out what their pupils are learning – this is known as _formative assessment_. But are they doing it well? What does it even mean to do assessment well? Why is feedback so important as part of the assessment cycle? How often and how detailed should your assessments and feedback be?
 
-Get it right and assessment and feedback can be a teacher’s best friend. Formative assessment is one of the things research is most certain will improve learning, especially when combined with high-quality feedback. Get it wrong and it can be the bane of your life. Bad assessment practices are both pointless and time-consuming. It is easy to spend huge amounts of time setting and marking assessment that doesn’t tell you much. Equally, if you fail to deliver the feedback in a useful way it might not make any difference to pupil progress.
+Get it right and assessment and feedback can be a teacher's best friend. Formative assessment is one of the things research is most certain will improve learning, especially when combined with high-quality feedback. Get it wrong and it can be the bane of your life. Bad assessment practices are both pointless and time-consuming. It is easy to spend huge amounts of time setting and marking assessment that doesn't tell you much. Equally, if you fail to deliver the feedback in a useful way it might not make any difference to pupil progress.
 
 This Block will support you to establish what effective assessment and feedback practices are.
 

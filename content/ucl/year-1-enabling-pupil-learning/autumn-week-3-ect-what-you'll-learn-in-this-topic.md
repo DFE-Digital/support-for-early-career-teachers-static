@@ -1,5 +1,5 @@
 ---
-title: "What you’ll learn in this topic"
+title: "What you'll learn in this topic"
 next_title: "Research and practice summary"
 next_path: "/ucl/year-1-enabling-pupil-learning/autumn-week-3-ect-research-and-practice-summary"
 ---
@@ -18,7 +18,7 @@ Develop a positive, predictable and safe environment for pupils, by:
 - Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom.
 - Working alongside colleagues as part of a wider system of behaviour management (e.g. recognising responsibilities and understanding the right to assistance and training from senior colleagues).
 - Giving manageable, specific and sequential instructions.
-- Checking pupils’ understanding of instructions before a task begins.
+- Checking pupils' understanding of instructions before a task begins.
 - Using consistent language and non-verbal signals for common classroom directions.
 - Using early and least-intrusive interventions as an initial response to low-level disruption.
 - Responding quickly to any behaviour or bullying that threatens emotional safety.

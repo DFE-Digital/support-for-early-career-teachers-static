@@ -4,7 +4,7 @@ heading: "First half-term: inquiry into developing quality pedagogy and making p
 caption: "Year 2"
 ---
 
-In this module you’ll look at how to gather evidence about the impact your teaching is having, followed by practical tips on altering your practices to get better results.
+In this module you'll look at how to gather evidence about the impact your teaching is having, followed by practical tips on altering your practices to get better results.
 
 ## Week 1: module audit
 
@@ -21,7 +21,7 @@ You should also catch up with the ECT to establish their level of confidence and
 
 ## Week 2: using evidence to show how developing quality pedagogy and making productive use of assessment will affect your pupils
 
-For this topic you’ll need to work through the self-study materials below.
+For this topic you'll need to work through the self-study materials below.
 
 Duration: 45 minutes.
 

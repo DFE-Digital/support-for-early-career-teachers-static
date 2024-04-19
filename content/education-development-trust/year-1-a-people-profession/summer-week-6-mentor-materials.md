@@ -12,7 +12,7 @@ The intended outcomes of this topic are for Early Career Teachers to:
 
 Learn how to build trusting relationships, by:
 
-- Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations
+- Liaising with parents, carers and colleagues to better understand pupils' individual circumstances and how they can be supported to meet high academic and behavioural expectations
 
 Learn how to develop as a professional by:
 
@@ -33,11 +33,11 @@ Looking ahead to next year, ask the ECT to identify who they need to:
 
 These might be colleagues, parents, carers and families or pupils themselves. Identify why, when and how they will do this. Examples include:
 
-- Taking on a new class, in which case they will need to quickly build a relationship with that class and their parents, carers and families. Strategies for this will include learning pupils’ names and establishing routines, phoning parents to introduce themselves.
+- Taking on a new class, in which case they will need to quickly build a relationship with that class and their parents, carers and families. Strategies for this will include learning pupils' names and establishing routines, phoning parents to introduce themselves.
 - Building a stronger relationship with a particular colleague to help them develop their teaching. Strategies for this might include mutual observation and setting time aside for discussion.
 - Improving the relationship with a particular pupil. Strategies might include setting time aside early in the year for a conversation with that pupil and their parent/carers, following school policies.
 
-Ask the ECT to consider how they have liaised with parents/carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations. What has been effective? What has been less effective?
+Ask the ECT to consider how they have liaised with parents/carers and colleagues to better understand pupils' individual circumstances and how they can be supported to meet high academic and behavioural expectations. What has been effective? What has been less effective?
 
 Together, note down some actions the ECT will take next year with their new class/es, based on the following prompts:
 
@@ -59,7 +59,7 @@ Things to try with colleagues:
 
 Using [Handout 6.5](/assets/materials/edt-Block-6-mentor-handout-6.5.pdf), ask the ECT to reflect on which statements ring true for them at the end of their first year as a qualified teacher. They can add further statements to the handout if they wish.
 
-Next, the ECT and mentor together should reflect on the progress the ECT has made over the year. Each of them should take a few minutes to complete the following sentences, relating to ECT’s development:
+Next, the ECT and mentor together should reflect on the progress the ECT has made over the year. Each of them should take a few minutes to complete the following sentences, relating to ECT's development:
 
 - My (your) greatest strengths are…
 - My (your) areas for development are…
@@ -68,7 +68,7 @@ Compare responses and discuss the similarities and differences.
 
 Guidance for mentors:
 
-- Mentors may need to challenge the ECT’s perceptions of both their strengths and their areas for development, and to help them focus on these as part of looking ahead to Year 2.
+- Mentors may need to challenge the ECT's perceptions of both their strengths and their areas for development, and to help them focus on these as part of looking ahead to Year 2.
 - Remind the ECT that teachers are always learning and even the areas of strength can be developed further. We will think about this more as we go through the next year of the programme.
 
 ### Looking ahead (10 minutes)

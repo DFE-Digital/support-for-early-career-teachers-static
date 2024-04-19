@@ -6,7 +6,7 @@ title: "Ambition Institute"
 
 ### [Behaviour](/ambition-institute/year-1-behaviour)
 
-In this module you’ll cover:
+In this module you'll cover:
 
 - how to establish an effective learning environment
 - how to effectively manage behaviour
@@ -16,17 +16,17 @@ In this module you’ll cover:
 
 ### [Instruction](/ambition-institute/year-1-instruction)
 
-In this module you’ll cover:
+In this module you'll cover:
 
 - the link between effective instruction and pupil learning
-- the elements of explicit instruction and the ‘I-we-you’ model as a useful way of approaching this
+- the elements of explicit instruction and the 'I-we-you' model as a useful way of approaching this
 - how instruction can support more effective pupil thinking
 
 ## Year 1: Summer term
 
 ### [Subject](/ambition-institute/year-1-subject)
 
-In this module you’ll cover:
+In this module you'll cover:
 
 - the curriculum
 - your mental model of the subject or phase you teach and its implications for your planning

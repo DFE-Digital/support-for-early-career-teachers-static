@@ -23,7 +23,7 @@ previous_path: "/education-development-trust/year-1-establishing-a-positive-clim
 
 - Teacher raises her hand and says: “I am going to count down from 5”, which is the established routine for bringing the class to silence.
 
-- “5…4…making sure you are finishing your sentence…3….making sure you put your pen down…2…making sure your eyes are on me…and 1….thank you….well done this table that is a fantastic response…well done this table you are all looking forward….good I have all eyes facing forward, that’s 100%, well done everyone.”
+- “5…4…making sure you are finishing your sentence…3….making sure you put your pen down…2…making sure your eyes are on me…and 1….thank you….well done this table that is a fantastic response…well done this table you are all looking forward….good I have all eyes facing forward, that's 100%, well done everyone.”
 
 ### Give manageable, specific and sequential instructions for tasks and activities.
 
@@ -45,16 +45,16 @@ When posing whole-class questions, you are clear about how you wish the pupils t
 
 #### What this might look like in practice
 
-- “We are now going to move onto the next activity. As you can see there is a worksheet in front of you. In a moment, you will complete activity 1 on the worksheet using full sentences. You are going to do this in pairs, and you will have five minutes to complete it. If you finish before the five minutes is up, you will read your reading book in silence. Let’s do question A together first.”
+- “We are now going to move onto the next activity. As you can see there is a worksheet in front of you. In a moment, you will complete activity 1 on the worksheet using full sentences. You are going to do this in pairs, and you will have five minutes to complete it. If you finish before the five minutes is up, you will read your reading book in silence. Let's do question A together first.”
 
-## Area 2: Checking pupils’ understanding of instructions before a task begins (7d)
+## Area 2: Checking pupils' understanding of instructions before a task begins (7d)
 
 ### Ensure all pupils follow given instructions.
 
 #### You should...
 
-- Quickly and accurately gauge the pupils’ understanding of the instruction or direction before they begin.
-- Expect all pupils to follow the direction, monitoring pupils’ engagement with the direction and intervening with minimum disruption if required to do so (see [1.4: Learning about… Maintaining consistently high behavioural expectations](https://ecf-engage-and-learn-staging.london.cloudapps.digital/edt/year-1/autumn-1/topic-5/part-1) OR ask pupils to perform the activity again if directions are not followed as desired.
+- Quickly and accurately gauge the pupils' understanding of the instruction or direction before they begin.
+- Expect all pupils to follow the direction, monitoring pupils' engagement with the direction and intervening with minimum disruption if required to do so (see [1.4: Learning about… Maintaining consistently high behavioural expectations](https://ecf-engage-and-learn-staging.london.cloudapps.digital/edt/year-1/autumn-1/topic-5/part-1) OR ask pupils to perform the activity again if directions are not followed as desired.
 - Adapt swiftly and pre-empt where pupils might find a direction too complex so that learning time is not lost e.g. rephrase or break the direction down further.
 
 #### If you are doing this well, you will see pupils…
@@ -89,7 +89,7 @@ As the activity draws to a close, the teacher raises her hand. She does this a l
 
 ### Use non-verbal signals.
 
-Put your fingers to your lips instead of saying ‘shhh’.
+Put your fingers to your lips instead of saying 'shhh'.
 
 #### You should...
 
@@ -101,7 +101,7 @@ Put your fingers to your lips
 
 #### What this might look like in practice...
 
-Instead of using ‘shhh’ which increases the noise levels and if ignored undermines the teacher, she instead puts her fingers to her lips to say ‘you need to be silent now’. By not contributing further to noise levels, this helps to bring the class to silence.
+Instead of using 'shhh' which increases the noise levels and if ignored undermines the teacher, she instead puts her fingers to her lips to say 'you need to be silent now'. By not contributing further to noise levels, this helps to bring the class to silence.
 
 ### Use non-verbal signals.
 
@@ -141,7 +141,7 @@ Again, rather than contributing to noise level in the classroom, the teacher sim
 
 ### Use consistent language
 
-Use ‘thank you’ instead of ‘please’ at the end of instructions.
+Use 'thank you' instead of 'please' at the end of instructions.
 
 #### You should...
 
@@ -154,9 +154,9 @@ Use ‘thank you’ instead of ‘please’ at the end of instructions.
 
 #### What this might look like in practice...
 
-“I’d like you to put your pen down, thank you.”
+“I'd like you to put your pen down, thank you.”
 
-“I’d like you to stand behind your chairs, thank you.”
+“I'd like you to stand behind your chairs, thank you.”
 
 “Turn around and face the front, thank you.”
 
@@ -166,7 +166,7 @@ Count down when you want silence.
 
 #### You should...
 
-- When you have decided you want the class’s attention, use the counting down method to bring the class gradually to silence.
+- When you have decided you want the class's attention, use the counting down method to bring the class gradually to silence.
 
 #### If you are doing this well, you will see pupils...
 

@@ -10,29 +10,29 @@ caption: "Summer week 4"
 
 Your ECT will learn that:
 
-- Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success.
+- Building effective relationships with parents, carers and families can improve pupils' motivation, behaviour and academic success.
 
 Your ECT will learn how to:
 
 Build effective working relationships, by:
 
-- Communicating with parents and carers proactively and making effective use of parents’ evenings to engage parents and carers in their children’s schooling.
+- Communicating with parents and carers proactively and making effective use of parents' evenings to engage parents and carers in their children's schooling.
 
 ### Topic introduction
 
-Last week you saw the importance of working effectively with teaching assistants. This week your mentee will explore how they can work effectively with parents, carers and families to support pupils’ motivation, behaviour and academic success.
+Last week you saw the importance of working effectively with teaching assistants. This week your mentee will explore how they can work effectively with parents, carers and families to support pupils' motivation, behaviour and academic success.
 
 ### Research and practice summary
 
 Phoning home
 
-As December began, James was concerned about two of his Year 7 pupils. Their attitudes to learning and homework completion had got worse over time and, in line with the school’s policy on sanctions and rewards, they had each received multiple detentions.
+As December began, James was concerned about two of his Year 7 pupils. Their attitudes to learning and homework completion had got worse over time and, in line with the school's policy on sanctions and rewards, they had each received multiple detentions.
 
 James realised that he needed to contact home and was nervous because he had not yet done so.
 
 What should James do to make this call as effective as possible?
 
-Building effective relationships with parents can improve pupils’ motivation, behaviour and academic success. There is a strong association between parental engagement and pupils’ success at school, yet there is surprisingly limited high-quality evidence that improving engagement alone can improve attainment.
+Building effective relationships with parents can improve pupils' motivation, behaviour and academic success. There is a strong association between parental engagement and pupils' success at school, yet there is surprisingly limited high-quality evidence that improving engagement alone can improve attainment.
 
 Some of the most recent high-quality studies undertaken in England suggest that effective parental engagement is challenging, especially for older pupils. These studies also indicate that it is often hard to effectively engage all parents.
 
@@ -40,7 +40,7 @@ Nonetheless, there are valuable insights from the evidence that can support you 
 
 To make the most of parental engagement, consider using these approaches:
 
-- promote shared book reading – shared book reading is a particularly promising approach for younger children. You can also support parents to do this more effectively by providing specific guidance and support, such as encouraging parents to link stories to children’s own experiences
+- promote shared book reading – shared book reading is a particularly promising approach for younger children. You can also support parents to do this more effectively by providing specific guidance and support, such as encouraging parents to link stories to children's own experiences
 - foster good homework habits – rather than encouraging parents to directly support homework, it is more important to encourage parents to support good homework habits, particularly for older children
 - set goals, manage time, effort and emotions– parents can support pupils to regulate their own learning. Again, this is likely more promising than providing direct support with homework
 
@@ -48,15 +48,15 @@ A successful call home
 
 After some careful thought, James phoned home using some notes he made.
 
-‘Hello, Mr Jones? I’m Freddy’s French teacher and I’m calling about his learning. I’m concerned that Freddy is not doing as well as he could, and I would like to work with you to support him. Specifically, Freddy has missed multiple homeworks recently and also seems distracted in class. Is there anything preventing Freddy from succeeding?’
+'Hello, Mr Jones? I'm Freddy's French teacher and I'm calling about his learning. I'm concerned that Freddy is not doing as well as he could, and I would like to work with you to support him. Specifically, Freddy has missed multiple homeworks recently and also seems distracted in class. Is there anything preventing Freddy from succeeding?'
 
 This short exchange has some important features:
 
-▪ It emphasises that James cares about Freddy’s learning
+▪ It emphasises that James cares about Freddy's learning
 
 ▪ It stresses that James wants to work with Mr Jones
 
-▪ It highlights Mr Jones’ agency – he can make a difference
+▪ It highlights Mr Jones' agency – he can make a difference
 
 ▪ It invites discussion about potential barriers that the school may not know about
 
@@ -67,37 +67,37 @@ Effective communications with parents can effectively improve a range of outcome
 Tailor your communications to promote constructive dialogue about learning
 
 - focus on learning – prioritise a focus on learning, rather than aspects of school less related to learning
-- personalise your messages – this can be as simple as including pupils’ names in communications
+- personalise your messages – this can be as simple as including pupils' names in communications
 - promote positive interactions – celebrate success, this can make it easier to then have more challenging conversations with parents
 - proactively engage – avoid only contacting parents with concerns and waiting until small issues have escalated
 - be concise –parents are busy so, often, less is more
 
 Shared reading, where adults and children read together, is one of the most important things that parents of young children can do. As a rule of thumb, before children can read, parents should read to children; once children can read themselves, they should read with them.
 
-You can help parents make the most of shared reading by highlighting the benefits of the approach as well as providing specific support. This may be done through regular communications as well at specific events like parents’ evenings. There are multiple frameworks that parents can use to make the most of shared reading, including the PEER framework. When reading together, adults can:
+You can help parents make the most of shared reading by highlighting the benefits of the approach as well as providing specific support. This may be done through regular communications as well at specific events like parents' evenings. There are multiple frameworks that parents can use to make the most of shared reading, including the PEER framework. When reading together, adults can:
 
 - prompt the child to say something about the book
 - evaluate their response
 - expand their response by rephrasing it or adding information
 - repeat the prompt to help the child learn from the expanded information
 
-For example, while reading a story about visiting the beach, the parent may ask, ‘what do you think they might have to eat?’ (prompt) The child responds, ‘ice cream?’ and the adult replies ‘that’s a good idea (evaluation) – I wonder if they will have fish and chips too?’ (expand) Can you remember when we had fish and chips? (repetition).
+For example, while reading a story about visiting the beach, the parent may ask, 'what do you think they might have to eat?' (prompt) The child responds, 'ice cream?' and the adult replies 'that's a good idea (evaluation) – I wonder if they will have fish and chips too?' (expand) Can you remember when we had fish and chips? (repetition).
 
-Making the most of parents’ evening
+Making the most of parents' evening
 
-As James’ first parents’ evening approached for his Year 9 classes, he spoke with his mentor about making the most of the occasion. James’ mentor gave the following advice:
+As James' first parents' evening approached for his Year 9 classes, he spoke with his mentor about making the most of the occasion. James' mentor gave the following advice:
 
 ▪ plan ahead – book appointments, especially for the parents you really want to speak with, and leave longer for parents who you think you may need a longer conversation with
 
-▪ no surprises – if you have long-standing concerns, try to ensure that the parents’ evening is not the first time that you are sharing them
+▪ no surprises – if you have long-standing concerns, try to ensure that the parents' evening is not the first time that you are sharing them
 
-▪ focus on learning – keep the focus on learning and emphasise that parents can work with you to support their children’s learning
+▪ focus on learning – keep the focus on learning and emphasise that parents can work with you to support their children's learning
 
 ▪ discussion – use the occasion as an opportunity for a two-way discussion. Parents can help you to better understand the pupil
 
-▪ follow up – use the relationships developed at parents’ evening and follow up with things, especially if you see improvements. For instance, ‘Hello, Ms Morrison, I’m just calling to tell you what a difference I’ve seen in Adil’s work recently. Thank you for your support’
+▪ follow up – use the relationships developed at parents' evening and follow up with things, especially if you see improvements. For instance, 'Hello, Ms Morrison, I'm just calling to tell you what a difference I've seen in Adil's work recently. Thank you for your support'
 
-James used these approaches to make the most of parents’ evening. He was helped by the work he had recently been doing about working more effectively and efficiently. Initially, he was very nervous and tended to do most of the talking, but found he got a lot more from parents’ evenings when he asked questions of parents, rather than just telling them about how their children were doing in class.
+James used these approaches to make the most of parents' evening. He was helped by the work he had recently been doing about working more effectively and efficiently. Initially, he was very nervous and tended to do most of the talking, but found he got a lot more from parents' evenings when he asked questions of parents, rather than just telling them about how their children were doing in class.
 
 ### Meeting activities
 
@@ -105,7 +105,7 @@ Throughout the session, try to refer explicitly to the learning intentions, and 
 
 Review: 5 mins
 
-- Start this session by briefly following up on the actions that the mentee set at the end of last week’s session. Ask your mentee to summarise
+- Start this session by briefly following up on the actions that the mentee set at the end of last week's session. Ask your mentee to summarise
 - what they did
 - the impact of this on pupil learning (including how they are evaluating this)
 - what they will do going forward to build on these actions
@@ -119,7 +119,7 @@ Theory to Practice: 35 mins
 
 Analyse artefacts and discuss with mentor
 
-Explore the recommendations in the Education Endowment Foundation’s Guidance Report [Working With Parents to Support Children’s Learning](about:blank).
+Explore the recommendations in the Education Endowment Foundation's Guidance Report [Working With Parents to Support Children's Learning](about:blank).
 
 To engage with these recommendations, you could:
 
@@ -151,10 +151,10 @@ In terms of applicability, this is open to even more professional judgement and 
 
 Next Steps: 5 mins
 
-Agree with your mentee how they will now put their learning from this week’s session into practice in their teaching. Help your mentee to clarify:
+Agree with your mentee how they will now put their learning from this week's session into practice in their teaching. Help your mentee to clarify:
 
 1. the action(s) they will take and how these actions are expected to contribute to improving pupil learning
-2. what success will ‘look like’ in relation to these actions
+2. what success will 'look like' in relation to these actions
 3. how they will evaluate their success in taking these actions
 
-Note the date of your next mentor meeting, when you will check on your mentee’s progress.
+Note the date of your next mentor meeting, when you will check on your mentee's progress.

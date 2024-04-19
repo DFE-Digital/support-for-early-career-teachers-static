@@ -21,7 +21,7 @@ Discussing curriculum design with experienced colleagues and balancing expositio
 ### Having a secure subject knowledge will mean…
 
 - Pupils are motivated by the subject and the work.
-- Pupils’ misunderstandings are revealed and dealt with.
+- Pupils' misunderstandings are revealed and dealt with.
 - Pupils are successful and derive satisfaction from this.
 
 ### Practice...
@@ -75,7 +75,7 @@ Reflect on your practice by thinking about the following questions:
 
 #### Learn that:
 
-3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.
+3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils' confidence and help them succeed.
 
 3.7 In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or “schemata”); carefully sequencing teaching to facilitate this process is important.
 
@@ -223,9 +223,9 @@ the work we did already on similes.
 
 "Can you now turn to your partner and remind them what a simile is and give an example. You have two minutes. [Pupils discuss with their partner while the teacher circulates and listens to conversations.] 3, 2, 1... thank you. Joseph, I liked what I heard you telling your partner, can you please share with the class. [Joseph shares with the class.]
 
-"Remember, when we use a simile, we compare by saying something is like or as something else. For example, ‘you are as cold as ice’. Today, we are going to build on this knowledge to understand and be able to use metaphors.
+"Remember, when we use a simile, we compare by saying something is like or as something else. For example, 'you are as cold as ice'. Today, we are going to build on this knowledge to understand and be able to use metaphors.
 
-"A metaphor is when you compare something by saying it is something else. Both these techniques are used by writers to pick out characteristics of the thing that we are describing to convey meaning to the reader and add depth to what we are describing; they help us to show, not tell. Here is an example of a metaphor: ‘He is a shining star.’
+"A metaphor is when you compare something by saying it is something else. Both these techniques are used by writers to pick out characteristics of the thing that we are describing to convey meaning to the reader and add depth to what we are describing; they help us to show, not tell. Here is an example of a metaphor: 'He is a shining star.'
 
 "Can you now turn to your partner and decide which of these is a metaphor and why: a. Hope makes me feel optimistic and positive about the future; b. Hope is the thing with feathers that perches in the soul. You have one minute. [Pupils discuss with their partner while the teacher circulates and listens to conversations.] 3, 2, 1... thank you. Nadia, you and Rajib said b ‒ can you explain why?” [Nadia shares with the class.]
 

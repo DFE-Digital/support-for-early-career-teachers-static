@@ -4,7 +4,7 @@ heading: "Mentor materials"
 caption: "Summer week 4"
 ---
 
-## Observation discussion - adaptive teaching to respond to pupils’ needs
+## Observation discussion - adaptive teaching to respond to pupils' needs
 
 ### Practice focus
 
@@ -27,13 +27,13 @@ Observe your teacher and consider how they have adapted their lesson to support 
 
 ### Praise, probe and set precise actions
 
-The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher’s developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
+The following practise should be focused around the outcomes of the probe and precise actions, so that it is specific to your teacher's developmental needs. However, below are some practise ideas based on the online study content to support you if needed.
 
 ### Plan and practice ideas
 
 Work with your teacher further adapt the lesson they taught to support all pupils to succeed. If you think there was nothing further that they could have done, practise should focus on adapting a future lesson to support all pupils to succeed. When doing this, you and your teacher might want to consider the following questions:
 
-- How is your adaptive teaching impacting upon pupils’ motivation and engagement, especially low attaining pupils?
+- How is your adaptive teaching impacting upon pupils' motivation and engagement, especially low attaining pupils?
 - How are you maintaining high expectations for all pupils?
 
 ### Key questions and talking points

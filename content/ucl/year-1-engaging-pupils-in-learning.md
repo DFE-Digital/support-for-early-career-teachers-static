@@ -4,7 +4,7 @@ heading: "Second half-term: engaging pupils in learning"
 caption: "Year 1"
 ---
 
-In this module you’ll look at the impact of pupils’ prior knowledge on their learning and how knowledge changes through the cooperation of working and long-term memory.
+In this module you'll look at the impact of pupils' prior knowledge on their learning and how knowledge changes through the cooperation of working and long-term memory.
 
 ## Week 1: module audit
 
@@ -19,10 +19,10 @@ During the first week of the module, you should take a look at the topics being 
 
 ## Week 2: prior knowledge, memory and misconceptions
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
+- catch up with your mentor to reflect on what you've learnt, discuss any issues or concerns, and decide what actions to take going forward
 
 Duration: 45 minutes.
 
@@ -41,7 +41,7 @@ Use the materials below to:
 
 ## Week 3: literacy and learning
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -63,7 +63,7 @@ Use the materials below to:
 
 ## Week 4: consolidation of learning
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -85,7 +85,7 @@ Use the materials below to:
 
 ## Week 5: curriculum and subject knowledge
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor

@@ -31,12 +31,16 @@ A simple way to think about metacognitive strategies is how well a pupil is able
 - Consider what definition would make sense.
 - Look up the definition to check they are right.
 
-This strategy can be drawn upon any time a pupil comes across an unfamiliar word. Metacognitive thinking such as this helps pupils work out what is effective and what isn’t. Explicitly teaching metacognition not only helps the pupils with individual tasks but also helps them become more efficient learners who are able to make more progress.
+This strategy can be drawn upon any time a pupil comes across an unfamiliar word. Metacognitive thinking such as this helps pupils work out what is effective and what isn't. Explicitly teaching metacognition not only helps the pupils with individual tasks but also helps them become more efficient learners who are able to make more progress.
 
 ### Figure 1: The Metacognition Cycle
 
 <figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.3-The-Metacognition-Cycle-Opt-1.png" alt="The diagram shows the metacognition cycle around any given task:&lt;p>&lt;/p>Metacognitive knowledge (of myself, the task, and strategies) flows into&lt;p>&lt;/p>Planning, which flows into&lt;p>&lt;/p>Monitoring, which flows into&lt;p>&lt;/p>Evaluation, which flows back into Metacognitive knowledge." />
+  <img
+    src="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.3-The-Metacognition-Cycle-Opt-1.png"
+    alt="The diagram shows the metacognition cycle around any given task:&lt;p>&lt;/p>Metacognitive knowledge (of myself, the task, and strategies) flows into&lt;p>&lt;/p>Planning, which flows into&lt;p>&lt;/p>Monitoring, which flows into&lt;p>&lt;/p>Evaluation, which flows back into Metacognitive knowledge."
+    width="100%"
+    />
 </figure>
 
 Education Endowment Foundation (2018) Improving Secondary Science Guidance Report. [Online] Accessible from: <https://educationendowmentfoundation.org.uk/tools/guidance-reports/>
@@ -59,13 +63,13 @@ Consider the following example:
 Freya fiddled with her pencil case. Every Friday, she would experience a quiet dread
 when facing the weekly spelling test.
 
-This week, though, she felt more confident than before. After a couple of weeks characterised by annoying mistakes, she had worked hard in readiness for this week’s test. She had devised two of her own mnemonics and she had practised her “le” ending words, as well as “surprise’ with an ‘r’”, repeatedly.
+This week, though, she felt more confident than before. After a couple of weeks characterised by annoying mistakes, she had worked hard in readiness for this week's test. She had devised two of her own mnemonics and she had practised her “le” ending words, as well as “surprise' with an 'r'”, repeatedly.
 
 As Mr Thomas began the spelling test, Freya listened hard. She knew that sometimes she would feel a little pressure when her teacher moved quickly onto the next spelling, but that this week she would listen carefully and remember what she had practised. One or two words were no doubt tricky, but Freya had weighed up her options each time and she was utterly confident of her success.
 
 Before Mr Thomas had a chance to cycle through the correct spellings, Freya sat up straight, with a smile lighting up her face, fueled by quiet satisfaction. She had already thought about her new spelling routine and how she would stick to it next week too.
 
-Let’s take a closer look at Freya’s process. She:
+Let's take a closer look at Freya's process. She:
 
 - Utilised cognitive strategies, like using mnemonics and doing some self-testing practice at home.
 - Used metacognitive strategies to plan her spelling practice, recognising why using a mnemonic was the right tool for the job, whilst monitoring her own difficulties with time pressures during the test.
@@ -77,7 +81,7 @@ Freya has been taught these strategies, rather than acquiring them by chance, an
 
 - Make sure pupils know what they are and why they are important. Muijs & Reynolds (2018) tell us that “pupils need to know why they are learning metacognitive skills, otherwise they lack the motivation to use them”.
 - Teach metacognition explicitly. The EEF (2017) suggest that we should “explicitly teach pupils metacognitive strategies, including how to plan, monitor and evaluate their learning.” A series of steps — beginning with activating prior knowledge and leading to independent practice before ending in structured reflection — can be applied to different subjects, ages and contents.
-- Embed metacognition within subject teaching. Muijs & Reynolds (2017) also suggest that “metacognition shouldn’t be taught as a standalone skill, or in separate lessons, but needs to be embedded in subject teaching.” This is because the strategies are often task or subject specific.
+- Embed metacognition within subject teaching. Muijs & Reynolds (2017) also suggest that “metacognition shouldn't be taught as a standalone skill, or in separate lessons, but needs to be embedded in subject teaching.” This is because the strategies are often task or subject specific.
 - Make sure pupils have strategies “to hand”. Remind pupils to use the strategies you have taught them and use questioning and feedback to push them towards better use of them.
 
 The table below shows how teachers can help reinforce metacognition and reflection by prompting pupils in this way, using the example of drawing or painting a self-portrait in art:

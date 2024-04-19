@@ -4,7 +4,7 @@ heading: "Second half-term: inquiry into engaging pupils in learning"
 caption: "Year 2"
 ---
 
-In this module you’ll focus on how to improve your teaching without adding to your workload.
+In this module you'll focus on how to improve your teaching without adding to your workload.
 
 ## Week 1: module audit
 
@@ -19,16 +19,16 @@ During the first week of this practitioner inquiry module, you should take a loo
 
 ## Week 2: evidence for impact
 
-There are no self-study materials this week. Instead, your school’s induction lead should arrange a training session on this topic.
+There are no self-study materials this week. Instead, your school's induction lead should arrange a training session on this topic.
 
 
 ### Mentors
 
-There are no mentor activities for this week. Instead, your school’s induction lead should arrange a training session for the ECT on this topic.
+There are no mentor activities for this week. Instead, your school's induction lead should arrange a training session for the ECT on this topic.
 
 ## Week 3: in your focus area, what impact are you having on your pupils?
 
-For this topic you’ll need to work through the self-study materials below.
+For this topic you'll need to work through the self-study materials below.
 
 Duration: 45 minutes.
 
@@ -40,7 +40,7 @@ Duration: 45 minutes.
 
 There are no mentor activities this week.
 
-## Week 4: what might be a useful alteration to the ECT’s teaching?
+## Week 4: what might be a useful alteration to the ECT's teaching?
 
 There are no self-study materials this week. Instead, you will meet your mentor to discuss your practitioner inquiry.
 
@@ -51,7 +51,7 @@ The ECT does not have any self-study materials this week. Instead, you should me
 
 [View mentor materials](/ucl/year-2-inquiry-into-engaging-pupils-in-learning/autumn-week-4-mentor-materials)
 
-## Week 5: structured reflection upon how alterations to the ECT’s teaching are promoting good progress and demonstrating good subject and curriculum knowledge
+## Week 5: structured reflection upon how alterations to the ECT's teaching are promoting good progress and demonstrating good subject and curriculum knowledge
 
 There are no self-study materials this week. Instead, you will meet your mentor to update them about your inquiry.
 
@@ -64,11 +64,11 @@ The ECT does not have any self-study materials this week. Instead, they should u
 
 ## Week 6: making judicious use of practical skills in relation to promoting good progress and demonstrating good subject and curriculum knowledge
 
-There are no self-study materials this week. Instead, you will meet your mentor to present your findings from this moudle’s practitioner inquiry.
+There are no self-study materials this week. Instead, you will meet your mentor to present your findings from this moudle's practitioner inquiry.
 
 
 ### Mentors
 
-The ECT does not have any self-study materials this week. Instead, they should present to you their findings from this moudle’s practitioner inquiry.
+The ECT does not have any self-study materials this week. Instead, they should present to you their findings from this moudle's practitioner inquiry.
 
 [View mentor materials](/ucl/year-2-inquiry-into-engaging-pupils-in-learning/autumn-week-6-mentor-materials)

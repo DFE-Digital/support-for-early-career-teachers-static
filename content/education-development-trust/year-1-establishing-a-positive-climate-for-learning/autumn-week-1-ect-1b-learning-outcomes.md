@@ -6,7 +6,7 @@ next_title: "1b Evidence"
 next_path: "/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-1-ect-1b-evidence"
 ---
 
-### Learn that:
+## Learn that:
 
 - Teachers have the ability to affect and improve the wellbeing, motivation and behaviour of their pupils.
 - Teachers are key role models, who can influence the attitudes, values and behaviours of their pupils.
@@ -15,7 +15,7 @@ next_path: "/education-development-trust/year-1-establishing-a-positive-climate-
   -A culture of mutual trust and respect supports effective relationships.
 - Building effective relationships is easier when pupils believe that their feelings will be considered and understood.
 
-### Learn how to develop a positive, predictable and safe environment for pupils, by:
+## Learn how to develop a positive, predictable and safe environment for pupils, by:
 
 - Responding quickly to any behaviour or bullying that threatens emotional safety.
 

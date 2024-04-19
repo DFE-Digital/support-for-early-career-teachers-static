@@ -4,7 +4,7 @@ heading: "First half-term: enhancing classroom practice - grouping and tailoring
 caption: "Year 2"
 ---
 
-In this module you’ll enhance your teaching effectiveness by learning advanced group and pair working skills.
+In this module you'll enhance your teaching effectiveness by learning advanced group and pair working skills.
 
 ## Module introduction
 
@@ -17,7 +17,7 @@ Duration: 5 minutes.
 
 ### Mentors
 
-There’s no catch-up with the ECT this week. You just need to watch the brief video introduction to the module.
+There's no catch-up with the ECT this week. You just need to watch the brief video introduction to the module.
 
 ## Week 1
 
@@ -30,7 +30,7 @@ There are no mentor activities this week.
 
 ## Week 2: pupil grouping and homework
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -45,7 +45,7 @@ Duration: 30 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 - briefly watch them teach
 
@@ -53,7 +53,7 @@ For this topic you should:
 
 ## Week 3: grouping pupils
 
-For this topic you’ll need to:
+For this topic you'll need to:
 
 - work through the self-study materials below
 - catch up with your mentor
@@ -67,7 +67,7 @@ Duration: 20 minutes.
 
 For this topic you should:
 
-- read the ECT’s study materials below
+- read the ECT's study materials below
 - catch up with your ECT
 - briefly watch them teach
 
@@ -78,7 +78,7 @@ There are no self-study materials this week. Instead, your mentor will lead the 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-4-mentor-materials)
 
@@ -89,7 +89,7 @@ There are no self-study materials this week. Instead, your mentor will lead the 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT doesn't have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-5-mentor-materials)
 
@@ -101,13 +101,13 @@ Duration: 30 minutes.
 
 ### Mentors
 
-Use the materials below to help you plan a discussion with the ECT about what they’ve learnt during this module.
+Use the materials below to help you plan a discussion with the ECT about what they've learnt during this module.
 
 [View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-6-mentor-materials)
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
+Use this time to take some high-level notes on what you've learnt in this module. Also note down any related areas you'd like to strengthen in future.
 
 Duration: 5 minutes.
 

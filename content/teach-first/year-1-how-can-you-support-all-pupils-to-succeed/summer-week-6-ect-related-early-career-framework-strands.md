@@ -4,11 +4,11 @@ previous_title: "Theory"
 previous_path: "/teach-first/year-1-how-can-you-support-all-pupils-to-succeed/summer-week-6-ect-theory"
 ---
 
-### Adaptive teaching
+## Adaptive teaching
 
 5.1 Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.
 
-5.2 Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
+5.2 Seeking to understand pupils' differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
 
 5.3 Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success.
 
@@ -28,7 +28,7 @@ _5e. Adapting lessons, whilst maintaining high expectations for all, so that all
 
 _5g. Making effective use of teaching assistants._
 
-### Professional behaviours
+## Professional behaviours
 
 8.5 Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers.
 
@@ -36,6 +36,6 @@ _5g. Making effective use of teaching assistants._
 
 _8g. Seeking ways to support individual colleagues and working as part of a team._
 
-_8h. Communicating with parents and carers proactively and making effective use of parents’ evenings to engage parents and carers in their children’s schooling._
+_8h. Communicating with parents and carers proactively and making effective use of parents' evenings to engage parents and carers in their children's schooling._
 
 _8n. Understanding the right to support (e.g. to deal with misbehaviour)._
