@@ -34,6 +34,8 @@ In this module you’ll cover:
 
 ## Year 2
 
+### ECTs
+
 Use the Year 1 materials again.
 
 You should:
@@ -41,3 +43,14 @@ You should:
 - complete any unfinished modules
 - explore any further reading you missed
 - revisit the modules you find most useful for your own learning and development
+
+### Induction tutors
+
+Use the materials below to arrange 6 training sessions for your ECTs, one per half term.
+
+- Training session 7 - Pupil wellbeing
+- Training session 8 - Implementing change: Prepare
+- Training session 9 - Support and interventions
+- Training session 10 - Implementing change: Deliver
+- Training session 11 - Early literacy 2
+- Training session 12 - Implementing change: Sustain
