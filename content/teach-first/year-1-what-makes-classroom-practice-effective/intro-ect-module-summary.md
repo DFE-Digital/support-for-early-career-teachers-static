@@ -14,7 +14,7 @@ Listen to Claire Stoneman, educational writer and former deputy head, talk about
 
 Record your response in your notepad.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BfGBvCs0aHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BfGBvCs0aHc" title="What makes classroom practice effective - Claire Stoneman - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 What makes classroom practice effective? – Claire Stoneman
 

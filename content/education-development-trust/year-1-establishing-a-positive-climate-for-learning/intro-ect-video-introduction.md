@@ -12,7 +12,7 @@ previous_path: "/education-development-trust/year-1-establishing-a-positive-clim
 
 Watch the video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i1ESaVcFPoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i1ESaVcFPoA" title="1.1 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

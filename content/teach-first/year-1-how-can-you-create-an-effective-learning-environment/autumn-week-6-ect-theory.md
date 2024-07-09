@@ -55,25 +55,25 @@ Watch the video below of a teacher using ‘Everybody Writes’ or talk partners
 
 #### Talk partners – Early Years – Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/56JL9UMdbq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56JL9UMdbq4" title="Talk partners – Early Years at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Talk partners – Early Years [AD]](https://youtu.be/wK4JdJkTjzU)
 
 #### Talk partners - Primary - Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KJzNaJhNmyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KJzNaJhNmyg" title="Talk partners – Primary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Talk partners - Primary [AD]](https://youtu.be/qjzKUbQXXoA)
 
 #### Talk partners – Secondary – Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sbtvC-MWa_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sbtvC-MWa_g" title="Talk partners – Secondary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Talk partners – Secondary [AD]](https://youtu.be/L2ulgc_4FFM)
 
 #### Everybody Writes – Secondary - Phil Fowkes at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N1nvdr6f3WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1nvdr6f3WE" title="Everybody Writes – Secondary - Phil Fowkes at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Everybody Writes – Secondary - Phil Fowkes at Reach Academy [AD]](https://youtu.be/FYrmxeqtigo)
 
@@ -114,25 +114,25 @@ record your response in your notepad:
 
 #### Create a positive learning environment where it’s safe to make mistakes – Early Years - Bethan Hughes at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u82niQHXRx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u82niQHXRx0" title="Create a positive learning environment where it's safe to make mistakes - Early Years -  Bethan - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Creating a positive learning environment where it’s safe to make mistakes – Early Years [AD]](https://youtu.be/RUQNCXYPviY)
 
 #### Creating a positive learning environment where it’s safe to make mistakes – Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MqCFPc4q0Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MqCFPc4q0Pc" title="Create a positive learning environment where it’s safe to make mistakes – Primary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Creating a positive learning environment where it’s safe to make mistakes – Primary [AD]](https://youtu.be/KVq-BXz9RJQ)
 
 #### Creating a positive learning environment where it’s safe to make mistakes – Secondary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RxIempfCKC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RxIempfCKC4" title="Create a positive learning environment where it’s safe to make mistakes – Secondary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Creating a positive learning environment where it’s safe to make mistakes – Secondary [AD]](https://youtu.be/tSsRs7VVJPI)
 
 #### Create a positive learning environment where it’s safe to make mistakes – Specialist setting - Helen Colley at Ellen Tinkham School
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AZP7zm7vvWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZP7zm7vvWQ" title="Create a positive learning environment where it's safe to make mistakes – Specialist setting - Ellen - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Creating a positive learning environment where it’s safe to make mistakes – Specialist setting [AD]](https://youtu.be/3QAbFn6_hkQ)
 
@@ -230,11 +230,11 @@ Choose one of the videos below to hear how teachers developed pupils’ intrinsi
 
 #### Developing pupils’ intrinsic motivation - Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H8Ijg9_fly4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H8Ijg9_fly4" title="Developing pupils' intrinsic motivation - Primary - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Developing pupils’ intrinsic motivation - Secondary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NR15c0n5WUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NR15c0n5WUA" title="Developing pupils' intrinsic motivation - Secondary - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video Transcript.

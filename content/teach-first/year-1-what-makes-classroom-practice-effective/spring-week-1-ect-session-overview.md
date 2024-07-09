@@ -18,7 +18,7 @@ Listen to Claire Stoneman share her knowledge of retrieval practice and what thi
 - why is it useful for pupils to actively recall information?
 - what are two ways that you could incorporate retrieval practice into your
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0sk2F9lgS_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0sk2F9lgS_s" title="The importance of retrieval   Claire Stoneman - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The importance of retrieval - Claire Stoneman
 

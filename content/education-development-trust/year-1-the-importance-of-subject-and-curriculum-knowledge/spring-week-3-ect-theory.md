@@ -112,7 +112,7 @@ Watch this video of a literacy expert explaining systematic synthetic phonics pr
 
 - What is a systematic synthetic phonics programme?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_MDygeyv464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_MDygeyv464" title="4.3 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

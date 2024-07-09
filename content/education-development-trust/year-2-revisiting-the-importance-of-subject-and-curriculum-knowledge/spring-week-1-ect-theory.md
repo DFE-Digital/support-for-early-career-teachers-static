@@ -39,7 +39,7 @@ Watch this video of a Year 5 teaching team (2 teachers) planning their next term
 - How do they plan to revisit the big ideas over time?
 - How do the teachers plan to reference what pupils already know?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QfEfPgchhGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QfEfPgchhGA" title="10.2 - A planning meeting - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

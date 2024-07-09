@@ -6,7 +6,7 @@ title: "Module summary"
 
 Watch the video below to hear Reuben Moore, Executive Director of Programme Development at Teach First, provide more information about the purpose of the Early Career Framework.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FgX9QgM2oyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgX9QgM2oyA" title="What is the purpose of the Early Career Framework? - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Effective learning environments
 
@@ -27,7 +27,7 @@ Watch the video below to hear Tom Bennett, behaviour advisor to the Department f
 - why are consequences important?
 - what are effective learning environments and why are they important?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xrOcoxBairA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xrOcoxBairA" title="What are effective learning environments and why are they so critical to all pupils    Tom Bennett - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

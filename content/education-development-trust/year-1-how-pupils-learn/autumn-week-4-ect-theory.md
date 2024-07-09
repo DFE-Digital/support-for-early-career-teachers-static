@@ -39,7 +39,7 @@ Teacher 3 (Primary, Year 2)
 - How do the teachers decide on which key facts would be beneficial in pupils’ long-term memory?
 - How do they take prior knowledge into account?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TPHPtWbx2tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TPHPtWbx2tU" title="2.3 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
