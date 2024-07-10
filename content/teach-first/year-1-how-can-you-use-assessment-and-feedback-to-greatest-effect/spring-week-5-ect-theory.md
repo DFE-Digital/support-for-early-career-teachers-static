@@ -31,7 +31,7 @@ Watch the following video of Stuart Kime from Evidence Based Education as he exp
 
 Record any notes in your notebook.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g1GGBSpgQnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1GGBSpgQnI" title="Peer and self assessment   Professor Stuart Kime at Evidence Based Education - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -65,7 +65,7 @@ Hear from fellow teachers as they explain how they have established peer and sel
 
 #### Self and peer assessment - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lpplLFmim9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lpplLFmim9c" title="Self and peer assessment - Early Years - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.
@@ -80,7 +80,7 @@ To support the development of peer-assessment, each week we have a whole class w
 
 #### Self and peer assessment - Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/APUTP8nVJsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APUTP8nVJsI" title="Self and peer assessment - Primary - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -95,7 +95,7 @@ After receiving feedback from their peers or an adult, the pupils then used a co
 
 {/details}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-HdsQTzwHeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-HdsQTzwHeg" title="Self and peer assessment - Secondary - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

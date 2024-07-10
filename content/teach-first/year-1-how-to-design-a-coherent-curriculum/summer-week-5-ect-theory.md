@@ -20,7 +20,7 @@ You were introduced to how you could use teacher input, guided practice and inde
 
 Watch the video of either Emily (Primary and Secondary) or Maria (Early Years) talking through how they developed pupils’ knowledge over the course of scheme of work.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W2JV2Oh2ORQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2JV2Oh2ORQ" title="Developing pupils' knowledge throughout a scheme of work -  Emily Maule at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Developing pupils’ knowledge throughout a scheme of work – Emily Maule
 

@@ -36,7 +36,7 @@ Adaptive teaching means being responsive to learners’ needs. This includes pro
 
 Listen and make notes as Katherine Fas talks about how she has prepared for and implemented adaptive teaching. You will then be asked to identify and recall at least four strategies that Katherine mentions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6B-fLFPsZvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6B-fLFPsZvc" title="Adaptive teaching   Katherine Fas at Teach First - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Adaptive teaching – Katherine Fas
 

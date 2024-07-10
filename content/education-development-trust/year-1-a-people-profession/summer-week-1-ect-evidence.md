@@ -30,7 +30,7 @@ Opening up a dialogue with parents, carers and families can support pupil learni
 - Keeping workload in mind, which ways are easier than others?
 - Are there any that you could use with your classes?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0b4RDtVAa0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0b4RDtVAa0o" title="6.2 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -120,7 +120,7 @@ Watch the following video and consider the way in which the two teachers approac
 - How does the teacher plan for parents’ evening?
 - How do they manage the conversation to make best use of their time?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vBKCgzaaZ9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBKCgzaaZ9g" title="6.2 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -204,7 +204,7 @@ Watch this video of a primary teacher talking about how they get to know the par
 
 What steps does the teacher take to build a relationship with the parents/carers?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W4V-tHVzryc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W4V-tHVzryc" title="6.2 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

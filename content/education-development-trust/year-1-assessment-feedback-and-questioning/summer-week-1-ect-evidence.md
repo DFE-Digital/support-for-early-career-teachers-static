@@ -132,7 +132,7 @@ Watch this video of teachers talking about what they do to reduce time used on a
 
 There are lots of different strategies mentioned in the video. Note them down as you listen.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0q8c448TXe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0q8c448TXe8" title="5.2 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -200,7 +200,7 @@ Watch the video below and consider:
 
 Watch this video of teachers explaining how they provide opportunities for pupils to act on feedback.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mSsapIMZPCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSsapIMZPCg" title="5.2 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

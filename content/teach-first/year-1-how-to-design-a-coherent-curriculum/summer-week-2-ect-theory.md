@@ -25,7 +25,7 @@ As you watch, consider the following questions and write your answers down:
 - do you agree with the rationale for the positioning of this scheme of
   learning in the broader curriculum?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YHHrUV7NXbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YHHrUV7NXbo" title="Fitting a scheme of work into the broader sequence of the curriculum - Emily Maule at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Fitting a scheme of work into the broader sequencing of your curriculum – Emily Maule
 
@@ -108,7 +108,7 @@ We also need to teach pupils Tier 3 subject specific vocabulary like “tectonic
 
 Listen to Maria or Emily talk through how they identified the foundational concepts, knowledge and skills of their schemes of work.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j2LjwJK3tP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j2LjwJK3tP4" title="Identifying the foundational knowledge -  Emily Maule at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Identifying the foundational knowledge – Emily Maule
 

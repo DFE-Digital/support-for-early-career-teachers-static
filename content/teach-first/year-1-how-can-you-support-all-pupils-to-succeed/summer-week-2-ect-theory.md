@@ -35,7 +35,7 @@ Listen to Ruth Everett, an English and Literacy consultant, talk in more detail 
 - how can the Simple View of Reading help you to support pupils who are
   struggling?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xiWXNGFu_PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xiWXNGFu_PA" title="How do pupils learn to read  – Ruth Everett at the Driver Youth Trust - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 How do pupils learn to read – Ruth Everett
 
@@ -78,7 +78,7 @@ Teaching phonics supports pupils with their reading and spelling, as it enables 
 
 If you wish, you can watch Sophie teaching phonics to year 2 pupils to see what it looks like in practice.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TCpfviPQBco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCpfviPQBco" title="Teaching phonics – Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Teaching phonics - Reach Academy
 If you require an audio description over the video, please watch this version: [Teaching phonics - Reach Academy [AD]](https://youtu.be/vCcd9DErBqQ)
@@ -154,7 +154,7 @@ Listen to Kelly Challis discuss shared reading. Consider the following questions
 - why is it important for parents to read with their children?
 - how can you support parents to read with their children?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4LCWdxj2e4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4LCWdxj2e4c" title="Shared reading   Kelly Challis at the Driver Youth Trust - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Shared reading – Kelly Challis
 
@@ -230,7 +230,7 @@ In your next training session, you will explore how to teach comprehension and h
 - why is writing challenging?
 - how can you support pupils’ writing?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BqeeTUMwvMU](https://youtu.be/BqeeTUMwvMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqeeTUMwvMU](https://youtu.be/BqeeTUMwvMU" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Teaching writing – Ruth Everett
 
