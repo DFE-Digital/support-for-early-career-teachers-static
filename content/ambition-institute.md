@@ -48,9 +48,9 @@ You should:
 
 Use the materials below to arrange 6 training sessions for your ECTs, one per half term.
 
-- Training session 7 - Pupil wellbeing
-- Training session 8 - Implementing change: Prepare
-- Training session 9 - Support and interventions
-- Training session 10 - Implementing change: Deliver
-- Training session 11 - Early literacy 2
-- Training session 12 - Implementing change: Sustain
+- [Training session 7 - Pupil wellbeing](/ambition-institute/autumn-training-session-7)
+- [Training session 8 - Implementing change: Prepare](/ambition-institute/autumn-training-session-8)
+- [Training session 9 - Support and interventions](/ambition-institute/spring-training-session-9)
+- [Training session 10 - Implementing change: Deliver](/ambition-institute/spring-training-session-10)
+- [Training session 11 - Early literacy 2](/ambition-institute/summer-training-session-11)
+- [Training session 12 - Implementing change: Sustain](/ambition-institute/summer-training-session-12)

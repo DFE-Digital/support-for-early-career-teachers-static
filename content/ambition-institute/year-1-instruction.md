@@ -4,11 +4,20 @@ heading: "Instruction"
 caption: "Year 1"
 ---
 
-In this module you’ll cover:
+## ECTs
 
+In this module you’ll cover:
 - the link between effective instruction and pupil learning
 - the elements of explicit instruction and the ‘I-we-you’ model as a useful way of approaching this
 - how instruction can support more effective pupil thinking
+
+## Induction tutors
+
+Use the materials below to arrange 2 training sessions for your ECTs, one per half term.  
+
+- [Training session 3 - Building effective relationships with parents and carers](/ambition-institute/spring-training-session-3) 
+
+- [Training session 4 - Adapting teaching for pupils](/ambition-institute/spring-training-session-4)
 
 ## Week 1: module overview and re-contracting
 

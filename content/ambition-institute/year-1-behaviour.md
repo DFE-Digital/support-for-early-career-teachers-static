@@ -4,11 +4,20 @@ heading: "Behaviour"
 caption: "Year 1"
 ---
 
-In this module you’ll cover:
+## ECTs
 
+In this module you’ll cover:
 - how to establish an effective learning environment
 - how to effectively manage behaviour
 - the importance of holding and promoting high expectations for all pupils
+
+## Induction tutors
+
+Use the materials below to arrange 2 training sessions for your ECTs, one per half term.
+
+- [Training session 1 - Supporting all pupils](/ambition-institute/autumn-training-session-1)
+
+- [Training session 2 - Responding to challenging behaviour]((/ambition-institute/autumn-training-session-2))
 
 ## Week 1: module overview and contracting
 
