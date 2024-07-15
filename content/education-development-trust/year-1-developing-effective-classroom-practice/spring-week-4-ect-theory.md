@@ -39,7 +39,7 @@ Watch this video of a teacher talking about how he goes about understanding what
 What are the practical strategies the teacher uses?
 How does it inform his approach?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jbPElQN4ZIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbPElQN4ZIo" title="3.4 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

@@ -67,7 +67,7 @@ Watch this video of a class getting started on a task in the classroom.
 - What does the teacher do?
 - What is the impact of this?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/glE2AoL1P4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glE2AoL1P4A" title="1.2.7 Praising positive behaviour - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.

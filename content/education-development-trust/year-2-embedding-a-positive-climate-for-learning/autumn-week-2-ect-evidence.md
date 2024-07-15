@@ -125,7 +125,7 @@ Watch this video of a school leader talking about how they support development o
 - What is the purpose of the rewards offered?
 - Which strategies could you take into your lessons and use?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o00ghgg_8WQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o00ghgg_8WQ" title="7.2 - Extrinsic motivation - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

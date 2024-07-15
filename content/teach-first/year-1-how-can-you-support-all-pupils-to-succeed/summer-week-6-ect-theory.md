@@ -103,7 +103,7 @@ However, it is often forgotten that the pupil themselves is the most important s
 
 In the video below, listen to Kelly Challis from the Driver Youth Trust, as she explains how engaging with stakeholders can make a huge difference in your ability to support a pupil with SEND.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oEzIuComD4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oEzIuComD4s" title="Working with Stakeholders   Kelly Challis at the Driver Youth Trust - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Working with Stakeholders – Kelly Challis
 
@@ -231,7 +231,7 @@ Video script - 1. Communication is key.
 
 2. Parent Liane Bunn talks about the challenges her family faced when transitioning her son from nursery to primary school.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UpIb6Nxv_Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UpIb6Nxv_Cw" title="Parent view   Liane Bunn - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Parent view – Liane Bunn
 
@@ -403,7 +403,7 @@ Below are several case studies of teachers who have used the graduated approach 
 
 Autism spectrum condition case study - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8m5T2ao7EoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8m5T2ao7EoI" title="Autism spectrum condition case study   Hannah Beaumont at Exceed Academies Trust - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Autism spectrum condition case study – Early Years
 
@@ -460,7 +460,7 @@ The process of assess, plan, do, review, is continually used to shape the suppor
 
 ### Cognition and learning needs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eJPlqUYsGDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJPlqUYsGDU" title="Barriers to reading case study – Primary at Northern Education Trust - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Barriers to reading case study – Primary
 
@@ -543,7 +543,7 @@ to consider the following questions:
 
 Speech and language case study - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JgboW4KQqLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgboW4KQqLM" title="Speech and language case study – Early Years at Exceed Academies Trust - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Speech and language case study - Early Years
 
@@ -715,7 +715,7 @@ the following questions:
 
 ### Social, emotional and mental health
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DOm-7enD_Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DOm-7enD_Nc" title="Attachment and hypervigilence case study   Claire Sullivan at Teach First - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Attachment and hypervigilence case study
 

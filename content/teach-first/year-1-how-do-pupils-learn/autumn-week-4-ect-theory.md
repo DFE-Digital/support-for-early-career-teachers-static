@@ -26,7 +26,7 @@ Partially completed examples are worked examples that have had some steps left b
 #### Worked examples - Benjamin Riley
 Listen to Ben Riley from Deans for Impact talk about why worked examples can be so effective in reducing the risk of overloading the working memory. He also talks through a worked example of how to solve a crossword puzzle, modelling how he would share his thought process aloud as he would do with his pupils.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dhJkSX-BBUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dhJkSX-BBUI" title="Worked examples - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -58,7 +58,7 @@ In this section you will hear from teachers explaining why they have found worke
 #### Using worked examples
 Hear from English Teacher Joseph Craven as he talks through how he incorporated a worked example into an end of unit lesson to support pupils to effectively answer an exam question.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oyduPIjvdvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oyduPIjvdvw" title="Using worked examples - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -125,7 +125,7 @@ Perhaps Priestley intends for the inspector to be defined through his function r
 #### Using partially completed examples
 Hear from Secondary Geography teacher Ashley Philipson as she explains how she used a partially completed example to support her pupils to explain the formation of coastal erosion.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PnRptiWuKns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PnRptiWuKns" title="Using partially completed examples - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script - Ashley Philipson talking about partially completed examples.
@@ -147,7 +147,7 @@ To see worked and partially completed examples in action in the classroom, click
 
 #### Worked and partially completed examples - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vqWkozeHa2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vqWkozeHa2Y" title="Worked and partially completed examples - Early Years - Maria Craster at One Degree Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Worked and partially completed examples – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/WFb14eEu-oY)
 
@@ -155,7 +155,7 @@ If you require an audio description over the video, please watch this version: [
 
 In this KS2 lesson, the teacher builds on the pupils’ prior knowledge of decimals. In writing the sentence for the pupils, the teacher partially completes the example, directing pupil thinking towards the missing numbers and the relationship between them.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HJwwLFAZlZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJwwLFAZlZA" title="Worked and partially completed examples – Primary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Worked and partially completed examples - Primary [AD]](https://youtu.be/bkMnI7yhwm0)
 
@@ -191,7 +191,7 @@ Year 4 place value lesson introducing tenths. Children often enjoy looking for y
 
 In this KS4 lesson, the teacher uses a worked example to demonstrate how to fully answer an exam question. He has created the answer himself and is now talking his pupils through it and sharing his expert reasoning.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9nFJpi46QKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9nFJpi46QKs" title="Worked and partially completed examples – Secondary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Worked and partially completed examples - Secondary [AD]](https://youtu.be/j87mWqgMEq0)
 

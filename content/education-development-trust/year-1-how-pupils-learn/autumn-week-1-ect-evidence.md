@@ -233,7 +233,7 @@ Watch this video of a GCSE Biology lesson. A science teacher is trying to teach 
 - What would this feel like as a pupil?
 - Why do you think the pupils couldn’t answer the question at the end?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ql3JJCkUnao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ql3JJCkUnao" title="2.2.3 - Reducing distractions GCSE Biology Final - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.
@@ -260,7 +260,7 @@ Watch this video of the same GCSE Biology content being taught differently by th
 - How does this affect the pupils’ cognitive load?
 - What do you notice about the levels of understanding in this classroom compared to the first one?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ5jmAg3cbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ5jmAg3cbQ" title="2.2.4 - Reducing distractions GCSE Biology Final - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.

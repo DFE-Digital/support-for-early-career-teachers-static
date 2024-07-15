@@ -66,7 +66,7 @@ To demonstrate how to monitor pupil work effectively for misconceptions by circu
 
 #### Monitoring independent practice - Early Years - Bethan Hughes at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hdR9CZ_Ga7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hdR9CZ_Ga7A" title="Monitoring independent practice - Early Years - Bethan Hughes at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Early Years - Bethan Hughes at Reach Academy [AD]](https://youtu.be/cVOkjP6EcK0)
 
@@ -74,19 +74,19 @@ If you require an audio description over the video, please watch this version: [
 
 In this KS4 Maths lesson, you can see the teacher monitoring pupil work with a focus on anticipating a common misconception around decimals and the interior angles of a quadrilateral.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bzK84wN0iYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzK84wN0iYA" title="Monitoring independent practice   Primary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Primary at Reach Academy [AD]](https://youtu.be/98ptG8Smv-0)
 
 #### Monitoring independent practice - Secondary at Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPuB1MbeQ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPuB1MbeQ2o" title="Monitoring independent practice – Secondary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice - Secondary at Reach Academy [AD]](https://youtu.be/j54awoEwUIY)
 
 #### Monitoring independent practice – Specialist setting - Ellen Tinkham School
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SBeoTfWC0Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SBeoTfWC0Tg" title="Monitoring independent practice – Specialist setting - Ellen Tinkham School - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Monitoring independent practice – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/eT1CgNK_m6A)
 

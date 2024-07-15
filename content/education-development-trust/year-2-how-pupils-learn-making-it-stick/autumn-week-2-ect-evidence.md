@@ -109,7 +109,7 @@ Watch this video of a teacher talking about how they used spaced practice.
 - How are they helping pupils to remember content from last term?
 - Are there ways that you could incorporate spaced practice into your classroom?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NrDDGIX5mA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NrDDGIX5mA0" title="8.2 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

@@ -55,7 +55,7 @@ Use the questions below (adapted from module 4) to help guide your planning of a
 
 Watch the video of Emily (Primary and Secondary) or Maria (Early Years) explain how they sequenced their scheme of work.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WbZk8B9xCHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbZk8B9xCHs" title="Sequencing a scheme of work   Emily Maule at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Sequencing a scheme of work - Emily Maule at Reach Academy
 

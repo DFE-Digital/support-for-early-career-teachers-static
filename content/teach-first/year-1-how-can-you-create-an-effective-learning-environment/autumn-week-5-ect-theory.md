@@ -49,7 +49,7 @@ Watch the video below to hear Tom Bennett discuss this in more detail. Make note
 
 #### The importance of clarity and consistency – Tom Bennett
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eXlJz11L-hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXlJz11L-hI" title="The importance of clarity and consistency   Tom Bennett - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -129,19 +129,19 @@ How is the consequence delivered?
 
 #### Issuing a consequence – Early Years - Maria Craster at One Degree Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eLs3aLf6D90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eLs3aLf6D90" title="Issuing a consequence - Early Years - Maria Craster at One Degree Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Issuing a consequence – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/hbuejQ3a6Yw)
 
 #### Issuing a consequence – Primary – Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ihjfhfkr0uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ihjfhfkr0uo" title="Issuing a consequence – Primary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Issuing a consequence – Primary [AD]](https://youtu.be/bb0vn3Kdlzk)
 
 #### Issuing a consequence – Secondary – Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6CaEyn3_HoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6CaEyn3_HoY" title="Issuing a consequence – Secondary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Issuing a consequence – Secondary [AD]](https://youtu.be/RoVb4n9IRig)
 
@@ -224,7 +224,7 @@ Whilst watching the video, consider the following questions and make notes in yo
   key messages you can convey during these?
 - when is the best time to hold restorative conversations?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ktEzi6NO30k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktEzi6NO30k" title="How do you repair and build relationships    Tom Bennett - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

@@ -70,7 +70,7 @@ Watch this video of a teacher giving pupils short and clear instructions to comp
 
 It is important that we tell pupils our behavioural expectations when they complete a task. This will mean our expectations are clear and pupils know what to do. Watch what the teacher says and does in giving their instructions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EVnct2vAMv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EVnct2vAMv0" title="1.2.2 Giving Instructions and checking understanding - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.
@@ -224,7 +224,7 @@ Watch this video of a teacher explaining techniques they use to quickly remember
 
 Listen to the strategies the teacher uses to learn names quickly and consider what the impact of each one would be.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4SYNHvXhubk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SYNHvXhubk" title="1.2 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

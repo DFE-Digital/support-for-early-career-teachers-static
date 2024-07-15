@@ -42,14 +42,14 @@ the working memory?
 
 #### Introducing new knowledge to pupils - Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CM9jeyC2BdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CM9jeyC2BdI" title="Introducing new knowledge to pupils – Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: <a href="https://youtu.be/Y8wvI_3pUAg" target="_blank" rel="noopener">Introducing new knowledge to pupils - Reach Academy [AD]</a>
 <br>
 
 #### Breaking down complex tasks – Early Years - Maria Craster at One Degree Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xBynqRpjwyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xBynqRpjwyE" title="Breaking down complex tasks - Early Years - Maria Craster at One Degree Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Breaking down complex tasks – Early Years - Maria Craster at One Degree Academy [AD]](https://youtu.be/pQHsB0FxkaE)
 
@@ -57,7 +57,7 @@ If you require an audio description over the video, please watch this version: [
 
 #### Breaking down complex tasks – Primary - Shauna Warnock at One Degree Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EXRCZ-SoRaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXRCZ-SoRaA" title="Breaking down complex tasks or ideas - Primary - Shauna Warnock at One Degree Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Breaking down complex tasks – Primary - Shauna Warnock at One Degree Academy [AD]](https://youtu.be/PnCgen50xwQ)
 
@@ -65,7 +65,7 @@ If you require an audio description over the video, please watch this version: [
 
 #### Breaking down complex tasks – Specialist setting - Ellen Tinkham School
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m12qNCnKHLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m12qNCnKHLg" title="Breaking down complex tasks – Specialist setting - Ellen Tinkham School - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Breaking down complex tasks – Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/rFGTqT6D45g)
 
@@ -100,7 +100,7 @@ This course took advantage of this principle when you were introduced to the Wil
 
 Listen to teacher Jon Hutchinson talk about how he has learnt to effectively combine verbal explanations and graphical representation in order to support teaching and learning.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l8oGAk2_IM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l8oGAk2_IM8" title="Combining verbal and graphical representations   Jon Hutchinson - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -119,7 +119,7 @@ See some phase specific examples in action:
 
 This Early Years teacher is using graphics to support her explanation of how to do ‘good sitting’ on the carpet.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RiaMqgvJuCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RiaMqgvJuCY" title="Combining verbal and graphical representations – Early Years at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Early Years [AD]](https://youtu.be/ACQe5bDwYtM)
 
@@ -127,7 +127,7 @@ If you require an audio description over the video, please watch this version: [
 
 This KS2 teacher uses a timeline to help place the Vikings in their historical context.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DdJegB7Ltok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DdJegB7Ltok" title="Combining verbal and graphical representations – Primary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Primary [AD]](https://youtu.be/8i5Y_F_07ds)
 
@@ -135,13 +135,13 @@ If you require an audio description over the video, please watch this version: [
 
 See how the teacher helps organise pupil thinking and makes connections using a diagram in this KS3 science lesson.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iEG82OMp9Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iEG82OMp9Nc" title="Combining verbal and graphical representations – Secondary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representation - Secondary [AD]](https://youtu.be/cSblnDhG2rA)
 
 #### Combining verbal and graphical representations - Specialist setting
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8W_nYqvHhP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8W_nYqvHhP0" title="Combining verbal and graphical representations - Specialist setting - Ellen Tinkham School - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Combining verbal and graphical representations - Specialist setting - Ellen Tinkham School [AD]](https://youtu.be/36Ta6gK0vGw)
 

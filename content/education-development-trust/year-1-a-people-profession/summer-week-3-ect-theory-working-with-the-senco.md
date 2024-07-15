@@ -131,7 +131,7 @@ As we have seen, many people in the school community can help you understand bar
 
 Watch this video to hear a SENCO talk about their role.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UXCnVBFW2-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UXCnVBFW2-0" title="6.4 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

@@ -16,7 +16,7 @@ Watch the video of a teacher talking about how they establish their routines wit
 - How do they teach the routines? What information do they give pupils?
 - Is there anything that you can take to use in your practice?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/snUwV3K8rxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snUwV3K8rxU" title="1.3 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -76,7 +76,7 @@ Watch this video of a teacher and their mentor talking about a routine they want
 
 You should work with your mentor to get support with ensuring routines fit school policy or if you are struggling with embedding any of your routines.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hsq3T4PBb9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hsq3T4PBb9Q" title="1.3 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -173,7 +173,7 @@ Watch this video. In it, pupils do not follow the required routine (entering the
 
 When routines do not go to plan, they need to be re-taught.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/35NaB4fWOB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/35NaB4fWOB4" title="1.2.6 Reteaching routines - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.

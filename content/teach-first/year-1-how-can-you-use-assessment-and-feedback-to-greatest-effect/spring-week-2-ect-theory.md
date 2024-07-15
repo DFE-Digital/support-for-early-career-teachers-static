@@ -29,7 +29,7 @@ Select the video(s) that you feel are appropriate to your development. You can m
 
 #### Planned assessment opportunities - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XbnDpntOks8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbnDpntOks8" title="Planned assessment opportunities – Early Years - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -76,7 +76,7 @@ This evidence is only recorded when it is necessary. My knowledge of the childre
 
 #### Planned assessment opportunities - Primary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G76i_hc6wWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G76i_hc6wWY" title="Planned assessment opportunities – Primary - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -111,7 +111,7 @@ about them when I teach.  {/details}
 
 #### Planned assessment opportunities - Secondary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xnfGkXTXMGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xnfGkXTXMGU" title="Planned assessment opportunities - Secondary - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
@@ -197,7 +197,7 @@ In the clip below, you will see a primary teacher ask a hinge question around mo
 
 #### Anticipating misconceptions - Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bifSUpxDS7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bifSUpxDS7U" title="Anticipating misconceptions – Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Anticipating misconceptions - Reach Academy [AD]](https://youtu.be/auiWIjL_lRo)
 

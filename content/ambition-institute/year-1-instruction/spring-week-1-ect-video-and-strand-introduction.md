@@ -4,7 +4,7 @@ next_title: "Strand overview"
 next_path: "/ambition-institute/year-1-instruction/spring-week-1-ect-strand-overview"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eoh_U0BKvBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eoh_U0BKvBU" title="I1 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

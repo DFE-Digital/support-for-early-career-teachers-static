@@ -69,19 +69,19 @@ As you watch, notice how the teacher uses both acknowledgement (to highlight whe
 
 #### Precise praise and acknowledgement - Early Years
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnpGwCjYCFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnpGwCjYCFE" title="Precise praise and acknowledgement - Early Years - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Precise praise and acknowledgement - Early Years [AD]](https://youtu.be/VDL0JJPlnBw)
 
 #### Precise praise – Primary – Reach Academy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fOhpOCVrYbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOhpOCVrYbQ" title="Precise praise – Primary at Reach Academy - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you require an audio description over the video, please watch this version: [Precise praise – Primary [AD]](https://youtu.be/hhKtDCB-he8)
 
 #### Acknowledgement and precise praise – Specialist setting - Ellen Tinkham School
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nirkX3ld9pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nirkX3ld9pM" title="Acknowledgement and precise praise – Specialist setting - Ellen Tinkham School - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Reflection
 
@@ -114,7 +114,7 @@ Building effective relationships is easier when pupils believe that their feelin
 - How are feelings linked to behaviour?
 - How can you help pupils to self-regulate their emotions and consequently, their behaviour?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/didSxbidJWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/didSxbidJWU" title="Empathy based classrooms - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
