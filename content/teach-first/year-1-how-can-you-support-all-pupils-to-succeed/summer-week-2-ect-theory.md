@@ -230,7 +230,7 @@ In your next training session, you will explore how to teach comprehension and h
 - why is writing challenging?
 - how can you support pupils’ writing?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BqeeTUMwvMU](https://youtu.be/BqeeTUMwvMU" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqeeTUMwvMU" title="Teaching writing Ruth Everett at the Driver Youth Trust - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Teaching writing – Ruth Everett
 
