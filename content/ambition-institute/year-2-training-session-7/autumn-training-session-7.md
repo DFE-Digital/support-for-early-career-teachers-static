@@ -13,7 +13,7 @@ Duration: 90 minutes
 3. Know that setting high expectations for all pupils promotes engagement and motivation in lessons.
 4. Understand that a predictable and secure learning environment benefits all pupils, and is particularly valuable for those with SEN.
 5. Know the importance of engaging and working with parents and carers to improve and track pupil motivation, behaviour and academic success.
-6. Know the importance of engaging and working with the SENCO, pastoral leaders or DSL to access valuable expertise and to ensure appropriate support is available for pupils.
+6. Know the importance of engaging and working with the Special Educational Needs Co-ordinator (SENCO), pastoral leaders or DSL to access valuable expertise and to ensure appropriate support is available for pupils.
 
 ## Preparation
 
@@ -23,7 +23,7 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation (EEF): Healthy Minds](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/developing-healthy-minds-in-teenagers/)
 - [Education Endowment Foundation (EEF): Social and emotional learning](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/social-and-emotional-learning)
 - [Education Endowment Foundation (EEF): Working with Parents to Support Children’s Learning](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/supporting-parents)
-- [Department for Education: Keeping children safe in education](https://www.gov.uk/government/publications/keeping-children-safe-in-education—2)
+- [Department for Education: Keeping children safe in education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2)
 - [Education Endowment Foundation (EEF): Special education needs and disabilities](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/special-educational-needs-and-disabilities-send)
 
 Before this session takes place, early career teachers (ECTs) should have the following.
@@ -83,10 +83,10 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 ### ECF 'Learn how to’ statements covered:
 
 Communicate a belief in the academic potential of all pupils by:
-- 1d Seeking opportunities to engage parents and carers in the education of their children (e.g. proactively highlighting successes) with support from expert colleagues to understand how this engagement changes depending on the age and development stage of the pupil.
+- 1d Seeking opportunities to engage parents and carers in the education of their children (for example, proactively highlighting successes) with support from expert colleagues to understand how this engagement changes depending on the age and development stage of the pupil.
 
 Develop an understanding of different pupil needs by:
-- 5c Working closely with the Special Educational Needs Co-ordinator (SENCO) and special education professionals and the Designated Safeguarding Lead.
+- 5c Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead.
 
 Group pupils effectively by:
 - 5m Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum.

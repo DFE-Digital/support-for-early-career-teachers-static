@@ -27,11 +27,11 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation: Preparing for Literacy](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-early-years)
 - [Principles of Instruction: Research-Based Strategies That All Teachers Should Know](https://www.aft.org/sites/default/files/Rosenshine.pdf)
 - [Education Endowment Foundation (EEF): Working with Parents to Support Children’s Learning](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/supporting-parents)
-- Education Endowment Foundation (EEF): Reading comprehension strategies](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies)
+- [Education Endowment Foundation (EEF): Reading comprehension strategies](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies)
 
 Before this session takes place, early career teachers (ECTs) should have the following.
-1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
-2. Information on the science of learning and the five habits of planning.
+1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
+2. Information on the science of learning and the 5 habits of planning.
 3. School input as needed.
 4. Relevant conversations with colleagues.
 
@@ -52,7 +52,7 @@ Provide a relevant recap on previously taught content. Set up the norms for this
 This time can be used to make sure all ECTs understand why this session is relevant to them.
 
 Reasons include:
-- it's an Early Careers Framework requirement
+- it's an early careers framework requirement
 - all subjects benefit from improved literacy skills
 - learning adaptable techniques for older pupils
 - providing a consistent approach across phases
@@ -86,7 +86,7 @@ You could:
 - model how expert readers comprehend texts 
 
 
-Action planning and next steps (10 minutes) 
+### Action planning and next steps (10 minutes) 
 
 This section provides ECTs with time for reflection, quizzing, and action steps. You can also look ahead to the next training steps.  
 

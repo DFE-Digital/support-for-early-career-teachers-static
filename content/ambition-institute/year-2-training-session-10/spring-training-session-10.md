@@ -8,7 +8,7 @@ Duration: 90 minutes
 
 ## Outcomes
 
-1. Identify a specific strategy or approach ECTs will use to implement change and articulate the desired outcomes.
+1. Identify a specific strategy or approach early career teachers (ECTs) will use to implement change and articulate the desired outcomes.
 2. Understand the importance of engaging criticality with research and discussing evidence with colleagues to identify the ‘active ingredients’ of the strategy or approach they’ll use.
 3. Plan how they’ll implement the strategy or approach they’ve selected.
 4. Learn that implementing change is a learning process, and it’s important to monitor the impact of new strategies and practices.
@@ -28,9 +28,9 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation (EEF) blog: Retrieval practice: a game of ‘hide and seek’](https://educationendowmentfoundation.org.uk/news/retrieval-practice-a-game-of-hide-and-seek)
 - [Education Endowment Foundation (EEF): Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation)
 
-Before this session takes place, early career teachers (ECTs) should have the following. 
+Before this session takes place, ECTs should have the following. 
 
-1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
+1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 2. School input as needed. 
 3. Relevant conversations with colleagues.
 4. A link to the [Education Endowment Foundation’s website for evidence-informed guidance for developing pedagogical and subject knowledge](https://educationendowmentfoundation.org.uk/).
@@ -49,7 +49,8 @@ You could:
 - consider the strengths and weaknesses of the different strategies or approaches they’ve considered to solve the problem they identified and develop their practice further
 - encourage ECTs to share their strategy or approach in pairs or groups and discuss how they decided on this strategy or approach, and how this strategy will help them to address the area of weakness they identified
 - ask ECTs to share any research and evidence they engaged with critically which has helped them to reach this decision
-- Identifying the active ingredients (20 minutes)
+
+### Identifying the active ingredients (20 minutes)
 
 You could:
 - revisit the term ‘active ingredients’, identifying the essential principles and practices that need to be adopted for their strategy or approach

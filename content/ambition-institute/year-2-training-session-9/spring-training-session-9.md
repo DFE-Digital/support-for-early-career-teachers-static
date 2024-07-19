@@ -8,7 +8,7 @@ Duration: 90 minutes
 
 ## Outcomes
 
-1. Know how to work effectively with the SENCO, other professionals, pupils, parents and carers to identify and support pupils with Speech, Language and Communication Needs (SCLN), autism and dyslexia.
+1. Know how to work effectively with the Special Educational Needs Co-ordinator (SENCO), other professionals, pupils, parents and carers to identify and support pupils with Speech, Language and Communication Needs (SCLN), autism and dyslexia.
 2. Understand how to effectively plan and use strategies that support pupils with SCLN, autism and dyslexia.
 3. Adapt teaching responsively in ways that increase the achievement of pupils with SCLN, autism and dyslexia.
 4. Work effectively in collaboration with teaching assistants and external specialist staff to support pupils with SCLN, autism and dyslexia.
@@ -67,7 +67,7 @@ You could also recap the following content from training session 1 on supporting
 - taking a graduated approach to SEND provision
 - the tiered support model
 
-### Speech, Language & Communication Needs (20 minutes)
+### Speech, Language and Communication Needs (20 minutes)
 
 You could:
 - outline the common difficulties children with SLCN experience and what their needs might be
@@ -105,7 +105,7 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 ### ECF 'Learn how to’ statements covered:
 
 Develop an understanding of different pupil needs by:
-- 5.c: Working closely with the Special Educational Needs Co-ordinator (SENCO) and special education professionals and the Designated Safeguarding Lead
+- 5.c: Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead
 - 5.d: Using the SEND Code of Practice, which provides additional guidance on supporting pupils with SEND effectively.
 
 Provide an opportunity for all pupils to experience success by:

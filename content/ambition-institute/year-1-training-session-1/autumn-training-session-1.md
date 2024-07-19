@@ -66,7 +66,7 @@ You could:
 You could:
 - introduce the ‘graduated approach’ to supporting pupils with SEND as recommended by the code of practice
 - explore working with the SENCO, the DSL, parents, carers and the pupil to build a holistic picture of pupils with SEND, including identifying their prior knowledge and any potential barriers to learning
-- Discuss needs versus diagnosis to emphasise that understanding a pupils’ learning needs is usually more important than a diagnosis when planning support in the classroom
+- discuss needs versus diagnosis to emphasise that understanding a pupils’ learning needs is usually more important than a diagnosis when planning support in the classroom
 
 ### Graduated approach - plan, do and review (30 minutes)
 
@@ -95,7 +95,7 @@ ECF 'Learn that’ statements covered
 
 Develop an understanding of different pupil needs by:
 - 5b. Making use of formative assessment.
-- 5c. Working closely with the Special Educational Needs Co-ordinator (SENCO) and special education professionals and the Designated Safeguarding Lead.
+- 5c. Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead.
 - 5d. Using the SEND code of practice, which provides additional guidance on supporting pupils with SEND effectively.
 
 Provide opportunity for all pupils to experience success by:

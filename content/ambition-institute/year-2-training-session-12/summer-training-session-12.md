@@ -8,8 +8,8 @@ Duration: 90 minutes
 
 ## Outcomes
 
-1. Reflect on the effectiveness of the strategy or approach the ECT implemented in training session 10 by considering the intended outcomes and success criteria set.
-2. Understand that embedding habits into teaching practice requires planning and practise.
+1. Reflect on the effectiveness of the strategy or approach the early career teacher (ECT) implemented in training session 10 by considering the intended outcomes and success criteria set.
+2. Understand that embedding habits into teaching practice requires planning and practice.
 3. Plan how the strategy or approach implemented could be scaled, for example by applying it to other groups or sharing it with colleagues.
 4. Understand some of the features of high-quality professional development for educators.
 5. Reflect on areas for future professional development.
@@ -18,9 +18,9 @@ Duration: 90 minutes
 
 These resources provide information to support the session plan options below: 
 
-- [Education Endowment Foundation (EEF): Putting Evidence to Work – A School’s Guide to Implementation](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation)
+- [Education Endowment Foundation (EEF): Putting Evidence to Work - A School’s Guide to Implementation](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation)
 - [Education Endowment Foundation (EEF): Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation)
-- (Department for Education: Influence of Teachers’ Reflective Practice on Classroom Teaching and Learning Process)[https://www.gov.uk/research-for-development-outputs/influence-of-teachers-reflective-practice-on-classroom-teaching-and-learning-process]
+- [Department for Education: Influence of Teachers’ Reflective Practice on Classroom Teaching and Learning Process](https://www.gov.uk/research-for-development-outputs/influence-of-teachers-reflective-practice-on-classroom-teaching-and-learning-process)
 - [University of Rochester: Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 - [East: Four simple ways to apply behavioural insights](https://www.bi.team/wp-content/uploads/2015/07/BIT-Publication-EAST_FA_WEB.pdf)
 - [Teacher Development Trust: Developing Great Teaching: Lessons from the international reviews into effective professional development](https://tdtrust.org/about/dgt/)

@@ -11,7 +11,7 @@ Duration: 90 minutes
 1. Learn that synthetic phonics is evidence-based.
 2. Learn that phonics is understanding the relationship between letters and sounds.
 3. Learn that spelling involves segmenting words, and reading involves blending.
-4. Understand that handwriting fluency is developed through overlearning by frequent short doses of practise.
+4. Understand that handwriting fluency is developed through overlearning by frequent short doses of practice.
 5. Learn that handwriting bad habits are difficult to unlearn, so careful monitoring is required.
 6. Learn that oral language skills support the development of reading and writing skills.
 7. Practise modelling, planning, drafting and editing different forms of writing (relevant to their subject and phase).
@@ -32,7 +32,7 @@ These resources provide information to support the session plan options below:
 
 Before this session takes place, early career teachers (ECTs) should have the following. 
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
-2. Information on the science of learning and the five habits of planning.
+2. Information on the science of learning and the 5 habits of planning.
 3. School input as needed. 
 4. Relevant conversations with colleagues.
 
@@ -57,7 +57,7 @@ Set up the norms for this session.
 This time can be used to make sure all ECTs understand why this session is relevant to them.
 
 Reasons include:
-- it's an Early Careers Framework requirement
+- it's an early careers framework requirement
 - all subjects benefit from improved literacy skills
 - learning adaptable techniques for older pupils
 - providing a consistent approach across phases
@@ -78,8 +78,8 @@ You could:
 You could:
 - briefly introduce the development of fine motor control for very young children in their first steps towards writing (describing the development of handling writing tools and mark making, for example)
 - look at how phonic schemes teach letter formation alongside reading and spelling, but handwriting needs to be taught separately
-- state that fluency is developed by overlearning and practicing handwriting, so that working memory is free for generating ideas for writing
-- explain the importance of frequent, small doses of handwriting practise to develop fluency, rather than long repetitive sessions
+- state that fluency is developed by overlearning and practising handwriting, so that working memory is free for generating ideas for writing
+- explain the importance of frequent, small doses of handwriting practice to develop fluency, rather than long repetitive sessions
 - highlight that bad habits can be difficult to un-learn, so careful monitoring is required to encourage pupils to produce letters accurately and efficiently
 - discuss the product versus the process of handwriting
 

@@ -29,7 +29,7 @@ These resources provide information to support the session plan options below:
 - [The Power of Habit tools](https://www.charlesduhigg.com/tools)
 
 Before this session takes place, early career teachers (ECTs) should have the following.
-1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
+1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 2. School input as needed.
 3. Relevant conversations with colleagues.
 
@@ -53,7 +53,7 @@ You could:
 - define the term ‘wellbeing’ as the ability to cope with social, physical and psychological demands through building and sustaining social, physical and psychological resources
 - make the link between developing supportive relationships with colleagues (such as sharing resources, giving support to manage misbehaviour, or shared assessment approaches), and building resources for coping with the demands of school
 - include information about recognising the complexity of wellbeing in the workplace, and its importance within teaching
-- develop understanding of the impact that lack of wellbeing can have on the ECT’s own capacity to teach, as well as on the wellbeing of their students
+- develop understanding of the impact that lack of wellbeing can have on the early career teacher's (ECT) own capacity to teach, as well as on the wellbeing of their students
 
 ### Managing workload (20 minutes)
 
@@ -91,7 +91,7 @@ You can also look ahead to the next training steps.
 
 Deliver a carefully sequenced and coherent curriculum by:
 - 3c. Working with experienced colleagues to accumulate and refine a collection of powerful analogies, illustrations, examples, explanations and demonstrations.
-- 3d. Using resources and materials aligned with the school curriculum (e.g. textbooks or shared resources designed by experienced colleagues that carefully sequence content).
+- 3d. Using resources and materials aligned with the school curriculum (for example, textbooks or shared resources designed by experienced colleagues that carefully sequence content).
 
 Support pupils to build increasingly complex mental models by:
 - 3f. Discussing curriculum design with experienced colleagues and balancing exposition, repetition, practice of critical skills and knowledge.
