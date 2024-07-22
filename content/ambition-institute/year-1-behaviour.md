@@ -15,9 +15,9 @@ In this module you’ll cover:
 
 Use the materials below to arrange 2 training sessions for your ECTs, one per half term.
 
-- [Training session 1 - Supporting all pupils](/ambition-institute/autumn-training-session-1)
+- [Training session 1 - Supporting all pupils](/ambition-institute/year-1-training-session-1/autumn-training-session-1)
 
-- [Training session 2 - Responding to challenging behaviour]((/ambition-institute/autumn-training-session-2))
+- [Training session 2 - Responding to challenging behaviour](/ambition-institute/year-1-training-session-2/autumn-training-session-2)
 
 ## Week 1: module overview and contracting
 
