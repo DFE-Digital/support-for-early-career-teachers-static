@@ -15,9 +15,9 @@ In this module you’ll cover:
 
 Use the materials below to arrange 2 training sessions for your ECTs, one per half term.
 
-- [Training session 5 - Teacher wellbeing and managing workload](/ambition-institute/year-2-training-session-5/autumn-training-session-5)
+- [Training session 5 - Teacher wellbeing and managing workload](/ambition-institute/year-1-training-session-5/summer-training-session-5)
 
-- [Training session 6 - Early Literacy 1: Synthetic phonics, reading fluency and comprehension](/ambition-institute/year-2-training-session-6/autumn-training-session-6)
+- [Training session 6 - Early Literacy 1: Synthetic phonics, reading fluency and comprehension](/ambition-institute/year-1-training-session-6/summer-training-session-6)
 
 ## Week 1: module overview and re-contracting
 
