@@ -20,6 +20,7 @@ Duration: 90 minutes.
 ## Preparation 
 
 These resources provide information to support the session plan options below:
+
 - [International journal of Wellbeing: The challenge of defining wellbeing](https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/89)
 - [Ofsted: Summary and recommendations: teacher well-being research report](https://www.gov.uk/government/publications/teacher-well-being-at-work-in-schools-and-further-education-providers/summary-and-recommendations-teacher-well-being-research-report)
 - [Department for Education: School workload reduction toolkit](https://www.gov.uk/guidance/school-workload-reduction-toolkit)
@@ -29,11 +30,13 @@ These resources provide information to support the session plan options below:
 - [The Power of Habit tools](https://www.charlesduhigg.com/tools)
 
 Before this session takes place, early career teachers (ECTs) should have the following.
+
 1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 2. School input as needed.
 3. Relevant conversations with colleagues.
 
 The following self-study materials provide context and exemplification:
+
 - [Routines](/ambition-institute/year-1-behaviour/autumn-week-2-ect-video)
 - [Examining pupils’ responses](/ambition-institute/year-1-subject/summer-week-10-ect-video)
 - [Adapting teaching to meet pupil needs](/ambition-institute/year-1-instruction/spring-week-6-ect-video)
@@ -58,6 +61,7 @@ You could:
 ### Managing workload (20 minutes)
 
 You could:
+
 - discuss that the government has highlighted workload and wellbeing as priority areas for teachers
 - recognise that teacher workload is a shared responsibility for schools and teachers
 - cover how important it is for teachers to understand that there are strategies which they can adopt to help them manage their workload more effectively
@@ -67,6 +71,7 @@ You could:
 ### Rest and recovery (35 minutes)
 
 You could:
+
 - explain that rest and recovery is an area where teachers have a greater locus of control
 - reflect on what ECTs do in their recovery time, and when they rest
 - explore key research indicating that breaks within work can have an impact on wellbeing, and that the type of activities carried out during recovery time can be more or less effective at building social, physical and psychological resources
@@ -90,18 +95,22 @@ You can also look ahead to the next training steps.
 ### ECF 'Learn how to’ statements covered:
 
 Deliver a carefully sequenced and coherent curriculum by:
+
 - 3c. Working with experienced colleagues to accumulate and refine a collection of powerful analogies, illustrations, examples, explanations and demonstrations.
 - 3d. Using resources and materials aligned with the school curriculum (for example, textbooks or shared resources designed by experienced colleagues that carefully sequence content).
 
 Support pupils to build increasingly complex mental models by:
+
 - 3f. Discussing curriculum design with experienced colleagues and balancing exposition, repetition, practice of critical skills and knowledge.
 
 Meet individual needs without creating unnecessary workload by:
+
 - 5h. Making use of well-designed resources (such as textbooks).
 - 5i. Planning to connect new content with pupils’ existing knowledge or providing additional pre-teaching if pupils lack critical knowledge.
 - 5j. Building in additional practice or removing unnecessary expositions.
 
 Make marking manageable and effective by:
+
 - 6l. Recording data only when it is useful for improving pupil outcomes.
 - 6m. Working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback (such as using whole class feedback or well supported peer- and self-assessment).
 - 6n. Using verbal feedback during lessons in place of written feedback after lessons where possible.
@@ -109,9 +118,11 @@ Make marking manageable and effective by:
 - 6p. Reducing the opportunity cost of marking (by using abbreviations and codes in written feedback, for example).
 
 Build effective working relationships by:
+
 - 8g. Seeking ways to support individual colleagues and working as part of a team.
 
 Manage workload and wellbeing by:
+
 - 8m. Using and personalising systems and routines to support efficient time and task management.
 - 8n. Understanding the right to support (to deal with misbehaviour, for example).
 - 8o. Collaborating with colleagues to share the load of planning and preparation and making use of shared resources (such as textbooks).

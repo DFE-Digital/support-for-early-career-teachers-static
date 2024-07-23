@@ -17,6 +17,7 @@ Duration: 90 minutes
 ## Preparation
 
 These resources provide information to support the session plan options below:
+
 - [Department for Education: Special educational needs and disability code of practice: 0 to 25 years](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/398815/SEND_Code_of_Practice_January_2015.pdf)
 - [Education Endowment Foundation (EEF): Special Educational Needs in Mainstream Schools](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/send)
 - [Department for Education: Special educational needs in England (January 2019)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/814244/SEN_2019_Text.docx.pdf)
@@ -57,11 +58,13 @@ Provide a relevant recap on previously taught content. Set up the norms for this
 ### Recap training session 1 - Supporting all pupils (10 minutes) 
 
 You could:
+
 - review the roles of the SENCO and the designated safeguarding lead (DSL)
 - look at how the SEND Code of Practice groups needs into 4 broad areas
 - remind ECTs that many pupils with an SEN diagnosis also have SLCN
 
 You could also recap the following content from training session 1 on supporting all pupils:
+
 - understanding primary needs is a useful step in providing provision, but a more detailed understanding of the individual needs of the child is required for action to be beneficial
 - the role of teachers and the SENCO in supporting pupils with SEND
 - taking a graduated approach to SEND provision
@@ -70,6 +73,7 @@ You could also recap the following content from training session 1 on supporting
 ### Speech, Language and Communication Needs (20 minutes)
 
 You could:
+
 - outline the common difficulties children with SLCN experience and what their needs might be
 - discuss working with external specialist staff to identify children with SLCN
 - discuss the difficulties in diagnosing pupils with SLCN
@@ -79,6 +83,7 @@ You could:
 ### Autism (20 minutes) 
 
 You could:
+
 - review the definition of autism and the challenges pupils with autism face in the classroom
 - look at how to work with external specialist staff to identify a pupil with autism and plan their support
 - include some frameworks and strategies
@@ -86,6 +91,7 @@ You could:
 ### Dyslexia (20 minutes)
 
 You could:
+
 - provide a definition of dyslexia
 - discuss working with external specialist staff to screen and identify dyslexia
 - describe a dyslexia friendly classroom
@@ -97,14 +103,16 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 
 ## Related ECF strands
 
-### ECF ‘Learn that’ statements covered:
+### ECF ‘Learn that’ statements covered
+
 - 5.7: Pupils with special educational needs or disabilities are likely to require additional or adapted support; working closely with colleagues, families and pupils to understand barriers and identify effective strategies is essential.
 - 8.5: Teaching assistants (TAs) can support pupils more effectively when they are prepared for lessons by teachers, and when TAs supplement rather than replace support from teachers.
 - 8.6: SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils.
 
-### ECF 'Learn how to’ statements covered:
+### ECF 'Learn how to’ statements covered
 
 Develop an understanding of different pupil needs by:
+
 - 5.c: Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead
 - 5.d: Using the SEND Code of Practice, which provides additional guidance on supporting pupils with SEND effectively.
 

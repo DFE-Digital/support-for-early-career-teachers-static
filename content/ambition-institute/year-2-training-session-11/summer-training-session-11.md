@@ -30,13 +30,15 @@ These resources provide information to support the session plan options below:
 - [Ofsted: Reading by six; How the best schools do it](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/379093/Reading_20by_20six.pdf)
 - [American Educator: Principle of Instruction: Research-Based Strategies That All Teachers Should Know](https://www.aft.org/sites/default/files/Rosenshine.pdf)
 
-Before this session takes place, early career teachers (ECTs) should have the following. 
+Before this session takes place, early career teachers (ECTs) should have the following.
+
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 2. Information on the science of learning and the 5 habits of planning.
 3. School input as needed. 
 4. Relevant conversations with colleagues.
 
 The following self-study materials provide context and exemplification:
+
 - [Pairs and Groups](/ambition-institute/year-1-behaviour/autumn-week-11-ect-video)
 - [Practice, challenge and success](/ambition-institute/year-1-instruction/spring-week-7-ect-video)
 - [Classroom talk](/ambition-institute/year-1-instruction/spring-week-11-ect-video)
@@ -57,6 +59,7 @@ Set up the norms for this session.
 This time can be used to make sure all ECTs understand why this session is relevant to them.
 
 Reasons include:
+
 - it's an early careers framework requirement
 - all subjects benefit from improved literacy skills
 - learning adaptable techniques for older pupils
@@ -66,6 +69,7 @@ Reasons include:
 ### Learning the meaning of the alphabet to spell (20 minutes)
 
 You could:
+
 - revisit materials from training session 6 which looked at developing early literacy skills for reading, but this time with a focus on spelling
 - recap the evidence supporting the use of systematic synthetic phonics in schools to teach letter-sound relationships
 - recap the ECTs’ understanding of technical terms including phonemes, graphemes, letters, the 2 key processes, blending for reading and segmenting for spelling
@@ -76,6 +80,7 @@ You could:
 ### Handwriting (15 minutes)
 
 You could:
+
 - briefly introduce the development of fine motor control for very young children in their first steps towards writing (describing the development of handling writing tools and mark making, for example)
 - look at how phonic schemes teach letter formation alongside reading and spelling, but handwriting needs to be taught separately
 - state that fluency is developed by overlearning and practising handwriting, so that working memory is free for generating ideas for writing
@@ -85,7 +90,8 @@ You could:
 
 ### Oral language and writing (15 minutes) 
 
-You could: 
+You could:
+
 - introduce the importance of supporting pupils’ oral language skills to improve their early writing, and suggest ways of achieving this
 - discuss the mutual influence of reading and writing skills on each other
 - look at how teachers prioritise and effectively teach Tier 2 and 3 vocabulary, emphasising the importance of this for pupils from disadvantaged backgrounds
@@ -93,6 +99,7 @@ You could:
 ### Modelling different forms of writing (20 minutes) 
 
 You could:
+
 - explain and exemplify how to teach different forms of writing by modelling, planning, drafting and editing, so that pupils are able to plan and monitor their own writing
 - provide exemplification of this gathered from experienced colleagues for different subjects and phases
 - explore the use of ‘worked examples’ to support novices by reducing the cognitive load on their working memory, and the gradual withdrawal of such support as they master these skills
