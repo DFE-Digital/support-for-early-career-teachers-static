@@ -18,6 +18,7 @@ Duration: 90 minutes
 ## Preparation
 
 These resources provide information to support the session plan options below:
+
 - [Public Health England: The link between pupil health and wellbeing and attainment](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/370686/HT_briefing_layoutvFINALvii.pdf)
 - [Department for Education: Supporting wellbeing](https://www.gov.uk/guidance/supporting-pupils-wellbeing)
 - [Education Endowment Foundation (EEF): Healthy Minds](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/developing-healthy-minds-in-teenagers/)
@@ -43,6 +44,7 @@ Set up the norms for this session.
 ### What is pupil wellbeing? (20 minutes)
 
 You could:
+
 - introduce why pupil wellbeing is essential for academic success
 - introduce or recap school policies that support this, covering areas such as pupil safety, child protection and safety online
 - define the term ‘wellbeing’ as being able to cope with social, physical and psychological demands placed on pupils through building and sustaining a predictable and secure environment for learning to take place
@@ -51,6 +53,7 @@ You could:
 ### How can pupil wellbeing be considered in the classroom? (15 minutes)
 
 You could consider:
+
 - how pupils are grouped within a class, and how this impacts their motivation and engagement
 - how groupings or seating plans might affect pupil attainment, behaviour and motivation
 - what support is put in place, particularly for any special educational needs of low attaining pupils, while maintaining high academic expectations for all pupils and providing access to a rich curriculum
@@ -59,7 +62,8 @@ You could consider:
 ### Who else can help to support pupil wellbeing? (35 minutes)
 
 You could:
-- consider the importance of a relationship with parents and carers when considering pupils’ wellbeing
+
+- consider the importance of a relationship with parents and carers when consi
 - look at the role that parents can play in their child’s academic success, and how to engage with families and carers to support pupils
 - discuss the roles of the school SENCO, DSL and pastoral leaders, and the valuable expertise and information they can provide about pupils
 - explore the explicit links between interventions inside and outside of the classroom
@@ -83,12 +87,15 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 ### ECF 'Learn how to’ statements covered:
 
 Communicate a belief in the academic potential of all pupils by:
+
 - 1d Seeking opportunities to engage parents and carers in the education of their children (for example, proactively highlighting successes) with support from expert colleagues to understand how this engagement changes depending on the age and development stage of the pupil.
 
 Develop an understanding of different pupil needs by:
+
 - 5c Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead.
 
 Group pupils effectively by:
+
 - 5m Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum.
 - 5n Changing groups regularly, avoiding the perception that groups are fixed.
 

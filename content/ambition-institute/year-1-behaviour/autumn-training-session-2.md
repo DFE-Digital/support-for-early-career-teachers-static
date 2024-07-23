@@ -28,6 +28,7 @@ These resources provide information to support the session plan options below:
 - [Motivation Interventions in Education: A Meta-Analytic Review](https://journals.sagepub.com/doi/10.3102/0034654315617832)
 
 Before this session takes place, early career teachers (ECTs) should have the following.
+
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 2. School input as needed.
 3. Relevant conversations with colleagues.
@@ -41,12 +42,14 @@ Provide a relevant recap on previously taught content. Set up the norms for the 
 ### Defining challenging behaviour and its impact (20 minutes)
 
 You could:
+
 - discuss the meaning of the term ‘challenging behaviour’
 - identify examples of challenging behaviour (such as bullying, vandalism, consistently disrupting learning in a lesson) by referencing the school’s behaviour policy
 - define bullying and discrimination as specific forms of challenging behaviour
 - discuss the impact of challenging behaviour, including the emotional impact on staff and pupils, and the academic impact on pupils’ learning
 
 Make sure that ECTs are aware that challenging behaviours:
+
 - impact on the learning of the perpetrator and other students
 - can include frequent, deliberate, low-level disruption
 - can manifest physically or verbally
@@ -55,6 +58,7 @@ Make sure that ECTs are aware that challenging behaviours:
 ### Causes of challenging behaviour (15 minutes)  
 
 This section should include an opportunity for teachers to discuss the possible causes of challenging behaviour, which include:
+
 - communication difficulties
 - environmental factors
 - attention seeking
@@ -62,6 +66,7 @@ This section should include an opportunity for teachers to discuss the possible 
 - socio-economic disadvantage
 
 You could:
+
 - discuss examples of each behaviour
 - discuss how teachers can identify causes by liaising with parents, carers and colleagues to better understand pupils’ circumstances
 - consider how to implement proactive strategies and try to prevent challenging behaviour
@@ -73,6 +78,7 @@ You could:
 ### Responding to challenging behaviour (15 minutes)
 
 You could:
+
 - discuss the ECTs’ responsibility in responding to challenging behaviour in the school
 - discuss the ECT’s role in actioning the school’s behaviour policy on managing behaviour in classrooms and around the school
 - remind ECTs that they should use least-intrusive interventions as an initial response to low-level disruption
@@ -81,6 +87,7 @@ You could:
 ### Repairing relationships and moving on (20 minutes)
 
 You could:
+
 - introduce the importance of repairing relationships between those involved in an incident
 - explore using restorative conversations to tackle challenging behaviour
 - explain where ECTs might seek support in your school on dealing with challenging behaviour
@@ -95,19 +102,24 @@ They could be encouraged to identify specific next steps they’ll take to imple
 ## Related ECF strands 
 
 ### ECF 'Learn that’ statements covered
+
 - 7.2. A predictable and secure environment benefits all pupils but is particularly valuable for pupils with special educational needs.
 
 ### ECF 'Learn how to’ statements covered
 
 Develop a positive, predictable and safe environment for pupils by:
+
 - 7b. Working alongside colleagues as part of a wider system of behaviour management (for example recognising responsibilities and understanding the right to assistance and training from senior leaders).
 - 7g. Responding quickly to any behaviour or bullying that threatens emotional safety.
 
 Build trusting relationships by:
+
 - 7k. Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations.
 
 Build effective working relationships by:
+
 - 8l. Knowing who to contact with any safeguarding concerns.
 
 Manage workload and wellbeing by:
+
 - 8n. Understanding the right to support (to deal with misbehaviour, for example).

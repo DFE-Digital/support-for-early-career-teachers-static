@@ -37,6 +37,7 @@ Set up the norms for this session.
 ### Evaluating impact (20 minutes)
 
 You could:
+
 - ask ECTs to reflect on the progress they’ve made implementing change and developing their practice
 - recognise the strengths and weaknesses of the strategy or approaches they’ve implemented
 - assess the extent to which their implementation achieved the desired outcomes and success criteria they outlined
@@ -46,6 +47,7 @@ You could:
 ### Embedding practice (20 minutes) 
 
 You could:
+
 - ask ECTs to consider how their strategy or approach may need to be adapted or developed further before it’s embedded into their practice
 - explore strategies on how to implement changes in behaviour, as well as thinking and maintaining positive habits
 - reflect on the progress made during their induction and training: recognising strengths and identifying next steps for further improvement
@@ -54,6 +56,7 @@ You could:
 ### Effective professional development (20 minutes) 
 
 You could:
+
 - introduce the concept of effective professional development over several years as a teacher
 - highlight that research often underpins effective professional development
 - include information about how professional development can look very different depending on several factors (including school policy), but will be iterative, research-informed and specific
@@ -65,6 +68,7 @@ You could:
 Provide ECTs with time to consolidate and reflect on the learning from the session.
 
 ECTs could:
+
 - identify specific next steps they’ll take to implement their learning
 - analyse the successful components of previous implementation plans which have helped them to embed new teaching habits
 - commit to actions to support embedding a further habit as they transition to take more ownership of their professional development in their school and beyond
@@ -80,12 +84,14 @@ None.
 
 ### ECF 'Learn how to’ statements covered: 
 
-Develop as a professional by: 
+Develop as a professional by:
+
 - 8b Strengthening pedagogical and subject knowledge by participating in wider networks
 - 8c Seeking challenge, feedback and critique from mentors and other colleagues in an open and trusting working environment 
 - 8d Engaging critically with research and discussing evidence with colleagues
 - 8e Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further improvement  
 
 Manage workload and wellbeing by:
+
 - 8o Collaborating with colleagues to share the load of planning and preparation and making use of shared resources (such as textbooks) 
 - 8p Protecting time for rest and recovery

@@ -30,7 +30,8 @@ These resources provide information to support the session plan options below:
 - [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
 - [National Association for Special Educational Needs (nasen) resources](https://nasen.org.uk/resources)
 
-Before this session takes place, early career teachers (ECTs) should have the following. 
+Before this session takes place, early career teachers (ECTs) should have the following.
+
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 2. School input as needed.
 3. Conversations with the SENCO, the DSL, school colleagues and parents or carers on how to effectively support students with special educational needs in their classroom.
@@ -54,6 +55,7 @@ Establish ways of working for this and future sessions.
 ### SEND code of practice (20 minutes)
 
 You could:
+
 - discuss the term ‘inclusion’
 - provide a definition of ‘SEND’
 - highlight that special educational needs are not something the pupil needs to change about themselves, but teachers can change the environment to meet individual learning needs
@@ -64,6 +66,7 @@ You could:
 ### Graduated approach - assess (20 minutes) 
 
 You could:
+
 - introduce the ‘graduated approach’ to supporting pupils with SEND as recommended by the code of practice
 - explore working with the SENCO, the DSL, parents, carers and the pupil to build a holistic picture of pupils with SEND, including identifying their prior knowledge and any potential barriers to learning
 - discuss needs versus diagnosis to emphasise that understanding a pupils’ learning needs is usually more important than a diagnosis when planning support in the classroom
@@ -71,6 +74,7 @@ You could:
 ### Graduated approach - plan, do and review (30 minutes)
 
 You could:
+
 - emphasise the importance of holding high expectations for all pupils, if the graduated approach to provision is to be effective
 - explore the 3 stages of the graduated approach: plan, do and review
 - examine the tiered approach to educational support 
@@ -94,21 +98,26 @@ ECF 'Learn that’ statements covered
 ## ECF 'Learn how to’ statements covered 
 
 Develop an understanding of different pupil needs by:
+
 - 5b. Making use of formative assessment.
 - 5c. Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead.
 - 5d. Using the SEND code of practice, which provides additional guidance on supporting pupils with SEND effectively.
 
 Provide opportunity for all pupils to experience success by:
+
 - 5e. Adapting lessons, whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations.
 - 5g. Making effective use of teaching assistants.
 
 Develop a positive, predictable and safe environment for pupils by:
+
 - 7b. Working alongside colleagues as part of a wider system of behaviour management (for example, recognising responsibilities and understanding the right to assistance and training from senior colleagues).
 
 Build trusting relationships by:
+
 - 7k. Liaising with parents, carers and colleagues to better understand pupils’ individual circumstances and how they can be supported to meet high academic and behavioural expectations. 
 
-Build effective working relationships by: 
+Build effective working relationships by:
+
 - 8i. Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching.
 - 8j. Sharing the intended lesson outcomes with teaching assistants ahead of lessons.
 - 8l. Knowing who to contact with any safeguarding concerns.
