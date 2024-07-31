@@ -15,7 +15,7 @@ There are no self-study materials this week. Instead, you will meet your mentor 
 
 Use the materials below to consider emergent evidence regarding the ECT’s practitioner inquiry.
 
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-1-mentor-materials)
+[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-1-mentor-materials 'View mentor materials week 1')
 
 ## Week 2: the impact your enquiry has had on you
 
@@ -40,7 +40,7 @@ There are no self-study materials this week. Instead, you will meet your mentor 
 
 Use the materials below as a platform to discuss the impact their inquiry has had on them.
 
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-3-mentor-materials)
+[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-3-mentor-materials 'View mentor materials week 3')
 
 ## Week 4
 
@@ -60,4 +60,4 @@ There are no self-study materials this week. Instead, you will meet your mentor 
 
 This week the ECT should meet you to present their findings from this moudle’s practitioner inquiry.
 
-[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-5-mentor-materials)
+[View mentor materials](/ucl/year-2-inquiry-into-developing-quality-pedagogy-and-making-productive-use-of-assessment-part-3/summer-week-5-mentor-materials 'View mentor materials week 5')
