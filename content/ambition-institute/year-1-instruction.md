@@ -15,9 +15,9 @@ In this module you’ll cover:
 
 Use the materials below to arrange 2 training sessions for your ECTs, one per half term.  
 
-- [Training session 3 - Building effective relationships with parents and carers](/ambition-institute/year-1-training-session-3/spring-training-session-3) 
+- [Training session 3 - Building effective relationships with parents and carers](/ambition-institute/year-1-instruction/spring-training-session-3) 
 
-- [Training session 4 - Adapting teaching for pupils](/ambition-institute/year-1-training-session-4/spring-training-session-4)
+- [Training session 4 - Adapting teaching for pupils](/ambition-institute/year-1-instruction/spring-training-session-4)
 
 ## Week 1: module overview and re-contracting
 
