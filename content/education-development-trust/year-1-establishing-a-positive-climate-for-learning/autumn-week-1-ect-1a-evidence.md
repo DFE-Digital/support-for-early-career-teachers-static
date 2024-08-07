@@ -48,9 +48,7 @@ What do more experienced teachers do to establish and maintain these routines? T
 | Reminders                         | Reminding pupils of rules and routines means that they will be reinforced, and pupils are more likely to remember what to do. | “I need all eyes on me and conversations finished by the time I have counted down to 1. 3,2,1.”     |
 | Consistent modelling of behaviour | Modelling the behaviour you expect to see shows pupils what you want from them and makes this explicit.                       | “Pens down (puts pen down) and looking this way without talking (hand to lips).”                    |
 
-### In your notepad - routines
-
-Why are routines important for improving classroom behaviour?
+### In your notepad: Why are routines important for improving classroom behaviour?
 
 Which of these statements is not true?
 
@@ -78,9 +76,7 @@ This table shows three ways positive reinforcement can support routines and good
 | Praise the behaviour you want to see.                            | Reinforces good behaviour of the pupils showing it and encourages others to follow suit.                                                                                         | “Thank you Ushma, who came into the room quietly and sensibly and has now started on her work.”                                                                                     |
 | Support pupils to self-regulate and monitor their own behaviour. | Providing a self-monitoring strategy allows pupils to assess and record their own behaviour to support them to become more aware of it and learn how to adjust when appropriate. | Provide a checklist of questions to guide pupils in their own behaviour: Did I get started on time? Am I following instructions? Am I on task? Did I ask for help in the right way? |
 
-### In your notepad - lessons
-
-Think about a recent lesson:
+### In your notepad, think about a recent lesson:
 
 - what behaviours do you give attention to in the classroom?
 - how could you use positive reinforcement to support your routines and the behaviour you want to see?
