@@ -26,11 +26,13 @@ These resources provide information to support the session plan options below:
 - [Department for Education: School workload reduction toolkit: Communication](https://www.gov.uk/guidance/school-workload-reduction-toolkit#communications)
 
 Before this session takes place, early career teachers (ECTs) should have the following.
+
 - Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 - School input as needed.
 - Relevant conversations with colleagues.
 
 The following self-study materials provide context and exemplification:
+
 - [Consistency](/ambition-institute/year-1-behaviour/autumn-week-6-ect-video)
 - [Adapting teaching](/ambition-institute/year-1-instruction/spring-week-6-ect-video)
 - [Developing pupils’ literacy](/ambition-institute/year-1-subject/summer-week-7-ect-video)
@@ -45,6 +47,7 @@ Provide a relevant recap on previously taught content. Set up the norms for this
 ### What is parental and carer engagement? (10 minutes)
 
 This time can be used to:
+
 - introduce the concept of parent and carer engagement
 - provide examples of the many ways that schools work with parents, carers and families
 - include information about how parent and carer engagement can look very different depending on several factors, including school policy
@@ -53,6 +56,7 @@ This time can be used to:
 ### Why is it important? (10 minutes) 
 
 You could:
+
 - explore why relationships with parents and carers are important
 - consider the impact these relationships have on pupils and teachers
 - discuss the link between parental engagement and pupils’ academic outcomes
@@ -62,6 +66,7 @@ You could:
 ### Communication (30 minutes)  
 
 You could:
+
 - present examples of whole-school approaches to communication
 - discuss the impact of communication on teacher workload
 - provide the opportunity to reflect on ECTs’ current communication with parents

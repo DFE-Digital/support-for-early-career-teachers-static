@@ -44,6 +44,7 @@ Set up the norms for this session.
 ### Selecting your strategy or approach (20 minutes)
 
 You could:
+
 - ask ECTs to think back to training session 8 and the specific area they identified to implement change  
 - explore the progress they’ve made in that area 
 - consider the strengths and weaknesses of the different strategies or approaches they’ve considered to solve the problem they identified and develop their practice further
@@ -53,13 +54,15 @@ You could:
 ### Identifying the active ingredients (20 minutes)
 
 You could:
+
 - revisit the term ‘active ingredients’, identifying the essential principles and practices that need to be adopted for their strategy or approach
 - ask ECTs to analyse the theory and research which underpins their strategy or approach, helping them to understand exactly how, when and why this strategy or approach could work in their context
 - ask ECTs to identify the activities and behaviours they’ll need to implement and observe when they introduce this strategy or approach
 
 ### Preparing for delivery (30 minutes)
 
-You could: 
+You could:
+
 - help ECTs prepare to deliver and implement their strategy or approach
 - encourage them to reflect on policies, practice and routines already in place in their context
 - consider how they can implement change with fidelity to the active ingredients while maintaining their responsibility in supporting the wider school community
@@ -73,6 +76,7 @@ You could:
 This section provides ECTs with time for reflection, quizzing, and action steps.
 
 Teachers could be encouraged to identify specific steps they’ll take to implement their learning. These may include:
+
 - collaborating with colleagues 
 - seeking out examples of relevant good practice within their context to use as implementation models 
 - sharing their delivery plan with a colleague to seek challenge, feedback and critique to inform their review process

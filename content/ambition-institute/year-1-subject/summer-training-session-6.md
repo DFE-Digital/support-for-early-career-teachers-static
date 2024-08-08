@@ -21,6 +21,7 @@ Duration: 90 minutes.
 ## Preparation
 
 These resources provide information to support the session plan options below:
+
 - [Education Endowment Foundation (EEF): Resource Hubs per phase](https://educationendowmentfoundation.org.uk/education-evidence)
 - [Education Endowment Foundation (EEF): Improving Literacy in Secondary Schools](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-ks3-ks4)
 - [Department for Education, Letters and Sounds: Principles and Practice of High Quality Phonics](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/190599/Letters_and_Sounds_-_DFES-00281-2007.pdf)
@@ -30,12 +31,14 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation (EEF): Reading comprehension strategies](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies)
 
 Before this session takes place, early career teachers (ECTs) should have the following.
+
 1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 2. Information on the science of learning and the 5 habits of planning.
 3. School input as needed.
 4. Relevant conversations with colleagues.
 
 The following self-study materials provide context and exemplification:
+
 - [Pairs and groups](/ambition-institute/year-1-behaviour/autumn-week-11-ect-video)
 - [Practice, challenge and success](/ambition-institute/year-1-instruction/spring-week-7-ect-video)
 - [Questioning](/ambition-institute/year-1-instruction/spring-week-10-ect-video)
@@ -52,6 +55,7 @@ Provide a relevant recap on previously taught content. Set up the norms for this
 This time can be used to make sure all ECTs understand why this session is relevant to them.
 
 Reasons include:
+
 - it's an early careers framework requirement
 - all subjects benefit from improved literacy skills
 - learning adaptable techniques for older pupils
@@ -61,6 +65,7 @@ Reasons include:
 ### Learning the meaning of the alphabet (25 minutes) 
 
 You could:
+
 - introduce how younger pupils develop early literacy skills for reading and spelling
 - introduce the balanced approach to reading
 - look at the evidence supporting the use of systematic synthetic phonics in schools to teach letter-sound relationships
@@ -73,6 +78,7 @@ You could:
 ### Becoming a fluent reader (15 minutes) 
 
 You could:
+
 - explore how fluency is developed by overlearning and practising reading, so that working memory is free for comprehension and not just decoding
 - explain the importance of supporting and engaging parents to help their children to read fluently
 - share examples of high-quality texts and consider how we can develop pupils’ intrinsic motivation to read
@@ -81,6 +87,7 @@ You could:
 ### Developing reading comprehension (25 minutes)
 
 You could:
+
 - consider the reciprocal link between oral language skills and reading comprehension
 - share frameworks appropriate to the phase the ECTs work in
 - model how expert readers comprehend texts 
@@ -101,16 +108,20 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 ### ECF 'Learn how to’ statements covered: 
 
 Communicate a belief in the academic potential of all pupils by:
+
 - 1d. Seeking opportunities to engage parents and carers in the education of their children (such as proactively highlighting successes).
 
 Deliver a carefully sequenced and coherent curriculum by:
+
 - 3c. Working with experienced colleagues to accumulate and refine a collection of powerful analogies, illustrations, examples, explanations and demonstrations.
 - 3d. Using resources and materials aligned with the school curriculum (such as textbooks or shared resources designed by experienced colleagues that carefully sequence content).
 
 Support pupils to build increasingly complex mental models by:
+
 - 3f. Discussing curriculum design with experienced colleagues and balancing exposition, repetition, practice of critical skills and knowledge.
 
 Develop pupils’ literacy by:
+
 - 3m. Demonstrating a clear understanding of systematic synthetic phonics, particularly if teaching early reading and spelling.
 - 3n. Supporting younger pupils to become fluent readers and to write fluently and legibly.
 - 3o. Teaching unfamiliar vocabulary explicitly and planning for pupils to be repeatedly exposed to high utility and high frequency vocabulary in what is taught.
@@ -118,4 +129,5 @@ Develop pupils’ literacy by:
 - 3q. Promoting reading for pleasure (by using a range of whole-class reading approaches and regularly reading high quality texts to children, for example).
 
 Meet individual needs without creating unnecessary workload by:
+
 - 5h. Making use of well-designed resources (such as textbooks).

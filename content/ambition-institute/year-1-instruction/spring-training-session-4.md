@@ -26,11 +26,13 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation (EEF): Special Educational Needs in Mainstream Schools](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/send)
 
 Before this session takes place, early career teachers (ECTs) should have the following.
+
 - Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 - School input as needed.
 - Relevant conversations with colleagues.
 
 Self-study materials that might provide helpful context and exemplification include:
+
 - [Adapting teaching](/ambition-institute/year-1-instruction/spring-week-6-ect-video) 
 - [Scaffolding](/ambition-institute/year-1-instruction/spring-week-9-ect-video)
 - [Adapting lessons to meet pupil needs](/ambition-institute/year-1-subject/summer-week-11-ect-lesson-content)
@@ -46,6 +48,7 @@ Provide a relevant recap on previously taught content. Set up the norms for the 
 ### What is adaptive teaching? (20 minutes)
 
 This time can be used to:
+
 - introduce the concept of adaptive teaching
 - include information about how adaptive teaching varies depending on the learning needs of pupils
 - emphasise the importance of using formative assessment to identify these needs
@@ -54,6 +57,7 @@ This time can be used to:
 ### Why is it important? (20 minutes)
 
 You could:
+
 - ensure buy-in from ECTs on why being responsive in this way is important
 - consider the impact of adapting lessons so that pupils can experience success and see that ability is not fixed, which can increase motivation towards learning
 - introduce the importance of adapting quality-first teaching as the first step in responding to pupils with SEND within the tiered approach to educational support
@@ -61,6 +65,7 @@ You could:
 ### What strategies can be adopted to help pupils? (30 minutes)
 
 You could:
+
 - introduce examples and non-examples of adapting teaching for pupils
 - include opportunities for ECTs to reflect on their own current practice and practice they’ve seen
 - include concrete strategies around grouping, planning new content, using formative assessment and resources
@@ -82,21 +87,25 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 
 ### ECF 'Learn how to’ statements covered 
 
-Develop an understanding of different pupils’ needs by:  
+Develop an understanding of different pupils’ needs by:
+
 - 5b. Making use of formative assessment.  
 
-Provide opportunity for all pupils to experience success by: 
+Provide opportunity for all pupils to experience success by:
+
 - 5e. Adapting lessons, whilst maintaining high expectations for all, so that all pupils have the opportunity to meet expectations.
 - 5f. Balancing input of new content so that pupils master important concepts.
 - 5g. Making effective use of teaching assistants.
 
 Meet individual needs without creating unnecessary workload by:
+
 - 5h. Making use of well-designed resources (such as textbooks).
 - 5i. Planning to connect new content with pupils’ existing knowledge or providing additional pre-teaching if pupils lack critical knowledge.
 - 5j. Building in additional practice or removing unnecessary expositions.
 - 5l. Considering carefully whether intervening within lessons with individuals and small groups would be more efficient and effective than planning different lessons for different groups of pupils.
 
 Group pupils effectively by:
+
 - 5m. Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum.
 - 5n. Changing groups regularly, avoiding the perception that groups are fixed.
 - 5o. Ensuring that any groups based on attainment are subject specific.
