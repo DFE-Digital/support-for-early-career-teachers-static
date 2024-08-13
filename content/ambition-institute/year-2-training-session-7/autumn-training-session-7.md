@@ -20,7 +20,7 @@ Duration: 90 minutes
 These resources provide information to support the session plan options below:
 
 - [Public Health England: The link between pupil health and wellbeing and attainment](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/370686/HT_briefing_layoutvFINALvii.pdf)
-- [Department for Education: Supporting wellbeing](https://www.gov.uk/guidance/supporting-pupils-wellbeing)
+- [Department for Education: Promoting and supporting mental health and wellbeing in schools and colleges](https://www.gov.uk/guidance/mental-health-and-wellbeing-support-in-schools-and-colleges)
 - [Education Endowment Foundation (EEF): Healthy Minds](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/developing-healthy-minds-in-teenagers/)
 - [Education Endowment Foundation (EEF): Social and emotional learning](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/social-and-emotional-learning)
 - [Education Endowment Foundation (EEF): Working with Parents to Support Children’s Learning](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/supporting-parents)
@@ -63,7 +63,7 @@ You could consider:
 
 You could:
 
-- consider the importance of a relationship with parents and carers when consi
+- consider the importance of a relationship with parents and carers when considering pupils' wellbeing
 - look at the role that parents can play in their child’s academic success, and how to engage with families and carers to support pupils
 - discuss the roles of the school SENCO, DSL and pastoral leaders, and the valuable expertise and information they can provide about pupils
 - explore the explicit links between interventions inside and outside of the classroom
@@ -77,31 +77,31 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 
 ### ECF 'Learn that' statements covered:
 
-- 1.6 High-quality teaching has a long-term positive effect on pupils’ life chances, particularly for children from disadvantaged backgrounds.
-- 4.10 How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
-- 5.5 Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils.
-- 7.2 A predictable and secure environment benefits all pupils, but is particularly valuable for pupils with special educational needs.
-- 8.4 Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success.
-- 8.6 SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils. 
+- 1.6. High-quality teaching has a long-term positive effect on pupils’ life chances, particularly for children from disadvantaged backgrounds.
+- 4.10. How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
+- 5.5. Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils.
+- 7.2. A predictable and secure environment benefits all pupils, but is particularly valuable for pupils with special educational needs.
+- 8.4. Building effective relationships with parents, carers and families can improve pupils’ motivation, behaviour and academic success.
+- 8.6. SENCOs, pastoral leaders, careers advisors and other specialist colleagues also have valuable expertise and can ensure that appropriate support is in place for pupils. 
 
 ### ECF 'Learn how to’ statements covered:
 
 Communicate a belief in the academic potential of all pupils by:
 
-- 1d Seeking opportunities to engage parents and carers in the education of their children (for example, proactively highlighting successes) with support from expert colleagues to understand how this engagement changes depending on the age and development stage of the pupil.
+- 1d. Seeking opportunities to engage parents and carers in the education of their children (for example, proactively highlighting successes) with support from expert colleagues to understand how this engagement changes depending on the age and development stage of the pupil.
 
 Develop an understanding of different pupil needs by:
 
-- 5c Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead.
+- 5c. Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead.
 
 Group pupils effectively by:
 
-- 5m Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum.
-- 5n Changing groups regularly, avoiding the perception that groups are fixed.
+- 5m. Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum.
+- 5n. Changing groups regularly, avoiding the perception that groups are fixed.
 
 Build effective working relationships by: 
 
-- 8f Contributing positively to the wider school culture and developing a feeling of shared responsibility for improving the lives of all pupils within the school. 
-- 8h Communicating with parents and carers proactively and making effective use of parents’ evenings to engage parents and carers in their children’s schooling. 
-- 8i Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching.
-- 8l Knowing who to contact with any safeguarding concerns.
+- 8f. Contributing positively to the wider school culture and developing a feeling of shared responsibility for improving the lives of all pupils within the school. 
+- 8h. Communicating with parents and carers proactively and making effective use of parents’ evenings to engage parents and carers in their children’s schooling. 
+- 8i. Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching.
+- 8l. Knowing who to contact with any safeguarding concerns.

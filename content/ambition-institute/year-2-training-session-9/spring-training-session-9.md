@@ -35,7 +35,7 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation (EEF): Improving Literacy in Key Stage 2](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-ks2)
 - [Education Endowment Foundation (EEF): Improving Literacy in Secondary Schools](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-ks3-ks4)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 2. School input as needed.
@@ -113,20 +113,20 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 
 Develop an understanding of different pupil needs by:
 
-- 5.c: Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead
-- 5.d: Using the SEND Code of Practice, which provides additional guidance on supporting pupils with SEND effectively.
+- 5c: Working closely with the SENCO and special education professionals and the Designated Safeguarding Lead
+- 5d: Using the SEND Code of Practice, which provides additional guidance on supporting pupils with SEND effectively.
 
 Provide an opportunity for all pupils to experience success by:
 
-- 5.g: Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching.
+- 5g: Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching.
 
 Meet individual needs without creating unnecessary workload by:
 
-- 5.h: Making use of well-designed resources (such as textbooks).
+- 5h: Making use of well-designed resources (such as textbooks).
 
 Build effective working relationships by:
 
-- 8.f: Contributing positively to the wider school culture and developing a feeling of shared responsibility for improving the lives of all pupils within the school.
-- 8.i: Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching.
-- 8.j: Sharing the intended lesson outcomes with teaching assistants ahead of lessons.
-- 8.k: Ensuring that support provided by teaching assistants in lessons is additional to, rather than a replacement for, support from the teacher.
+- 8f: Contributing positively to the wider school culture and developing a feeling of shared responsibility for improving the lives of all pupils within the school.
+- 8i: Working closely with the SENCO and other professionals supporting pupils with additional needs, making explicit links between interventions delivered outside of lessons with classroom teaching.
+- 8j: Sharing the intended lesson outcomes with teaching assistants ahead of lessons.
+- 8k: Ensuring that support provided by teaching assistants in lessons is additional to, rather than a replacement for, support from the teacher.

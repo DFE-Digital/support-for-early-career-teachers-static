@@ -29,7 +29,7 @@ These resources provide information to support the session plan options below:
 - [Improving Teaching: Forming good habits, breaking bad habits: what works?](https://improvingteaching.co.uk/2019/01/13/forming-good-habits-breaking-bad-habits-what-works/)
 - [The Power of Habit tools](https://www.charlesduhigg.com/tools)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 2. School input as needed.

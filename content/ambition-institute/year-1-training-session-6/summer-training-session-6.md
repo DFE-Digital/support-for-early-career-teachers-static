@@ -30,7 +30,7 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation (EEF): Working with Parents to Support Children’s Learning](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/supporting-parents)
 - [Education Endowment Foundation (EEF): Reading comprehension strategies](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 2. Information on the science of learning and the 5 habits of planning.
