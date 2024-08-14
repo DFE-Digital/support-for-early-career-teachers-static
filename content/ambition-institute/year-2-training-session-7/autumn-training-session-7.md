@@ -27,7 +27,7 @@ These resources provide information to support the session plan options below:
 - [Department for Education: Keeping children safe in education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2)
 - [Education Endowment Foundation (EEF): Special education needs and disabilities](https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/special-educational-needs-and-disabilities-send)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 2. School input as needed.
