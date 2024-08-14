@@ -5,6 +5,7 @@ caption: "Training session 1 - Supporting all pupils"
 ---
 
 Provides an overview of:
+
 - the SEND code of practice
 - working with the Special Educational Needs Co-ordinator (SENCO) or designated safeguarding lead (DSL)
 - working with teaching assistants (TAs)
@@ -30,7 +31,7 @@ These resources provide information to support the session plan options below:
 - [SEND code of practice: 0 to 25 years](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25)
 - [National Association for Special Educational Needs (nasen) resources](https://nasen.org.uk/resources)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 2. School input as needed.
@@ -87,7 +88,7 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 
 ## Related ECF strands
 
-ECF 'Learn that’ statements covered
+ECF 'Learn that’ statements covered:
 
 - 5.2. Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
 - 5.3. Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success.

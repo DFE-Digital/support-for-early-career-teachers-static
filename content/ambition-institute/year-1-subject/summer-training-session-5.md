@@ -23,13 +23,13 @@ These resources provide information to support the session plan options below:
 
 - [International journal of Wellbeing: The challenge of defining wellbeing](https://www.internationaljournalofwellbeing.org/index.php/ijow/article/view/89)
 - [Ofsted: Summary and recommendations: teacher well-being research report](https://www.gov.uk/government/publications/teacher-well-being-at-work-in-schools-and-further-education-providers/summary-and-recommendations-teacher-well-being-research-report)
-- [Department for Education: School workload reduction toolkit](https://www.gov.uk/guidance/school-workload-reduction-toolkit)
+- [Department for Education: School workload reduction toolkit](https://improve-workload-and-wellbeing-for-school-staff.education.gov.uk/workload-reduction-toolkit/)
 - [Improving Teaching: Accepting failure: managing time better as a teacher](https://improvingteaching.co.uk/2013/12/01/accepting-failure-managing-time-better-as-a-teacher/)
 - [The importance of recovery from work: A review of where, how and why](https://www.researchgate.net/publication/261249268_The_importance_of_recovery_of_work_A_review_of_where_how_and_why)
 - [Improving Teaching: Forming good habits, breaking bad habits: what works?](https://improvingteaching.co.uk/2019/01/13/forming-good-habits-breaking-bad-habits-what-works/)
 - [The Power of Habit tools](https://www.charlesduhigg.com/tools)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 2. School input as needed.
@@ -40,7 +40,7 @@ The following self-study materials provide context and exemplification:
 - [Routines](/ambition-institute/year-1-behaviour/autumn-week-2-ect-video)
 - [Examining pupils’ responses](/ambition-institute/year-1-subject/summer-week-10-ect-video)
 - [Adapting teaching to meet pupil needs](/ambition-institute/year-1-instruction/spring-week-6-ect-video)
-- [Feedback](/ambition-institute/year-1-instruction)
+- [Feedback](/ambition-institute/year-1-instruction/spring-week-12-ect-video/)
 
 ## Session structure:
 

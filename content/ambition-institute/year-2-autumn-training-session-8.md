@@ -16,8 +16,4 @@ Duration: 90 minutes
 
 ## Preparation
 
-These resources provide information to support the session plan options below:
-
-## Session structure:
-
-Session structure content awaiting publication.
+Content awaiting publication.
