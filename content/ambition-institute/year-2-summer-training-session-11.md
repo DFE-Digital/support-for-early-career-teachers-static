@@ -30,7 +30,7 @@ These resources provide information to support the session plan options below:
 - [Ofsted: Reading by six; How the best schools do it](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/379093/Reading_20by_20six.pdf)
 - [American Educator: Principle of Instruction: Research-Based Strategies That All Teachers Should Know](https://www.aft.org/sites/default/files/Rosenshine.pdf)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 2. Information on the science of learning and the 5 habits of planning.

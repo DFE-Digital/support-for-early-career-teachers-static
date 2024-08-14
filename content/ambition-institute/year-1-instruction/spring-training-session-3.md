@@ -21,11 +21,11 @@ Duration: 90 minutes.
 
 These resources provide information to support the session plan options below:
 
-- [Education Endowment Foundation (EEF): Parental engagement](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/parental-engagement?utm_source=/education-evidence/teaching-learning-toolkit/parental-engagement&utm_medium=search&utm_campaign=site_search&search_term=parents%20and%20carers)
+- [Education Endowment Foundation (EEF): Parental engagement](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/parental-engagement?utm_source=/education-evidence/teaching-learning-toolkit/parental-engagement)
 - [Ofsted: Teacher well-being at work in schools and further education providers](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/936253/Teacher_well-being_report_110719F.pdf)
-- [Department for Education: School workload reduction toolkit: Communication](https://www.gov.uk/guidance/school-workload-reduction-toolkit#communications)
+- [Department for Education: School workload reduction toolkit](https://improve-workload-and-wellbeing-for-school-staff.education.gov.uk/workload-reduction-toolkit/)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 - Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 - School input as needed.

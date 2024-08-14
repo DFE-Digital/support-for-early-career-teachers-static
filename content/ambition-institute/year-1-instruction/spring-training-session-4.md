@@ -25,7 +25,7 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation (EEF): Learning styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)
 - [Education Endowment Foundation (EEF): Special Educational Needs in Mainstream Schools](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/send)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 - Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 - School input as needed.
@@ -79,6 +79,7 @@ This section provides ECTs with time for reflection, quizzing, and action steps.
 ## Related ECF strands
 
 ### ECF 'Learn that’ statements covered
+
 - 4.10. How pupils are grouped is important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
 - 5.4. Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
 - 5.5. Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils.

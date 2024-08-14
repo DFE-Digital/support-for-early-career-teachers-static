@@ -28,7 +28,7 @@ These resources provide information to support the session plan options below:
 - [Education Endowment Foundation (EEF) blog: Retrieval practice: a game of ‘hide and seek’](https://educationendowmentfoundation.org.uk/news/retrieval-practice-a-game-of-hide-and-seek)
 - [Education Endowment Foundation (EEF): Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation)
 
-Before this session takes place, ECTs should have the following. 
+Before this session takes place, ECTs should have the following: 
 
 1. Exposure to key knowledge from initial teacher training (ITT) Core Content Framework on relevant sub-standards.
 2. School input as needed. 

@@ -6,7 +6,8 @@ caption: "Training session 2 - Responding to challenging behaviour"
 
 Duration: 90 minutes. 
 
-## Outcomes 
+## Outcomes
+
 1. Learn that challenging behaviour can take many forms, and some may be more difficult to identify than others.
 2. Understand the impact of challenging behaviour on pupils and teachers.
 3. Identify potential causes of challenging behaviour and understand how proactive strategies could help to prevent it from occurring.
@@ -27,7 +28,7 @@ These resources provide information to support the session plan options below:
 - [Social-Psychological Interventions in Education: They’re Not Magic](https://journals.sagepub.com/doi/10.3102/0034654311405999)
 - [Motivation Interventions in Education: A Meta-Analytic Review](https://journals.sagepub.com/doi/10.3102/0034654315617832)
 
-Before this session takes place, early career teachers (ECTs) should have the following.
+Before this session takes place, early career teachers (ECTs) should have the following:
 
 1. Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
 2. School input as needed.
