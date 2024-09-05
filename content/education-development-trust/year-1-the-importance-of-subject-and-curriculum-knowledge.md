@@ -8,9 +8,9 @@ In this module you’ll learn practical ways to develop your subject and curricu
 
 ## Module introduction
 
-Go through the module introduction to see what you’ll be learning.
+### ECTs
 
-Duration: 10 minutes.
+Go through the module introduction to see what you’ll be learning (10 minutes).
 
 1. [Instructions](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/intro-ect-instructions)
 2. [Video introduction](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/intro-ect-video-introduction)
@@ -21,12 +21,12 @@ Go through the module introduction to see what the ECT will be learning.
 
 ## Week 1 : subject and curriculum knowledge
 
+### ECTs
+
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
-
-Duration: 45 minutes.
+- work through the self-study materials below (45 minutes)
+- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward (60 minutes)
 
 1. [Instructions](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-1-ect-instructions)
 2. [Learning outcomes](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-1-ect-learning-outcomes)
@@ -44,20 +44,24 @@ For this topic you should:
 
 ## Week 2: sequencing a coherent curriculum
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
+### ECTs
+
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT does not have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-2-mentor-materials)
 
 ## Week 3: an introduction to literacy
 
-For this topic you’ll need to work through the self-study materials below.
+### ECTs
 
-Duration: 45 minutes.
+For this topic you’ll need to work through the self-study materials below (45 minutes).
+
+You’ll also attend a training session arranged by your induction tutor (90 minutes).
 
 1. [Instructions](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-ect-instructions)
 2. [Learning outcomes](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-ect-learning-outcomes)
@@ -67,10 +71,19 @@ Duration: 45 minutes.
 
 There are no mentor activities this week.
 
+### Induction tutor
+
+Use the materials below to arrange a training session on developing pupil’s literacy (90 minutes).
+
+View induction tutor materials
+
 ## Week 4: misconceptions and a deeper look at literacy
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
+### ECTs
 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
+
+You’ll also attend a training session arranged by your induction tutor (90 minutes).
 
 ### Mentors
 
@@ -81,14 +94,20 @@ For this topic you should:
 
 [View mentor materials](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-4-mentor-materials)
 
+### Induction tutor
+
+Use the materials below to arrange a training session on improving literacy skills through oral language and written tasks (90 minutes).
+
+View induction tutor materials
+
 ## Week 5: putting it into practice
+
+### ECTs
 
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 70 minutes.
+- work through the self-study materials below (70 minutes)
+- catch up with your mentor (60 minutes)
 
 1. [Instructions](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-5-ect-instructions)
 2. [Classroom practice](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-5-ect-classroom-practice)
@@ -104,9 +123,9 @@ For this topic you should:
 
 ## Week 6: lesson observations
 
-Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up.
+### ECTs
 
-Duration: 60 minutes.
+Use the materials below to plan observations of colleagues or yourself ahead of your mentor catch-up (60 minutes).
 
 1. [Instructions](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-6-ect-instructions)
 2. [Intended outcomes](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-6-ect-intended-outcomes)
@@ -120,9 +139,9 @@ Use the materials below for an end of module review with the ECT.
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
+### ECTs
 
-Duration: 10 minutes.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future (10 minutes).
 
 1. [Instructions](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/intro-ect-instructions)
 
