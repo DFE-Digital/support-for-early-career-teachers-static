@@ -8,9 +8,7 @@ In this module you’ll build on your existing knowledge to develop further prac
 
 ## Module introduction
 
-Go through the module introduction to see what you’ll be learning.
-
-Duration: 5 minutes.
+Go through the module introduction to see what you’ll be learning (5 minutes).
 
 1. [Instructions](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/intro-ect-instructions)
 2. [Video introduction](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/intro-ect-video-introduction)
@@ -21,12 +19,12 @@ Go through the module introduction to see what the ECT will be learning.
 
 ## Week 1: feedback
 
+### ECTs
+
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward
-
-Duration: 20 minutes.
+- work through the self-study materials below (20 minutes)
+- catch up with your mentor to reflect on what you’ve learnt, discuss any issues or concerns, and decide what actions to take going forward (60 minutes)
 
 1. [Instructions](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-1-ect-instructions)
 2. [Learning outcomes](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-1-ect-learning-outcomes)
@@ -44,12 +42,12 @@ For this topic you should:
 
 ## Week 2: efficient approaches to assessment
 
+### ECTs
+
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 15 minutes.
+- work through the self-study materials below (15 minutes)
+- attend a training session arranged by your induction tutor (75 minutes)
 
 1. [Instructions](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-2-ect-instructions)
 2. [Learning outcomes](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-2-ect-learning-outcomes)
@@ -57,59 +55,66 @@ Duration: 15 minutes.
 
 ### Mentors
 
-For this topic you should:
+There’s no mentoring session with your ECT this week. Instead, your induction tutor should arrange a training session.
 
-- read the ECT’s study materials below
-- catch up with your ECT
-- briefly watch them teach
+### Induction tutor
+
+Use the materials below to arrange a training session on making assessment manageable and effective (75 minutes).
+
+View induction tutor materials
 
 ## Week 3: marking - learning from colleagues
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
+### ECTs
 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT does not have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-3-mentor-materials)
 
 ## Week 4: high-quality feedback
 
+### ECTs
+
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 15 minutes.
+- work through the self-study materials below (15 minutes)
+- attend a training session arranged by your induction tutor (75 minutes)
 
 1. [Instructions](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-4-ect-instructions)
 2. [Classroom practice](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-4-ect-classroom-practice)
 
 ### Mentors
 
-For this topic you should:
+There’s no mentoring session with your ECT this week. Instead, your induction tutor should arrange a training session.
 
-- read the ECT’s study materials below
-- catch up with your ECT
-- briefly watch them teach
+### Induction tutor
+
+Use the materials below to arrange a training session on high-quality feedback (75 minutes).
+
+View induction tutor materials
 
 ## Week 5: marking - efficiencies
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
+### ECTs
+
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT does not have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-5-mentor-materials)
 
 ## Week 6: review of the module
 
-Your mentor should arrange a catch-up with you to discuss what you have learnt during this module.
+### ECTs
 
-Duration: 30 minutes.
+Your mentor should arrange a catch-up with you to discuss what you have learnt during this module (30 minutes).
 
 ### Mentors
 
@@ -119,9 +124,9 @@ Use the materials below to help you plan a discussion with the ECT about what th
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
+### ECTs
 
-Duration: 5 minutes.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future (5 minutes).
 
 1. [Instructions](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/intro-ect-instructions)
 
