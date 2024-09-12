@@ -12,7 +12,7 @@ In this module you’ll focus on developing strong professional relationships to
 
 Go through the module introduction to see what you'll be learning.
 
-Duration: 10 minutes.
+Duration: 10 minutes
 
 1. [Instructions](/education-development-trust/year-1-a-people-profession/intro-ect-instructions)
 2. [Video introduction](/education-development-trust/year-1-a-people-profession/intro-ect-video-introduction)
@@ -49,7 +49,7 @@ For this topic you should:
 
 Use the materials below to arrange a training session on building effective relationships with parents, carers and families (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-a-people-profession/summer-week-1-induction-tutor-materials)
 
 ## Week 2: pupils and their families
 
@@ -69,7 +69,7 @@ The ECT does not have a self-study element for this topic. Instead, you should u
 
 Use the materials below to arrange a training session on building trusting relationships with pupils (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-a-people-profession/summer-week-2-induction-tutor-materials)
 
 ## Week 3: your colleagues
 

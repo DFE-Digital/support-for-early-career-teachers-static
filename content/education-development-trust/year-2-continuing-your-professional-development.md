@@ -32,7 +32,7 @@ There are no materials for this topic. Instead, your induction tutor should arra
 
 Use the materials below to arrange a training session on reflective practice (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-continuing-your-professional-development/summer-week-2-induction-tutor-materials)
 
 ## Week 3: effective professional development
 
@@ -48,14 +48,13 @@ There are no materials for this topic. Instead, your induction tutor should arra
 
 Use the materials below to arrange a training session on effective professional development (30 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-continuing-your-professional-development/summer-week-3-induction-tutor-materials)
 
 ## Week 4: reflecting and celebrating success
 
 ### ECTs
 
 There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
-
 
 ### Mentors
 

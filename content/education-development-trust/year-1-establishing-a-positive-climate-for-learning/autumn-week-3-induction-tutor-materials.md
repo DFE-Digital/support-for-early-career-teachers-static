@@ -25,7 +25,7 @@ Build trusting relationships, by:
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a session with them about this topic.
 
 ### Session structure
 

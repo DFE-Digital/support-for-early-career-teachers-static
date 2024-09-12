@@ -27,7 +27,7 @@ Avoid overloading working memory, by:
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a session with them about this topic.
 
 The following resources have key findings that you might find helpful. You could share them with ECTs for reference too.
 

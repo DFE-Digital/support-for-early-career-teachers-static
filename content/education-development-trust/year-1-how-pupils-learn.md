@@ -58,7 +58,7 @@ There are no materials for this topic. Instead, your induction tutor should arra
 
 Use the materials below to arrange a training session on cognitive load and implications for teaching practice (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-2-induction-tutor-materials)
 
 ## Week 3: introducing new content
 
@@ -78,7 +78,7 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 Use the materials below to arrange a training session on prior knowledge, misconceptions and worked examples (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-how-pupils-learn/autumn-week-3-induction-tutor-materials)
 
 ## Week 4: prior knowledge and misconceptions
 

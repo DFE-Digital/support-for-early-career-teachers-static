@@ -26,18 +26,17 @@ Build trusting relationships, by:
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+[Read the ECT’s self-study materials for this topic](education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-4-ect-instructions/)
 
 ### Session structure:
 
 ### Correcting behaviour with least-intrusive interventions (5 minutes)
 
-1. Welcome ECTs and explain that they’re going to focus on the following 4 ECF statements:
+1. Welcome ECTs and explain that they’re going to focus on the following ECF statements:
 
 Demonstrate consistently high behavioural expectations, by:
 
 - 1e Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils)
-
 - 1f Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration)
 
 Develop a positive, predictable and safe environment for pupils, by:
@@ -49,15 +48,15 @@ Build trusting relationships, by:
 
 - 7l Responding consistently to pupil behaviour   
 
-2.	Think-pair-share activity. Give ECTs the following scenario.
+2. Think-pair-share activity. Give ECTs the following scenario.
 
 You have given pupils the task of completing a question in their exercise books. The majority of the class are on task, and you’re walking around checking their work and giving feedback. 2 pupils are not on task, instead they’re having a whispered conversation.
 
-3.	Ask, what steps would you take to deal with this behaviour?
+3. Ask, what steps would you take to deal with this behaviour?
 
 Answers might include a non-verbal reminder, a positive group reminder or an anonymous individual reminder.
 
-4.	Ask, when should you escalate your behaviour intervention?
+4. Ask, when should you escalate your behaviour intervention?
 
 Answers might include when:
 
@@ -82,17 +81,19 @@ Emphasise that ECTs should look to correct behaviour privately and quietly where
 
 Answers may include:
 
-- “I need to see you putting in more effort and working harder” – this is too vague, the pupil may not know what this looks like  
-- “I do not want to see you looking around the room when I’m talking” – this focuses on what the pupil should not be doing rather than what you want to see  
+- “I need to see you putting in more effort and working harder” - this is too vague, the pupil may not know what this looks like  
+- “I do not want to see you looking around the room when I’m talking” - this focuses on what the pupil should not be doing rather than what you want to see  
 - “It’s rude” - focusing on the negatives rather than the positive  
 
-4. Explain that it’s important to be mindful when using private individual reminders as we want to get pupils back on track quickly and keep the interaction positive. ECTS should:
+4. Explain that it’s important to be mindful when using private individual reminders as we want to get pupils back on track quickly and keep the interaction positive.
+
+ECTS should:
 
 - emphasise the purpose 
 - give a clear instruction 
 - make sure the pupil knows what they should be doing   
 
-5.	Ask ECTs to work in pairs or groups and consider this example.
+5.	Ask ECTs to work in pairs or groups and consider this example:
 
 > (The teacher leans down to the pupil’s eye level.) “Ralph, when I was giving instructions I did not see your eyes on me. It’s important that when I’m telling the class what to do, you’re on task. When I asked you a question, you did not know the answer. That tells me you need to work harder if you’re going to be able to get the right answer. Eyes on me when I’m giving instructions. Thank you.”
 
@@ -184,9 +185,13 @@ This response:
 #### When should you use private individual reminders?
 
 A) If a pupil talks out of turn.
+
 B) When you want to get a pupil back on track quickly without drawing attention to the poor behaviour.
+
 C) When you want to give a consequence to show the pupil their behaviour is inappropriate.
+
 D) When you want to motivate a pupil to work harder.
+
 E) When you have used an anonymous individual correction but the pupil has not corrected their behaviour.
 
 The answers are: B and E.
@@ -194,7 +199,9 @@ The answers are: B and E.
 #### What are 3 key things to remember when using private individual reminders?
 
 A) Reinforce expectations, tell pupil what they were doing wrong, give consequence.
+
 B) Speak quietly, tell the pupil what to do, give all the reasons they should not be doing what they were doing.
+
 C) Focus on purpose, reinforce rationale, tell the pupil what they need to do.
 
 The answer is: C
@@ -202,16 +209,21 @@ The answer is: C
 #### When should you use a lightning quick public reminder?
 
 A) When you need to correct behaviour publicly.
+
 B) When you want to correct behaviour quickly.
+
 C) When the pupil needs to be told off.
+
 D) When you want to draw attention to the behaviour so other pupils do not copy it.
 
 The answer is: B
 
 #### What are 3 key things to remember when using lightning quick public reminders?
 
-A) Be quick, draw attention to what the pupil should be doing, if possible drop your voice. 
+A) Be quick, draw attention to what the pupil should be doing, if possible drop your voice.
+
 B) Speak quickly, tell the pupil what to do, move on.
+
 C) If possible drop your voice, tell the pupil what they did wrong, tell the pupil what they should be doing.
 
 The answer is: A

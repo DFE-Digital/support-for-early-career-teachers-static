@@ -21,7 +21,7 @@ Duration: 90 minutes
 
 #### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+[Read the ECT’s self-study materials for this topic](education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-ect-instructions/)
 
 You should speak to experienced colleagues in the same subject or phases as the ECTs attending this session to help identify 2 high quality texts for the session.
 
@@ -42,7 +42,9 @@ Think, pair, share activity:
 - describe it to your partner
 - discuss on your table ways you could overcome these barriers
 
-One way to raise the profile of literacy and to support pupils is by promoting reading for pleasure (for example, by using a range of whole class reading approaches and regularly reading high-quality texts to children). Ask ECTs to discuss together on their tables:
+One way to raise the profile of literacy and to support pupils is by promoting reading for pleasure (for example, by using a range of whole class reading approaches and regularly reading high-quality texts to children).
+
+Ask ECTs to discuss together on their tables:
 
 - how have you promoted reading for pleasure within your subject?
 - what’s worked well?
@@ -118,14 +120,16 @@ Ask ECTs to study the following modelling reading comprehension and discuss the 
 ### Modelling reading comprehension
 
 1. Get pupils to ask questions about the text using who, what, where, when, why, and how.
+
 2. Teach pupils to make predictions by using sentence stems like ‘I think’ and because’. This encourages both full sentence structures and pupils justifying their perspective with evidence.
+
 3. When reading, teach pupils to summarise:
 
 - just the most important points 
 - in order using connectives like first, next, then, finally
 - in bitesize chunks
 
-Share a new text with the ECTs and ask them to have a go at using the question stems to plan their own questions for pupils
+Share a new text with the ECTs and ask them to have a go at using the question stems to plan their own questions for pupils.
 
 ### Planning for action (15 minutes)
 

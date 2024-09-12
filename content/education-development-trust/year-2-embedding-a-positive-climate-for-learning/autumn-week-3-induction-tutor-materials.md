@@ -23,7 +23,7 @@ Motivate pupils by:
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+[Read the ECT’s self-study materials for this topic](education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-3-ect-instructions/)
 
 ### Session structure:
 
@@ -153,7 +153,18 @@ They should note how:
 
 [TABLE IS MISSING FROM THE SOURCE MATERIAL]
 
-They may have already seen this in a mentor session:
+They may have already seen this in a mentor session.
+
+Types of rewards | How to encorage intrinsic motivation
+----|----
+Verbal praise | Rewarding effort
+Thumbs-up | Rewarding learning strategies
+Merits | Rewarding learning processes
+Postcards home | Rewarding persistence
+Phone call home | Rewarding resilience
+Stickers | Rewarding good behaviour
+Public praise in assembly |
+Certificates |
 
 4. ECTs should look at an upcoming lesson and annotate if and where they’ve:
 

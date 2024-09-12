@@ -18,7 +18,7 @@ Duration: 60 minutes
 
 ### Learn how to:
 
-### Motivate pupils, by:
+Motivate pupils, by:
 
 - 7n Providing opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school.
 
@@ -27,8 +27,6 @@ Duration: 60 minutes
 Mentors have asked ECTs to collect pupil voice data about how pupils characterise effective relationships with teachers. Ask them to bring that to this session.
 
 Be aware that ECTs may have had some difficult experiences with pupils over the year. The conversations in this session may be challenging for some, and could degenerate into negativity. Be sensitive and focus discussions on positive experiences.
-
-Read the ECT’s self-study materials for this module.
 
 The following resources may also be helpful:
 

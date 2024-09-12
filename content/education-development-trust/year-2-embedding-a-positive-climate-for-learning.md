@@ -36,9 +36,9 @@ During the first week of the module you should:
 
 ### Induction tutor
 
-Use the materials below to arrange a training session on teacher Use the materials below to arrange a training session on teacher expectations, challenging tasks, and the language and culture of challenge and aspiration (90 minutes).
+Use the materials below to arrange a training session on teacher expectations, challenging tasks, and the language and culture of challenge and aspiration (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-1-induction-tutor-materials)
 
 ## Week 2: understanding the evidence
 
@@ -88,7 +88,7 @@ For this topic you should:
 
 Use the materials below to arrange a training session on motivating pupils (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-3-induction-tutor-materials)
 
 ## Week 4: regulating emotions
 
@@ -103,7 +103,7 @@ There's no mentor session this week.
 
 Use the materials below to arrange a training session on helping pupils regulate their own emotions (30 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-4-induction-tutor-materials)
 
 ## Week 5: challenging content
 
@@ -132,9 +132,7 @@ Use the materials below to help you plan a discussion with the ECT about what th
 
 ### ECTs
 
-Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
-
-Duration: 5 minutes.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future (5 minutes).
 
 1. [Instructions](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/intro-ect-instructions)
 

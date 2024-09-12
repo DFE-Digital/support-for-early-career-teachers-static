@@ -25,7 +25,7 @@ Duration: 60 minutes
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+[Read the ECT’s self-study materials for this topic](education-development-trust/year-1-developing-effective-classroom-practice/spring-week-2-ect-instructions/)
 
 ### Session structure
 
@@ -43,12 +43,17 @@ Share the following with the ECTs which could be done in a number of ways:
 
 ### How to structure lessons for progress and plan effectively
 
-- Focus on what pupils will be trying to learn in a lesson and what you intend them to make progress in.
-- Use lesson objectives to support teacher planning and help focus the teaching on what students are intended to learn.
-- Also use lesson objectives to help pupils understand what they should be making progress in and to connect a lesson with previous, and sometimes, future lessons.
-- Ensure learning outcomes are ambitious and state what pupils are expected to have achieved by the end of a lesson.
-- Using success criteria enables teachers and their pupils to explain the features of a high-quality outcome.
-- Success criteria also help pupils understand how to evaluate the quality of their work and to improve it.
+Focus on what pupils will be trying to learn in a lesson and what you intend them to make progress in.
+
+Use lesson objectives to support teacher planning and help focus the teaching on what students are intended to learn.
+
+Also use lesson objectives to help pupils understand what they should be making progress in and to connect a lesson with previous, and sometimes, future lessons.
+
+Ensure learning outcomes are ambitious and state what pupils are expected to have achieved by the end of a lesson.
+
+Using success criteria enables teachers and their pupils to explain the features of a high-quality outcome.
+
+Success criteria also help pupils understand how to evaluate the quality of their work and to improve it.
 
 ### Examplar lesson plan
 
@@ -77,10 +82,13 @@ To have located and described the River Ribble and its features on an Ordnance S
 
 #### Success criteria
 
-- I can identify and name some key river features from the map.
-- I can locate them using 4 and 6 figure grid references (learned in previous lesson).
-- I can describe what these features are like using geographical vocabulary.
-- I can state whether features are found on the upper, middle, or lower course of the river.
+I can identify and name some key river features from the map.
+
+I can locate them using 4 and 6 figure grid references (learned in previous lesson).
+
+I can describe what these features are like using geographical vocabulary.
+
+I can state whether features are found on the upper, middle, or lower course of the river.
 
 #### Lesson structure
 
@@ -116,7 +124,9 @@ The teacher recaps the main features of a river system, supported by slides with
 
 Task: to match river system vocabulary with descriptions and labelled diagrams with points on the OS map.
 
-The teacher models the locating key features of a river system on an enlarged digital OS map of the River Ribble catchment area on the screen for one river feature - a tributary. Modelling includes:
+The teacher models the locating key features of a river system on an enlarged digital OS map of the River Ribble catchment area on the screen for one river feature - a tributary.
+
+Modelling includes:
 
 - other key geographical vocabulary
 - place names for the map
@@ -155,7 +165,7 @@ In small groups of 2 or 3 pupils, ask ECTs to write a list of learning outcomes 
 
 Ask the ECTs to: Describe the city at night. Write the first 3 lines of description.
 
-### Share the ‘what a good one looks like’ example
+#### Share the ‘what a good one looks like’ example
 
 Hanway Street was empty, forsaken; a narrow, dark road, little more than an alleyway, filled with gloomy record shops and restaurants, their darkened windows like empty staring eyes on either side of him. Dim light was escaping from under secretive doorways or spilling out from windows on the upper floors of buildings. Richard walked along, his steps echoing and the sense of being watched increasing.
 

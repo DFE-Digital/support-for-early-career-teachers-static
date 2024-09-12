@@ -69,7 +69,7 @@ For this topic you should:
 
 Use the materials below to arrange a training session on structuring lessons for progress (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-2-induction-tutor-materials)
 
 ## Week 3: effective teaching
 
@@ -81,7 +81,7 @@ You’ll also attend a training session arranged by your induction tutor (60 min
 
 ### Mentors
 
-The ECT does not have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them ECT about this topic.
+The ECT does not have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-3-mentor-materials)
 
@@ -89,7 +89,7 @@ The ECT does not have a self-study element this week. Instead, you should use th
 
 Use the materials below to arrange a training session on practice makes perfect (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-3-induction-tutor-materials)
 
 ## Week 4: adapting teaching
 
@@ -116,7 +116,7 @@ For this topic you should:
 
 Use the materials below to arrange a training session on adapting teaching (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-developing-effective-classroom-practice/spring-week-4-induction-tutor-materials)
 
 ## Week 5: putting it into practice
 

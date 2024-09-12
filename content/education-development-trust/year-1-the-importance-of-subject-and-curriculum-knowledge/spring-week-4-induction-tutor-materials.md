@@ -14,16 +14,16 @@ Duration: 90 minutes
 
 - 3.10 Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
 
-####Learn how to develop pupils’ literacy by:
+Learn how to develop pupils’ literacy by:
 
 - 3r Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (for example, requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
 - 3s Teaching different forms of writing by modelling planning, drafting and editing.
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+ECTs should think about one lesson they have taught recently and make a list of all the literacy skills and knowledge they required the pupils to use during the course of the lesson.
 
-ECTs should think about one lesson they have taught recently and make a list of all the literacy skills and knowledge they required the pupils to use during the course of the lesson. The following broad areas could be used to help with this:
+The following broad areas could be used to help with this:
 
 - did pupils need to read?
 - did pupils write anything, in what style, and what was its purpose?
@@ -40,7 +40,9 @@ Ask ECTs to share something they have done since the last session on literacy th
 
 ### Model and require high-quality oral language (25 minutes)
 
-You should explain that spoken language underpins the development of reading and writing. Therefore, the way that pupils speak and interact in the classroom is highly relevant to the development of their reading and writing. Effective writing is underpinned by children’s expressive language capabilities (EEF, 2018). Facilitators should share different strategies that could be used:
+You should explain that spoken language underpins the development of reading and writing. Therefore, the way that pupils speak and interact in the classroom is highly relevant to the development of their reading and writing. Effective writing is underpinned by children’s expressive language capabilities (EEF, 2018).
+
+Facilitators should share different strategies that could be used:
 
 - the way the teacher speaks - teachers need to model high-quality sentences and vocabulary
 - ban slang - prevent students from using slang words

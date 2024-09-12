@@ -25,7 +25,7 @@ Duration: 90 minutes
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a session with them about this topic.
 
 The [mentor materials on prior learning](https://support-for-early-career-teachers.education.gov.uk/education-development-trust/year-1-how-pupils-learn/autumn-week-3-mentor-materials/) may be helpful too.
 
@@ -105,7 +105,9 @@ Key points to remember:
 
 You may ask ECTs may bring a list that they wrote during the self-directed study materials as the starting point for this activity. Or you can ask them to make a list now.
 
-The list should include key facts or knowledge that ECTs think would be useful for pupils in their subject or phase to have committed to long-term memory. Ask:
+The list should include key facts or knowledge that ECTs think would be useful for pupils in their subject or phase to have committed to long-term memory.
+
+Ask:
 
 - why did they choose these facts or knowledge?
 - how would having these in their long-term memory help them to learn more effectively?

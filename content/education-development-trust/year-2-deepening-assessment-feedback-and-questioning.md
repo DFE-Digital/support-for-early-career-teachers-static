@@ -61,7 +61,7 @@ There’s no mentoring session with your ECT this week. Instead, your induction 
 
 Use the materials below to arrange a training session on making assessment manageable and effective (75 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-2-induction-tutor-materials)
 
 ## Week 3: marking - learning from colleagues
 
@@ -95,7 +95,7 @@ There’s no mentoring session with your ECT this week. Instead, your induction 
 
 Use the materials below to arrange a training session on high-quality feedback (75 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-4-induction-tutor-materials)
 
 ## Week 5: marking - efficiencies
 

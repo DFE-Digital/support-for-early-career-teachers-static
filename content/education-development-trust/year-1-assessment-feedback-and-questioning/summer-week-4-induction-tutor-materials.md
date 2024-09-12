@@ -33,7 +33,7 @@ Duration: 60 minutes
 
 Ask ECTs to bring examples of classroom talk that they have used in their practice.
 
-Read the ECT’s self-study materials for this module.
+[Read the ECT’s self-study materials for this module](education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-4-ect-instructions/)
 
 You may wish to prepare audio or video clips, or written transcriptions, of classroom talk using questioning.
 
@@ -67,7 +67,9 @@ Which questions encouraged high quality classroom talk, such as encouraging pupi
 
 How much wait time were pupils given to answer questions?
 
-What was the purpose of each question? Categorise the reasons into: 
+What was the purpose of each question?
+
+Categorise the reasons into: 
 
 - checking prior knowledge
 - assessing understanding

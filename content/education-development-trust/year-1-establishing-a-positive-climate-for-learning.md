@@ -71,7 +71,7 @@ For this topic you should:
 
 Use the materials below to arrange a training session on setting clear expectations (30 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-2-induction-tutor-materials)
 
 ## Week 3: establishing high behavioural expectations
 
@@ -91,7 +91,7 @@ The ECT doesn’t have a self-study element this week. Instead, you should use t
 
 Use the materials below to arrange a training session on early and least intrusive interventions (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-3-induction-tutor-materials)
 
 ## Week 4: maintaining high behavioural expectations
 
@@ -120,7 +120,7 @@ For this topic you should:
 
 Use the materials below to arrange a training session on the least intrusive interventions and building relationships (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-4-induction-tutor-materials)
 
 ## Week 5: a supportive and inclusive learning environment
 

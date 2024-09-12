@@ -23,8 +23,6 @@ Duration: 90 minutes
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this module.
-
 Aim to model effective assessment practices throughout, such as:
 
 - giving ECTs appropriate wait time after asking questions
@@ -95,7 +93,7 @@ Ask ECTs to work in pairs or groups and decide which of the following statements
 True:
 
 - Assessment tells teachers what pupils know, remember, understand and can do.
-- One assessment cannot test everything
+- One assessment cannot test everything.
 - Assessments are more powerful if they are focused.
 - All assessment data can be used in a formative way.
 - Assessment involves both teachers and pupils.
@@ -132,7 +130,7 @@ Answers might include:
 - Replicability: would you get the same result again?
 - Independence of content: would a different choice of questions change the result?
 - The design of the marking schedule and moderation of marking procedures.
-- Independence of markers: would a different marker change the result
+- Independence of markers: would a different marker change the result.
 - Standardisation: would changing the assessment context (room, time of day, instructions etc) change the result?
 - The length of the assessment: a longer assessment generally produces more reliable results.
 - The suitability of the questions or tasks for the students being assessed.
@@ -235,24 +233,27 @@ Disadvantage: time-consuming to mark.
 
 #### Example A
 
-> When I am planning a Medium-Term Plan the first thing I do is work out what the key concepts are that the pupils need to learn to be able to progress in the subject. I then consider what the most appropriate assessment task pupils will complete at the end of the unit needs to be. This assessment task needs to enable me to identify pupil progress, alongside aspects they have not understood. For example, if I were teaching a year 7 unit on horror writing, I might set a task for pupils to ‘Write a horror story, using descriptive language and ensuring a cohesive and conventional plot structure’. This fits with the English KS3 curriculum ‘writing’ domain of writing stories and different types of narrative and writing to entertain. This comes into the GCSE exam for English Language also.
+> When I am planning a Medium-Term Plan the first thing I do is work out what the key concepts are that the pupils need to learn to be able to progress in the subject. I then consider what the most appropriate assessment task pupils will complete at the end of the unit needs to be. This assessment task needs to enable me to identify pupil progress, alongside aspects they have not understood. 
+<br/>
+<br/>
+For example, if I were teaching a year 7 unit on horror writing, I might set a task for pupils to ‘Write a horror story, using descriptive language and ensuring a cohesive and conventional plot structure’. This fits with the English KS3 curriculum ‘writing’ domain of writing stories and different types of narrative and writing to entertain. This comes into the GCSE exam for English Language also.
 
 Ask ECTs to list:
 
 - what key concepts will pupils be learning over this sequence?
 - what should the end of topic assessment be to assess pupil progress towards these concepts
-- what skills and knowledge will pupils need to be successful in this final assessment? (ECTs may find it helpful to use sentence starters like ‘to know that’ and ‘to be able to’.)
+- what skills and knowledge will pupils need to be successful in this final assessment? (ECTs may find it helpful to use sentence starters like ‘to know that’ and ‘to be able to’)
 - what are the 5 key skills or concepts pupils will need to be successful?
 
 #### Answers may include:
 
-- To know subject specific terminology to explain the conventions of horror writing.
-- To be able to make a clear and relevant point.
-- To be able to select and use accurate quotations to support a point.
-- To be able to select the quotations that demonstrate the writer’s intentions.
-- To be able to pick out individual words and discuss the language.
-- Ask ECTs to identify lessons in which they’ll introduce key skills or concepts.
-- ECTs should work through each lesson and break down the key skill or concept into the most granular form.
+- to know subject specific terminology to explain the conventions of horror writing
+- to be able to make a clear and relevant point
+- to be able to select and use accurate quotations to support a point
+- to be able to select the quotations that demonstrate the writer’s intentions
+- to be able to pick out individual words and discuss the language
+- ask ECTs to identify lessons in which they’ll introduce key skills or concepts
+- ECTs should work through each lesson and break down the key skill or concept into the most granular form
 
 For example:
 

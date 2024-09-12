@@ -75,7 +75,7 @@ There are no mentor activities this week.
 
 Use the materials below to arrange a training session on developing pupil’s literacy (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-induction-tutor-materials)
 
 ## Week 4: misconceptions and a deeper look at literacy
 
@@ -98,7 +98,7 @@ For this topic you should:
 
 Use the materials below to arrange a training session on improving literacy skills through oral language and written tasks (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-4-induction-tutor-materials)
 
 ## Week 5: putting it into practice
 

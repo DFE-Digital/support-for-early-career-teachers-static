@@ -7,6 +7,7 @@ caption: "Year 1"
 ## ECTs
 
 In this module you’ll cover:
+
 - the link between effective instruction and pupil learning
 - the elements of explicit instruction and the ‘I-we-you’ model as a useful way of approaching this
 - how instruction can support more effective pupil thinking

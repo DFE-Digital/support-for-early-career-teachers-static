@@ -24,15 +24,13 @@ Provide high quality feedback, by:
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this module.
-
 Aim to model effective assessment practices throughout.
 
 ### Session structure:
 
 ### What is effective feedback (5 minutes)
 
-Ask, what is effective feedback?
+Ask, what is effective f/eedback?
 
 Answers might include:
 
@@ -76,7 +74,7 @@ You could ask if there’s:
 - a step that pupils often miss, how can you remind them of this?
 - an example you can use to prompt pupil thinking?
 
-5. Share this example from a Biology lesson.
+5. Share this example from a biology lesson.
 
 > Ms Smith is teaching about cells. In her planning she identifies that pupils often get confused over the cell wall and the cell membrane. This is a common misconception.
 

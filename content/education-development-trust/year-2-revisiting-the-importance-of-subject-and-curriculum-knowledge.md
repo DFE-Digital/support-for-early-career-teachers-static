@@ -59,7 +59,7 @@ There are no materials for this topic. Instead, your school’s induction lead s
 
 Use the materials below to arrange a training session on establishing secure knowledge (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-induction-tutor-materials)
 
 ## Week 4: strengthening pupils’ subject knowledge
 
@@ -81,7 +81,7 @@ Your induction tutor will also arrange a training session.
 
 Use the materials below to arrange a training session on linking new ideas to existing knowledge (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-revisiting-the-importance-of-subject-and-curriculum-knowledge/spring-week-4-induction-tutor-materials)
 
 ## Week 5: putting it into practice
 

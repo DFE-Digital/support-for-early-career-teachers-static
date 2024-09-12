@@ -58,7 +58,7 @@ The ECT does not have a self-study element this week. Instead, you should use th
 
 Use the materials below to arrange a training session on effective assessment (90 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-2-induction-tutor-materials)
 
 ## Week 3: assessing prior knowledge and extending pupils
 
@@ -99,7 +99,7 @@ For this topic you should:
 
 Use the materials below to arrange a training session on using questioning (60 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-4-induction-tutor-materials)
 
 ## Week 5: verbal feedback
 
@@ -113,7 +113,7 @@ There are no materials for this topic. Instead, your school’s induction lead s
 
 Use the materials below to arrange a training session on providing verbal feedback (30 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-1-assessment-feedback-and-questioning/summer-week-5-induction-tutor-materials)
 
 ## Week 6: putting it into practice
 

@@ -7,6 +7,7 @@ caption: "Year 1"
 ## ECTs
 
 In this module you’ll cover:
+
 - how to establish an effective learning environment
 - how to effectively manage behaviour
 - the importance of holding and promoting high expectations for all pupils

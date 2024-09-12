@@ -14,9 +14,9 @@ Duration: 60 minutes
 
 - 4.8 Practice is an integral part of effective teaching; ensuring pupils have repeated opportunities to practise, with appropriate guidance and support, increases success.
 
-#### How to prepare for the session:
+### How to prepare for the session:
 
-Read the ECT’s self-study materials for this topic.
+The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a session with them about this topic.
 
 ### Session structure
 
@@ -29,7 +29,7 @@ Explain that ECTs will be returning to the idea of practice in later modules.
 The purpose of the sessions will be to:
 
 - develop understanding of how practice can consolidate and develop knowledge, within lessons and over time
-- recap the roles of memory and schemas in learning (knowledge developed in module 2) and how practice can support both
+- recap the roles of memory and schemas in learning and how practice can support both
 - consider how they can plan in regular opportunities for practice
 - be able to identify a range of approaches that can be used within lessons
 
@@ -58,7 +58,7 @@ Draw out some of the key points:
 - when we have learnt something, it has been transferred to our long-term memory
 - in our long-term memory, information is organised into schemata which are interconnected webs of information
 - all new learning builds on prior knowledge - the more expert a person is, the more schemata they have to link new ideas or material to
-- /even if material does enter the long-term memory, it can still be forgotten if it is not used often enough
+- even if material does enter the long-term memory, it can still be forgotten if it is not used often enough
 
 ### The importance of practice in supporting learning (5 minutes)
 
@@ -68,7 +68,9 @@ Share the following with ECTs:
 
 It doesn’t matter what subject you teach, differences in students' performance are affected by how much they engage in deliberate practice. Researchers who have investigated expert and novice performance have uncovered important distinctions between deliberate practice and other activities, such as play or repetition
 
-Deliberate practice is not the same as rote repetition. Rote repetition - simply repeating a task - will not by itself improve performance. Deliberate practice involves attention, rehearsal and repetition and leads to new knowledge or skills that can later be developed into more complex knowledge and skills. Although other factors such as intelligence and motivation affect performance, practice is necessary if not sufficient for acquiring expertise (Campitelli and Gobet, 2011).
+Deliberate practice is not the same as rote repetition. Rote repetition - simply repeating a task - will not by itself improve performance. Deliberate practice involves attention, rehearsal and repetition and leads to new knowledge or skills that can later be developed into more complex knowledge and skills.
+
+Although other factors such as intelligence and motivation affect performance, practice is necessary if not sufficient for acquiring expertise (Campitelli and Gobet, 2011).
 
 #### Define practice:
 

@@ -32,7 +32,7 @@ Build effective working relationships, by:
 
 Ask ECTs to bring their school’s communication policy to refer to in this session.
 
-Read the ECT’s self-study materials for this module.
+[Read the ECT’s self-study materials for this module](/education-development-trust/year-1-a-people-profession/summer-week-1-ect-instructions/)
 
 Be aware that ECTs may have had some difficult experiences with parents, carers or families over the year. The conversations in this session may be challenging for some, and could degenerate into negativity. Be sensitive and focus discussions on positive experiences, seeking solutions and avoiding apportioning blame to parents and carers.
 
@@ -42,7 +42,9 @@ Be aware that ECTs may have had some difficult experiences with parents, carers 
 
 1. Ask ECTs to share their experiences of liaising with the parents, carers and families of the children they teach.
 
-You could facilitate this by providing a list of statements and asking ECTs the level to which they agree or disagree with each. Example statements include:
+You could facilitate this by providing a list of statements and asking ECTs the level to which they agree or disagree with each.
+
+Example statements include:
 
 - engagement of parents, carers and families in their children’s education can improve learning outcomes
 - engagement of parents, carers and families in their children’s education can improve pupils’ motivation

@@ -27,7 +27,7 @@ Duration: 60 minutes
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
+[Read the ECT’s self-study materials for this topic](education-development-trust/year-1-developing-effective-classroom-practice/spring-week-4-ect-instructions/)
 
 ### Session structure
 

@@ -72,7 +72,7 @@ There’s no mentoring session with your ECT this week. Instead, your induction 
 
 Use the materials below to arrange a training session on grouping pupils effectively (75 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-3-induction-tutor-materials)
 
 ## Week 4: facilitating pupil collaboration
 
@@ -94,7 +94,7 @@ You’ll also attend a training session arranged by your induction tutor.
 
 Use the materials below to arrange a training session on modelling collaborative work effectively (75 minutes).
 
-View induction tutor materials
+[View induction tutor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-4-induction-tutor-materials)
 
 ## Week 5: meeting the needs of individuals
 
