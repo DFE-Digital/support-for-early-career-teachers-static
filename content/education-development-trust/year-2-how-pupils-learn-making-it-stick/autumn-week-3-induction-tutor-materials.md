@@ -38,7 +38,7 @@ ECTs will have experienced that there are some areas of knowledge and skills tha
 
 For example:
 
-- art students must know how to use shadow and light to make objects look 3-D as they progress from novice to expert
+- art students must know how to use shadow and light to make objects look 3D as they progress from novice to expert
 - basic number sense precedes understanding fractions and decimals
 
 2. Ask ECTs to work in pairs or groups to discuss what knowledge or skills they’ve identified as critical in their subject or phase.
@@ -78,7 +78,8 @@ The gaps between encounters should be at least a few days, and perhaps weeks. Th
 1. Exposition. Share this summary:
 
 > An exposition is more than just a brief explanation: it’s a coherent and well-thought out presentation of an idea which may be communicated through multiple learning experiences, and over a sequence of lessons or activities.
-
+<br/>
+<br/>
 > When designing expositions, our aim is to communicate a concept or idea in the most efficient way. We want to support our pupils to develop a secure understanding of the content.
 
 Remind ECTs that expositions should:
@@ -152,7 +153,9 @@ Examples include:
 
 Share this summary:
 
-"Learning is usually thought to occur during episodes of studying, whereas retrieval of information on testing simply serves to assess what was learned. We review research that contradicts this traditional view by demonstrating that retrieval practice is actually a powerful mnemonic enhancer, often producing large gains in long-term retention relative to repeated studying. Retrieval practice is often effective even without feedback (in other words, giving the correct answer), but feedback enhances the benefits of testing. In addition, retrieval practice promotes the acquisition of knowledge that can be flexibly retrieved and transferred to different contexts. The power of retrieval practice in consolidating memories has important implications for both the study of memory and its application to educational practice.”
+"Learning is usually thought to occur during episodes of studying, whereas retrieval of information on testing simply serves to assess what was learned. We review research that contradicts this traditional view by demonstrating that retrieval practice is actually a powerful mnemonic enhancer, often producing large gains in long-term retention relative to repeated studying.
+
+"Retrieval practice is often effective even without feedback (in other words, giving the correct answer), but feedback enhances the benefits of testing. In addition, retrieval practice promotes the acquisition of knowledge that can be flexibly retrieved and transferred to different contexts. The power of retrieval practice in consolidating memories has important implications for both the study of memory and its application to educational practice.”
 
 Roedinger & Butler, 2011
 

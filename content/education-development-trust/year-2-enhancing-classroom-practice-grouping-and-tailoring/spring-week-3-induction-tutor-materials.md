@@ -50,7 +50,7 @@ Some ECTs may have done group work successfully. Ask them to share:
 
 - how they introduced the group work activity?
 - how many times have they tried it?
-- how did they decide who was in each group?- what was the group task? 
+- how did they decide who was in each group? - what was the group task? 
 
 2. Emphasise that while there’s evidence to support the effectiveness of collaborative work, it does not happen by accident. 
 
@@ -74,7 +74,7 @@ You can use these examples if needed:
 - doing a group artwork
 - exploring different causes of World War I in history
 - investigating different sources of renewable energy in geography
-- writing a presentation on causes of the Cold War in A-level politics
+- writing a presentation on causes of the Cold War in A level politics
 - small group play activities in early years
 
 Prompts include:
@@ -128,7 +128,15 @@ This means that pupils of diverse abilities are grouped together. This might all
 
 "For paired written work, this isn’t automatically done with the person the pupil is sat next to. I think first of all carefully about what it is that I want pupils to do and then pair them up. For example, I recently asked pupils to complete a practice SATs paper and I put pupils into pairs where one of the pair was a higher-attaining pupil and one a lower. The higher-attaining pupil acted as a ‘coach’ to the lower-attaining pupil and they completed the task together.
 
-"I often use group work in my lessons but I had to work hard to teach my class how to do it effectively and they still sometimes get it wrong! Again, I think carefully about what the task is and devise my groups from there. I tend to put pupils into groups rather than allow them to self-select for this reason. Recently, I taught a lesson on different kinds of environments and put pupils into a home and an away team. The home team was made up of four pupils of mixed attainment – each pupil was numbered 1 to 4 and they had to go and work with an away team for a portion of the lesson on a specific environment, for example, the ocean. The away teams were based on pupil prior attainment. This way, higher-attaining pupils got an opportunity to work together – I scaffolded their resources less and gave them some more challenging questions to consider. I was able to work with a group of lower-attaining pupils, which meant I hadn’t needed to spend ages scaffolding their resources in advance – I was the scaffold! After a period of time, the pupils had to return back to their home group and teach each other about what they’d found out – I scaffolded this using worksheets and question stems. The pupils had to create a presentation about the different environments they had learned about, which they shared with the class. At the end, I did a mini-quiz with pupils individually – this helped each pupil to see that they needed to take an active role in the work."
+"I often use group work in my lessons but I had to work hard to teach my class how to do it effectively and they still sometimes get it wrong! Again, I think carefully about what the task is and devise my groups from there. I tend to put pupils into groups rather than allow them to self-select for this reason.
+
+"Recently, I taught a lesson on different kinds of environments and put pupils into a home and an away team. The home team was made up of four pupils of mixed attainment – each pupil was numbered 1 to 4 and they had to go and work with an away team for a portion of the lesson on a specific environment, for example, the ocean. 
+
+"The away teams were based on pupil prior attainment. This way, higher-attaining pupils got an opportunity to work together - I scaffolded their resources less and gave them some more challenging questions to consider.
+
+"I was able to work with a group of lower-attaining pupils, which meant I hadn’t needed to spend ages scaffolding their resources in advance - I was the scaffold! After a period of time, the pupils had to return back to their home group and teach each other about what they’d found out - I scaffolded this using worksheets and question stems. 
+
+" The pupils had to create a presentation about the different environments they had learned about, which they shared with the class. At the end, I did a mini-quiz with pupils individually - this helped each pupil to see that they needed to take an active role in the work."
 
 5. Ask ECTs to work in pairs or groups to discuss:
 

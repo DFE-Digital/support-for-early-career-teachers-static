@@ -59,7 +59,7 @@ You can share this exemplar routine:
 
 2. Ask ECTs to discuss the following questions. It would be helpful to scaffold the talking task to model effective practice. For example, use think-pair-share and sentence stems.
 
-A) What do you understand by this statement
+A) What do you understand by this statement?
 
 For example, that pupils learn to write well through high-quality classroom dialogue.
 

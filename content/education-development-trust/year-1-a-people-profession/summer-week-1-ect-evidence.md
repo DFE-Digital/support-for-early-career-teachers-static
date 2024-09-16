@@ -341,26 +341,6 @@ The TA could work with different pupils at different times so that the teacher c
 
 Many other professionals work in schools. Developing effective working relationships with these colleagues is a way you can make a positive contribution to the wider life of the school, helping to create a sense that as a community of professionals you are working together to improve the lives of all pupils. Working with other staff in school can also lead to positive effects on teachers’ job satisfaction and decreases in stress and workload (Blatchford et al., 2009). Support staff and other specialist colleagues have valuable expertise, which you can draw on and learn from to help you improve your teaching, whether this is working with particular pupils or developing your teaching.
 
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-1.png" alt="Image shows a SENCO in a classroom, with a speech bubble saying: I’m an experienced teacher. Now I use my expertise to design and plan interventions for pupils, and to to help teacher support pupils so that they achieve their potential. I work with professionals outside the schools as well, and I have strong relationships with many pupils’ parents." />
-</figure>
-
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-2.png" alt="Image shows a pastoral leader standing next to a sofa and a water-cooler, with a speech bubble saying: I support pupils who are vulnerable or struggle with any aspect of their life. I give them support and encouragement, working closely with teachers and other professionals. I get to know these pupils and their families really well." />
-</figure>
-
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-3.png" alt="Image shows a careers adviser sitting at a round table speaking with a student who is looking at their laptop. The speech bubble says: I give advice to pupils about what they can do in the future. I stay impartial and listen to what they tell me, offering encouragement so that they can achieve their potential. I use my networks outside school  to organise events to give pupils experience of things like job interviews and talking to other adults." />
-</figure>
-
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-4.png" alt="Image shows a librarian standing in front of some bookshelves, with a speech bubble saying: I love talking to children about what they like to read. Even for the most reluctant readers, I always find something that they’ll enjoy.  I spend time thinking really hard about how to organise the books so that they look exciting and interesting. I always have a central role in supporting literacy initiatives." />
-</figure>
-
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-6.2.1-Staff-Roles-Opt-1-5.png" alt="Image show a Science/D&T/Art/ICT technician preparing equipment in a laboratory. The speech bubble says: I organise equipment for the teachers. I support teachers in planning new activities, troubleshoot when things aren’t working, and often work as part of the team developing new approaches to learning." />
-</figure>
-
 ### Remember
 
 The time you spend building effective relationships with parents, carers,

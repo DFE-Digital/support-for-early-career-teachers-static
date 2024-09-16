@@ -149,24 +149,7 @@ They should note how:
 - decide how they’ll direct pupil action to meet these
 - decide how they’ll highlight progress
 
-3. Share the following table with ECTs.
-
-[TABLE IS MISSING FROM THE SOURCE MATERIAL]
-
-They may have already seen this in a mentor session.
-
-Types of rewards | How to encorage intrinsic motivation
-----|----
-Verbal praise | Rewarding effort
-Thumbs-up | Rewarding learning strategies
-Merits | Rewarding learning processes
-Postcards home | Rewarding persistence
-Phone call home | Rewarding resilience
-Stickers | Rewarding good behaviour
-Public praise in assembly |
-Certificates |
-
-4. ECTs should look at an upcoming lesson and annotate if and where they’ve:
+3. ECTs should look at an upcoming lesson and annotate if and where they’ve:
 
 - matched tasks clearly to learning intentions
 - set tasks that will develop pupils’ knowledge
@@ -175,7 +158,7 @@ Certificates |
 - supported pupils to master skills and key knowledge before moving on to the next task
 - ensured pupils have a deep understanding of the key content
 
-5. Ask ECTs to work in pairs and discuss:
+4. Ask ECTs to work in pairs and discuss:
 
 - how is the pupils’ long term goal being addressed in the content?
 - how many things from the list have they included?
