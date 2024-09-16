@@ -1,5 +1,5 @@
 ---
-title: "Evidence"
+title: "Understanding the evidence"
 previous_title: "Learning outcomes"
 previous_path: "/education-development-trust/year-1-a-people-profession/summer-week-1-ect-learning-outcomes"
 ---
