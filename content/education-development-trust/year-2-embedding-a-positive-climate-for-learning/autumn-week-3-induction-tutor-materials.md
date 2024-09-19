@@ -23,7 +23,7 @@ Motivate pupils by:
 
 ### How to prepare for the session
 
-[Read the ECT’s self-study materials for this topic](education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-3-ect-instructions/)
+[Read the ECT’s self-study materials for this topic](/education-development-trust/year-2-embedding-a-positive-climate-for-learning/autumn-week-3-ect-instructions)
 
 ### Session structure:
 

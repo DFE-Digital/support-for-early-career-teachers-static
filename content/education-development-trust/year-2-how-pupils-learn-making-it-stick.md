@@ -83,7 +83,7 @@ There's no mentoring session with your ECT this week. Instead you induction tuto
 
 Use the materials below to arrange a training session on retrieval practice techniques (75 minutes).
 
-[View induction tutor materials](/education-development-trust/year-4-how-pupils-learn-making-it-stick/autumn-week-3-induction-tutor-materials)
+[View induction tutor materials](/education-development-trust/year-2-how-pupils-learn-making-it-stick/autumn-week-3-induction-tutor-materials)
 
 ## Week 5: designing tasks and support to help pupils access the information they need
 
