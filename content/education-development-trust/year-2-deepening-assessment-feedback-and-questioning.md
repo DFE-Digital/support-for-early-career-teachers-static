@@ -75,6 +75,12 @@ The ECT does not have a self-study element this week. Instead, you should use th
 
 [View mentor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-3-mentor-materials)
 
+### Induction tutor
+
+Use the materials below to arrange a training session on high-quality feedback (75 minutes).
+
+[View induction tutor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-3-induction-tutor-materials)
+
 ## Week 4: high-quality feedback
 
 ### ECTs
@@ -90,12 +96,6 @@ For this topic you’ll need to:
 ### Mentors
 
 There’s no mentoring session with your ECT this week. Instead, your induction tutor should arrange a training session.
-
-### Induction tutor
-
-Use the materials below to arrange a training session on high-quality feedback (75 minutes).
-
-[View induction tutor materials](/education-development-trust/year-2-deepening-assessment-feedback-and-questioning/summer-week-4-induction-tutor-materials)
 
 ## Week 5: marking - efficiencies
 

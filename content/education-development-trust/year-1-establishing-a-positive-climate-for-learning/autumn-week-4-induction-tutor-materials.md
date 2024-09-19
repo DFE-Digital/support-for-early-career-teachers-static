@@ -26,7 +26,7 @@ Build trusting relationships, by:
 
 ### How to prepare for the session
 
-[Read the ECT’s self-study materials for this topic](education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-4-ect-instructions/)
+[Read the ECT’s self-study materials for this topic](/education-development-trust/year-1-establishing-a-positive-climate-for-learning/autumn-week-4-ect-instructions)
 
 ### Session structure:
 

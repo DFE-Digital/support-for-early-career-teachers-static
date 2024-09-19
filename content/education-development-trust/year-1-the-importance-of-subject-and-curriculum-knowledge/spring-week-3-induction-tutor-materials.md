@@ -21,7 +21,7 @@ Duration: 90 minutes
 
 #### How to prepare for the session
 
-[Read the ECT’s self-study materials for this topic](education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-ect-instructions/)
+[Read the ECT’s self-study materials for this topic](/education-development-trust/year-1-the-importance-of-subject-and-curriculum-knowledge/spring-week-3-ect-instructions)
 
 You should speak to experienced colleagues in the same subject or phases as the ECTs attending this session to help identify 2 high quality texts for the session.
 
