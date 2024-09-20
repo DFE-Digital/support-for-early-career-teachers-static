@@ -39,20 +39,22 @@ The following resources have key findings that you might find helpful. You could
 
 ### What is cognitive load theory (5 to 10 minutes)
 
-1. Welcome ECTs to the session. Explain that the purpose of the session is to gain a greater understanding of cognitive load theory and its relationship to classroom practice. You’ll also explore how to design lessons and tasks that apply cognitive load theory to help pupils learn.
+Welcome ECTs to the session. Explain that the purpose of the session is to gain a greater understanding of cognitive load theory and its relationship to classroom practice. You’ll also explore how to design lessons and tasks that apply cognitive load theory to help pupils learn.
 
-2. Think-pair-share. Ask ECTs to:
+#### Think-pair-share
+
+Ask ECTs to:
  
 - think about what they already know about cognitive load theory (they may have already read the self-directed study materials)
 - tell their partner what they know
 
-3. Ask for a few volunteers to share what they know. Encourage people to share if they have very little prior knowledge, as this will help you to tailor the rest of the session.
+Ask for a few volunteers to share what they know. Encourage people to share if they have very little prior knowledge, as this will help you to tailor the rest of the session.
 
 ### Cognitive architecture - how does the mind work? (25 to 30 minutes)
 
-1. Explain that to understand how the mind works, we need to consider the relationship between the working memory (WM) and the long-term memory (LTM).
+Explain that to understand how the mind works, we need to consider the relationship between the working memory (WM) and the long-term memory (LTM).
 
-2. Show [Daniel T. Willingham’s model of cognitive processes](https://www.researchgate.net/figure/Two-examples-of-modal-models-At-left-a-model-of-cognitive-processes-Willingham-2009_fig1_320598894).
+Show [Daniel T. Willingham’s model of cognitive processes](https://www.researchgate.net/figure/Two-examples-of-modal-models-At-left-a-model-of-cognitive-processes-Willingham-2009_fig1_320598894).
 
 Focus on the environment and how the mind interacts with it.
 
@@ -63,7 +65,7 @@ Explain that:
 - we often pay attention to things we’ve experienced before or are familiar with
 - we sometimes pay attention to something new or that we’re curious about
 
-3. Key learning point: This is why assessing prior knowledge is so important in the classroom. New learning builds on prior knowledge. 
+Key learning point: This is why assessing prior knowledge is so important in the classroom. New learning builds on prior knowledge. 
  
 Now focus on the working memory (WM).
 
@@ -73,7 +75,7 @@ Explain that:
 - it's thought to be able to process sounds and images simultaneously
 - it can also access information from the long-term memory (LTM), which is seen as an infinite storehouse of factual knowledge (the what) and procedural knowledge (the how)
 
-4. Ask, which country has won the Eurovision song contest more times than any other?
+Ask, which country has won the Eurovision song contest more times than any other?
 
 The answer is: Ireland. 
 
@@ -81,9 +83,9 @@ Once the answer has been given, ask if anyone was thinking about the Eurovision 
 
 If the person knew the answer, then that information was stored in their LTM. You may have been able to hazard a guess because you know some of the past winners, and it’s likely to be a country in Europe. This shows the interaction between the WM and LTM.
 
-5. Explain that learning takes place when a change occurs in the LTM. This means there is a lasting change in pupils’ capabilities and understanding, but new material will be processed in the WM. This is where material from the LTM and the environment combine to make new connections and deepen understanding.
+Explain that learning takes place when a change occurs in the LTM. This means there is a lasting change in pupils’ capabilities and understanding, but new material will be processed in the WM. This is where material from the LTM and the environment combine to make new connections and deepen understanding.
 
-6. Ask ECTs to share some examples of things that they’ve learnt and are now in their long-term memory.
+Ask ECTs to share some examples of things that they’ve learnt and are now in their long-term memory.
 
 Examples might include learning:
 
@@ -91,7 +93,7 @@ Examples might include learning:
 - to drive
 - a new language
 
-7. Then ask:
+Then ask:
 
 - how did they know it was in their long-term memory?
 - how often did they have to practise or see the knowledge before they learnt it?
@@ -101,7 +103,7 @@ They will have known it was in their long-term memory because they can easily re
 
 When they were still learning, they needed to process a lot more in the WM, which made them slower, or meant they made mistakes and forgot things.
 
-8. Share the characteristics of WM:
+Share the characteristics of WM:
 
 - limited capacity 
 - temporary store of information 
@@ -111,28 +113,28 @@ When they were still learning, they needed to process a lot more in the WM, whic
 - small variations in capacity between individuals
 - younger children and older adults may have less WM
 
-9. Remove access to the list of characteristics. Ask ECTs to work alone and write down the different characteristics they remember.
+Remove access to the list of characteristics. Ask ECTs to work alone and write down the different characteristics they remember.
 
 Now ask them to work in pairs or groups to see how many they can remember together.
  
-10. Share the list of characteristics and check how many they remembered.
+Share the list of characteristics and check how many they remembered.
 
 Draw out 2 key points:
 
 - by asking them to recall the information, they’re more likely to remember it than if you just asked them to listen and read
 - it's unlikely that they remembered all the characteristics because the information was still in their WM, it has not travelled to their LTM yet
 
-10.	Ask ECTs to work in pairs or small groups to discuss how they could use these characteristics of WM to plan their lessons.
+Ask ECTs to work in pairs or small groups to discuss how they could use these characteristics of WM to plan their lessons.
 
 Encourage them to focus on specific features of WM. What could that mean for pupils? What might ECTs need to do differently? 
 
-11.	Share ideas as a group. For example, if you know:
+Share ideas as a group. For example, if you know:
 
 - pupils have limited WM capacity, do not present large chunks of information all at once
 - WM is a temporary store for information, encourage pupils to write down their working so they do not forget the steps they took
 - distraction can empty the WM, reduce distractions by maintaining a calm classroom
 
-12. Practical example of cognitive overload: Ask ECTs: what’s 13 x 7?
+Practical example of cognitive overload: Ask ECTs: what’s 13 x 7?
 
 Ask ECTs to put their hands up when they have the answer (which is 91).
 
@@ -144,7 +146,7 @@ If you were a maths teacher or primary teacher asking pupils to solve these ques
 
 If someone finds that the task is too hard, it’s likely that the WM was overloaded. This just demonstrates that without prior knowledge to rely on (in this case, knowing multiplication by heart) problem solving becomes harder and might lead to cognitive overload.
 
-12. Share the following points to describe LTM:
+Share the following points to describe LTM:
 
 - infinite capacity
 - learning is a change in LTM
@@ -154,7 +156,7 @@ If someone finds that the task is too hard, it’s likely that the WM was overlo
 - novices may find learning is more effortful, making cognitive overload more likely: this has implications for teaching
 - at the beginning of a topic, learning will be more effortful, and will require more teacher input
 
-13.	Explain that LTM is limitless, and learning is caused by a change in the LTM. We make that change by teaching.
+Explain that LTM is limitless, and learning is caused by a change in the LTM. We make that change by teaching.
 
 Knowledge and skills are thought to be stored in the LTM in schemas.
 
@@ -164,11 +166,11 @@ Experts have a more fully formed schema than novices. This means that less of th
 
 A novice has an incomplete schema, meaning that learning is more effortful and they’re more likely to experience cognitive overload. Learning is harder in the early stages of a topic and requires more teacher input. But as expertise increases, teacher input can be reduced.
 
-14.	Ask ECTs to work in pairs or small groups to discuss how they can use the characteristics of LTM to plan their lessons.
+Ask ECTs to work in pairs or small groups to discuss how they can use the characteristics of LTM to plan their lessons.
 
 Encourage them to focus on specific features of LTM. What could that mean for pupils? What might ECTs need to do differently?
 
-15.	Share ideas as a group. You might add that:
+Share ideas as a group. You might add that:
 
 - using retrieval practice strategies, such as low stakes quizzing, can support the formation of memories
 - forgetting is an important part of the learning process
@@ -176,13 +178,13 @@ Encourage them to focus on specific features of LTM. What could that mean for pu
 
 ### What is cognitive load theory? (5 minutes)
 
-1. Share these 2 definitions:
+Share these 2 definitions:
 
 "The cognitive load involved in a task is the cognitive effort (or amount of information processing) required by a person to perform this task." Reif, 2010
 
 "Cognitive load theory aims to explain how the information processing load induced by learning tasks can affect students’ ability to process new information and to construct knowledge in long-term memory."  Sweller, 2017
 
-2.	Ask ECTs what they understand cognitive load theory to be based on these quotes.
+Ask ECTs what they understand cognitive load theory to be based on these quotes.
 
 Prompts include:
 
@@ -192,7 +194,7 @@ Prompts include:
 
 ### Introducing germane, intrinsic and extrinsic load (10 min)
 
-1. Explain that Sweller identified 3 types of cognitive load and understood that these can support the planning of lessons.
+Explain that Sweller identified 3 types of cognitive load and understood that these can support the planning of lessons.
 
 They are:
 
@@ -200,7 +202,7 @@ They are:
 - extraneous load - the undesirable load that can hinder learning, which relates to how subject material is presented
 - germane load - the desirable load where mental resources are processing information and building new schemas
 
-2. It might be useful to share this table:
+It might be useful to share this table:
 
 Type of cognitive load | Source | Effect on learning
 ----|----|----
@@ -208,21 +210,21 @@ Intrinsic load | The inherent complexity of the material and the prior knowledge
 Extraneous load | Poorly designed instruction that does not facilitate schema construction and automation | Harmful because it does not contribute to learning
 Germane load | Well-designed instruction that directly facilitates schema construction and automation | Helpful because it directly contributes to learning
 
-2. Share [the split attention effect eye diagrams](https://images.app.goo.gl/jihUftV8hnZHAx2dA) as an example of reducing extraneous load.
+Share [the split attention effect eye diagrams](https://images.app.goo.gl/jihUftV8hnZHAx2dA) as an example of reducing extraneous load.
 
 Explain that the first diagram presents information in a way that creates extraneous cognitive load. Our eyes need to scan back and forth to relate the information to the relevant points on the diagram.
 
 The second diagram conveys the information better by placing it where it’s needed. This reduces cognitive load because the learner does not have to process 2 pieces of information simultaneously.
 
-3. Ask ECTs if the second diagram could be improved further? Ideas could include adding numbers or letters to show order the information should be read in.
+Ask ECTs if the second diagram could be improved further? Ideas could include adding numbers or letters to show order the information should be read in.
 
-4. Explain that the second diagram is an example of germane cognitive load.
+Explain that the second diagram is an example of germane cognitive load.
 
 The definition of germane load has recently been updated because the original definition was unfalsifiable.
 
 Think of it as the load placed on the WM that leads to learning.
 
-5. Relate this back to teaching by explaining that ECTs need to manage the intrinsic load by:
+Relate this back to teaching by explaining that ECTs need to manage the intrinsic load by:
 
 - breaking a subject down into manageable chunks (but not too small to avoid making learning boring)
 - recognising that prior knowledge must be taken into account
@@ -237,7 +239,7 @@ By doing these things the ECT is more likely to maximise the germane load, meani
 
 ### What this looks like in the classroom (15 minutes)
 
-1. Share the following example of a set of peer observation notes from a Year 6 Religious Education lesson.
+Share the following example of a set of peer observation notes from a Year 6 Religious Education lesson.
 
 #### Peer observation notes: 10 February 2020 
 
@@ -271,7 +273,9 @@ You also explained that this is part of a planned sequence of lessons for RE whi
 
 In the medium-term plan the department identifies the most crucial things that they want people to know and that they have planned recall activities into their lessons so that these key things are not forgotten.
 
-2. Ask ECTs to work in pairs to read through the notes and discuss how the teacher has made effective choices. They should consider the following:
+#### Pair work
+
+Ask ECTs to work in pairs to read through the notes and discuss how the teacher has made effective choices. They should consider the following:
 
 - the sequence of learning that most enables learning
 - the pedagogy that reduces the load on working memory
@@ -282,13 +286,13 @@ In the medium-term plan the department identifies the most crucial things that t
 
 ### Minimising extraneous load (20 minutes)
 
-1. Explain that the next part of the session will be looking at some high impact, low-time cost strategies that can be used to reduce the burden on the WM to allow more processing of information.
+Explain that the next part of the session will be looking at some high impact, low-time cost strategies that can be used to reduce the burden on the WM to allow more processing of information.
 
 This quote may be useful to share:
 
 “Extraneous cognitive load should be minimised so that learners can allocate working memory resources (in other words, germane resources) to dealing with intrinsic cognitive load and engage in learning” Leppink, van Gog, Paas & Sweller 2015
 
-2. Explain that ECTs need to consider minimising extraneous load when they plan lessons.
+Explain that ECTs need to consider minimising extraneous load when they plan lessons.
 
 They can do this by minimising the need for pupils to process unnecessary information that does not contribute to learning.
 
@@ -306,7 +310,7 @@ ECTs should:
 - present essential information together
 - simplify complex information by presenting it both orally and visually
 
-3. Ask ECTs to work in small groups to design a slide or an activity on any topic. It should take into account at least one of the strategies above.
+Ask ECTs to work in small groups to design a slide or an activity on any topic. It should take into account at least one of the strategies above.
 
 ### Feedback and next steps (5 minutes)
 

@@ -23,11 +23,11 @@ Develop as a professional by:
 
 ### How to prepare for the session
 
-1. Read: [What makes great teaching: Review of the underpinning research](https://www.suttontrust.com.mcas.ms/wp-content/uploads/2014/10/What-Makes-Great-Teaching-REPORT.pdf) by Robert Coe, Cesare Aloisi, Steve Higgins and Lee Elliot Major
+Read: [What makes great teaching: Review of the underpinning research](https://www.suttontrust.com.mcas.ms/wp-content/uploads/2014/10/What-Makes-Great-Teaching-REPORT.pdf) by Robert Coe, Cesare Aloisi, Steve Higgins and Lee Elliot Major
 
-2. Consider how you’ll exemplify effective models of good professional development throughout.  This includes focusing ECTs on developing specific areas of practice, thinking about the impact on pupil outcomes, and providing opportunities for ECTs to work together and practise.
+Consider how you’ll exemplify effective models of good professional development throughout.  This includes focusing ECTs on developing specific areas of practice, thinking about the impact on pupil outcomes, and providing opportunities for ECTs to work together and practise.
 
-3. Prepare the following materials:
+Prepare the following materials:
 
 - a handout to help ECTs identify examples of professional development, and what’s made each effective for them
 - an example of effective professional development, which could be a talking head video
@@ -38,9 +38,9 @@ Develop as a professional by:
 
 Start the session by reminding ECTs of the importance of high-quality professional development in helping teachers to improve.
 
-1. Ask ECTs to identify the characteristics of the most helpful professional development they’ve engaged with over the last year. This should be something that directly helped to improve outcomes for their pupils.  
+Ask ECTs to identify the characteristics of the most helpful professional development they’ve engaged with over the last year. This should be something that directly helped to improve outcomes for their pupils.  
 
-2. Ask ECTs to note 2 to 4 experiences or activities that have most helped them to improve their practice over the last year. 
+Ask ECTs to note 2 to 4 experiences or activities that have most helped them to improve their practice over the last year. 
 
 Examples include:
 
@@ -53,7 +53,7 @@ Examples include:
 - whole-school professional development sessions
 - subject, phase or department meetings
 
-3. Ask, how did these activities focus on pupil outcomes?
+Ask, how did these activities focus on pupil outcomes?
 
 Examples include:
 
@@ -73,7 +73,7 @@ Professional development is more likely to be effective if it:
 - has clear intentions for impact on pupil outcomes
 - involves built-in opportunities for practice
 
-1. Ask ECTs to consider whether the activities they identified match this evidence of what makes professional development more likely to be effective.
+Ask ECTs to consider whether the activities they identified match this evidence of what makes professional development more likely to be effective.
 
 For example, did it include activities that:
 
@@ -85,7 +85,7 @@ For example, did it include activities that:
 - were built on evidence from research
 - helped them to identify what they could improve
 
-2. Share an example of professional development that has these characteristics.
+Share an example of professional development that has these characteristics.
 
 This could be through a video of a teacher talking about an episode of professional development.
 
@@ -106,11 +106,11 @@ At the end of the half term, the coach and the teacher discuss the extent to whi
 
 Ask ECTs to:
 
-1. Identify a pupil or group of pupils (maybe a class) you would like to improve outcomes for.
+Identify a pupil or group of pupils (maybe a class) you would like to improve outcomes for.
 
-2. What specific outcomes would you like to improve?
+What specific outcomes would you like to improve?
 
-3. Do you already know of a high-quality professional development opportunity that you can use to achieve this?
+Do you already know of a high-quality professional development opportunity that you can use to achieve this?
 
 Opportunities might include:
 

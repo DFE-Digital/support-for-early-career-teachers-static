@@ -43,19 +43,19 @@ Aim to model effective assessment practices throughout.
 
 ### Reflecting on classroom talk using questioning (40 minutes)
 
-1. Share this definition of classroom talk:
+Share this definition of classroom talk:
 
 > High-quality classroom talk is accountable talk which stimulates pupil thinking and drives learning forward. This is usually facilitated by the teacher through good questioning.
 
-2. Ask:
+Ask:
 
 - do you agree with this definition?
 - is there anything you would add?
 - when we use the term ‘classroom talk’, what do we not mean? 
 
-3. Ask ECTs to share some of the ways they’ve tried to use classroom talk recently.
+Ask ECTs to share some of the ways they’ve tried to use classroom talk recently.
 
-4. Ask ECTs to analyse some examples of classroom talk using questioning. Examples could be drawn from their own lessons, or audio or video clips, or written transcriptions you’ve sourced.
+Ask ECTs to analyse some examples of classroom talk using questioning. Examples could be drawn from their own lessons, or audio or video clips, or written transcriptions you’ve sourced.
 
 You could provide a scaffold for this analysis. For example:
 
@@ -94,7 +94,7 @@ What did this look like?
 
 How might it affect learning?
 
-4. Ask ECTs to share their learning from this activity, including any areas of practice they may need to develop.
+Ask ECTs to share their learning from this activity, including any areas of practice they may need to develop.
 
 ### Sharing effective practice in questioning (10 minutes) 
 

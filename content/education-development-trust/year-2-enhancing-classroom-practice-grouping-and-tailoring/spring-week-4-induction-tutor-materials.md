@@ -33,11 +33,11 @@ Explain that this training session builds on knowledge developed through the sel
 
 ### Factors that will support effective collaborative work (30 minutes)
 
-1. Explain that this session builds on the previous session’s focus on success criteria. It provides an opportunity to recap and deepen understanding, particularly how to teach routines for group work.
+Explain that this session builds on the previous session’s focus on success criteria. It provides an opportunity to recap and deepen understanding, particularly how to teach routines for group work.
 
-2. Ask ECTs to work in groups to script a routine for effective collaborative work. They should use the knowledge they’ve developed around effective routines to support them.
+Ask ECTs to work in groups to script a routine for effective collaborative work. They should use the knowledge they’ve developed around effective routines to support them.
 
-3. Ask ECTs to share their script with another group. The group should provide critique and feedback on the following:
+Ask ECTs to share their script with another group. The group should provide critique and feedback on the following:
 
 - is the routine clear?
 - if I was a pupil, would I understand what’s expected of me?
@@ -51,13 +51,13 @@ You can share this exemplar routine:
 
 ### Scaffolding pupil talk (35 minutes)
 
-1. Share this quote:
+Share this quote:
 
 "Psychological research, increasingly supported by neuroscience, demonstrates the intimate and necessary relationship between language and thought, and the power of spoken language to enable, support and enhance children’s cognitive development."
 
 (Alexander, 2018)
 
-2. Ask ECTs to discuss the following questions. It would be helpful to scaffold the talking task to model effective practice. For example, use think-pair-share and sentence stems.
+Ask ECTs to discuss the following questions. It would be helpful to scaffold the talking task to model effective practice. For example, use think-pair-share and sentence stems.
 
 A) What do you understand by this statement?
 
@@ -71,13 +71,13 @@ For example, novice versus expert: if we want pupils to speak very well with sop
 
 D) What strategies have you used to scaffold pupil talk?
 
-3. Ask ECTs to read the following extract of a lesson observation write up from a Year 5 literacy lesson:
+Ask ECTs to read the following extract of a lesson observation write up from a Year 5 literacy lesson:
 
 In the lesson, the pupils have been reading ‘Goodnight Mr Tom’ and learning about life as an evacuee during World War 2. Pupils have just finished the part where William returns back to Mr Tom having been to visit his mother in London. Pupils are asked to discuss in pairs their thoughts and feelings. The teacher provides the following things to all pupils to scaffold discussions:
 
-1. Sentence stems, for example: This part of the book made me feel...because...
+Sentence stems, for example: This part of the book made me feel...because...
 
-2. A list of banned words, for example ‘sad’.
+A list of banned words, for example ‘sad’.
 
 Before setting the pupils off to begin discussions on their own, the teacher asked pupils to contribute some more challenging vocabulary that could be used in the discussions. Pupils contributed words like:
 
@@ -90,7 +90,7 @@ When pupils contributed less sophisticated language, the teacher encouraged them
 
 There is a Stage 2 EAL pupil in the lesson. This pupil is supported through the use of a more detailed speaking frame with some pictures attached to it.
 
-3. Ask ECTs to work in pairs or groups to discuss:
+Ask ECTs to work in pairs or groups to discuss:
 
 - how do the scaffolds provided increase the focus and rigour of dialogue?
 - are there any other kinds of scaffolds that could work well here?
@@ -108,7 +108,7 @@ Examples of other kinds of scaffolds include:
 
 (Adapted from: Cooperative Learning: Quick Reference Guide of Kagan Structures)
 
-4. Ask ECTs to work in groups to plan an activity for a lesson which uses scaffolded pupil talk.
+Ask ECTs to work in groups to plan an activity for a lesson which uses scaffolded pupil talk.
 
 It could be helpful to group ECTs into subject or phase groups.
 

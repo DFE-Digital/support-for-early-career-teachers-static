@@ -40,7 +40,7 @@ Be aware that ECTs may have had some difficult experiences with parents, carers 
 
 ### Building effective relationships with parents, carers and families (10 minutes)
 
-1. Ask ECTs to share their experiences of liaising with the parents, carers and families of the children they teach.
+Ask ECTs to share their experiences of liaising with the parents, carers and families of the children they teach.
 
 You could facilitate this by providing a list of statements and asking ECTs the level to which they agree or disagree with each.
 
@@ -59,7 +59,7 @@ Example statements include:
 
 It’s important to clarify where there are misunderstandings or misconceptions around any of the statements before moving on.
 
-2. Reinforce that seeking opportunities to engage parents and carers in the education of their children can help teachers to:
+Reinforce that seeking opportunities to engage parents and carers in the education of their children can help teachers to:
 
 - communicate a belief in the academic potential of all pupils
 - understand pupils’ individual circumstances
@@ -69,7 +69,7 @@ They should consider how best to do this for the pupils they teach. Strategies w
 
 ### What can you learn from liaising with parents, carers and families? (15 minutes)
 
-1. Share this example:
+Share this example:
 
 > Mr Symons: Hello?
 <br/>
@@ -88,14 +88,14 @@ Mr Symons: Oh that’s good because he doesn’t enjoy numeracy. He has never en
 <br/>
 Teacher: That is interesting. Can you tell me a bit more? Why do you think he doesn’t like it? 
 
-2. Discuss what:
+Discuss what:
 
 - can be gained from being proactive and contacting home?
 - can the teacher learn here?
 - other questions could the teacher ask
 - impact will building an ongoing relationship with parents and carers have?  
 
-3.	Ask ECTs to work in groups and share: 
+Ask ECTs to work in groups and share: 
 
 - what’s gone well with building positive relationships with parents, carers and families
 - how this has helped them to better understand pupils’ individual circumstances and barriers to learning
@@ -108,9 +108,9 @@ Highlight examples where ECTs were proactive in liaising with parents.
 
 You can engage parents, carers and families in their children’s learning by sharing successes.
 
-1. Ask ECTs to review their school’s communication policies to identify the ways in which they’re supported to share successes with parents, carers and families.
+Ask ECTs to review their school’s communication policies to identify the ways in which they’re supported to share successes with parents, carers and families.
 
-2. Ask ECTs to work in groups and identify one new approach they can try. This must align with their school’s communication policy.
+Ask ECTs to work in groups and identify one new approach they can try. This must align with their school’s communication policy.
 
 ## Making effective use of parents’ evenings (15 minutes)
 
@@ -120,9 +120,9 @@ Together, create a list of 10 tips for new teachers to help them make the best u
 
 Examples could include:
 
-1. Do not save surprises for parents evening. Parents and carers should already know if pupils have been doing less well than expected.
+Do not save surprises for parents evening. Parents and carers should already know if pupils have been doing less well than expected.
 
-2. Plan what you’re going to say. This could include:
+Plan what you’re going to say. This could include:
 
 - what you've been teaching
 - what is each pupil’s key progress or attainment
@@ -130,21 +130,21 @@ Examples could include:
 - what can they improve
 - what questions do parents or carers have 
 
-3. Have pupils’ books or samples of work ready to look at.
+Have pupils’ books or samples of work ready to look at.
 
-4. Keep photos of pupils to remind you of them, especially if they do not attend the parents’ evening.
+Keep photos of pupils to remind you of them, especially if they do not attend the parents’ evening.
 
-5. Smile and shake hands with each parent and carer as they arrive.
+Smile and shake hands with each parent and carer as they arrive.
 
-6. Stay polite throughout.
+Stay polite throughout.
 
-7. Apologise that you only have 5 or 10 minutes to talk and stick to timing so that you do not build up a queue.
+Apologise that you only have 5 or 10 minutes to talk and stick to timing so that you do not build up a queue.
 
-8. Start off with a positive, and use praise where you can.
+Start off with a positive, and use praise where you can.
 
-9. Ask a colleague to sit in on particular conversations if you’re worried about how they’ll go.
+Ask a colleague to sit in on particular conversations if you’re worried about how they’ll go.
 
-10.	If a parent or carer asks question that you cannot answer or raises a concern that you’re unsure how to deal with, make a note of this and follow up tomorrow.
+If a parent or carer asks question that you cannot answer or raises a concern that you’re unsure how to deal with, make a note of this and follow up tomorrow.
 
 ### Planning for action (5 minutes)
 

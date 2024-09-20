@@ -32,7 +32,7 @@ Build trusting relationships, by:
 
 ### Correcting behaviour with least-intrusive interventions (5 minutes)
 
-1. Welcome ECTs and explain that they’re going to focus on the following ECF statements:
+Welcome ECTs and explain that they’re going to focus on the following ECF statements:
 
 Demonstrate consistently high behavioural expectations, by:
 
@@ -48,15 +48,17 @@ Build trusting relationships, by:
 
 - 7l Responding consistently to pupil behaviour   
 
-2. Think-pair-share activity. Give ECTs the following scenario.
+#### Think-pair-share activity
+
+Give ECTs the following scenario.
 
 You have given pupils the task of completing a question in their exercise books. The majority of the class are on task, and you’re walking around checking their work and giving feedback. 2 pupils are not on task, instead they’re having a whispered conversation.
 
-3. Ask, what steps would you take to deal with this behaviour?
+Ask, what steps would you take to deal with this behaviour?
 
 Answers might include a non-verbal reminder, a positive group reminder or an anonymous individual reminder.
 
-4. Ask, when should you escalate your behaviour intervention?
+Ask, when should you escalate your behaviour intervention?
 
 Answers might include when:
 
@@ -65,17 +67,17 @@ Answers might include when:
 - school policy is being broken
 - low-level disruption has escalated into a serious behaviour issue
 
-5. Explain that today’s session will look at escalating through the least-invasive techniques to correct behaviour. You’ll also explore the link between using these techniques and building positive relationships with pupils.
+Explain that today’s session will look at escalating through the least-invasive techniques to correct behaviour. You’ll also explore the link between using these techniques and building positive relationships with pupils.
 
 Emphasise that ECTs should look to correct behaviour privately and quietly where possible, even when addressing individual pupils.
 
 ### Private individual reminders (20 minutes)
 
-1. Explain that today’s session will look at how to escalate when other strategies have been unsuccessful. The first strategy is a private individual reminder.
+Explain that today’s session will look at how to escalate when other strategies have been unsuccessful. The first strategy is a private individual reminder.
 
-2. Explain or model what this is, for example you might set the class off on a task and discreetly approach a pupil who has not been complying to give a private reminder of the expectation.
+Explain or model what this is, for example you might set the class off on a task and discreetly approach a pupil who has not been complying to give a private reminder of the expectation.
 
-3. Ask ECTs to work in pairs or groups and consider why this is a bad example of using private individual reminder.
+Ask ECTs to work in pairs or groups and consider why this is a bad example of using private individual reminder.
 
 “I need to see you putting in more effort and working harder. I do not want to see you looking around the room when I’m talking. It’s rude.” 
 
@@ -85,7 +87,7 @@ Answers may include:
 - “I do not want to see you looking around the room when I’m talking” - this focuses on what the pupil should not be doing rather than what you want to see  
 - “It’s rude” - focusing on the negatives rather than the positive  
 
-4. Explain that it’s important to be mindful when using private individual reminders as we want to get pupils back on track quickly and keep the interaction positive.
+Explain that it’s important to be mindful when using private individual reminders as we want to get pupils back on track quickly and keep the interaction positive.
 
 ECTS should:
 
@@ -93,7 +95,7 @@ ECTS should:
 - give a clear instruction 
 - make sure the pupil knows what they should be doing   
 
-5.	Ask ECTs to work in pairs or groups and consider this example:
+Ask ECTs to work in pairs or groups and consider this example:
 
 > (The teacher leans down to the pupil’s eye level.) “Ralph, when I was giving instructions I did not see your eyes on me. It’s important that when I’m telling the class what to do, you’re on task. When I asked you a question, you did not know the answer. That tells me you need to work harder if you’re going to be able to get the right answer. Eyes on me when I’m giving instructions. Thank you.”
 
@@ -111,7 +113,7 @@ Go through answers as a group. They may include:
 - “when I was giving instructions, I did not see your eyes on me. It’s important that when I’m telling the class what to do, you’re on task. When I asked you a question, you did not know the answer” - the reason the teacher is addressing this pupil is because they did not know the answer, the teacher is demonstrating that they want the pupil to succeed academically rather than comply without meaning
 - “That tells me you need to work harder if you’re going to be able to get the right answer. Eyes on me when I’m giving instructions. Thank you” - explains what they want to see
 
-6. Ask ECTs to consider another example.
+Ask ECTs to consider another example.
 
 > "Can you remind me what our focus is today? Good, and as I said earlier it’s a challenging objective that everyone needs to work hard to achieve. As we move on to the next activity, I want to see your eyes on me and putting your hand up to contribute to the discussion. I look forward to hearing your thoughts about the reasons behind the Cold War."
 
@@ -121,7 +123,7 @@ Ask:
 - is there anything the teacher does that makes the private individual reminder effective?
 - how would this make the pupil feel?  
 
-7. Share these tips on using individual reminders:
+Share these tips on using individual reminders:
 
 - engage the pupil in conversation if necessary
 - focus on purpose
@@ -133,7 +135,7 @@ Ask:
 
 ### Putting it into practice (15 minutes)
 
-1. Ask ECTs to imagine that they've:
+Ask ECTs to imagine that they've:
 
 - set their class a task
 - instructed pupils to "pick up your pens and make a start"
@@ -150,24 +152,24 @@ Ask ECTs to script the private individual reminder using the checklist below:
 - be specific
 - try to find an opportunity to reinforce the right behaviour from this pupil further on in the lesson
 
- 2. Review and feedback.
+Review and feedback.
 
 ### Lightning quick public reminder (15 minutes)
 
-1. Explain that occasionally it’s necessary to correct behaviour publicly. When this is necessary, we can use a lightning quick public reminder.
+Explain that occasionally it’s necessary to correct behaviour publicly. When this is necessary, we can use a lightning quick public reminder.
 
-2. Explain or model what this is. For example, give a quick correction directly to the pupil telling them what they need to do. Then normalise the behaviour to what the rest of the class are doing.
+Explain or model what this is. For example, give a quick correction directly to the pupil telling them what they need to do. Then normalise the behaviour to what the rest of the class are doing.
 
 This can be used to:
 
 - quickly correct behaviour
 - tell a pupil what they should be doing
 
-3. Ask ECTs to consider the following scenario:
+Ask ECTs to consider the following scenario:
 
 A pupil is pulling faces out of the window.
 
-4. Now ask them to consider this response:
+Now ask them to consider this response:
 
 > The teacher lowers their voice, “Rae, eyes on me when I am talking. Thank you.”
 
@@ -178,9 +180,9 @@ This response:
 - draws attention to what the pupil should be doing rather than their poor behaviour
 - uses a lowered voice
 
-5. Ask ECTs to script their own lightning quick public reminder to respond to the same scenario.
+Ask ECTs to script their own lightning quick public reminder to respond to the same scenario.
 
-6. Ask the following questions to check the ECTs’ understanding. There may be more than one correct answer.
+Ask the following questions to check the ECTs’ understanding. There may be more than one correct answer.
 
 #### When should you use private individual reminders?
 

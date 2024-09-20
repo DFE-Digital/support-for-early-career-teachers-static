@@ -39,18 +39,19 @@ The following resources may also be helpful:
 
 Ask ECTs to complete the following task.
 
-1. Thinking as a teacher, write down 3 words that characterise effective relationships between a teacher and their pupils.
+Thinking as a teacher, write down 3 words that characterise effective relationships between a teacher and their pupils.
 
-2. Thinking as a pupil, think how those characteristics may differ.
+Thinking as a pupil, think how those characteristics may differ.
 
 You may choose to share some relevant research material at this point.
 
 ### The effect of teaching on pupils’ life chances (15 minutes)
 
-1. Remind ECTs that high-quality teaching can have a long-term positive effect on pupils’ life chances, particularly for children from disadvantaged backgrounds. 
+Remind ECTs that high-quality teaching can have a long-term positive effect on pupils’ life chances, particularly for children from disadvantaged backgrounds. 
+
 The efforts they put into planning and teaching can make a real difference to young people’s lives. This is an opportunity to for them to remember the moral purpose of teaching and a likely reason why they joined the profession.
 
-2. Ask ECTs to work in small groups and share positive experiences of influencing pupils’ learning.
+Ask ECTs to work in small groups and share positive experiences of influencing pupils’ learning.
 
 Occasions when they felt that they had ‘made a difference’ might include:
 
@@ -63,15 +64,16 @@ They should identify the actions they took in adapting their teaching to these p
 
 ### Pupils’ prior experiences and perceptions of success and failure (15 minutes)
 
-1. Ask ECTs to identify occasions in their own learning when they were influenced by:
+Ask ECTs to identify occasions in their own learning when they were influenced by:
 
 - a negative prior experience or perception
 - a positive prior experience or perception
 
 For example, ECTs might share that they did badly in a physical exercise or mathematics at school, and then felt reluctant to participate in that type of activity again. 
+
 They might share how they once had success, they felt confident about engaging in that type of activity again.
 
-2. Ask ECTs to consider how these experiences are also felt by pupils in both the long-term and short-term.
+Ask ECTs to consider how these experiences are also felt by pupils in both the long-term and short-term.
 
 Thinking back over the year, what reflections do they have on:
 
@@ -79,7 +81,7 @@ Thinking back over the year, what reflections do they have on:
 - the ways in which this has influenced pupils’ investment in their learning
 - strategies they can use to give early or more successes to pupils, especially those who arrive in their class or subject with previous negative experiences of learning
 
-3. Share this example:
+Share this example:
 
 Clara starts Year 5 with Mr Stevens and often declares that she is ‘no good at English’. Every time Mr Stevens teaches English to the class, Clara visibly switches off and sometimes messes around.
 

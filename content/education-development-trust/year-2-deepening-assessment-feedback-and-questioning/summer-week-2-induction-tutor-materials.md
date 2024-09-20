@@ -43,11 +43,11 @@ Explain that this training session builds on knowledge developed through the sel
 
 ### Developing self-assessment and peer-assessment (30 minutes)
 
-1. Think, pair, share: Ask, how often do you use peer or self-assessments in lessons? Why do you use them?
+Think, pair, share: Ask, how often do you use peer or self-assessments in lessons? Why do you use them?
 
-2. Ask ECTs to work in small groups to discuss the advantages and disadvantages of peer-assessment and self-assessment.
+Ask ECTs to work in small groups to discuss the advantages and disadvantages of peer-assessment and self-assessment.
 
-3. Take feedback. Advantages might include:
+Take feedback. Advantages might include:
 
 - can be time efficient
 - facilitates pupils’ awareness of their own learning
@@ -62,7 +62,7 @@ Disadvantages might include the risk that pupils:
 - may disagree with the feedback
 - may give differing quality of feedback
 
-4. Ask, what can we do to take into account and plan for the potential risks of peer- and self-assessment?  
+Ask, what can we do to take into account and plan for the potential risks of peer- and self-assessment?  
 
 ECTs should share their experience of these approaches and describe what they have done to make them successful.
 
@@ -74,31 +74,31 @@ This might include:
 - ensuring that peer- and self-assessment is used for relatively simple tasks, or that feedback can be simple
 - deciding in advance how to group pupils, for example: asking pupils with similar prior attainment work together, or pupils who have done well on different parts of the task to work together
 
-5. Trainers can choose to:
+Trainers can choose to:
 
 A) Gather ideas from around the room and develop a summary of the benefits, drawbacks, and solutions for using peer- and self-assessment approaches.
 
 B) Share examples of scaffolds and support for ECTs to consider how to apply them in their teaching.
 
-6. To model the benefits of working as peers, ask ECTs to work in groups and identify:
+To model the benefits of working as peers, ask ECTs to work in groups and identify:
 
 - an upcoming opportunity for pupils can carry out self- or peer-assessment in a lesson
 - the approach they’ll use to scaffold pupils working in this way
 - how they’ll ensure the feedback is specific and helpful
 - if there’s a more experienced colleague who has worked with the pupils identified to ask for advice on how best to facilitate the activity
 
-6. ECTs should review each other’s plans and provide feedback to help them improve them further.
+ECTs should review each other’s plans and provide feedback to help them improve them further.
 
 ### Marking using whole-class feedback response grids (30 minutes)
 
 Marking and making notes to feed back to the whole class allow teachers to make marking manageable and effective. ECTs may have tried this with their mentors.
 
-1. Ask ECTs to work in groups and discuss:
+Ask ECTs to work in groups and discuss:
 
 - the benefits and challenges of whole-class feedback
 - approaches that they, or colleagues, have used to make this approach efficient and effective for pupils
 
-2. Reflect that balancing whole-class feedback with feedback to individual learners can be challenging.
+Reflect that balancing whole-class feedback with feedback to individual learners can be challenging.
 
 There are many benefits however, including:
 
@@ -113,7 +113,7 @@ ECTs can use whole-class feedback effectively by:
 - recording while marking: common errors, areas for improvement, and correct answers across the class
 - providing pupils with an example of work and asking them to improve it
 
-3. Ask ECTs to work in groups. They should each choose a homework activity they’ll set in the next few weeks in which they can gather feedback on common correct answers, errors and areas for improvement to provide feedback to the whole class in the following lesson.
+Ask ECTs to work in groups. They should each choose a homework activity they’ll set in the next few weeks in which they can gather feedback on common correct answers, errors and areas for improvement to provide feedback to the whole class in the following lesson.
 
 ECTs could share or devise their own template to gather this feedback.  Or you could share this example:
 
