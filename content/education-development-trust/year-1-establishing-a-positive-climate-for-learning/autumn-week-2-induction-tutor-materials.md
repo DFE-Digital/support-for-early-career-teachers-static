@@ -42,7 +42,7 @@ II) Develop a positive, predictable and safe environment for pupils, by:
 
 III) Establish effective routines and expectations, by:
 
-- 7j Reinforcing routines (e.g. by articulating the link between time on task and success)
+- 7j Reinforcing routines (for example, by articulating the link between time on task and success)
 
 #### Think-pair-share activity
 

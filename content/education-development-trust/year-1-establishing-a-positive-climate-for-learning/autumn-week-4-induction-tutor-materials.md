@@ -196,7 +196,7 @@ D) When you want to motivate a pupil to work harder.
 
 E) When you have used an anonymous individual correction but the pupil has not corrected their behaviour.
 
-The answers are: B and E.
+The answers are: B and E
 
 #### What are 3 key things to remember when using private individual reminders?
 
@@ -232,4 +232,4 @@ The answer is: A
 
 ### Planning for action (5 minutes)
 
-Ask ECTs to plan one or two steps for action following this session. What will they do differently in their practice?
+Ask ECTs to plan 1 or 2 steps for action following this session. What will they do differently in their practice?
