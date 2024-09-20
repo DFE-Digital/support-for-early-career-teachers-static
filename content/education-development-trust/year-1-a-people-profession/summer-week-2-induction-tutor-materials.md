@@ -30,7 +30,7 @@ Be aware that ECTs may have had some difficult experiences with pupils over the 
 
 The following resources may also be helpful:
 
-- Teacher-student relationships and classroom management by Th. Wubbels, J.M.G. Brekelmans, P.J. Brok, den, L. Wijsman, T. Mainhard, J.W.F. Tartwijk, van. 
+- [Teacher-student relationships and classroom management by Th. Wubbels, J.M.G. Brekelmans, P.J. Brok, den, L. Wijsman, T. Mainhard, J.W.F. Tartwijk, van](https://research.tue.nl/en/publications/teacher-student-relationships-and-classroom-management) 
 - [Handbook of classroom management: research, practice, and contemporary issues, edited by Carolyn M. Evertson and Carol S. Weinstein](https://archive.org/details/handbookofclassr0000unse_w4k0/page/n8/mode/1up)
 
 ### Session structure:

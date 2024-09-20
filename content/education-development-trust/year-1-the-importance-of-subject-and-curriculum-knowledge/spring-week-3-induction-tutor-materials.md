@@ -27,7 +27,7 @@ You should speak to experienced colleagues in the same subject or phases as the 
 
 For further information, you may want to read the key findings from these reports:
 
-- [Preparing for Literacy Guidance (PDF)](https://educationendowmentfoundation.org.uk/public/files/Publications/Literacy/Preparing_Literacy_Guidance_2018.pdf)
+- [Preparing for Literacy Guidance](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-early-years)
 - [Practical Advice for Teachers (PDF)](https://files.eric.ed.gov/fulltext/ED489535.pdf)
 
 You should model effective practices throughout. This includes explicitly pointing out the literacy skill assumed or required in every activity, introducing new vocabulary explicitly.
