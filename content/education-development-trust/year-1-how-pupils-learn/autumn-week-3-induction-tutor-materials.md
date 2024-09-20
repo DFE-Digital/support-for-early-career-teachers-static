@@ -46,7 +46,7 @@ Welcome the ECTs. Explain that the aims of the session are to:
 - develop practical tools to uncover weak prior learning, and subsequent misconceptions or points of confusion that are emerging
 - practise creating worked examples that will be useful in the classroom
 
-1. Activity: Agree, disagree or do not know.
+Activity: Agree, disagree or do not know.
 
 Tell ECTs that you’ll read a set of statements.
 
@@ -79,17 +79,17 @@ After you read each statement:
 
 ### Committing some key facts to memory is likely to help pupils learn (15 minutes)
 
-1. Share the following quote from the character Thomas Gradgrind in Charles Dickens’s novel Hard Times:
+Share the following quote from the character Thomas Gradgrind in Charles Dickens’s novel Hard Times:
 
 > “Now, what I want is, Facts.  Teach these boys and girls nothing but Facts.  Facts alone are wanted in life.  Plant nothing else, and root out everything else.  You can only form the minds of reasoning animals upon Facts: nothing else will ever be of any service to them.  This is the principle on which I bring up my own children, and this is the principle on which I bring up these children.  Stick to Facts, sir!”
 
-2. Ask ECTs to work in pairs or groups to discuss:
+Ask ECTs to work in pairs or groups to discuss:
 
 - what is your initial reaction to this quote?
 - to what extent do you agree with Thomas Gradgrind?
 - are there any instances where you do want to plant facts in your pupils’ minds?
 
-3. Explain that there’s often confusion about what is meant by ‘knowledge’ in education and the type of rote memorisation portrayed in the quote. 
+Explain that there’s often confusion about what is meant by ‘knowledge’ in education and the type of rote memorisation portrayed in the quote. 
 
 Knowledge accumulates and builds upon itself. Subjects have foundational concepts (often 	‘facts’) that act as the gateway to lots of other learning. The more we know, the more we can know.
 
@@ -101,7 +101,7 @@ Key points to remember:
 - when we have information in our long-term memory (organised into schemas), it frees up working memory
 - having some key facts memorised in the long-term memory is also useful when introducing new content, so pupils can connect the new material to existing knowledge or schema and build understanding of more complex concepts over time
 
-4. Organise ECTs into groups by phase or subject.
+Organise ECTs into groups by phase or subject.
 
 You may ask ECTs may bring a list that they wrote during the self-directed study materials as the starting point for this activity. Or you can ask them to make a list now.
 
@@ -116,7 +116,7 @@ As an example: having times tables in the long-term memory means that pupils can
 
 ### Where prior knowledge is weak, pupils are likely to develop misconceptions (15 minutes)
 
-1. Clarify that misconceptions are ‘a belief or an idea that is not based on correct information, or that is not understood by people’ (Oxford English Dictionary).
+Clarify that misconceptions are ‘a belief or an idea that is not based on correct information, or that is not understood by people’ (Oxford English Dictionary).
 
 They’re different from mistakes because they’re conceptual misunderstandings, not just errors caused by inattention.
 
@@ -129,23 +129,23 @@ Remind ECTs that:
 - information in our long-term memory is organised into groups called schemas
 - if our schema is weak or insecure, when we encounter new content we’ll forge faulty connections (called misconceptions)
 
-2. Ask ECTs to work in pairs. The group should then form 2 concentric circles that face each other. One partner should stand in the outer circle, and the other should stand opposite them in the inner circle.
+Ask ECTs to work in pairs. The group should then form 2 concentric circles that face each other. One partner should stand in the outer circle, and the other should stand opposite them in the inner circle.
 
-3. Ask the inside partner to spend one minute sharing a strategy that they’ve used to successfully uncover pupils’ prior knowledge. They should explain the approach, what they did, and how it worked.
+Ask the inside partner to spend one minute sharing a strategy that they’ve used to successfully uncover pupils’ prior knowledge. They should explain the approach, what they did, and how it worked.
 
-4. Then ask their partner to do the same.
+Then ask their partner to do the same.
 
-5. Ask the outside circle to step one place to the right. Everyone should have a new partner.
+Ask the outside circle to step one place to the right. Everyone should have a new partner.
 
-6. Ask ECTs to repeat the task. This time they should share a second example of their own, or the example their previous partner shared with them.
+Ask ECTs to repeat the task. This time they should share a second example of their own, or the example their previous partner shared with them.
 
-7. Repeat these steps as many times as you like.
+Repeat these steps as many times as you like.
 
-8. Ask each ECT to tell the group about a strategy they heard that they now want to try in their own classroom.
+Ask each ECT to tell the group about a strategy they heard that they now want to try in their own classroom.
 
 ### Planning a lesson (30 minutes)
 
-1. Ask ECTs to work in small groups to plan the start of a lesson that introduces some new content. They can choose their own topic, or you can provide some options.
+Ask ECTs to work in small groups to plan the start of a lesson that introduces some new content. They can choose their own topic, or you can provide some options.
 
 The lesson must:
 

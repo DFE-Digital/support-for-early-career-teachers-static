@@ -43,7 +43,7 @@ Answers might include:
 
 ### Sharing effective practice in providing verbal feedback (20 minutes)
 
-1. Explain that this session will focus on verbal feedback.
+Explain that this session will focus on verbal feedback.
 
 This is because:
 
@@ -51,7 +51,7 @@ This is because:
 - it gives feedback in the moment 
 - pupils can correct or edit in the moment
 
-2. Ask, how are you currently using verbal feedback?
+Ask, how are you currently using verbal feedback?
 
 Answers might include:
 
@@ -59,7 +59,7 @@ Answers might include:
 - to start a dialogue with pupils about work
 - when showing examples
 
-3. Ask, how can we ensure verbal feedback is useful?
+Ask, how can we ensure verbal feedback is useful?
 
 Answers might include making sure that:
 
@@ -67,14 +67,14 @@ Answers might include making sure that:
 - it's focused on what the pupil can do to improve
 - pupils are given time to respond to the feedback
 
-4. Ask ECTs to take out their lesson plans for an upcoming lesson. They should identify moments when errors or misconceptions might occur. 
+Ask ECTs to take out their lesson plans for an upcoming lesson. They should identify moments when errors or misconceptions might occur. 
 
 You could ask if there’s:
 
 - a step that pupils often miss, how can you remind them of this?
 - an example you can use to prompt pupil thinking?
 
-5. Share this example from a biology lesson.
+Share this example from a biology lesson.
 
 > Ms Smith is teaching about cells. In her planning she identifies that pupils often get confused over the cell wall and the cell membrane. This is a common misconception.
 

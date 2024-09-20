@@ -84,12 +84,12 @@ Share some ideas for teaching tier 2 and 3 words
 
 Use the following steps for robust vocabulary instruction. When teaching tier 2 and tier 3 words you should follow these steps.
 
-1. Choose which words you will explicitly teach in your subject or phase.
+Choose which words you will explicitly teach in your subject or phase.
 
 - Remember that these are most likely to be tier 2 and tier 3 words because they are more complex or subject specific and therefore less likely to be acquired through oral language.
 - You should select these words when planning a lesson or sequence of lessons so that you have time to plan how you will teach them. 
  
-2. Teach the new word - in this example ‘currently’.
+Teach the new word - in this example ‘currently’.
 
 - Before you teach the word, ask pupils to rate whether they have seen the word before, heard it but not sure what it means, or know it and can use it in a sentence.
 - Write the word down - what does it look like - are there any words in it? For example, current. Does this help?
@@ -98,12 +98,12 @@ Use the following steps for robust vocabulary instruction. When teaching tier 2 
 - Give an example from your own life, for example: currently, we are in a training session.
 - Can pupils think of their own examples, for example: it’s currently raining.
   
-3. Practise the word.
+Practise the word.
 
 - Give pupils an opportunity to practise using the word themselves.
 - This could be a talk task where they need to use the word in a variety of sentences but could also be a written task which they need to correctly use the word. For the word ‘currently’ you could ask pupils to sort a list of events into piles for currently or previously.
 
-4. Review the words.
+Review the words.
 
 - This is important to assess that pupils have understood the word and also maintain the new vocabulary over time.
 - You could do this using multiple choice, true or false, getting students to create their own examples or matching up synonyms which have the same definitions.
@@ -119,11 +119,11 @@ Ask ECTs to study the following modelling reading comprehension and discuss the 
 
 ### Modelling reading comprehension
 
-1. Get pupils to ask questions about the text using who, what, where, when, why, and how.
+Get pupils to ask questions about the text using who, what, where, when, why, and how.
 
-2. Teach pupils to make predictions by using sentence stems like ‘I think’ and because’. This encourages both full sentence structures and pupils justifying their perspective with evidence.
+Teach pupils to make predictions by using sentence stems like ‘I think’ and because’. This encourages both full sentence structures and pupils justifying their perspective with evidence.
 
-3. When reading, teach pupils to summarise:
+When reading, teach pupils to summarise:
 
 - just the most important points 
 - in order using connectives like first, next, then, finally

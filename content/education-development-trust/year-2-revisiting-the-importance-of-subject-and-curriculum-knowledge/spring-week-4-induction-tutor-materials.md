@@ -32,14 +32,14 @@ You may also find it useful to read:
 
 ### Session structure:
 
-1. Welcome ECTs to the session. 
+Welcome ECTs to the session. 
 Explain that this module is revisiting a topic that they covered in Year 1 because it’s a complicated concept. Revisiting the idea is valuable to support their own learning.
 
-2. Show an image of a landscape. Ask ECTs to spend 1 minute writing down anything that comes to mind when they look at it.
+Show an image of a landscape. Ask ECTs to spend 1 minute writing down anything that comes to mind when they look at it.
 
-3. Ask ECTs to consider how their thoughts about the image may differ from those of an expert photographer or geologist.
+Ask ECTs to consider how their thoughts about the image may differ from those of an expert photographer or geologist.
 
-4. Reflect that different people will see different things depending on their experience and knowledge. For example:
+Reflect that different people will see different things depending on their experience and knowledge. For example:
 
 - a novice may notice surface details and give a descriptive or emotive response
 - an expert may see a greater depth and respond to the technical details or composition
@@ -66,9 +66,9 @@ For novice learners:
 
 ### Sequencing effectively to support the process of transferring knowledge to the long-term memory (20 minutes)
 
-1. Share this statement: Our goal as teachers is to help pupils know what we know and be able to do what we do.
+Share this statement: Our goal as teachers is to help pupils know what we know and be able to do what we do.
 
-2. Ask, how can we sequence learning to support pupils to transfer knowledge from their working memory to their long-term memory?
+Ask, how can we sequence learning to support pupils to transfer knowledge from their working memory to their long-term memory?
 
 It may be useful to share these steps:
 
@@ -78,7 +78,7 @@ It may be useful to share these steps:
 - eventually pupils can work with minimal guidance, likely working independently with you giving feedback and intervening as required
 - finally we want pupils to do it independently without us 
 
-3. Share the following 3 examples. Ask ECTs what:
+Share the following 3 examples. Ask ECTs what:
 
 - steps the teacher took to get pupils working independently?
 - steps were missing? 

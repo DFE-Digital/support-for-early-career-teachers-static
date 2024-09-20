@@ -40,7 +40,7 @@ Explain that this training session builds on knowledge developed through the sel
 
 ### Activating prior knowledge: how has your use of feedback developed, and how do your pupils respond to it? (15 minutes)
 
-1. Ask ECTs to identify what they’ve learned about giving feedback since Year 1.
+Ask ECTs to identify what they’ve learned about giving feedback since Year 1.
 
 Prompts include:
 
@@ -56,9 +56,9 @@ ECTs may have tried a number of different feedback approaches including:
 - giving pupils time to respond to feedback
 - giving clues to correct errors rather than simply marking as ‘wrong’
 
-2. Reflect that giving specific feedback to pupils on what they’ve learned and how they can improve this (for example, "Improve this by adding another reason to explain your answer"), is likely to have more of an impact on learning than feedback about how they carried out a task or how they behaved during the task (for example, "You wrote neatly and worked well with others").
+Reflect that giving specific feedback to pupils on what they’ve learned and how they can improve this (for example, "Improve this by adding another reason to explain your answer"), is likely to have more of an impact on learning than feedback about how they carried out a task or how they behaved during the task (for example, "You wrote neatly and worked well with others").
 
-3. Ask ECTs to identify 2 things they can do in the next few weeks to develop how pupils respond to feedback.
+Ask ECTs to identify 2 things they can do in the next few weeks to develop how pupils respond to feedback.
 
 Ideas include:
 
@@ -68,7 +68,7 @@ Ideas include:
 
 ### Appreciate pupils’ responses to feedback can vary depending on a range of social factors (15 minutes) 
 
-1. Share the following information about some pupils:
+Share the following information about some pupils:
 
 #### Tiana is in Year 3
 
@@ -82,18 +82,18 @@ He works hard and always puts in a lot of effort to both homework and class work
 
 You know she’s capable of doing really well in her GCSE exams but if she continues on her current trajectory, she will not fulfil her potential.
 
-2. Ask ECTs to consider how:
+Ask ECTs to consider how:
 
 - their feedback to each of the pupils differ?
 - the pupils’ responses might differ? 
 
-3. Reflect that we can (and should) keep some things consistent in the way we give feedback, and the way we want pupils to respond.
+Reflect that we can (and should) keep some things consistent in the way we give feedback, and the way we want pupils to respond.
 
 For example, pupils are always required to follow the specific action steps we’ve asked them to take. However, their responses might differ depending on a range of social factors. We also need to make sure that we do not use overly complex language or jargon with young children.
 
 Feedback should be kind, specific and helpful.
 
-4. Ask ECTs to consider the following feedback:
+Ask ECTs to consider the following feedback:
 
 - rewrite paragraph
 - disappointing effort on test
@@ -109,13 +109,13 @@ Discuss:
 
 ### Verbal feedback and understanding that written marking is only one form of feedback (30 minutes) 
 
-1. Share the following quote: 
+Share the following quote: 
 
 "Verbal feedback from teacher to pupil can be particularly effective in freeing up teachers’ time to observe pupils’ learning, it can also be given in the moment which reduces waiting time. Teachers are able to respond quickly with additional support to individuals as appropriate."
 
 (Black et al., 2004; Gibson et al., 2015)   
 
-2. Think, pair, share: Ask, what are the benefits of using verbal feedback?
+Think, pair, share: Ask, what are the benefits of using verbal feedback?
 
 Answers might include:
 
@@ -123,13 +123,13 @@ Answers might include:
 - it's not onerous: work does not need to take place beyond the lesson
 - it can be more dialogic: it’s possible to unpick with pupils the reason they’ve made the error and therefore, the feedback can be more precise
 
-3. Share the following quote:
+Share the following quote:
 
 "A central problem in the area of assessment in the classroom has been in the way that teachers often confuse marking and feedback…there is an extraordinary amount of energy expended by teachers on marking and often very little to show for it in the way of student benefit. A set of marked books is traditionally seen as an effective proxy for good teaching but there is a lot of evidence to say that this might not be the case. Certainly students need to know where they make misconceptions or spelling errors and this provides a useful diagnostic for teachers to inform what they will teach next, but the written comments at the end of a piece of work are often the most time-consuming and also the most ineffective."
 
 (Wiliam and Christadoulou (2017)  
 
-4. Ask ECTs to imagine they’ve asked pupils to complete a piece of work. Instead of marking each book with a set of comments, what could they do instead?
+Ask ECTs to imagine they’ve asked pupils to complete a piece of work. Instead of marking each book with a set of comments, what could they do instead?
 
 Share the following 3 ideas for practice and ask ECTs to reflect on how they could use these in their own teaching.
 

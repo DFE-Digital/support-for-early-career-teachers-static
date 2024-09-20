@@ -45,7 +45,7 @@ Explain that this session will support ECTs to:
 
 ### Activating prior knowledge (15 mins)
 
-1. Ask ECTs to complete the following from memory:
+Ask ECTs to complete the following from memory:
 
 A) According to Willingham’s ‘Simple Memory Model’, what are the three components of memory?
 
@@ -68,7 +68,7 @@ Answers could include:
 - sequencing lessons so pupils secure foundational knowledge first before encountering more complex content
 - helping pupils to commit some key facts to their long-term memory to free up working memory space
 
-2. Share this quote:
+Share this quote:
 
 "Long term memory is now viewed as the central, dominant structure of human cognition. Everything we see, hear, and think about is dependent on and influenced by our long term memory."
 
@@ -98,7 +98,7 @@ Share the following:
 
 ### Using retrieval practice as part of your practice (30 mins)
 
-1. Reflect that ECTs are probably already using retrieval practice of some kind, such as:
+Reflect that ECTs are probably already using retrieval practice of some kind, such as:
 
 - asking questions
 - using quizzes
@@ -106,11 +106,11 @@ Share the following:
 
 Any activity that requires pupils to bring information to mind is a retrieval activity.
 
-2. Ask ECTs to discuss how much this resonates with their own practice.
+Ask ECTs to discuss how much this resonates with their own practice.
 
 Do they currently use retrieval, or see how it could be used?
 
-3. Share and discuss these tips for executing retrieval practice:
+Share and discuss these tips for executing retrieval practice:
 
 - whenever possible it should be done from memory (closed book)
 - involve everyone
@@ -125,7 +125,7 @@ Do they currently use retrieval, or see how it could be used?
 
 Based on Sherrington, 2019.
 
-4. Ask ECTs to work in groups to discuss which of the following activities they think are most useful:
+Ask ECTs to work in groups to discuss which of the following activities they think are most useful:
 
 a) Frequent quick-fire quizzes
 
@@ -200,7 +200,7 @@ i) Using graphic organisers
 - they can be done partially completed to scaffold, or blank
 - scaffolds support younger or SEN students
 
-5. Ask ECTs to share their thoughts on:
+Ask ECTs to share their thoughts on:
 
 - which activities they feel would be most useful
 - how some activities may be better suited to specific subjects, phases or contexts

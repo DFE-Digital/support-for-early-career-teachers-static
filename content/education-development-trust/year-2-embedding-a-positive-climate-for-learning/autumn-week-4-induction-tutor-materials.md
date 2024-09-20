@@ -29,18 +29,18 @@ Read the ECT’s self-study materials for this topic.
 
 ### Introduction to the session (2 to 3 minutes)
 
-1. Welcome ECTs and run through the objectives this session will focus on.
+Welcome ECTs and run through the objectives this session will focus on.
 
-2. Explain that the ability to self-regulate emotions affects pupils’ ability to learn, and their subsequent success in school and future lives. 
+Explain that the ability to self-regulate emotions affects pupils’ ability to learn, and their subsequent success in school and future lives. 
 This session will cover some techniques to help pupils to develop their ability to self-regulate emotions, giving them the best chance of success.
 
 ### What are emotions and what do we mean by regulating them? (8 to 10 minutes)
 
-1. Ask ECTs to list as many emotions as they can.
+Ask ECTs to list as many emotions as they can.
 
 It would be useful to capture and display the list as you’ll need to refer to it again later on.
 
-2. Ask ECTs:
+Ask ECTs:
 
 - to define what emotions are
 - where emotions ‘come from’
@@ -53,7 +53,7 @@ Make sure that the following information is covered:
 - the emotion might cause a behavioural change, like laughter or crying
 - the emotion might cause a change in thinking
 
-3. Ask ECTs to discuss what they understand by ‘regulating’ emotions.
+Ask ECTs to discuss what they understand by ‘regulating’ emotions.
 
 Make sure the following points are understood:
 
@@ -67,7 +67,7 @@ A teacher who cannot regulate their own emotional state effectively is not well-
 
 ### How can teachers help pupils to self-regulate their emotions? (10 to 15 minutes)
 
-1. Ask ECTs to work in small groups.
+Ask ECTs to work in small groups.
 
 Share one or both of the case studies below. They’re snippets from a Year 5 and a Year 8 lesson.
 
@@ -91,7 +91,7 @@ The teacher moves to another group where they’ve noticed 2 pupils are hanging 
 
 The teacher continues to scan the room, and spots that the group who were excited by their new idea are getting loud again and appear to be disagreeing about how to move forward. The teacher approaches and says: “OK everyone. Let’s pause for a moment and just remind ourselves of the way we behave in group work: number 1, we treat each other with respect. The way I just heard you speak to each other was not very respectful.”
 
-2. Ask ECTs to discuss how the teachers:
+Ask ECTs to discuss how the teachers:
 
 - help pupils to self-regulate their emotions?
 - make use of non-verbal signs?

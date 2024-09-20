@@ -40,7 +40,7 @@ Much has changed over the years about how we think pupils learn best.
 
 Pupils need to spend time working on their own and independently. Research also shows that collaborative working supports pupils to develop social skills, and to achieve good learning outcomes.
 
-1. Think-pair-share: What has been your experience of group work so far?
+Think-pair-share: What has been your experience of group work so far?
 
 Give ECTs the opportunity to discuss and share their experiences and tips.
 
@@ -52,15 +52,15 @@ Some ECTs may have done group work successfully. Ask them to share:
 - how many times have they tried it?
 - how did they decide who was in each group? - what was the group task? 
 
-2. Emphasise that while there’s evidence to support the effectiveness of collaborative work, it does not happen by accident. 
+Emphasise that while there’s evidence to support the effectiveness of collaborative work, it does not happen by accident. 
 
 Teachers must design effective group work, and teach pupils how to do it.
 
 ### Developing success criteria for effective group work (25 minutes)
 
-1. Explain that teachers must share success criteria with pupils to help them perform group work effectively. Criteria should set expectations about how pupils should behave, and how they can work effectively together.
+Explain that teachers must share success criteria with pupils to help them perform group work effectively. Criteria should set expectations about how pupils should behave, and how they can work effectively together.
 
-2. Ask ECTs to work together in groups to define a set of success criteria for effective group work.
+Ask ECTs to work together in groups to define a set of success criteria for effective group work.
 
 It might be useful to group ECTs into subjects or phases so they can come up with an activity that works for them.
 
@@ -85,11 +85,11 @@ Prompts include:
 - how could you involve your pupils in developing success criteria?
 - how will you monitor what the group is doing to make sure the criteria are being met?
 
-3. Ask ECTs to share and discuss their thoughts with the group.
+Ask ECTs to share and discuss their thoughts with the group.
 
 ### Grouping pupils flexibly (25 minutes)
 
-1. Share this information:
+Share this information:
 
 Flexibly grouping pupils within a class is valuable because it allows you to tailor your support. However, it is crucial to monitor how it is going. If you keep groups fixed for long periods, especially if they are related to prior attainment, this can demotivate pupils who think they are in a lower-attaining group.
 
@@ -97,7 +97,7 @@ Even if you teach in ‘sets’ in your school, it is important to remember that
 
 Any groupings that you create that are based on attainment need to be subject specific. If you are a primary school teacher, this means avoiding having a ‘top table’ that stays the same regardless of subject. In secondary schools, this is more challenging since your school may take a certain approach to setting pupils. Even if this is the case, it is important to mix groupings up within your class to avoid the idea that attainment is static.
 
-2. Ask ECTs to work in pairs or groups to review the following information:
+Ask ECTs to work in pairs or groups to review the following information:
 
 A) Homogenous or within-class attainment groupings. 
 
@@ -109,7 +109,7 @@ B) Heterogeneous or mixed-attainment groupings.
 
 This means that pupils of diverse abilities are grouped together. This might allow for within-group scaffolding to take place, i.e. higher-attainment pupils are able to provide support to lower-attainment pupils. There are some known positive effects for higher-attainment pupils of taking on this role.
 
-3. Ask ECTs to discuss:
+Ask ECTs to discuss:
 
 - does their school use setting?
 - do they tend to keep groups the same within their lessons, or do they mix groups up regularly?
@@ -118,7 +118,7 @@ This means that pupils of diverse abilities are grouped together. This might all
 - what are the main challenges of teaching mixed-attainment groups?
 - what are the main benefits of teaching mixed-attainment groups?
 
-4. Share this Year 6 flexible grouping case study:
+Share this Year 6 flexible grouping case study:
 
 "In a typical lesson, I use a combination of individual, paired and group work.
 
@@ -138,7 +138,7 @@ This means that pupils of diverse abilities are grouped together. This might all
 
 " The pupils had to create a presentation about the different environments they had learned about, which they shared with the class. At the end, I did a mini-quiz with pupils individually - this helped each pupil to see that they needed to take an active role in the work."
 
-5. Ask ECTs to work in pairs or groups to discuss:
+Ask ECTs to work in pairs or groups to discuss:
 
 - in what different ways are pupils grouped?- what different strategies has the teacher used?
 - what are the implications for your own practice?

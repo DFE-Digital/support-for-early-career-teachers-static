@@ -33,7 +33,7 @@ Aim to model effective assessment practices throughout, such as:
 
 ### What do you already know about assessment? (10 minutes)
 
-1. Ask, what are the different purposes of assessment?
+Ask, what are the different purposes of assessment?
 
 Answers may include:
 
@@ -43,7 +43,7 @@ Answers may include:
 - checking for understanding
 - informing planning
 
-2. Ask, how have you used assessment so far?
+Ask, how have you used assessment so far?
 
 Answers may include:
 
@@ -54,39 +54,39 @@ Answers may include:
 
 ### Defining formative assessment (10 minutes)
 
-1. Ask ECTs to agree on a definition for formative assessment. This is a concept they’ve encountered in the self-directed study materials and in their mentoring.
+Ask ECTs to agree on a definition for formative assessment. This is a concept they’ve encountered in the self-directed study materials and in their mentoring.
 
-2. Ask ECTs to compare their definition with this explanation:
+Ask ECTs to compare their definition with this explanation:
 
 > Formative assessment is: ‘any assessment for which the first priority in its design and practice is to serve the purpose of promoting pupils' learning. An assessment activity can help learning if it provides information to be used as feedback, by teachers, and by their pupils in assessing themselves, to modify the learning and teaching activities in which they are engaged. Such assessment becomes 'formative assessment' when the evidence is actually used to adapt the teaching work to meet learning needs.’
 
 (Working Inside the Black Box by Black, Harrison, Lee, Marshall and Wiliam)
 
-3. Ask ECTs to share examples of how they’ve used assessment practices which match this definition.
+Ask ECTs to share examples of how they’ve used assessment practices which match this definition.
 
 ### What are the characteristics of good assessment? (10 minutes)
 
 Ask ECTs to work in pairs or groups and decide which of the following statements are true and which are false:
 
-1. Assessment tells teachers what pupils know, remember, understand and can do.
+Assessment tells teachers what pupils know, remember, understand and can do.
 
-2. One assessment cannot test everything.
+One assessment cannot test everything.
 
-3. Assessments are more powerful if they are focused.
+Assessments are more powerful if they are focused.
 
-4. All data from tests can be used formatively.
+All data from tests can be used formatively.
 
-5. Assessment involves both teachers and pupils.
+Assessment involves both teachers and pupils.
 
-6. Assessment helps teachers understand individual pupils’ learning needs.
+Assessment helps teachers understand individual pupils’ learning needs.
 
-7. All assessment helps teachers to plan their next steps.
+All assessment helps teachers to plan their next steps.
 
-8. All assessment helps pupils learn.
+All assessment helps pupils learn.
 
-9. Assessment tasks keep pupils busy.
+Assessment tasks keep pupils busy.
 
-10.	Pupils do not learn from assessment.
+Pupils do not learn from assessment.
 
 #### Answers
 
@@ -112,11 +112,11 @@ Note that some statements should be open to interpretation, to support rich disc
 
 ### When assessment is used well (15 minutes)
 
-1. Share the following definition:
+Share the following definition:
 
 > The reliability of an assessment tool is the extent to which it consistently and accurately measures learning.
 
-2. Ask, what does this mean for us as teachers?
+Ask, what does this mean for us as teachers?
 
 Answers might include:
 
@@ -124,7 +124,7 @@ Answers might include:
 - we need to be aware of how reliable our assessment tool is
 - you need accurate data to make decisions
 
-2. Share the following factors, which are important in ensuring that assessments are reliable:
+Share the following factors, which are important in ensuring that assessments are reliable:
 
 - Precision: how accurate is the result?
 - Replicability: would you get the same result again?
@@ -138,7 +138,7 @@ Answers might include:
 - The consistency in test administration: for example, the length of time given for the assessment, instructions given to students before the test.
 - The readiness of students for the assessment: for example, a hot afternoon or straight after physical activity might not be the best time for students to be assessed.
 
-3. Share the following scenarios in which teachers are assessing their pupils on fractions. They want to make their assessments more reliable.
+Share the following scenarios in which teachers are assessing their pupils on fractions. They want to make their assessments more reliable.
 
 - Teacher A decided to add more questions to the assessment.
 - Teacher B gives pupils more time.
@@ -178,7 +178,7 @@ Yes, this would make it more reliable. The teacher would need to decide if they 
 
 Yes, this would be more reliable. The teacher would need to decide if they had enough data to make it valid.
 
-4. Ask, why is it important to understand what our pupils know as we go along?
+Ask, why is it important to understand what our pupils know as we go along?
 
 #### Answers might include:
 
@@ -187,7 +187,7 @@ Yes, this would be more reliable. The teacher would need to decide if they had e
 - we need to identify misconceptions as we go along
 - if we wait till the end to find out what pupils know, we will have no time to resolve or address this
 
-5. Ask the ECTs to look at the following examples of assessment strategies. They should think of one advantage and disadvantage of using each one:
+Ask the ECTs to look at the following examples of assessment strategies. They should think of one advantage and disadvantage of using each one:
 
 - do now activity
 - regular low-stake quizzes
@@ -229,7 +229,7 @@ Disadvantage: time-consuming to mark.
 
 ### Putting it into practice (35 minutes)
 
-1. Share the following lesson example:
+Share the following lesson example:
 
 #### Example A
 
@@ -271,7 +271,7 @@ To know subject specific terminology to explain the conventions of horror writin
 - be able to identify when foreshadowing is being used
 - identify the purpose of using foreshadowing
 
-4. Ask ECTs to decide which assessment tool they’ll use to assess each of their 5 key skills or concepts. They should create an assessment task for each.
+Ask ECTs to decide which assessment tool they’ll use to assess each of their 5 key skills or concepts. They should create an assessment task for each.
 
 For example:
 
@@ -283,7 +283,7 @@ Exit ticket
 
 Find two quotations that support this point.
 
-5. Ask, what information will this give you? What feedback will this give pupils?
+Ask, what information will this give you? What feedback will this give pupils?
 
 ### Reflections (10 minutes)
 

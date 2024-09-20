@@ -30,61 +30,63 @@ Establish effective routines and expectations, by:
 
 #### Giving instructions (5 minutes)
 
-1. Welcome participants and explain that they’re going to focus on the following three ECF statements:
+Welcome participants and explain that they’re going to focus on the following three ECF statements:
 
-  I) Demonstrate consistently high behavioural expectations, by:
+I) Demonstrate consistently high behavioural expectations, by:
 
-  - 1f Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration)
+- 1f Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration)
 
-  II) Develop a positive, predictable and safe environment for pupils, by:
+II) Develop a positive, predictable and safe environment for pupils, by:
 
-  - 7c Giving manageable, specific and sequential instructions
+- 7c Giving manageable, specific and sequential instructions
 
-  III) Establish effective routines and expectations, by:
+III) Establish effective routines and expectations, by:
 
-  - 7j Reinforcing routines (e.g. by articulating the link between time on task and success)
+- 7j Reinforcing routines (e.g. by articulating the link between time on task and success)
 
-2. Think-pair-share activity
-ask, how do you keep pupil attention when you’re giving instructions?
+#### Think-pair-share activity
 
-  Allow:
+Ask, how do you keep pupil attention when you’re giving instructions?
 
-  - 30 seconds for ECTs to think
-  - 1 minute for sharing with a neighbour or group
+Allow:
 
-3. Take feedback and share with the wider group.
+- 30 seconds for ECTs to think
+- 1 minute for sharing with a neighbour or group
+
+Take feedback and share with the wider group.
+
 Answers might include:
 
-  - giving the rationale behind the instructions 
-  - using tone
-  - adapting body language
-  - checking for understanding
+- giving the rationale behind the instructions 
+- using tone
+- adapting body language
+- checking for understanding
 
-4. Explain that today’s session will look at strategies to keep pupils engaged while giving instructions.
+Explain that today’s session will look at strategies to keep pupils engaged while giving instructions.
 
 ECTs will be looking at how to set clear expectations and hold pupils to account for any listening 	they’re asked to do.
 
 ### Holding pupils to account (10 minutes)
 
-1. Ask the ECTs to discuss the following statement in pairs or groups:
+Ask the ECTs to discuss the following statement in pairs or groups:
 
-  > It’s important to give pupils an ‘agenda for listening’. That means holding pupils to account to make sure they listen to us when we need them to.
+> It’s important to give pupils an ‘agenda for listening’. That means holding pupils to account to make sure they listen to us when we need them to.
 
-  Take feedback.
+Take feedback.
 
-2. Discuss the following ways we can set an agenda for listening for our pupils:
+Discuss the following ways we can set an agenda for listening for our pupils:
 
-  - setting clear rules and expectations
-  - begin by telling pupils what they’ll be doing when you finish talking so they can make the link themselves
-  - telling pupils why what you’re telling them is important
-  - telling pupils what they need to listen for
+- setting clear rules and expectations
+- begin by telling pupils what they’ll be doing when you finish talking so they can make the link themselves
+- telling pupils why what you’re telling them is important
+- telling pupils what they need to listen for
 
-3. Ask ECTs to discuss:
+Ask ECTs to discuss:
 
-  - how often do you use these strategies? 
-  - which do you find useful?
+- how often do you use these strategies? 
+- which do you find useful?
 
-4. Share the following examples with the group.
+Share the following examples with the group.
 
 I) I’m going to explain how I want you to complete this task. Once I’ve finished talking to you, you’re going to have a go on your own.
 
@@ -97,9 +99,9 @@ Ask the ECTs to discuss:
 
 ### Putting it into practice (10 minutes)
 
-1. Ask the ECTs to choose one of their routines. They need to script an agenda for listening for the routine instructions. They should include how they’ll hold pupils to account and make sure they listen to the instructions given.
+Ask the ECTs to choose one of their routines. They need to script an agenda for listening for the routine instructions. They should include how they’ll hold pupils to account and make sure they listen to the instructions given.
 
-2. ECTs should share these with each other and provide feedback.
+ECTs should share these with each other and provide feedback.
 
 ### Delivery (5 minutes)
 

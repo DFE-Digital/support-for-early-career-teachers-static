@@ -33,24 +33,24 @@ Welcome participants and explain which objectives this session will focus on.
 
 ### What are pupils motivated by? (10 minutes)
 
-1. Ask ECTs:
+Ask ECTs:
 
 - what motivates them in their day to day life?
 - would they consider themselves to be intrinsically or extrinsically motivated?
 
-2. Recap the meanings of these terms:
+Recap the meanings of these terms:
 
 - intrinsic motivation relates to their identity and values
 - extrinsic motivation relates to reward
 
-3. Ask ECTs to reflect on their pupils and ask:
+Ask ECTs to reflect on their pupils and ask:
 
 - what motivates them?
 - how are intrinsic and extrinsic motivation linked?
 
 ### How do long term goals support motivation with challenging content? (10 minutes)
 
-1. Ask ECTs to list reasons pupils might not want to attempt a task.
+Ask ECTs to list reasons pupils might not want to attempt a task.
 
 Answers might include:
 
@@ -58,7 +58,7 @@ Answers might include:
 - they think it’s too challenging
 - they think it’s too easy
 
-2. Ask: why may pupils particularly need motivation for challenging content?
+Ask: why may pupils particularly need motivation for challenging content?
 
 Answers might include:
 
@@ -66,7 +66,7 @@ Answers might include:
 - they may not know how to start
 - pupils may not want to let their peers know they’re struggling
 
-3. Ask ECTs to consider how setting a long-term goal might help pupils to address these issues.
+Ask ECTs to consider how setting a long-term goal might help pupils to address these issues.
 
 Answers might include:
 
@@ -76,7 +76,7 @@ Answers might include:
 - offers purpose
 - shows pupils the progress they’re making
 
-4. Share the following scenario:
+Share the following scenario:
 
 Teacher: OK Jack, so your goal is to improve your reading. I think this will really help you.
 
@@ -120,7 +120,7 @@ Ask ECTs:
 
 ### Putting this into practice (15 minutes) 
 
-1. Ask ECTs: Why do goals need to be challenging and specific rather than vague and broad?
+Ask ECTs: Why do goals need to be challenging and specific rather than vague and broad?
 
 Answers might include:
 
@@ -128,7 +128,7 @@ Answers might include:
 - supporting pupils
 - improving performance  
 
-2. ECTs should pick 3 of their pupils and decide what a meaningful long-term goal would be for each of them.
+ECTs should pick 3 of their pupils and decide what a meaningful long-term goal would be for each of them.
 
 They should note how:
 
@@ -138,18 +138,18 @@ They should note how:
 
 ### Supporting pupils to master challenging content (15 minutes)
 
-1. Explain that long-term goals show pupils where they’re going, but we need to:
+Explain that long-term goals show pupils where they’re going, but we need to:
 
 - break these into steps for them
 - set challenging content to help them achieve their goals
 
-2. Ask ECTS to pick one of the pupils they’ve been considering and complete these tasks:
+Ask ECTS to pick one of the pupils they’ve been considering and complete these tasks:
 
 - break the long-term goal into achievable milestones
 - decide how they’ll direct pupil action to meet these
 - decide how they’ll highlight progress
 
-3. ECTs should look at an upcoming lesson and annotate if and where they’ve:
+ECTs should look at an upcoming lesson and annotate if and where they’ve:
 
 - matched tasks clearly to learning intentions
 - set tasks that will develop pupils’ knowledge
@@ -158,7 +158,7 @@ They should note how:
 - supported pupils to master skills and key knowledge before moving on to the next task
 - ensured pupils have a deep understanding of the key content
 
-4. Ask ECTs to work in pairs and discuss:
+Ask ECTs to work in pairs and discuss:
 
 - how is the pupils’ long term goal being addressed in the content?
 - how many things from the list have they included?
