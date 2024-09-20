@@ -77,7 +77,7 @@ Take feedback.
 - telling pupils why what you’re telling them is important
 - telling pupils what they need to listen for
 
-3.	Ask ECTs to discuss:
+3. Ask ECTs to discuss:
 
 - how often do you use these strategies? 
 - which do you find useful?
