@@ -105,19 +105,19 @@ Ask the ECTs to annotate their script with instructions for how they’ll delive
 
 They should consider the following.
 
-1. Clarity:
+#### Clarity
 
 - when will they pause for effect? 
 - their pace, speak precisely or more slowly 
 - repeating key words
 
-2. Voice:
+#### Voice
 
 - varying tone 
 - enthusiasm 
 - stressing key words
 
-3. Body language: 
+#### Body language: 
 
 - eye contact 
 - where they’ll stand in the classroom
