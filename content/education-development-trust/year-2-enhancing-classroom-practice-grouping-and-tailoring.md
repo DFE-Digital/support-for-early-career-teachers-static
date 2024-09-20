@@ -8,9 +8,9 @@ In this module you’ll enhance your teaching effectiveness by learning advanced
 
 ## Module introduction
 
-This week you just need to watch the brief video introduction to the module.
+### ECTs
 
-Duration: 5 minutes.
+This week you just need to watch the brief video introduction to the module (5 minutes).
 
 1. [Instructions](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/intro-ect-instructions)
 2. [Video introduction](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/intro-ect-video-introduction)
@@ -21,8 +21,9 @@ There’s no catch-up with the ECT this week. You just need to watch the brief v
 
 ## Week 1
 
-There are no self-study materials this week.
+### ECTs
 
+There are no self-study materials this week.
 
 ### Mentors
 
@@ -30,12 +31,12 @@ There are no mentor activities this week.
 
 ## Week 2: pupil grouping and homework
 
+### ECTs
+
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 30 minutes.
+- work through the self-study materials below (30 minutes)
+- catch up with your mentor (60 minutes)
 
 1. [Instructions](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-2-ect-instructions)
 2. [Learning outcomes](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-2-ect-learning-outcomes)
@@ -53,47 +54,64 @@ For this topic you should:
 
 ## Week 3: grouping pupils
 
+### ECTs
+
 For this topic you’ll need to:
 
-- work through the self-study materials below
-- catch up with your mentor
-
-Duration: 20 minutes.
+- work through the self-study materials below (20 minutes)
+- attend a training session arranged by your induction tutor (75 minutes)
 
 1. [Instructions](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-3-ect-instructions)
 2. [Classroom practice](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-3-ect-classroom-practice)
 
 ### Mentors
 
-For this topic you should:
+There’s no mentoring session with your ECT this week. Instead, your induction tutor should arrange a training session.
 
-- read the ECT’s study materials below
-- catch up with your ECT
-- briefly watch them teach
+### Induction tutor
+
+Use the materials below to arrange a training session on grouping pupils effectively (75 minutes).
+
+[View induction tutor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-3-induction-tutor-materials)
 
 ## Week 4: facilitating pupil collaboration
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
+### ECTs
 
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
+
+You’ll also attend a training session arranged by your induction tutor (75 minutes).
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT does not have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+
+You’ll also attend a training session arranged by your induction tutor.
 
 [View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-4-mentor-materials)
 
+### Induction tutor
+
+Use the materials below to arrange a training session on modelling collaborative work effectively (75 minutes).
+
+[View induction tutor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-4-induction-tutor-materials)
+
 ## Week 5: meeting the needs of individuals
 
-There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting.
+### ECTs
+
+There are no self-study materials this week. Instead, your mentor will lead the discussion about this topic in your weekly meeting (60 minutes).
 
 
 ### Mentors
 
-The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
+The ECT does not have a self-study element this week. Instead, you should use the materials below to help you plan a discussion with them about this topic.
 
 [View mentor materials](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/spring-week-5-mentor-materials)
 
 ## Week 6: review of the module
+
+### ECTs
 
 Your mentor should arrange a catch-up with you to discuss what you have learnt during this module.
 
@@ -107,9 +125,9 @@ Use the materials below to help you plan a discussion with the ECT about what th
 
 ## End of module reflections
 
-Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future.
+### ECTs
 
-Duration: 5 minutes.
+Use this time to take some high-level notes on what you’ve learnt in this module. Also note down any related areas you’d like to strengthen in future (5 minutes).
 
 1. [Instructions](/education-development-trust/year-2-enhancing-classroom-practice-grouping-and-tailoring/intro-ect-instructions)
 
