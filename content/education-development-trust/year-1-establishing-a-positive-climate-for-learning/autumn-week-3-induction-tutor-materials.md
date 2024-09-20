@@ -194,4 +194,4 @@ Ask the ECTs to script the least-invasive correction they would give for the fol
 
 ### Planning for action (15 minutes)
 
-Ask the ECTs to discuss or note one or two actions they’ll take into their classroom following this session.
+Ask the ECTs to discuss or note 1 or 2 actions they’ll take into their classroom following this session.
