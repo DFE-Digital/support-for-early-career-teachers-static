@@ -22,8 +22,6 @@ Increase likelihood of material being retained, by:
 
 ### How to prepare for the session
 
-Read the ECT’s self-study materials for this topic.
-
 Read [Practice with Purpose: The Emerging Science of Teacher Expertise](https://www.deansforimpact.org/tools-and-resources/practice-with-purpose-the-emerging-science-of-teacher-expertise).
 
 Ask ECTs to bring a scheme of work with them to refer to during the session.

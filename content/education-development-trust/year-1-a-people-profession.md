@@ -155,4 +155,4 @@ Use this time to take some high-level notes on what you’ve learnt in this modu
 
 ### Mentors
 
-Your ECT will use the materials below to take some high-level notes on what they have learnt in this module.
+Your ECT will use the materials to take some high-level notes on what they have learnt in this module.

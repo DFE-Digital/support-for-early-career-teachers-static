@@ -113,7 +113,7 @@ Share the following quote:
 
 "Verbal feedback from teacher to pupil can be particularly effective in freeing up teachers’ time to observe pupils’ learning, it can also be given in the moment which reduces waiting time. Teachers are able to respond quickly with additional support to individuals as appropriate."
 
-(Black et al., 2004; Gibson et al., 2015)   
+Black et al, 2004, Gibson et al, 2015
 
 Think, pair, share: Ask, what are the benefits of using verbal feedback?
 
@@ -127,7 +127,7 @@ Share the following quote:
 
 "A central problem in the area of assessment in the classroom has been in the way that teachers often confuse marking and feedback…there is an extraordinary amount of energy expended by teachers on marking and often very little to show for it in the way of student benefit. A set of marked books is traditionally seen as an effective proxy for good teaching but there is a lot of evidence to say that this might not be the case. Certainly students need to know where they make misconceptions or spelling errors and this provides a useful diagnostic for teachers to inform what they will teach next, but the written comments at the end of a piece of work are often the most time-consuming and also the most ineffective."
 
-(Wiliam and Christadoulou (2017)  
+Wiliam and Christadoulou (2017)  
 
 Ask ECTs to imagine they’ve asked pupils to complete a piece of work. Instead of marking each book with a set of comments, what could they do instead?
 
@@ -150,7 +150,7 @@ Teacher creates a bank of numbered specific targets based on a reading of the wo
 
 Teacher reads all of the work but instead of producing comments selects a couple of the pieces of best work. The teacher marks one and photocopies it. The teacher photocopies the other one but keeps it free of marks. At the start of the next lesson, teacher uses the marked copy with pupils to explain why this is a model piece of work. Pupils then have a go at marking the blank copy. Teacher facilitates a discussion about how pupils marked the work (a form of moderation). The pupils then use this experience to mark either their own work or the work of a peer.
 
-5. As an extension to this task, ECTs should see if they can devise any more ideas which they can share with the group.
+As an extension to this task, ECTs should see if they can devise any more ideas which they can share with the group.
 
 ### Planning for action (10 minutes)
 
