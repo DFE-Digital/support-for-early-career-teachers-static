@@ -52,7 +52,7 @@ The following resources have key findings that you might find helpful. You could
 
 1. Explain that to understand how the mind works, we need to consider the relationship between the working memory (WM) and the long-term memory (LTM).
 
-2.	Show [Daniel T. Willingham’s model of cognitive processes](https://www.researchgate.net/figure/Two-examples-of-modal-models-At-left-a-model-of-cognitive-processes-Willingham-2009_fig1_320598894).
+2. Show [Daniel T. Willingham’s model of cognitive processes](https://www.researchgate.net/figure/Two-examples-of-modal-models-At-left-a-model-of-cognitive-processes-Willingham-2009_fig1_320598894).
 
 Focus on the environment and how the mind interacts with it.
 

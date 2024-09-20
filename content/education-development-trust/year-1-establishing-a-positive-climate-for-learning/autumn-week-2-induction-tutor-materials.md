@@ -77,7 +77,7 @@ Take feedback.
 - telling pupils why what you’re telling them is important
 - telling pupils what they need to listen for
 
-3.	Ask ECTs to discuss:
+3. Ask ECTs to discuss:
 
 - how often do you use these strategies? 
 - which do you find useful?
@@ -105,19 +105,19 @@ Ask the ECTs to annotate their script with instructions for how they’ll delive
 
 They should consider the following.
 
-1. Clarity:
+#### Clarity
 
 - when will they pause for effect? 
 - their pace, speak precisely or more slowly 
 - repeating key words
 
-2. Voice:
+#### Voice
 
 - varying tone 
 - enthusiasm 
 - stressing key words
 
-3. Body language: 
+#### Body language: 
 
 - eye contact 
 - where they’ll stand in the classroom
