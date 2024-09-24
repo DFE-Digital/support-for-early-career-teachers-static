@@ -16,10 +16,6 @@ Duration: 90 minutes
 
 ## Preparation
 
-These resources provide information to support the session plan options below:
-
-(Content awaiting publication)
-
 Before this session takes place, early career teachers (ECTs) should have the following.
 
 1.	Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
@@ -65,15 +61,15 @@ None.
 
 Develop as a professional, by:
 
-– 8b. Strengthening pedagogical and subject knowledge by participating in wider networks
-– 8c. Seeking challenge, feedback and critique from mentors and other colleagues in an open and trusting working 
-environment
-– 8d. Engaging critically with research and discussing evidence with colleagues 
-– 8e. Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further 
-improvement
+- 8b. Strengthening pedagogical and subject knowledge by participating in wider networks.
+- 8c. Seeking challenge, feedback and critique from mentors and other colleagues in an open and trusting working 
+environment.
+- 8d. Engaging critically with research and discussing evidence with colleagues.
+- 8e. Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further 
+improvement.
 
 Manage workload and wellbeing, by:
 
-– 8o. Collaborating with colleagues to share the load of planning and preparation and making use of shared 
-resources (such as textbooks)
-– 8p. Protecting time for rest and recovery
+- 8o. Collaborating with colleagues to share the load of planning and preparation and making use of shared 
+resources (such as textbooks).
+- 8p. Protecting time for rest and recovery.
