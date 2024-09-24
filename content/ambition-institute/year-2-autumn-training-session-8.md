@@ -38,7 +38,7 @@ You could:
 - explore how knowing the active ingredients helps to structure, communicate and monitor the implementation effectively
 - ask ECTs to practise and receive feedback on the active ingredients that might help to address the prioritised problem
 
-### Possible strategies and approaches (60 minutes)
+### Possible strategies and approaches (40 minutes)
 
 You could:
 
