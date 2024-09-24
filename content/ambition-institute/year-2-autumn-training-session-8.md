@@ -16,6 +16,16 @@ Duration: 90 minutes
 
 ## Preparation
 
+These resources provide information to support the session plan options below:
+
+- [Education Endowment Foundation (EEF): Putting Evidence to Work – A School’s Guide to Implementation](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation)
+- [Education Endowment Foundation (EEF) blog: Understanding the relationship between implementation and professional development](https://educationendowmentfoundation.org.uk/news/eef-blog-understanding-the-relationship-between-implementation-and-professional-development#:~:text=When%20using%20%E2%80%8B'active%20ingredients,see%20here%20for%20a%20summary)
+- [Education Endowment Foundation (EEF): Teacher Feedback to Improve Pupil Learning](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/feedback) 
+- [Education Endowment Foundation (EEF): Improving Behaviour in Schools](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/behaviour) 
+- [Education Endowment Foundation (EEF): Feedback](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback)
+- [Education Endowment Foundation (EEF) blog: Retrieval practice: a game of ‘hide and seek’](https://educationendowmentfoundation.org.uk/news/retrieval-practice-a-game-of-hide-and-seek)
+- [Education Endowment Foundation (EEF): Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation)
+
 Before this session takes place, early career teachers (ECTs) should have the following.
 
 1.	Exposure to key knowledge from ITT Core Content Framework on relevant sub-standards.
@@ -28,7 +38,7 @@ Before this session takes place, early career teachers (ECTs) should have the fo
 
 Provide a relevant recap on previously taught content. Set up the norms for this session.
 
-### Active ingredients (30 minutes)
+### Understanding the active ingredients (30 minutes)
 
 You could:
 
@@ -38,7 +48,7 @@ You could:
 - explore how knowing the active ingredients helps to structure, communicate and monitor the implementation effectively
 - ask ECTs to practise and receive feedback on the active ingredients that might help to address the prioritised problem
 
-### Possible strategies and approaches (40 minutes)
+### Developing an approach (40 minutes)
 
 You could:
 
