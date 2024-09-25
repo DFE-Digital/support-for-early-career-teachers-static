@@ -284,15 +284,16 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 ##### What is the approach?
 
 - Teacher identifies tier 2 and tier 3 vocabulary in their subject (see below).
-- Teacher introduces the new word and provides a student friendly definition (e.g. simple language such as “Abolish means to get rid of something or end it.”).
-- Teacher uses the word in context (e.g. “The United States abolished slavery in 1865.”).
-- Teacher provides opportunities for multiple exposures (e.g. by sharing a variety of examples: My goal is to abolish world poverty. Should we have a debate on whether to abolish taxes?).
-- Teacher provides opportunity for repeated practice of newly learned vocabulary in talk, writing and reading (e.g. pupils use the new vocabulary in their next task).
+- Teacher introduces the new word and provides a student friendly definition (for example, simple language such as 'Abolish means to get rid of something or end it.').
+- Teacher uses the word in context (for example, 'The United States abolished slavery in 1865.').
+- Teacher provides opportunities for multiple exposures (for example, by sharing a variety of examples: My goal is to abolish world poverty. Should we have a debate on whether to abolish taxes?).
+- Teacher provides opportunity for repeated practice of newly learned vocabulary in talk, writing and reading (for example, pupils use the new vocabulary in their next task).
 
 ##### How do I make it work effectively?
 
-- Identify important vocabulary to teach explicitly, i.e that which pupils will encounter often or which are foundational to the subject.
-- Always provide lots of opportunities for pupils to use the new vocabulary, e.g. in sentence stems. Pupils have only “learned” a new word when they can recognise it orally, when written, and can write it and use it verbally themselves. - Revisit the new vocabulary in spaced intervals and interleave where possible.
+- Identify important vocabulary to teach explicitly, such as that which pupils will encounter often or which are foundational to the subject.
+- Always provide lots of opportunities for pupils to use the new vocabulary, for example, in sentence stems. Pupils have only 'learned' a new word when they can recognise it orally, when written, and can write it and use it verbally themselves.
+- Revisit the new vocabulary in spaced intervals and interleave where possible.
 
 #### Approach: Knowledge organisers
 
@@ -309,21 +310,15 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 
 ### Why is teaching vocabulary important and what is tiered vocabulary?
 
-A wide and varied vocabulary is a key aspect of literacy. Knowing what words
-mean ensures that pupils can comprehend meaning – the more words they know,
-the more they will understand about a topic or be able to infer from a text. A
-robust vocabulary supports all aspects of communication: listening, speaking,
-reading and writing. There are some words which pupils will learn through
-hearing them repeated often (such as “no” and “cat”) and others which will
-need to be explicitly taught through systematic vocabulary instruction. We
-call these tier 2 and tier 3 words.
+A wide and varied vocabulary is a key aspect of literacy. Knowing what words mean ensures that pupils can comprehend meaning - the more words they know, the more they will understand about a topic or be able to infer from a text.
 
+A robust vocabulary supports all aspects of communication: listening, speaking, reading and writing. There are some words which pupils will learn through hearing them repeated often (such as 'no' and 'cat') and others which will need to be explicitly taught through systematic vocabulary instruction. We call these tier 2 and tier 3 words.
 
 - Tier 1: Words of everyday speech, familiar to most children.
-- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil’s language ability.
+- Tier 2: High-utility words likely to appear frequently in a wide variety of contexts - instruction in these words can add significantly to a pupil’s language ability.
 - Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.
 
-### Examples
+### Examples of tier 1, 2 and 3 words
 
 Examples of tier 1 words are: book, hill, talk, cat, yellow.
 
@@ -341,7 +336,9 @@ To do this you can use the robust vocabulary instruction in the table above.
 
 ### Video
 
-In this video, the teacher is using the reciprocal reading technique from the table of approaches above. Some pupils may be expert decoders and therefore able to read fluently, but unable to comprehend the meaning of the text. This approach is helpful because it allows pupils to articulate their ideas aloud to a group, exposing where there is confusion or lack of comprehension. It makes explicit the metacognitive strategies that readers use for reading comprehension: predicting, summarising, questioning and clarifying.
+In this video, the teacher is using the reciprocal reading technique from the table of approaches above. Some pupils may be expert decoders and therefore able to read fluently, but unable to comprehend the meaning of the text.
+
+This approach is helpful because it allows pupils to articulate their ideas aloud to a group, exposing where there is confusion or lack of comprehension. It makes explicit the metacognitive strategies that readers use for reading comprehension: predicting, summarising, questioning and clarifying.
 
 Watch this video of a teacher running a reciprocal reading group and consider the following questions:
 
@@ -355,107 +352,53 @@ Video script.
 ### A Year 3 reading group, four students and one adult reading _The Tiger Who Came to Tea._
 
 
-  Teacher: “Before we start reading this book, Joe would you like to predict
-  what the text is about? Remember to explain why you are making your
+  Teacher: “Before we start reading this book, Joe would you like to predict what the text is about? Remember to explain why you are making your
   prediction.”
 
+  Joe: “I predict this is going to be a story about a girl who has a pet tiger and they are best friends and have a birthday party for the tiger because the
+  picture on the front shows the girl sitting with the tiger and there is a cake on the table.”
 
-
-  Joe: “I predict this is going to be a story about a girl who has a pet tiger
-  and they are best friends and have a birthday party for the tiger because the
-  picture on the front shows the girl sitting with the tiger and there is a cake
-  on the table.”
-
-
-
-  Teacher: “Oh interesting… OK, well let’s find out… Anna, can you begin reading
-  please? As Anna reads, don’t forget to underline words or phrases that you
+  Teacher: “Oh interesting… OK, well let’s find out… Anna, can you begin reading please? As Anna reads, don’t forget to underline words or phrases that you
   might want to clarify.”
-
-
 
   Anna: reads aloud as other pupils follow in their own text.
 
-
-
-  Teacher: “Thank you, Anna. Let’s stop there and check some things. Firstly,
-  are there any words we need to clarify?”
-
-
-Joe: “What does ‘grocer’ mean?”
-
+  Teacher: “Thank you, Anna. Let’s stop there and check some things. Firstly, are there any words we need to clarify?”
+  
+  Joe: “What does ‘grocer’ mean?”
 
   Anna: “That’s the question I was going to ask – what is a grocer? And who is a grocer boy?”
 
+  Teacher: “Good question – Mohammed, can you clarify the word grocer for us please?”
 
+  Mohammed: “I will try sounding the word out loud – ‘grocer’. Hmmm. That hasn’t really helped. Next, I’ll read the sentences and think about what would make
+  sense: ‘And it can’t be the boy from the grocer because this isn’t the day he comes.’ Oh, maybe the grocer is a place? Because it says, ‘from the grocer’. I think I’ll ask a friend – does anyone else know what a grocer is?”
+  
+  No one is sure.
 
-  Teacher: “Good question – Mohammed, can you clarify the word grocer for us
-  please?”
+  Teacher: “Well done Mohammed, a grocer is a place – a grocer is short for greengrocer. Nowadays you might get your vegetables from the supermarket but there are also shops dedicated to just vegetables called greengrocers. In fact, there is one on the main street outside – do you know it?”
+  
+  Pupils: “Yes!”
 
+  Teacher: “A grocer-boy is like the shop-boy, the boy who works at the greengrocers. Grocer-boys used to deliver the vegetables to people’s houses so they didn’t have to go to the shops. OK, Harry, can you summarise what has happened so far?”
 
+  Harry: “First there was a little girl called Sophie and then the doorbell rang and it was the grocer and the milkman and the Daddy.”
 
-  Mohammed: “I will try sounding the word out loud – ‘grocer’. Hmmm. That hasn’t
-  really helped. Next, I’ll read the sentences and think about what would make
-  sense: ‘And it can’t be the boy from the grocer because this isn’t the day he
-  comes.’ Oh, maybe the grocer is a place? Because it says, ‘from the grocer’. I
-  think I’ll ask a friend
+  Teacher: “Are you sure? Mohammed, can you clarify what happened when the doorbell rang?”
 
-–
- does anyone else know what a grocer is?”
-
-No one is sure.
-
-
-  Teacher: “Well done Mohammed, a grocer is a place – a grocer is short for
-  greengrocer. Nowadays you might get your vegetables from the supermarket but
-  there are also shops dedicated to just vegetables called greengrocers. In
-  fact, there is one on the main street outside – do you know it?”
-
-
-Pupils: “Yes!”
-
-
-  Teacher: “A grocer-boy is like the shop-boy, the boy who works at the
-  greengrocers. Grocer-boys used to deliver the vegetables to people’s houses so
-  they didn’t have to go to the shops. OK, Harry, can you summarise what has
-  happened so far?”
-
-
-
-  Harry: “First there was a little girl called Sophie and then the doorbell rang
-  and it was the grocer and the milkman and the Daddy.”
-
-
-
-  Teacher: “Are you sure? Mohammed, can you clarify what happened when the
-  doorbell rang?”
-
-
-
-  Mohammed: “The mummy didn’t know who it was because she asked if it was the
-  milkman or the grocer or daddy, so we don’t know who was at the door.”
-
-
+  Mohammed: “The mummy didn’t know who it was because she asked if it was the milkman or the grocer or daddy, so we don’t know who was at the door.”
 
   Teacher: “That’s right – do you see, Harry? The Mummy says ‘I wonder who that can be’ Which means she doesn’t know who is at the door yet.”
 
-
-
   Teacher: “Anna do you have any other questions for us before we read on?”
-
-
-Anna: “Who do you think is at the door?”
-
-
+  
+  Anna: “Who do you think is at the door?”
+  
   Teacher: “Let’s ask Joe, our predictor. Joe, who do you think is at the door?”
-
-
-
+  
   Joe: “I think that maybe it is the grocer! Or maybe the Daddy lost his key. Or
   it could be the tiger!”
-
-
-
+  
   Teacher: “Well, let’s read on and find out…”
 
  {/details}
