@@ -12,8 +12,8 @@ Duration: 60 minutes
 
 #### Learn that:
 
-- 4.2 Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned.
-- 4.3 Modelling helps pupils understand new processes and ideas, good models make abstract ideas concrete and accessible.
+- 4.2. Effective teachers introduce new material in steps, explicitly linking new ideas to what has been previously studied and learned.
+- 4.3. Modelling helps pupils understand new processes and ideas, good models make abstract ideas concrete and accessible.
 
 #### Learn how to plan effective lessons by:
 

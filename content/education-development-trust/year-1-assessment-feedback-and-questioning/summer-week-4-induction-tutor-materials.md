@@ -12,18 +12,18 @@ Duration: 60 minutes
 
 #### Learn that:
 
-- Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems. (4.6)
-- High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary. (4.7)
+- 4.6. Questioning is an essential tool for teachers; questions can be used for many purposes, including to check pupils’ prior knowledge, assess understanding and break down problems.
+- 4.7. High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary.
 
 #### Learn how to stimulate pupil thinking and check for understanding, by:
 
-- Including a range of types of questions in class discussions to extend and challenge pupils (for example, by modelling new vocabulary or asking pupils to justify answers). (4m)
-- Providing appropriate wait time between question and response where more developed responses are required. (4n)
-- Providing scaffolds for pupil talk to increase the focus and rigour of dialogue. (4p) 
+- 4m. Including a range of types of questions in class discussions to extend and challenge pupils (for example, by modelling new vocabulary or asking pupils to justify answers).
+- 4n. Providing appropriate wait time between question and response where more developed responses are required.
+- 4p. Providing scaffolds for pupil talk to increase the focus and rigour of dialogue. 
 
 #### Learn how to meet individual needs without creating unnecessary workload, by:
 
-- Reframing questions to provide greater scaffolding or greater stretch. (5k)
+- 5k. Reframing questions to provide greater scaffolding or greater stretch.
 
 #### Learn how to check prior knowledge and understanding during lessons, by:
 

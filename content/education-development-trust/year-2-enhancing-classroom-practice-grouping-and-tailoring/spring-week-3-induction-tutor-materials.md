@@ -12,17 +12,17 @@ Duration: 75 minutes
 
 ### Learn that:
 
-- 4.9 Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
-- 4.10 How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation
-- 5.5 Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils
+- 4.9. Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
+- 4.10. How pupils are grouped is also important; care should be taken to monitor the impact of groupings on pupil attainment, behaviour and motivation.
+- 5.5. Flexibly grouping pupils within a class to provide more tailored support can be effective, but care should be taken to monitor its impact on engagement and motivation, particularly for low attaining pupils.
 
 ### Learn how to:
 
 Group pupils effectively, by:
 
-- 5m Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum
-- 5n Changing groups regularly, avoiding the perception that groups are fixed
-- 5o Ensuring that any groups based on attainment are subject specific
+- 5m. Applying high expectations to all groups, and ensuring all pupils have access to a rich curriculum.
+- 5n. Changing groups regularly, avoiding the perception that groups are fixed.
+- 5o. Ensuring that any groups based on attainment are subject specific.
 
 ### How to prepare for the session
 

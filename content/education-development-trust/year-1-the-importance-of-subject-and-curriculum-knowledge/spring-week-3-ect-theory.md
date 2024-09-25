@@ -319,37 +319,25 @@ need to be explicitly taught through systematic vocabulary instruction. We
 call these tier 2 and tier 3 words.
 
 
-- Tier 1: Words of everyday speech, familiar to most children.&nbsp;
+- Tier 1: Words of everyday speech, familiar to most children.
 - Tier 2: High-utility words likely to appear frequently in a wide variety of contexts — instruction in these words can add significantly to a pupil’s language ability.
-- Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.&nbsp;
-  <b>Examples</b>
-   
+- Tier 3: Low-frequency words, domain specific, most likely learned in a subject context.
 
+### Examples
 
-  Examples of tier 1 words are: book, hill, talk, cat, yellow. 
+Examples of tier 1 words are: book, hill, talk, cat, yellow.
 
+Examples of tier 2 words are: evaluate, report, beneficial, hilarious, pollution, impression.
 
+Examples of tier 3 words are: ion, metamorphic, tectonic, omniscient, continent.
 
-  Examples of tier 2 words are: evaluate, report, beneficial, hilarious,
-  pollution, impression. 
-
-
-
-  Examples of tier 3 words are: ion, metamorphic, tectonic, omniscient,
-  continent. 
-
-
-
-  The EEF report for secondary school teachers recommends that they should
-  prioritise teaching tier 2 and 3 vocabulary, which students are unlikely to
-  encounter in everyday speech.
+The EEF report for secondary school teachers recommends that they should prioritise teaching tier 2 and 3 vocabulary, which students are unlikely to encounter in everyday speech.
  
 - Choose which words you will explicitly teach in your subject or phase. 
-- Remember that these are most likely to be tier 2 and tier 3 words because they are more complex or subject specific and therefore less likely to be acquired through oral language.&nbsp; 
+- Remember that these are most likely to be tier 2 and tier 3 words because they are more complex or subject specific and therefore less likely to be acquired through oral language.
 - You should select these words when planning a lesson or sequence of lessons so that you have time to plan how you will teach them.
 
-  To do this you can use the robust vocabulary instruction in the table above.
-
+To do this you can use the robust vocabulary instruction in the table above.
 
 ### Video
 

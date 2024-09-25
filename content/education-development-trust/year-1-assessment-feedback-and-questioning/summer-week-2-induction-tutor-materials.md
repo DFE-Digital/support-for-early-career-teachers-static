@@ -12,14 +12,14 @@ Duration: 90 minutes
 
 #### Learn that:
 
-- Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs. (6.1)
-- Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear. (6.2)
-- Before using any assessment, teachers should be clear about the decision it will be used to support and be able to justify its use. (6.3)
-- To be of value, teachers use information from assessments to inform the decisions they make. (6.4)
+- 6.1. Effective assessment is critical to teaching because it provides teachers with information about pupils’ understanding and needs.
+- 6.2. Good assessment helps teachers avoid being over-influenced by potentially misleading factors, such as how busy pupils appear.
+- 6.3. Before using any assessment, teachers should be clear about the decision it will be used to support and be able to justify its use.
+- 6.4. To be of value, teachers use information from assessments to inform the decisions they make.
 
 #### Learn how to develop an understanding of different pupil needs, by:
 
-- Making use of formative assessment. (5b)
+- 5b. Making use of formative assessment.
 
 ### How to prepare for the session
 
@@ -68,25 +68,25 @@ Ask ECTs to share examples of how they’ve used assessment practices which matc
 
 Ask ECTs to work in pairs or groups and decide which of the following statements are true and which are false:
 
-Assessment tells teachers what pupils know, remember, understand and can do.
+- Assessment tells teachers what pupils know, remember, understand and can do.
 
-One assessment cannot test everything.
+- One assessment cannot test everything.
 
-Assessments are more powerful if they are focused.
+- Assessments are more powerful if they are focused.
 
-All data from tests can be used formatively.
+- All data from tests can be used formatively.
 
-Assessment involves both teachers and pupils.
+- Assessment involves both teachers and pupils.
 
-Assessment helps teachers understand individual pupils’ learning needs.
+- Assessment helps teachers understand individual pupils’ learning needs.
 
-All assessment helps teachers to plan their next steps.
+- All assessment helps teachers to plan their next steps.
 
-All assessment helps pupils learn.
+- All assessment helps pupils learn.
 
-Assessment tasks keep pupils busy.
+- Assessment tasks keep pupils busy.
 
-Pupils do not learn from assessment.
+- Pupils do not learn from assessment.
 
 #### Answers
 

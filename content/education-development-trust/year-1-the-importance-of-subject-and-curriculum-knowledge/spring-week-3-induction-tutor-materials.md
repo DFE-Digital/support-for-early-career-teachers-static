@@ -16,8 +16,8 @@ Duration: 90 minutes
 
 #### Learn how to develop pupils’ literacy by:
 
-- 3r Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (for example: requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
-- 3s Teaching different forms of writing by modelling planning, drafting and editing.
+- 3r. Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (for example: requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
+- 3s. Teaching different forms of writing by modelling planning, drafting and editing.
 
 #### How to prepare for the session
 
@@ -80,7 +80,7 @@ Robust vocabulary teaching is slow for this reason so care must be taken to sele
 4. What are the implications for practice? Think specifically about your subject area. 
 5. How might you forward plan for vocabulary?
 
-Share some ideas for teaching tier 2 and 3 words
+Share some ideas for teaching tier 2 and 3 words.
 
 Use the following steps for robust vocabulary instruction. When teaching tier 2 and tier 3 words you should follow these steps.
 

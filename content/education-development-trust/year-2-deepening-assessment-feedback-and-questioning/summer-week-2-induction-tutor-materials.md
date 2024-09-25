@@ -12,14 +12,14 @@ Duration: 75 minutes
 
 ### Learn that:
 
-- 6.7 Working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload.
+- 6.7. Working with colleagues to identify efficient approaches to assessment is important; assessment can become onerous and have a disproportionate impact on workload.
 
 ### Learn how to:
 
 Provide high-quality feedback, by:
 
-- 6j Scaffolding self-assessment by sharing model work with pupils, highlighting key details.
-- 6m Working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback (for example, using whole-class feedback or well supported peer- and self-assessment).
+- 6j. Scaffolding self-assessment by sharing model work with pupils, highlighting key details.
+- 6m. Working with colleagues to identify efficient approaches to marking and alternative approaches to providing feedback (for example, using whole-class feedback or well supported peer-assessment and self-assessment).
 
 ### How to prepare for the session
 
@@ -82,7 +82,7 @@ B) Share examples of scaffolds and support for ECTs to consider how to apply the
 
 To model the benefits of working as peers, ask ECTs to work in groups and identify:
 
-- an upcoming opportunity for pupils can carry out self- or peer-assessment in a lesson
+- an upcoming opportunity for pupils to carry out self-assessment or peer-assessment in a lesson
 - the approach they’ll use to scaffold pupils working in this way
 - how they’ll ensure the feedback is specific and helpful
 - if there’s a more experienced colleague who has worked with the pupils identified to ask for advice on how best to facilitate the activity

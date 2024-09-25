@@ -12,14 +12,14 @@ Duration: 60 minutes
 
 ### Learn that:
 
-- 7.6 Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward)
+- 7.6. Pupils are motivated by intrinsic factors (related to their identity and values) and extrinsic factors (related to reward).
 
 ### Learn how to:
 
 Motivate pupils by:
 
-- 7m Supporting pupils to master challenging content, which builds towards long-term goals
-- 7n Providing opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school
+- 7m. Supporting pupils to master challenging content, which builds towards long-term goals.
+- 7n. Providing opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school.
 
 ### How to prepare for the session
 

@@ -12,24 +12,24 @@ Duration: 90 minutes
 
 #### Learn that:
 
-- 2.1 Learning involves a lasting change in pupils’ capabilities or understanding
-- 2.3 An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory
-- 2.4 Working memory is where information that is being actively processed is held, but its capacity is limited and can be overloaded
-- 2.5 Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge
+- 2.1. Learning involves a lasting change in pupils’ capabilities or understanding.
+- 2.3. An important factor in learning is memory, which can be thought of as comprising two elements: working memory and long-term memory.
+- 2.4. Working memory is where information that is being actively processed is held, but its capacity is limited and can be overloaded.
+- 2.5. Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge.
 
 #### Learn how to:
 
 Avoid overloading working memory, by:
 
-- 2a Taking into account pupils’ prior knowledge when planning how much new information to introduce
-- 2b Breaking complex material into smaller steps (for example, using partially completed examples to focus pupils on the specific steps)
-- 2c Reducing distractions that take attention away from what is being taught (for example, keeping the complexity of a task to a minimum, so that attention is focused on the content)
+- 2a. Taking into account pupils’ prior knowledge when planning how much new information to introduce.
+- 2b. Breaking complex material into smaller steps (for example, using partially completed examples to focus pupils on the specific steps).
+- 2c. Reducing distractions that take attention away from what is being taught (for example, keeping the complexity of a task to a minimum, so that attention is focused on the content).
 
 ### How to prepare for the session
 
 The ECT doesn’t have a self-study element this week. Instead, you should use the materials below to help you plan a session with them about this topic.
 
-The following resources have key findings that you might find helpful. You could share them with ECTs for reference too.
+The following resources have key findings that you might find helpful. You could share them with ECTs for reference too:
 
 - [Principles of Instruction: Research-based strategies that all teachers should know by Barak Rosenshine](https://www.teachertoolkit.co.uk/wp-content/uploads/2018/10/Principles-of-Insruction-Rosenshine.pdf)
 - [Working Memory, Long-term Memory, and Instructional Design by John Sweller](https://www.sciencedirect.com/science/article/abs/pii/S2211368115000935)
@@ -210,7 +210,7 @@ Intrinsic load | The inherent complexity of the material and the prior knowledge
 Extraneous load | Poorly designed instruction that does not facilitate schema construction and automation | Harmful because it does not contribute to learning
 Germane load | Well-designed instruction that directly facilitates schema construction and automation | Helpful because it directly contributes to learning
 
-Share [the split attention effect eye diagrams](https://images.app.goo.gl/jihUftV8hnZHAx2dA) as an example of reducing extraneous load.
+Share [the split attention effect eye diagrams](https://3starlearningexperiences.wordpress.com/tag/split-attention/) as an example of reducing extraneous load.
 
 Explain that the first diagram presents information in a way that creates extraneous cognitive load. Our eyes need to scan back and forth to relate the information to the relevant points on the diagram.
 

@@ -12,12 +12,12 @@ Duration: 90 minutes
 
 #### Learn that:
 
-- 3.10 Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
+- 3.10. Every teacher can improve pupils’ literacy, including by explicitly teaching reading, writing and oral language skills specific to individual disciplines.
 
 Learn how to develop pupils’ literacy by:
 
-- 3r Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (for example, requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
-- 3s Teaching different forms of writing by modelling planning, drafting and editing.
+- 3r. Modelling and requiring high-quality oral language, recognising that spoken language underpins the development of reading and writing (for example, requiring pupils to respond to questions in full sentences, making use of relevant technical vocabulary).
+- 3s. Teaching different forms of writing by modelling planning, drafting and editing.
 
 ### How to prepare for the session
 

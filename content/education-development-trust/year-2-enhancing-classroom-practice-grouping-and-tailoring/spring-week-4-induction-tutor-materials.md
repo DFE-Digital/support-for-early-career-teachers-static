@@ -12,14 +12,14 @@ Duration: 75 minutes
 
 ### Learn that:
 
-- 4.9 Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice
+- 4.9. Paired and group activities can increase pupil success, but to work together effectively pupils need guidance, support and practice.
 
 ### Learn how to:
 
 Stimulate pupil thinking and check for understanding, by:
 
-- 4o Considering the factors that will support effective collaborative or paired work (for example, familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped)
-- 4p Providing scaffolds for pupil talk to increase the focus and rigour of dialogue
+- 4o. Considering the factors that will support effective collaborative or paired work (for example, familiarity with routines, whether pupils have the necessary prior knowledge and how pupils are grouped).
+- 4p. Providing scaffolds for pupil talk to increase the focus and rigour of dialogue.
 
 ### How to prepare for the session
 

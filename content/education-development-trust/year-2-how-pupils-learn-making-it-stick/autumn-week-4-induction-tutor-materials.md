@@ -12,17 +12,17 @@ Duration: 75 minutes
 
 ### Learn that:
 
-- 2.2 Prior knowledge plays an important role in how pupils learn; committing some key facts to their long-term memory is likely to help pupils learn more complex ideas
-- 2.5 Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge
-- 2.7 Regular purposeful practice of what has previously been taught can help consolidate material and help pupils remember what they have learned
-- 2.8 Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall
+- 2.2. Prior knowledge plays an important role in how pupils learn; committing some key facts to their long-term memory is likely to help pupils learn more complex ideas.
+- 2.5. Long-term memory can be considered as a store of knowledge that changes as pupils learn by integrating new ideas with existing knowledge.
+- 2.7. Regular purposeful practice of what has previously been taught can help consolidate material and help pupils remember what they have learned.
+- 2.8. Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall.
 
 ### Learn how to:
 
 Increase likelihood of material being retained, by:
 
-- 2i Planning regular review and practice of key ideas and concepts over time
-- 2j Designing practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work
+- 2i. Planning regular review and practice of key ideas and concepts over time.
+- 2j. Designing practice, generation and retrieval tasks that provide just enough support so that pupils experience a high success rate when attempting challenging work.
 
 ### How to prepare for the session
 

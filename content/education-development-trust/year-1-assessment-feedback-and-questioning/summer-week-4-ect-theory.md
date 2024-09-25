@@ -77,9 +77,9 @@ pupils to explain their thinking and explore what they know and understand.
 
 Consider these questions:
 
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Screenshot-2020-08-18-at-09.11.10.png" alt="Image shows three speech bubbles containing the following questions:&lt;p>&lt;/p>a) has everybody understood&lt;p>&lt;/p>b) Charles Dickens wrote Great Expectations in 1860. Who was the Queen at that time?&lt;p>&lt;/p>c) What are the similarities and differences between verbs and adverbs" />
-</figure>
+- Has everybody understood?
+- Charles Dickens wrote Great Expectations in 1860. Who was the Queen at that time?
+- What are the similarities and differences between verbs and adverbs?
 
 ### In your notepad
 Which of these questions provide the teacher with information that they can
@@ -187,12 +187,15 @@ In which part of a daffodil does photosynthesis occur?
   <li>The leaves and stem.</li>
   <li>Just the leaves.</li>
 </ol>
-Photosynthesis occurs in the chloroplasts, which are found in green leaves and
-stems of plants. Pupils will need to understand that this is not restricted to
+
+Photosynthesis occurs in the chloroplasts, which are found in green leaves and stems of plants. Pupils will need to understand that this is not restricted to
 the leaves (E) and that petals and roots do not contain chloroplasts (B/C).
+
 ##### 2. French
+
 Which of these translations is/are correct for the text below? L’été dernier, ma
 sœur avait un petit job donc elle est restée chez nous.
+
 <ol>
   <li>Last summer, my sister had a small job so stayed at our house.</li>
   <li>Last summer, my sister had a part-time job so stayed at our house.</li>
@@ -200,13 +203,16 @@ sœur avait un petit job donc elle est restée chez nous.
   <li>This summer, my sister has a part-time job so stayed at our house.</li>
   <li>This summer, my sister had a part-time job so stayed at our house.</li>
 </ol>
-The correct answer here is B – Last summer, my sister had a part-time job so
-stayed at our house. This checks that pupils have a good understanding of tense
-(this is in the past) so “last summer” not “this summer”. It checks that pupils
-understand that "chez nous" means “our house”. It also checks that “petit job”
-is understood as a part-time job as opposed to the literal translation of a
+
+The correct answer here is B. Last summer, my sister had a part-time job so stayed at our house. This checks that pupils have a good understanding of tense
+(this is in the past) so 'last summer' not 'this summer'.
+
+It checks that pupils
+understand that 'chez nous' means 'our house'. It also checks that 'petit job' is understood as a part-time job as opposed to the literal translation of a
 small job.
+
 ##### 3. History
+
 Which of these pairs of dates in ordinary numerals and Roman numerals is/are
 correct?
 
@@ -215,7 +221,9 @@ correct?
   <li>1332 – MCCCXXXII</li>
   <li>1514 – MDXVI</li>
   <li>2019 – MIIXIX</li>
-</ol>A and B are correct. 1514 is actually 1516, which checks that pupils
+</ol>
+
+1 and 2 are correct. 1514 is actually 1516, which checks that pupils
 understand that a I before a V means 4 whereas a I coming after a V means 6. The
 last one is incorrect as it uses MII instead of MM.
 
@@ -240,12 +248,13 @@ Teacher asks pupils hinge questions and gets responses.
 #### What should you focus on in this video?
 
 Hinge questions can be a useful way to quickly assess pupil understanding.
+
 How does the teacher use hinge questions?
 
 {details}
 Video script.
 
-NARRATION
+Narration
 
 Hinge questions are questions which reliably check pupils’ knowledge or understanding and quickly give teachers information to decide whether and how to move on with the topic being taught.
 
@@ -253,7 +262,7 @@ They can be used before, during or following exposition. Pupils may respond verb
 
 Hinge questions are a great way for us to assess whether pupils understand a key idea before we move on.
 
-CLASSROOM INTERACTION
+Classroom interaction
 
 We have been learning about magnetic fields and I want to see how much you know. I am going to ask you a question and read out four potential answers. When you hear the one that you think is correct, put your hand in the air. I will be asking questions after to check your thinking.
 
@@ -265,6 +274,7 @@ Which object can be picked up with a magnet?
   <li>A piece of wood.</li>
   <li>A piece of glass.</li>
 </ol>
+
 Harry, I saw you put your hand up for (A) an iron nail. Can you tell me why you think
 that is correct?  {/details}
 
@@ -277,9 +287,8 @@ We can scaffold, extend or challenge pupils’ thinking by reframing questions. 
 For pupils who need more support, more scaffolding is appropriate and the form is more likely to be a closed question; for those who need further stretch, we can ask open questions that encourage them to explore their answers further or respond to each other’s answers.
 
 #### Example: forces
-Pupils are going to be studying the topic “forces” and learning how balanced and
-unbalanced forces affect an object. This learning will then be built on to develop
-an understanding about Newton’s laws of motion, with quantitative approaches to calculating
+
+Pupils are going to be studying the topic 'forces' and learning how balanced and unbalanced forces affect an object. This learning will then be built on to develop an understanding about Newton’s laws of motion, with quantitative approaches to calculating
 answers taught last.
 
 The teacher has planned a series of questions to use: some are to scaffold the necessary knowledge needed; other questions are to stretch the pupils’ thinking by getting them to explain, analyse, apply and link ideas.
@@ -293,7 +302,7 @@ Questions that scaffold knowledge:
 - what must be present on any force arrow to help describe a force?
 - how many objects must be present for a force to act?
 
-And
+And:
 
 - give me one example of a contact force
 - give me one example of a non-contact force
@@ -308,7 +317,7 @@ Questions that stretch thinking:
 - explain the motion of an object when forces are unbalanced
 - in this picture what would be the motion of the moving car? Explain your reasoning
 
-And
+And:
 
 - what patterns can you describe when forces are balanced?
 - what patterns can you describe when forces are unbalanced?
@@ -318,15 +327,13 @@ And
 
 ### In your notepad
 
-Think of a key concept you will be teaching in an upcoming lesson. Write three scaffold
-questions and three stretch questions.
+Think of a key concept you will be teaching in an upcoming lesson. Write three scaffold questions and three stretch questions.
 
 ### High-quality classroom talk can support pupils to articulate key ideas, consolidate understanding and extend their vocabulary
 
 Of all the debates in education one of the most contentious is the amount of time teachers should spend talking versus the amount of time students should spend talking. Research in this field is notoriously tricky; it is very difficult to grasp the import of spoken work with all its complexities and nuances.
 
-While there are interesting arguments about the type and quantity of “talk” that is optimal in classrooms – you will see very different dynamics in different schools for example – at a basic level pupils “need to practise new material.
-The teacher’s questions and student discussion are a major way of providing this necessary practice” (Rosenshine, 2012). Beyond this there are a number of other benefits that high-quality classroom talk can deliver, providing pupils with the opportunity to:
+While there are interesting arguments about the type and quantity of 'talk' that is optimal in classrooms – you will see very different dynamics in different schools for example – at a basic level pupils 'need to practise new material. The teacher’s questions and student discussion are a major way of providing this necessary practice' (Rosenshine, 2012). Beyond this there are a number of other benefits that high-quality classroom talk can deliver, providing pupils with the opportunity to:
 
 - Practise using new vocabulary in full sentences and in different contexts
 - Articulate their ideas, thoughts or feelings
