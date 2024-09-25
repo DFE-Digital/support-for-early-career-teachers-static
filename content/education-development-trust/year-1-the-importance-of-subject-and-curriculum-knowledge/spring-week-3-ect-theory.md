@@ -219,7 +219,8 @@ Literacy really is the responsibility of every teacher. The evidence suggests th
 
 ##### What is the approach?
 
-- App
+- Put pupils into pairs.
+- The teacher explains the writing task.
 
 ##### How do I make it work effectively?
 
