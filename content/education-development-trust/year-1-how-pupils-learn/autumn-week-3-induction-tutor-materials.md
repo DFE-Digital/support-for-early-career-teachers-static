@@ -12,16 +12,16 @@ Duration: 90 minutes
 
 #### Learn that:
 
-- 2.2 Prior knowledge plays an important role in how pupils learn; committing some key facts to their long-term memory is likely to help pupils learn more complex ideas
-- 2.6 Where prior knowledge is weak, pupils are more likely to develop misconceptions, particularly if new ideas are introduced too quickly
-- 2.9 Worked examples that take pupils through each step of a new process are also likely to support pupils to learn
+- 2.2. Prior knowledge plays an important role in how pupils learn; committing some key facts to their long-term memory is likely to help pupils learn more complex ideas.
+- 2.6. Where prior knowledge is weak, pupils are more likely to develop misconceptions, particularly if new ideas are introduced too quickly.
+- 2.9. Worked examples that take pupils through each step of a new process are also likely to support pupils to learn.
 
 #### Build on pupils’ prior knowledge, by:
 
-- 2d Identifying possible misconceptions and planning how to prevent these forming
-- 2e Linking what pupils already know to what is being taught (for example, explaining how new content builds on what is already known)
-- 2f Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content
-- 2g Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed
+- 2d. Identifying possible misconceptions and planning how to prevent these forming.
+- 2e. Linking what pupils already know to what is being taught (for example, explaining how new content builds on what is already known).
+- 2f. Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content.
+- 2g. Encouraging pupils to share emerging understanding and points of confusion so that misconceptions can be addressed.
 
 ### How to prepare for the session
 

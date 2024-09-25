@@ -12,16 +12,16 @@ Duration: 90 minutes
 
 Demonstrate consistently high behavioural expectations, by:
 
-- 1e Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils)
-- 1g Applying rules, sanctions and rewards in line with school policy, escalating behaviour incidents as appropriate 
+- 1e. Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils).
+- 1g. Applying rules, sanctions and rewards in line with school policy, escalating behaviour incidents as appropriate. 
 
 Develop a positive, predictable and safe environment for pupils, by:
 
-- 7f Using early and least-intrusive interventions as an initial response to low level disruption
+- 7f. Using early and least-intrusive interventions as an initial response to low level disruption.
 
 Build trusting relationships, by:
 
-- 7l Responding consistently to pupil behaviour
+- 7l. Responding consistently to pupil behaviour.
 
 ### How to prepare for the session
 
@@ -35,16 +35,16 @@ Welcome participants. Explain that they’re going to focus on the following 4 E
 
 Demonstrate consistently high behavioural expectations, by:
 
-- 1e Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils)
-- 1g Applying rules, sanctions and rewards in line with school policy, escalating behaviour incidents as appropriate
+- 1e. Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils).
+- 1g. Applying rules, sanctions and rewards in line with school policy, escalating behaviour incidents as appropriate.
 
 Develop a positive, predictable and safe environment for pupils, by:
 
-- 7f Using early and least-intrusive interventions as an initial response to low level disruption.
+- 7f. Using early and least-intrusive interventions as an initial response to low level disruption.
 
 Build trusting relationships, by:
 
-- 7l Responding consistently to pupil behaviour  
+- 7l. Responding consistently to pupil behaviour.
 
 #### Think-pair-share activity
 
@@ -86,7 +86,7 @@ Ask ECTs what they would do.
 
 Explain that:
 
-- you always want 100 per cent attention and focus from your class
+- you always want 100% attention and focus from your class
 - it's important that you settle for nothing less
 - stopping a class for a reset can be effective if used judiciously, but avoid constantly stopping and resetting
 - intervention should be fast and invisible – this is what you’re focusing on today

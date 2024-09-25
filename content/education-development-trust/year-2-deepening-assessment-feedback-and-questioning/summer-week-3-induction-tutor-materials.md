@@ -14,12 +14,12 @@ Duration: 75 minutes
 
 Provide high-quality feedback, by:
 
-- 6i Appreciating that pupils’ responses to feedback can vary depending on a range of social factors (for example, the message the feedback contains or the age of the child).
+- 6i. Appreciating that pupils’ responses to feedback can vary depending on a range of social factors (for example, the message the feedback contains or the age of the child).
 
 Make marking manageable and effective, by:
 
-- 6n Using verbal feedback during lessons in place of written feedback after lessons where possible.
-- 6o Understanding that written marking is only one form of feedback.
+- 6n. Using verbal feedback during lessons in place of written feedback after lessons where possible.
+- 6o. Understanding that written marking is only one form of feedback.
 
 ### How to prepare for the session
 

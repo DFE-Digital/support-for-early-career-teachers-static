@@ -12,14 +12,14 @@ Duration: 30 minutes
 
 ### Learn that:
 
-- 8.1 Effective professional development is likely to be sustained over time, involve expert support or coaching and opportunities for collaboration.
-- 8.7 Engaging in high-quality professional development can help teachers improve.
+- 8.1. Effective professional development is likely to be sustained over time, involve expert support or coaching and opportunities for collaboration.
+- 8.7. Engaging in high-quality professional development can help teachers improve.
 
 ### Learn how to:
 
 Develop as a professional by:
 
-- 8a Engaging in professional development focused on developing an area of practice with clear intentions for impact on pupil outcomes, sustained over time with built-in opportunities for practice.
+- 8a. Engaging in professional development focused on developing an area of practice with clear intentions for impact on pupil outcomes, sustained over time with built-in opportunities for practice.
 
 ### How to prepare for the session
 

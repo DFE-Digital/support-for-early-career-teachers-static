@@ -12,13 +12,13 @@ Duration: 75 minutes
 
 ### Learn that:
 
-- 2.8 Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall
+- 2.8. Requiring pupils to retrieve information from memory, and spacing practice so that pupils revisit ideas after a gap are also likely to strengthen recall.
 
 ### Learn how to:
 
 Increase likelihood of material being retained, by:
 
-- 2h Balancing exposition, repetition, practice and retrieval of critical knowledge and skills
+- 2h. Balancing exposition, repetition, practice and retrieval of critical knowledge and skills.
 
 ### How to prepare for the session
 

@@ -12,14 +12,14 @@ Duration: 60 minutes
 
 ### Learn that:
 
-- 3.7 In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or ‘schemata’); carefully sequencing teaching to facilitate this process is important
+- 3.7. In all subject areas, pupils learn new ideas by linking those ideas to existing knowledge, organising this knowledge into increasingly complex mental models (or ‘schemata’); carefully sequencing teaching to facilitate this process is important.
 
 ### Learn how to:
 
 ### Build on pupils’ prior knowledge, by:
 
-- 2e Linking what pupils already know to what is being taught (e.g. explaining how new content builds on what is already known)
-- 2f Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content
+- 2e. Linking what pupils already know to what is being taught (e.g. explaining how new content builds on what is already known).
+- 2f. Sequencing lessons so that pupils secure foundational knowledge before encountering more complex content.
 
 ### How to prepare for the session
 

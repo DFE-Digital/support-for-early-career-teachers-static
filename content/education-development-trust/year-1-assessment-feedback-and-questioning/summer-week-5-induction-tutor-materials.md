@@ -12,15 +12,15 @@ Duration: 30 minutes
 
 #### Learn that:
 
-- 6.5 High quality feedback can be written or verbal; it is likely to be accurate and clear, encourage further effort, and provide specific guidance on how to improve.
+- 6.5. High quality feedback can be written or verbal; it is likely to be accurate and clear, encourage further effort, and provide specific guidance on how to improve.
 
 ### Learn how to:
 
 Provide high quality feedback, by:
 
-- 6h Focusing on specific actions for pupils and providing time for pupils to respond to feedback.
+- 6h. Focusing on specific actions for pupils and providing time for pupils to respond to feedback.
 
-- 6n Using verbal feedback during lessons in place of written feedback after lessons where possible.
+- 6n. Using verbal feedback during lessons in place of written feedback after lessons where possible.
 
 ### How to prepare for the session
 
@@ -30,7 +30,7 @@ Aim to model effective assessment practices throughout.
 
 ### What is effective feedback (5 minutes)
 
-Ask, what is effective f/eedback?
+Ask: "what is effective feedback?"
 
 Answers might include:
 
@@ -106,5 +106,5 @@ Can you all go back and correct your work now?
 
 Ask:
 
-- how can you be sure you’re providing effective feedback?
-- what's one thing you will take forward from the session today?
+- "how can you be sure you’re providing effective feedback?"
+- "what's one thing you will take forward from the session today?"

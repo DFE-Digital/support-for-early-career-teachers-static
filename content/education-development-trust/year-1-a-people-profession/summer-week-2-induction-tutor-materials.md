@@ -12,15 +12,15 @@ Duration: 60 minutes
 
 ### Learn that:
 
-- 1.5 A culture of mutual trust and respect supports effective relationships.
-- 1.6 High quality teaching has a long-term positive effect on pupils' life chances, particularly for children from disadvantaged backgrounds
-- 7.7 Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure.
+- 1.5. A culture of mutual trust and respect supports effective relationships.
+- 1.6. High quality teaching has a long-term positive effect on pupils' life chances, particularly for children from disadvantaged backgrounds.
+- 7.7. Pupils’ investment in learning is also driven by their prior experiences and perceptions of success and failure.
 
 ### Learn how to:
 
 Motivate pupils, by:
 
-- 7n Providing opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school.
+- 7n. Providing opportunities for pupils to articulate their long-term goals and helping them to see how these are related to their success in school.
 
 ### How to prepare for the session
 

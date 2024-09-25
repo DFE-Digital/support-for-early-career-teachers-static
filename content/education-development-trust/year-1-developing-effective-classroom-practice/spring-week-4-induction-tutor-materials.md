@@ -12,10 +12,10 @@ Duration: 60 minutes
 
 #### Learn that:
 
-- 5.1 Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.
-- 5.2 Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
-- 5.3 Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success.
-- 5.4 Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
+- 5.1. Pupils are likely to learn at different rates and to require different levels and types of support from teachers to succeed.
+- 5.2. Seeking to understand pupils’ differences, including their different levels of prior knowledge and potential barriers to learning, is an essential part of teaching.
+- 5.3. Adapting teaching in a responsive way, including by providing targeted support to pupils who are struggling, is likely to increase pupil success.
+- 5.4. Adaptive teaching is less likely to be valuable if it causes the teacher to artificially create distinct tasks for different groups of pupils or to set lower expectations for particular pupils.
 
 #### Learn how to develop an understanding of different pupil needs by:
 

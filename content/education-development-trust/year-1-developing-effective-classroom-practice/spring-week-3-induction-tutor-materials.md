@@ -66,7 +66,7 @@ One way that we can support pupils to transfer knowledge to long-term memory is 
 
 Share the following with ECTs:
 
-It doesn’t matter what subject you teach, differences in students' performance are affected by how much they engage in deliberate practice. Researchers who have investigated expert and novice performance have uncovered important distinctions between deliberate practice and other activities, such as play or repetition
+It doesn’t matter what subject you teach, differences in students' performance are affected by how much they engage in deliberate practice. Researchers who have investigated expert and novice performance have uncovered important distinctions between deliberate practice and other activities, such as play or repetition.
 
 Deliberate practice is not the same as rote repetition. Rote repetition - simply repeating a task - will not by itself improve performance. Deliberate practice involves attention, rehearsal and repetition and leads to new knowledge or skills that can later be developed into more complex knowledge and skills.
 
@@ -76,7 +76,7 @@ Although other factors such as intelligence and motivation affect performance, p
 
 "Deliberate practice occurs when an individual intentionally repeats an activity in order to improve performance. The claim of the deliberate practice framework is that such behaviour is necessary to achieve high levels of expert performance." (Campitelli and Gobet, 2011, p. 280).
 
-"Deliberate practice consists of activities purposely designed to improve performance." (Gobet and Campitelli, 2007, p. 160). Brabeck et al (2010)
+"Deliberate practice consists of activities purposely designed to improve performance." (Gobet and Campitelli, 2007, p. 160).
 
 ### Using practice as part of your practice (30 minutes)
 
@@ -91,7 +91,7 @@ Point out to the ECTs that they have received a lot of support (hopefully) as th
 - they have received feedback as they have practised the skill (for example, giving instructions) from observations
 - they have continued to practise the new skill through subsequent lessons
 
-This is an example of receiving support and guidance when practising something. Deliberate practice can be broken down into the following stages.
+This is an example of receiving support and guidance when practising something. Deliberate practice can be broken down into the following stages:
 
 1. Isolate the skill.
 2. Develop the skill.

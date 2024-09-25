@@ -12,15 +12,15 @@ Duration: 30 minutes
 
 Demonstrate consistently high behavioural expectations, by:
 
-- 1f Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration)
+- 1f. Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration).
 
 Develop a positive, predictable and safe environment for pupils, by: 
 
-- 7c Giving manageable, specific and sequential instructions
+- 7c. Giving manageable, specific and sequential instructions.
 
 Establish effective routines and expectations, by: 
 
-- 7j Reinforcing routines (for example, by articulating the link between time on task and success)
+- 7j. Reinforcing routines (for example, by articulating the link between time on task and success).
 
 ### How to prepare for the session
 
@@ -86,7 +86,7 @@ Ask ECTs to discuss:
 - how often do you use these strategies? 
 - which do you find useful?
 
-Share the following examples with the group.
+Share the following examples with the group:
 
 I) I’m going to explain how I want you to complete this task. Once I’ve finished talking to you, you’re going to have a go on your own.
 
@@ -107,7 +107,7 @@ ECTs should share these with each other and provide feedback.
 
 Ask the ECTs to annotate their script with instructions for how they’ll deliver it.
 
-They should consider the following.
+They should consider the following:
 
 #### Clarity
 

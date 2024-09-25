@@ -12,14 +12,14 @@ Duration: 90 minutes
 
 ### Learn that:
 
-- 1.3 Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.
+- 1.3. Teacher expectations can affect pupil outcomes; setting goals that challenge and stretch pupils is essential.
 
 ### Learn how to:
 
 Communicate a belief in the academic potential of all pupils, by:
 
-- 1a Using intentional and consistent language that promotes challenge and aspiration.
-- 1c Creating a positive environment where making mistakes and learning from them and the need for effort and perseverance are part of the daily routine.
+- 1a. Using intentional and consistent language that promotes challenge and aspiration.
+- 1c. Creating a positive environment where making mistakes and learning from them and the need for effort and perseverance are part of the daily routine.
 
 ### How to prepare for the session
 

@@ -12,15 +12,15 @@ Duration: 90 minutes
 
 ### Learn that:
 
-- 8.2 Reflective practice, supported by feedback from and observation of experienced colleagues, professional debate, and learning from educational research, is also likely to support improvement
+- 8.2. Reflective practice, supported by feedback from and observation of experienced colleagues, professional debate, and learning from educational research, is also likely to support improvement.
 
 ### Learn how to:
 
 Develop as a professional by:
 
-- 8c Seeking challenge, feedback and critique from mentors and other colleagues in an open and trusting working environment
-- 8d Engaging critically with research and discussing evidence with colleagues
-- 8e Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further improvement
+- 8c. Seeking challenge, feedback and critique from mentors and other colleagues in an open and trusting working environment.
+- 8d. Engaging critically with research and discussing evidence with colleagues.
+- 8e. Reflecting on progress made, recognising strengths and weaknesses and identifying next steps for further improvement.
 
 ### How to prepare for the session
 
@@ -171,7 +171,7 @@ What further information would ECTs need to decide whether the evidence is relia
 Options may include:
 
 - knowing who the work was funded or written by
-- checking if the author qualified to comment on the issue
+- checking if the author is qualified to comment on the issue
 - what scale of evidence was collected and how
 - where the research was carried out
 - discussing the evidence with colleagues (in journal clubs, best practice sessions or reading groups) to consider how it relates to their own practice and the pupils they teach 

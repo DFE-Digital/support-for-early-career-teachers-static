@@ -10,19 +10,19 @@ Duration: 60 minutes
 
 ### Session objectives
 
-Demonstrate consistently high behavioural expectations, by:
+Demonstrate consistently high behavioural expectations by:
 
-- 1e Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils)
-- 1f Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration)
+- 1e. Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils).
+- 1f. Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration).
 
 Develop a positive, predictable and safe environment for pupils, by:
 
-- 7a Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom
-- 7f Using early and least-intrusive interventions as an initial response to low level disruption
+- 7a. Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom.
+- 7f. Using early and least-intrusive interventions as an initial response to low level disruption.
 
 Build trusting relationships, by:
 
-- 7l Responding consistently to pupil behaviour
+- 7l. Responding consistently to pupil behaviour.
 
 ### How to prepare for the session
 
@@ -36,29 +36,29 @@ Welcome ECTs and explain that they’re going to focus on the following ECF stat
 
 Demonstrate consistently high behavioural expectations, by:
 
-- 1e Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils)
-- 1f Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration)
+- 1e. Creating a culture of respect and trust in the classroom that supports all pupils to succeed (for example, by modelling the types of courteous behaviour expected of pupils).
+- 1f. Teaching and rigorously maintaining clear behavioural expectations (for example, for contributions, volume level and concentration).
 
 Develop a positive, predictable and safe environment for pupils, by:
 
-- 7a Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom
-- 7f Using early and least-intrusive interventions as an initial response to low level disruption
+- 7a. Establishing a supportive and inclusive environment with a predictable system of reward and sanction in the classroom.
+- 7f. Using early and least-intrusive interventions as an initial response to low level disruption.
 
 Build trusting relationships, by:
 
-- 7l Responding consistently to pupil behaviour   
+- 7l. Responding consistently to pupil behaviour.   
 
 #### Think-pair-share activity
 
-Give ECTs the following scenario.
+Give ECTs the following scenario:
 
 You have given pupils the task of completing a question in their exercise books. The majority of the class are on task, and you’re walking around checking their work and giving feedback. 2 pupils are not on task, instead they’re having a whispered conversation.
 
-Ask, what steps would you take to deal with this behaviour?
+Ask: "what steps would you take to deal with this behaviour?"
 
 Answers might include a non-verbal reminder, a positive group reminder or an anonymous individual reminder.
 
-Ask, when should you escalate your behaviour intervention?
+Ask: "when should you escalate your behaviour intervention?"
 
 Answers might include when:
 
@@ -77,7 +77,7 @@ Explain that today’s session will look at how to escalate when other strategie
 
 Explain or model what this is, for example you might set the class off on a task and discreetly approach a pupil who has not been complying to give a private reminder of the expectation.
 
-Ask ECTs to work in pairs or groups and consider why this is a bad example of using private individual reminder.
+Ask ECTs to work in pairs or groups and consider why this is a bad example of using private individual reminder:
 
 “I need to see you putting in more effort and working harder. I do not want to see you looking around the room when I’m talking. It’s rude.” 
 
@@ -106,7 +106,7 @@ Ask:
 - how does the teacher model the courteous behaviour expected of pupils?
 - how would this make the pupil feel?
 
-Go through answers as a group. They may include:
+Go through answers as a group, they may include:
 
 - (The teacher leans down to the pupil’s eye level.) - gets to eye-level to ensure focus
 - “Ralph” - addresses pupil by name
@@ -171,7 +171,7 @@ A pupil is pulling faces out of the window.
 
 Now ask them to consider this response:
 
-> The teacher lowers their voice, “Rae, eyes on me when I am talking. Thank you.”
+The teacher lowers their voice, “Rae, eyes on me when I am talking. Thank you.”
 
 This response:
 

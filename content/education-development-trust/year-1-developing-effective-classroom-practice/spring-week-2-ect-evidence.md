@@ -33,13 +33,7 @@ A simple way to think about metacognitive strategies is how well a pupil is able
 
 This strategy can be drawn upon any time a pupil comes across an unfamiliar word. Metacognitive thinking such as this helps pupils work out what is effective and what isn’t. Explicitly teaching metacognition not only helps the pupils with individual tasks but also helps them become more efficient learners who are able to make more progress.
 
-### Figure 1: The Metacognition Cycle
-
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.3-The-Metacognition-Cycle-Opt-1.png" alt="The diagram shows the metacognition cycle around any given task:&lt;p>&lt;/p>Metacognitive knowledge (of myself, the task, and strategies) flows into&lt;p>&lt;/p>Planning, which flows into&lt;p>&lt;/p>Monitoring, which flows into&lt;p>&lt;/p>Evaluation, which flows back into Metacognitive knowledge." />
-</figure>
-
-Education Endowment Foundation (2018) Improving Secondary Science Guidance Report. [Online] Accessible from: <https://educationendowmentfoundation.org.uk/tools/guidance-reports/>
+[Education Endowment Foundation (2018) Improving Secondary Science Guidance Report](https://educationendowmentfoundation.org.uk/tools/guidance-reports/)
 
 You explored how pupils learn in Block 2. Metacognitive strategies will help your pupils to become aware of how their learning is going. When new content enters their working memory, they are consciously processing new material. This process can be monitored through metacognitive approaches, such as asking:
 

@@ -9,11 +9,14 @@ next_path: "/education-development-trust/year-2-embedding-a-positive-climate-for
 - This will require some additional planning either individually or in collaboration with a colleague.
 - You should also evaluate the effectiveness and impact of this in discussion with your mentor.
 
-## The intended outcomes of this activity are for you to:
+## The intended outcomes of this activity
 
-| Learn how to                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------- |
-| Communicate a belief in the academic potential of all pupils, by:                                              |
-| 1b Setting tasks that stretch and challenge pupils, but which are achievable, within a challenging curriculum. |
-| Motivate pupils, by:                                                                                           |
-| 7m Supporting pupils to master challenging content, which builds towards long-term goals.                      |
+Learn how to:
+
+Communicate a belief in the academic potential of all pupils, by:
+
+1b. Setting tasks that stretch and challenge pupils, but which are achievable, within a challenging curriculum.
+
+Motivate pupils, by:
+
+7m. Supporting pupils to master challenging content, which builds towards long-term goals.

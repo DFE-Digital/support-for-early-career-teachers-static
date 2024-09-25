@@ -12,19 +12,19 @@ Duration: 60 minutes
 
 ### Learn that:
 
-- 3.3 Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed
-- 3.5 Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial
-- 3.6 In order for pupils to think critically, they must have a secure understanding of knowledge within the subject area they are being asked to think critically about
+- 3.3. Ensuring pupils master foundational concepts and knowledge before moving on is likely to build pupils’ confidence and help them succeed.
+- 3.5. Explicitly teaching pupils the knowledge and skills they need to succeed within particular subject areas is beneficial.
+- 3.6. In order for pupils to think critically, they must have a secure understanding of knowledge within the subject area they are being asked to think critically about.
 
 ### Learn how to:
 
 Support pupils to build increasingly complex mental models, by:
 
-- 3h Drawing explicit links between new content and the core concepts and principles in the subject
+- 3h. Drawing explicit links between new content and the core concepts and principles in the subject.
 
 ### Help pupils apply knowledge and skills to other contexts, by:
 
-- 3k Ensuring pupils have relevant domain-specific knowledge, especially when being asked to think critically within a subject
+- 3k. Ensuring pupils have relevant domain-specific knowledge, especially when being asked to think critically within a subject.
 
 ### How to prepare for the session
 
