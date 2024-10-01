@@ -41,11 +41,11 @@ As teachers we need to understand our pupils and find out what motivates them. R
 
 With rewards, we need to consider what the impact is on behaviour, attendance, effort and attainment.
 
-Together look at the examples of teachers using rewards. For each one, decide:<
+Together look at the examples of teachers using rewards. For each one, decide:
 
 - What will the impact of these rewards be? Are there any risks here?
 - Is this a good use of rewards?
-- If yes, then why?<
+- If yes, then why?
 - If no, what could the teacher do instead?
 
 Example 1:
@@ -188,14 +188,14 @@ The ECT should look at one class and build in an opportunity for pupils to creat
 
 Pose the following questions:
 
-1. What are two things we can do to ensure rewards have a positive impact?
+What are two things we can do to ensure rewards have a positive impact?
 
    - Using them infrequently
    - Making them unexpected
    - Using them to encourage desired behaviour
    - Using them for a specific reason.
 
-2. What are two of the risks we should try to avoid when using rewards?
+What are two of the risks we should try to avoid when using rewards?
 
    - Giving them too regularly
    - Rewarding pupils for tasks they should enjoy

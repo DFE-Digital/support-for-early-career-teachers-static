@@ -18,13 +18,11 @@ In Block 2, you learned that our working memory is a short-term store for the in
 
 According to education expert Barak Rosenshine, more effective teachers do not overwhelm their students by presenting too much new material at once. Rather, these teachers only present small amounts of new material at any time, and then assist the students as they practise this material. Only after the students have mastered the first step do teachers proceed to the next step.
 
-In this regard, effective teaching might look something like this:
+Effective teaching could be a teacher presenting information in small sections so that pupils are more likely to understand and remember what is being taught. The teacher could introduce a small section of content, explaining the idea and modelling an example.
 
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.1-Opt-1.png" alt="The diagram is a flowchart showing how a teacher could present information in small sections so that pupils are more likely to understand and remember what is being taught. The teacher introduces a small section of content, explaining the idea and modelling an example.Pupils independently practise a similar task with guidance and support from the teacher as required, before discussing what they have just learned and explaining it in their own words. The teacher checks for understanding, using verbal questioning or mini whiteboards. Once the teacher is happy, they move on to the next section." />
-</figure>
+Then pupils independently practise a similar task with guidance and support from the teacher as required, before discussing what they have just learned and explaining it in their own words. The teacher checks for understanding, using verbal questioning or mini whiteboards. Once the teacher is happy, they move on to the next section.
 
-### Example mini lesson plan and script – Year 2
+### Example mini lesson plan and script - Year 2
 
 Consider the following example:
 
@@ -566,11 +564,7 @@ The “guidance fading effect” tells us that novices require high levels of gu
 
 As pupils develop expertise, we need to make sure we continually increase the challenge and reduce the amount of guidance we are giving them. Although we will need to fade guidance for different pupils at different rates, it is essential that all pupils reach this stage eventually.
 
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-3.2.2-Fading-guidance-Opt-1.png" alt="The diagram is a flowchart illustrating that the level of guidance is reduced over time until the pupil is able to complete a task without any support. The stages listed are:&lt;p>&lt;/p>Teacher instruction. Heavy guidance. Light guidance. Minimal guidance. Independence." />
-</figure>
-
-There are a number of ways that we can fade our guidance, e.g.:
+There are a number of ways that we can fade our guidance, for example:
 
 - Gradually removing scaffolding from activities and tasks so that pupils complete activities with greater independence.
 - Reducing the amount of guidance provided by the teacher or other adults meaning that pupils are increasingly required to draw upon their own developing knowledge to make sense of material.

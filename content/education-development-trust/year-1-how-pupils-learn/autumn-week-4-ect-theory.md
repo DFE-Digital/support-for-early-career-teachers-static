@@ -111,10 +111,6 @@ Now we understand how the memory works and its role in learning, and the way in 
 
 A worked example is a step-by-step demonstration of how to perform a task or solve a problem. According to Wittwer & Renkl (2010), there is “abundant empirical evidence showing that example-based learning ... is more effective than learning by problem solving alone”. With all tasks we set in the classroom, pupils are likely to perform better if they are shown how to do something, step by step, rather than asked to figure it out for themselves.
 
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-2.2.2-Opt-1.png" alt="The illustration shows a teacher standing at the front of a class, modelling an example with a solution so that pupils can observe the method used rather than simultaneously trying to solve the problem for themselves. When using a worked example in the classroom, pupils see an example of the problem and solution and the teacher models the steps showing how they arrived at the solution. Pupils study the steps or process, rather than trying to work it out independently, which reduces cognitive load. This is more effective for novice than for experts. Worked examples need to be carefully planned (in advance) to ensure they information is presented systematically and clearly." />
-</figure>
-
 ## Supporting pupil learning with worked examples
 
 The reasons why pupils learn better with worked examples will be familiar to you now. When pupils are confronted by a new task or problem it places high demands on their working memory. The combination of content information and the need to work out how to solve the task can be overwhelming. If pupils are given worked examples to support them during the process of problem solving, it frees up space within their working memory. This makes them more likely to succeed in the task when they do it independently.

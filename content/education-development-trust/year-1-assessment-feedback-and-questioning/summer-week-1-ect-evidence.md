@@ -68,7 +68,15 @@ Consider Pictures A, B and C below. Which pupils are “learning best”?
   </figcaption>
 </figure>
 
-By just looking at the pictures, you might make some assumptions about this – your assumptions might be true but they could also be wrong. Therefore, to avoid being over-influenced by potentially misleading factors we must assess learning through activities, homework and tests to objectively identify what pupils know, understand and can do.
+Consider the statements A, B and C. Which pupils are 'learning best'?
+
+A - a young school girl reading a book at the school library.
+
+B - 2 students laughing at the computer in class.
+
+C - a tired school boy with his hand on his face sitting at a desk with classmates in a classroom.
+
+By just reading the statements, you might make some assumptions about this – your assumptions might be true but they could also be wrong. Therefore, to avoid being over-influenced by potentially misleading factors we must assess learning through activities, homework and tests to objectively identify what pupils know, understand and can do.
 
 ### Before using any assessment, teachers should be clear about the decision it will be used to support and be able to justify its use
 
