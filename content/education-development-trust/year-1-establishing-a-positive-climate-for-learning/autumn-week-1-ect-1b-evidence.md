@@ -13,12 +13,6 @@ To create a calm, purposeful classroom environment, it is key to focus on the po
 
 This clarity of expectations is essential to securing good behaviour from your pupils. In communicating these standards, we also need to explain in detail how pupils are expected to meet them. Experienced teachers will do this explicitly, early on with every new class and continue to reinforce their expectations all the time. They also lead by example, role-modelling the behaviours they expect from pupils.
 
-Look at the cartoon below which highlights this.
-
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-1.2.1-Calm-vs-chaotic-Opt-1-3.png" alt="=“”" />
-</figure>
-
 | Avoid this                                                                                                                 | Try this                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | What the teacher should avoid, and things they should try to avoid saying                                                  | What the teacher should try to do, and how they might say it                                                              |

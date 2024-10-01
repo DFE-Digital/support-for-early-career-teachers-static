@@ -157,11 +157,7 @@ While you will have built up good experience of planning over the last few month
 
 ## You should draw explicit links between the new content and the core concepts and principles in the subject
 
-When introducing a new concept to our pupils, there are five key strategies that we can use to support them in developing strong conceptual understanding:
-
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-10.2.1-Introducing-New-Concepts-Opt-1.png" alt="The flowchart lists five stages in the effective introduction of a new concept:&lt;p>&lt;/p>1) Begin with what pupils already know&lt;p>&lt;/p>2) Provide a clear explanation&lt;p>&lt;/p>3) Use examples to support understanding&lt;p>&lt;/p>4) Take steps to address common misconceptions&lt;p>&lt;/p>5) Plan opportunities for retrieval and spacing." />
-</figure>
+When introducing a new concept to our pupils, there are five key strategies that we can use to support them in developing strong conceptual understanding.
 
 The following table explains why each of these strategies supports pupils to develop strong conceptual understanding and explains how this could be done in practice.
 
