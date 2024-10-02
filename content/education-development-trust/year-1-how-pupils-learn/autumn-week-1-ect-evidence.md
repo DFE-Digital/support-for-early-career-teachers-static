@@ -24,10 +24,6 @@ Are you clear on the difference between long-term and working memory?
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | A vast storehouse in which you maintain your factual knowledge about the world… long-term memory resides outside of awareness. It lies quietly until it is needed, and then enters the working memory and so becomes conscious. (Willingham, 2009) | Part of the short-term memory, the working memory is a short-term store for information required during thought processes. (Braddeley, 2003) |
 
-<figure>
-  <img url="/assets/materials/edt-wp-content-uploads-sites-2-2020-08-Image-2.2.1-How-the-mind-works-Opt-1.png" alt="The diagram provides a simple illustration of the mind, indicating that experiences of the external Environment enter the Working Memory (the site of awareness and thinking) before being stored in the Long-term Memory (as factual knowledge and procedural knowledge). Arrows indicate that information can also be recalled from the Long-term Memory to be used in the Working Memory when needed." />
-</figure>
-
 Both long-term and working memory play important roles in learning.
 
 When we encounter something new which has the potential to be learnt - for example learning about lines of symmetry in maths - it is first processed in the working memory before transitioning into the long-term memory once it has been learnt.
