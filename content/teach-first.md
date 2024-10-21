@@ -2,6 +2,17 @@
 title: "Teach First"
 ---
 
+## How the programme works
+
+The sequence document provides an overview of how the programme is structured across the 2 years of induction.
+
+[ECF Sequence (PDF, 289KB, 17 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/teach-first-2.-ECF-Sequence.pdf)
+
+The implementation guidance outlines how Teach First's coaching and mentoring programme works.
+
+[ECF SLT and Induction Lead Implementation Guidance (PDF, 652KB, 30 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/teach-first-Early-Career-Framework-Programme-SLT-and-Induction-Lead-Handbook-1.pdf)
+
+
 ## Year 1: Autumn term
 
 ### [How can you create an effective learning environment?](/teach-first/year-1-how-can-you-create-an-effective-learning-environment)
