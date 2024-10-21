@@ -29,7 +29,7 @@ We know some parts of this website are not fully accessible:
 
 ## Feedback and contact information
 
-f you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille: 
+If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille: 
 
 - email [continuing-professional-development@digital.education.gov.uk](mailto:continuing-professional-development@digital.education.gov.uk)
 
@@ -83,7 +83,7 @@ We are planning to prioritise and resolve the issues that have been identified a
 
 ### Preparation of this accessibility statement
 
-This statement was prepared on 21 October 2024. It was last reviewed on 20 August 2024.
+This statement was prepared on 21 October 2024.
 
 This website was last tested on 20 August 2024. The test was carried out by Zoonou.
 
