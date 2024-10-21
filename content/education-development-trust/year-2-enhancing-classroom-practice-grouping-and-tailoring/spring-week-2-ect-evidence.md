@@ -139,6 +139,8 @@ A teacher explains how she would like the groups to be set up for an activity.
 - What is the impact of this?
 - The group work task comes after a series of lessons developing foundational knowledge. What is the benefit of this?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sjAoA6cEiYo" title="9.2.2 Setting up a group activity - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {details}
 Video script.
 

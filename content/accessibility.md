@@ -59,10 +59,6 @@ The content listed below is non-accessible for the following reasons.
 
 ### Non-compliance with the accessibility regulations
 
-YouTube videos within the site do not have a logical focus order when navigating using a keyboard. This fails WCAG 2.2 success criterion 2.4.3 (focus order). 
-
-We plan to resolve this by: March 2025
-
 Links with identical text are not distinguished by their accessible labels. This could confuse screen reader users. This fails WCAG 2.2 success criterion 2.4.4 (link purpose (in context).
 
 We plan to resolve this by: March 2025
@@ -87,7 +83,7 @@ We are planning to prioritise and resolve the issues that have been identified a
 
 ### Preparation of this accessibility statement
 
-This statement was prepared on 27 March 2024. It was last reviewed on 20 August 2024.
+This statement was prepared on 21 October 2024. It was last reviewed on 20 August 2024.
 
 This website was last tested on 20 August 2024. The test was carried out by Zoonou.
 

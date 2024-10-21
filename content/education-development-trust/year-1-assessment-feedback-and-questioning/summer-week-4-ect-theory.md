@@ -122,6 +122,8 @@ A Year 8 English teacher poses several closed and open questions.
 
 As you watch the video below, count how many closed or open questions were asked in the lesson segment. Choose two of each and explain why the teacher has used one rather than the other in that place.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8WDbhs5Mo_Q" title="5.2.5 Closed and open questions - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {details}
 Video script.
 
@@ -250,6 +252,8 @@ Teacher asks pupils hinge questions and gets responses.
 Hinge questions can be a useful way to quickly assess pupil understanding.
 
 How does the teacher use hinge questions?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xkwJWyTi4FM" title="5.2.6 Hinge questions - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.

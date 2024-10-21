@@ -123,6 +123,8 @@ A teacher explaining to his class how to plot points on an axis
 - How does he show his pupils what he wants them to do?
 - How does he know that pupils have understood how to complete the task?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4dq3b7p510Y" title="3.2.2 Modelling how to plot points on a graph - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {details}
 Video script.
 
@@ -388,6 +390,8 @@ A Year 2 class having a discussion
 
 - What scaffolds does the teacher provide?
 - How effective are these in facilitating the discussion?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PSmVtemuEeA" title="3.2.3 Year 2 scaffolding - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.
