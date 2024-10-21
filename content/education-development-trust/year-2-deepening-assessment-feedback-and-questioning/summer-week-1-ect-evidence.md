@@ -53,8 +53,9 @@ Watch the video below and answer the following questions:
 
 - how does the teacher identify which cognitive strategies the pupil has used?
 - how does the teacher give feedback on the effectiveness of these strategies?
-- how does the feedback help the pupil to try new cognitive strategies in the
-  future?
+- how does the feedback help the pupil to try new cognitive strategies in the future?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0tNJIycI_Sk" title="11.2.2 Commenting on cognitive strategies - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video script.

@@ -75,6 +75,8 @@ The pupils have all been given the same task. This is not because the pupils are
 - What happens when the teacher notices that a pupil is struggling?
 - What is the impact of the strategy?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8i8vOUwExac" title="3.2.6 Assertive monitoring - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {details}
 Video script.
 

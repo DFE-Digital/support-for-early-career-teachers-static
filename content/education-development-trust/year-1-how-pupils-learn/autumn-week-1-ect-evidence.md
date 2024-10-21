@@ -119,6 +119,8 @@ An Early Years classroom, the video shows how a teacher takes prior knowledge in
 - What do you notice about how the teacher links the new material to pupils’ prior knowledge to help them learn the new word?
 - How does the teacher take into account prior knowledge before introducing the new word?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vCa4cvfX5ow" title="2.2.2 Prior knowledge - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {details}
 Video script.
 
