@@ -2,6 +2,16 @@
 title: "Education Development Trust"
 ---
 
+## How the programme works
+
+These materials outline how Education Development Trust’s coaching and mentoring programme works.
+
+[Overview of the core induction programme (PDF, 212KB, 2 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/edt-Overview-of-EDTs-Core-Induction-Programme.pdf)
+
+[Overview of blocks (PDF, 415KB, 20 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/edt-Overview-of-Blocks.pdf)
+
+[Overview of sequence (PDF, 374KB, 13 pages)](https://manage-training-for-early-career-teachers.education.gov.uk/cip-materials/edt-Overview-of-Sequence.pdf)
+
 ## Year 1: Autumn term
 
 ### [Establishing a positive climate for learning](/education-development-trust/year-1-establishing-a-positive-climate-for-learning)
