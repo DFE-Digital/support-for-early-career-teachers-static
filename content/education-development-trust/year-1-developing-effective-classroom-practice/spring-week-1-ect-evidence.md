@@ -470,6 +470,8 @@ A Year 1 class drawing a dog
 - What scaffolds does the teacher provide?
 - How effective are these in supporting pupils?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mv6OS7ALcQs" title="3.2 Understanding the evidence - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {details}
 Video script.
 
