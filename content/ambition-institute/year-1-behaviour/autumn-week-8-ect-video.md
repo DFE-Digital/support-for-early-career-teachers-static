@@ -4,7 +4,7 @@ next_title: "Teaching challenge"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-8-ect-teaching-challenge"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wwwLmWUSmz8" title="B8 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wwwLmWUSmz8" title="Autumn Week 8 ECT Video - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

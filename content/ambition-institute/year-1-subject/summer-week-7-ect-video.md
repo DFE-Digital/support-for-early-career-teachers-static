@@ -4,7 +4,7 @@ next_title: "Teaching challenge"
 next_path: "/ambition-institute/year-1-subject/summer-week-7-ect-teaching-challenge"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A7wOpbLugbw" title="S7 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A7wOpbLugbw" title="Summer Week 7 ECT Video - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

@@ -8,7 +8,7 @@ previous_path: "/education-development-trust/year-1-the-importance-of-subject-an
 
 Watch the video. The video outlines what you will cover in this Block.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NvHdUC04itc" title="4.1 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NvHdUC04itc" title="ECT Video Introduction - the importance of subject and curriculum knowledge - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

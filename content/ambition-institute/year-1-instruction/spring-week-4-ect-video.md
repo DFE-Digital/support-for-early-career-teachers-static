@@ -4,7 +4,7 @@ next_title: "Teaching challenge"
 next_path: "/ambition-institute/year-1-instruction/spring-week-4-ect-teaching-challenge"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jv59fPBxEt8" title="I4 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jv59fPBxEt8" title="Spring Week 4 ECT Video - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
