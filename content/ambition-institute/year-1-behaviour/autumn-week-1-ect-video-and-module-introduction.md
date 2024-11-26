@@ -4,7 +4,7 @@ next_title: "Module overview"
 next_path: "/ambition-institute/year-1-behaviour/autumn-week-1-ect-module-overview"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EpjSlCJtPLo" title="B1 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EpjSlCJtPLo" title="Autumn Week 1 ECT Video and Module introduction - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

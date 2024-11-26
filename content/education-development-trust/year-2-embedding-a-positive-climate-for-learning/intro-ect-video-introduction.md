@@ -7,7 +7,7 @@ previous_path: "/education-development-trust/year-2-embedding-a-positive-climate
 - Watch the video.
 - The video outlines what you will cover in this Block.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9MqwgghL6SA" title="7.2.1 Welcome back! - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9MqwgghL6SA" title="ECT Video Introduction - embedding a positive climate for testing - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.

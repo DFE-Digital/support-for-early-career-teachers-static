@@ -6,7 +6,7 @@ previous_path: "/education-development-trust/year-1-how-pupils-learn/intro-ect-w
 
 This video outlines what you will cover in this Block.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4FsOuLuiSls" title="2.1 - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FsOuLuiSls" title="ECT Video Introduction - how pupils learn - YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {details}
 Video transcript.
